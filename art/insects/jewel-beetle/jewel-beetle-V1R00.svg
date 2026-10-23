@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="500" y1="0" x2="500" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0c0c12"/>
+      <stop offset="1" stop-color="#030304"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#26242e"/>
+      <stop offset="0.6" stop-color="#17161e"/>
+      <stop offset="1" stop-color="#0b0b10"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="477.223" y1="306.193" x2="543.802" y2="726.553" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3ecf8e"/>
+      <stop offset="0.38" stop-color="#8fcc3e"/>
+      <stop offset="0.62" stop-color="#e8be3e"/>
+      <stop offset="0.85" stop-color="#c06e2a"/>
+      <stop offset="1" stop-color="#7e3e1c"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="482.304" cy="338.273" r="15.68" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a3a"/>
+      <stop offset="1" stop-color="#6e4418"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="478.45" cy="313.936" r="85.271" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8c85a"/>
+      <stop offset="0.55" stop-color="#b07c2e"/>
+      <stop offset="1" stop-color="#5e3814"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="466.536" cy="238.714" r="44.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6e4a22"/>
+      <stop offset="0.6" stop-color="#38200e"/>
+      <stop offset="1" stop-color="#160a04"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="423.864" cy="255.678" r="20.16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5e4a30"/>
+      <stop offset="1" stop-color="#140c06"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-6" cx="512.361" cy="241.661" r="20.16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5e4a30"/>
+      <stop offset="1" stop-color="#140c06"/>
+    </radialGradient>
+  </defs>
+  <title>Jewel Beetle — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#2e2c38" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#44424f" stroke-width="3" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Lathe_ring_1" data-name="Lathe ring 1" d="M180 460 C180 283.269 323.269 140 500 140 C676.731 140 820 283.269 820 460 C820 636.731 676.731 780 500 780 C323.269 780 180 636.731 180 460 Z" fill="none" stroke="#3c3a46" stroke-width="3" stroke-miterlimit="10" opacity="0.12"/>
+    <path id="Lathe_ring_2" data-name="Lathe ring 2" d="M250 460 C250 321.929 361.929 210 500 210 C638.071 210 750 321.929 750 460 C750 598.071 638.071 710 500 710 C361.929 710 250 598.071 250 460 Z" fill="none" stroke="#3c3a46" stroke-width="3" stroke-miterlimit="10" opacity="0.1"/>
+    <path id="Lathe_ring_3" data-name="Lathe ring 3" d="M320 460 C320 360.589 400.589 280 500 280 C599.411 280 680 360.589 680 460 C680 559.411 599.411 640 500 640 C400.589 640 320 559.411 320 460 Z" fill="none" stroke="#3c3a46" stroke-width="3" stroke-miterlimit="10" opacity="0.1"/>
+    <path id="Lathe_ring_4" data-name="Lathe ring 4" d="M385 460 C385 396.487 436.487 345 500 345 C563.513 345 615 396.487 615 460 C615 523.513 563.513 575 500 575 C436.487 575 385 523.513 385 460 Z" fill="none" stroke="#3c3a46" stroke-width="3" stroke-miterlimit="10" opacity="0.08"/>
+    <path id="Gold_dust_1" data-name="Gold dust 1" d="M190 222.5 C190 221.119 191.119 220 192.5 220 C193.881 220 195 221.119 195 222.5 C195 223.881 193.881 225 192.5 225 C191.119 225 190 223.881 190 222.5 Z" fill="#c8a44e" opacity="0.4"/>
+    <path id="Gold_dust_2" data-name="Gold dust 2" d="M788 199 C788 197.343 789.343 196 791 196 C792.657 196 794 197.343 794 199 C794 200.657 792.657 202 791 202 C789.343 202 788 200.657 788 199 Z" fill="#c8a44e" opacity="0.4"/>
+    <path id="Gold_dust_3" data-name="Gold dust 3" d="M838 432 C838 430.895 838.895 430 840 430 C841.105 430 842 430.895 842 432 C842 433.105 841.105 434 840 434 C838.895 434 838 433.105 838 432 Z" fill="#c8a44e" opacity="0.4"/>
+    <path id="Gold_dust_4" data-name="Gold dust 4" d="M168 562.5 C168 561.119 169.119 560 170.5 560 C171.881 560 173 561.119 173 562.5 C173 563.881 171.881 565 170.5 565 C169.119 565 168 563.881 168 562.5 Z" fill="#c8a44e" opacity="0.4"/>
+    <path id="Gold_dust_5" data-name="Gold dust 5" d="M268 765 C268 763.343 269.343 762 271 762 C272.657 762 274 763.343 274 765 C274 766.657 272.657 768 271 768 C269.343 768 268 766.657 268 765 Z" fill="#c8a44e" opacity="0.4"/>
+    <path id="Gold_dust_6" data-name="Gold dust 6" d="M720 744.5 C720 743.119 721.119 742 722.5 742 C723.881 742 725 743.119 725 744.5 C725 745.881 723.881 747 722.5 747 C721.119 747 720 745.881 720 744.5 Z" fill="#c8a44e" opacity="0.4"/>
+    <path id="Gold_dust_7" data-name="Gold dust 7" d="M360 152 C360 150.895 360.895 150 362 150 C363.105 150 364 150.895 364 152 C364 153.105 363.105 154 362 154 C360.895 154 360 153.105 360 152 Z" fill="#c8a44e" opacity="0.4"/>
+    <path id="Gold_dust_8" data-name="Gold dust 8" d="M640 160.5 C640 159.119 641.119 158 642.5 158 C643.881 158 645 159.119 645 160.5 C645 161.881 643.881 163 642.5 163 C641.119 163 640 161.881 640 160.5 Z" fill="#c8a44e" opacity="0.4"/>
+    <path id="Gold_dust_9" data-name="Gold dust 9" d="M222 404 C222 402.895 222.895 402 224 402 C225.105 402 226 402.895 226 404 C226 405.105 225.105 406 224 406 C222.895 406 222 405.105 222 404 Z" fill="#c8a44e" opacity="0.4"/>
+    <path id="Gold_dust_10" data-name="Gold dust 10" d="M790 603 C790 601.343 791.343 600 793 600 C794.657 600 796 601.343 796 603 C796 604.657 794.657 606 793 606 C791.343 606 790 604.657 790 603 Z" fill="#c8a44e" opacity="0.4"/>
+    <path id="Gold_dust_11" data-name="Gold dust 11" d="M500 124 C500 122.895 500.895 122 502 122 C503.105 122 504 122.895 504 124 C504 125.105 503.105 126 502 126 C500.895 126 500 125.105 500 124 Z" fill="#c8a44e" opacity="0.4"/>
+    <path id="Gold_dust_12" data-name="Gold dust 12" d="M336 670 C336 668.895 336.895 668 338 668 C339.105 668 340 668.895 340 670 C340 671.105 339.105 672 338 672 C336.895 672 336 671.105 336 670 Z" fill="#c8a44e" opacity="0.4"/>
+    <path id="Plate_sheen" data-name="Plate sheen" d="M190 240 C190 168.203 284.02 110 400 110 C515.98 110 610 168.203 610 240 C610 311.797 515.98 370 400 370 C284.02 370 190 311.797 190 240 Z" fill="#5e5c6e" opacity="0.14"/>
+    <path id="Beetle_shadow" data-name="Beetle shadow" d="M370 662 C370 649.85 437.157 640 520 640 C602.843 640 670 649.85 670 662 C670 674.15 602.843 684 520 684 C437.157 684 370 674.15 370 662 Z" fill="#000000" opacity="0.4"/>
+    <path id="Far_antenna_shaft" data-name="Far antenna shaft" d="M424.895 219.228 C399.573 192.999 378.019 171.466 360.233 154.628" fill="none" stroke="#2a1a10" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Far_antenna_tooth_1" data-name="Far antenna tooth 1" d="M399.321 193.795 L388.489 189.841" fill="none" stroke="#2a1a10" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Far_antenna_tooth_2" data-name="Far antenna tooth 2" d="M386.912 179.885 L376.081 175.931" fill="none" stroke="#2a1a10" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Far_antenna_tooth_3" data-name="Far antenna tooth 3" d="M373.748 168.363 L364.022 164.233" fill="none" stroke="#2a1a10" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Far_antenna_tooth_4" data-name="Far antenna tooth 4" d="M365.534 159.458 L354.702 155.504" fill="none" stroke="#2a1a10" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Far_antenna_tip" data-name="Far antenna tip" d="M356.914 155.153 C356.624 153.321 357.874 151.6 359.707 151.309 C361.54 151.019 363.261 152.269 363.551 154.102 C363.842 155.935 362.591 157.656 360.758 157.947 C358.926 158.237 357.205 156.986 356.914 155.153 Z" fill="#5e3a1e"/>
+    <path id="Near_antenna_shaft" data-name="Near antenna shaft" d="M500.117 207.314 C516.094 174.544 529.939 147.404 541.651 125.894" fill="none" stroke="#2a1a10" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Near_antenna_tooth_1" data-name="Near antenna tooth 1" d="M516.58 175.223 L525.659 168.116" fill="none" stroke="#2a1a10" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Near_antenna_tooth_2" data-name="Near antenna tooth 2" d="M524.083 158.16 L533.162 151.052" fill="none" stroke="#2a1a10" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Near_antenna_tooth_3" data-name="Near antenna tooth 3" d="M533.042 143.133 L541.016 136.2" fill="none" stroke="#2a1a10" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Near_antenna_tooth_4" data-name="Near antenna tooth 4" d="M538.103 132.126 L547.183 125.018" fill="none" stroke="#2a1a10" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Near_antenna_tip" data-name="Near antenna tip" d="M538.333 126.42 C538.043 124.587 539.293 122.866 541.126 122.575 C542.959 122.285 544.68 123.536 544.97 125.368 C545.26 127.201 544.01 128.922 542.177 129.213 C540.344 129.503 538.623 128.252 538.333 126.42 Z" fill="#5e3a1e"/>
+    <path id="Far_fore_leg_ink" data-name="Far fore leg ink" d="M416.382 315.829 C394.725 322.283 387.375 335.543 394.333 355.608" fill="none" stroke="#160e08" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Far_fore_leg" data-name="Far fore leg" d="M416.382 315.829 C394.725 322.283 387.375 335.543 394.333 355.608" fill="none" stroke="#4a2e18" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Far_fore_leg_tarsus" data-name="Far fore leg tarsus" d="M394.333 355.608 L384.672 366.21" fill="none" stroke="#160e08" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Far_mid_leg_ink" data-name="Far mid leg ink" d="M418.601 451.553 C396.827 457.269 388.992 469.85 395.095 489.294" fill="none" stroke="#160e08" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Far_mid_leg" data-name="Far mid leg" d="M418.601 451.553 C396.827 457.269 388.992 469.85 395.095 489.294" fill="none" stroke="#4a2e18" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Far_mid_leg_tarsus" data-name="Far mid leg tarsus" d="M395.095 489.294 L385.435 499.896" fill="none" stroke="#160e08" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Far_hind_leg_ink" data-name="Far hind leg ink" d="M446.263 583.247 C424.606 589.701 419.1 602.668 429.745 622.15" fill="none" stroke="#160e08" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Far_hind_leg" data-name="Far hind leg" d="M446.263 583.247 C424.606 589.701 419.1 602.668 429.745 622.15" fill="none" stroke="#4a2e18" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Far_hind_leg_tarsus" data-name="Far hind leg tarsus" d="M429.745 622.15 L420.085 632.751" fill="none" stroke="#160e08" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Near_fore_leg_ink" data-name="Near fore leg ink" d="M538.065 296.556 C560.656 296.002 572.481 306.225 573.539 327.224" fill="none" stroke="#160e08" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Near_fore_leg" data-name="Near fore leg" d="M538.065 296.556 C560.656 296.002 572.481 306.225 573.539 327.224" fill="none" stroke="#4a2e18" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Near_fore_leg_tarsus" data-name="Near fore leg tarsus" d="M573.539 327.224 L586.003 334.322" fill="none" stroke="#160e08" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Near_mid_leg_ink" data-name="Near mid leg ink" d="M577.895 426.323 C600.487 425.769 612.68 435.933 614.476 456.816" fill="none" stroke="#160e08" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Near_mid_leg" data-name="Near mid leg" d="M577.895 426.323 C600.487 425.769 612.68 435.933 614.476 456.816" fill="none" stroke="#4a2e18" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Near_mid_leg_tarsus" data-name="Near mid leg tarsus" d="M614.476 456.816 L626.939 463.914" fill="none" stroke="#160e08" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Near_hind_leg_ink" data-name="Near hind leg ink" d="M592.283 560.12 C614.874 559.565 625.593 569.963 624.438 591.313" fill="none" stroke="#160e08" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Near_hind_leg" data-name="Near hind leg" d="M592.283 560.12 C614.874 559.565 625.593 569.963 624.438 591.313" fill="none" stroke="#4a2e18" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Near_hind_leg_tarsus" data-name="Near hind leg tarsus" d="M624.438 591.313 L636.902 598.411" fill="none" stroke="#160e08" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Far_elytron" data-name="Far elytron" d="M479.326 319.467 C420.992 337.778 399.019 413.832 418.511 508.265 C438.004 602.698 488.23 676.388 541.699 713.278 Z" fill="url(#linear-gradient-2)" stroke="#160e08" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Near_elytron" data-name="Near elytron" d="M479.326 319.467 C547.1 317.804 593.712 382.995 603.249 479.005 C612.785 575.016 585.577 660.97 541.699 713.278 Z" fill="url(#linear-gradient-2)" stroke="#160e08" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Elytra_suture" data-name="Elytra suture" d="M480.026 323.892 L540.998 708.853" fill="none" stroke="#0e0806" stroke-width="3" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Far_stria_38" data-name="Far stria 38" d="M465.536 339.795 C438.327 425.749 454.927 559.195 512.161 677.134" fill="none" stroke="#3a2410" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.38"/>
+    <path id="Far_stria_64" data-name="Far stria 64" d="M453.367 341.722 C399.61 431.881 412.891 565.853 496.674 679.587" fill="none" stroke="#3a2410" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.38"/>
+    <path id="Near_stria_40" data-name="Near stria 40" d="M499.828 334.363 C554.479 407.353 579.929 539.397 559.728 669.6" fill="none" stroke="#3a2410" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.38"/>
+    <path id="Near_stria_66" data-name="Near stria 66" d="M510.89 332.611 C593.197 401.22 621.965 532.739 575.215 667.147" fill="none" stroke="#3a2410" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.38"/>
+    <path id="Puncture_1" data-name="Puncture 1" d="M466.596 425.241 C466.257 423.102 467.22 421.173 468.748 420.931 C470.275 420.689 471.788 422.226 472.127 424.365 C472.465 426.503 471.502 428.433 469.974 428.675 C468.447 428.916 466.934 427.379 466.596 425.241 Z" fill="#241608" opacity="0.4"/>
+    <path id="Puncture_2" data-name="Puncture 2" d="M473.975 514.789 C473.636 512.651 474.6 510.721 476.127 510.479 C477.654 510.237 479.167 511.775 479.506 513.913 C479.845 516.051 478.881 517.981 477.354 518.223 C475.826 518.465 474.313 516.927 473.975 514.789 Z" fill="#241608" opacity="0.4"/>
+    <path id="Puncture_3" data-name="Puncture 3" d="M496.841 601.884 C496.502 599.746 497.466 597.816 498.993 597.574 C500.521 597.332 502.033 598.87 502.372 601.008 C502.711 603.146 501.747 605.076 500.22 605.318 C498.692 605.56 497.18 604.022 496.841 601.884 Z" fill="#241608" opacity="0.4"/>
+    <path id="Puncture_4" data-name="Puncture 4" d="M449.267 473.344 C448.928 471.205 449.892 469.276 451.419 469.034 C452.947 468.792 454.46 470.329 454.798 472.468 C455.137 474.606 454.173 476.536 452.646 476.777 C451.119 477.019 449.606 475.482 449.267 473.344 Z" fill="#241608" opacity="0.4"/>
+    <path id="Puncture_5" data-name="Puncture 5" d="M470.797 566.32 C470.458 564.182 471.422 562.253 472.949 562.011 C474.477 561.769 475.989 563.306 476.328 565.444 C476.667 567.583 475.703 569.512 474.176 569.754 C472.648 569.996 471.136 568.459 470.797 566.32 Z" fill="#241608" opacity="0.4"/>
+    <path id="Puncture_6" data-name="Puncture 6" d="M528.543 415.429 C528.205 413.291 529.168 411.361 530.696 411.119 C532.223 410.878 533.736 412.415 534.074 414.553 C534.413 416.691 533.449 418.621 531.922 418.863 C530.395 419.105 528.882 417.568 528.543 415.429 Z" fill="#241608" opacity="0.4"/>
+    <path id="Puncture_7" data-name="Puncture 7" d="M549.197 502.875 C548.858 500.737 549.822 498.807 551.349 498.565 C552.877 498.323 554.39 499.861 554.728 501.999 C555.067 504.137 554.103 506.067 552.576 506.309 C551.049 506.55 549.536 505.013 549.197 502.875 Z" fill="#241608" opacity="0.4"/>
+    <path id="Puncture_8" data-name="Puncture 8" d="M554.364 592.773 C554.025 590.635 554.989 588.706 556.516 588.464 C558.044 588.222 559.556 589.759 559.895 591.897 C560.234 594.036 559.27 595.965 557.743 596.207 C556.215 596.449 554.703 594.912 554.364 592.773 Z" fill="#241608" opacity="0.4"/>
+    <path id="Puncture_9" data-name="Puncture 9" d="M559.888 455.823 C559.55 453.685 560.513 451.755 562.041 451.513 C563.568 451.271 565.081 452.809 565.419 454.947 C565.758 457.085 564.794 459.015 563.267 459.257 C561.74 459.499 560.227 457.961 559.888 455.823 Z" fill="#241608" opacity="0.4"/>
+    <path id="Puncture_10" data-name="Puncture 10" d="M570.356 550.552 C570.017 548.414 570.981 546.484 572.508 546.242 C574.036 546 575.548 547.538 575.887 549.676 C576.226 551.814 575.262 553.744 573.735 553.986 C572.207 554.227 570.695 552.69 570.356 550.552 Z" fill="#241608" opacity="0.4"/>
+    <path id="Near_flank_band" data-name="Near flank band" d="M587.666 402.096 C607.028 467.067 614.407 556.615 592.434 632.669 C601.132 558.718 591.541 469.52 572.879 408.974 Z" fill="#5e2e14" opacity="0.75"/>
+    <path id="Near_flank_edge_light" data-name="Near flank edge light" d="M586.614 395.459 C605.276 456.005 613.115 534.141 600.693 613.218" fill="none" stroke="#e8a04e" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Near_specular_band" data-name="Near specular band" d="M529.291 334.233 C566.352 396.4 586.195 493.046 586.477 595.058 C575.133 494.798 555.991 402.577 521.142 340.059 Z" fill="#fff4d0" opacity="0.8"/>
+    <path id="Near_specular_core" data-name="Near specular core" d="M537.33 342.031 C567.754 405.25 583.983 493.396 586.236 579.221" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.85"/>
+    <path id="Far_specular_band" data-name="Far specular band" d="M431.133 358.851 C419.521 428.728 431.326 517.575 461.53 608.044 C435.75 516.874 426.159 427.676 438.121 360.012 Z" fill="#d8f0c8" opacity="0.34"/>
+    <path id="Elytra_broad_gloss" data-name="Elytra broad gloss" d="M457.177 394.415 C452.823 366.922 481.485 339.536 521.197 333.247 C560.908 326.957 596.63 344.145 600.985 371.638 C605.339 399.13 576.677 426.516 536.965 432.806 C497.254 439.095 461.532 421.907 457.177 394.415 Z" fill="#eaffd8" opacity="0.18"/>
+    <path id="Elytra_rim_light" data-name="Elytra rim light" d="M408.088 385.18 C428.33 341.152 534.526 324.332 574.37 361.112" fill="none" stroke="#f2e8b0" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Apex_shadow" data-name="Apex shadow" d="M522.007 689.182 C532.959 701.055 546.234 698.952 552.981 684.276 C548.797 700.814 531.097 703.618 522.007 689.182 Z" fill="#2e1408" opacity="0.6"/>
+    <path id="Scutellum" d="M480.026 323.892 L500.069 350.201 L469.095 355.106 Z" fill="url(#radial-gradient-2)" stroke="#160e08" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Pronotum" d="M399.108 357.119 C390.588 317.646 408.157 285.381 471.617 270.794 C536.478 265.057 563.157 290.314 567.252 330.488 C534.657 353.794 437.31 369.212 399.108 357.119 Z" fill="url(#radial-gradient-3)" stroke="#160e08" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Pronotum_rim_light" data-name="Pronotum rim light" d="M413.173 302.73 C432.844 283.739 512.491 271.124 537.419 285.319" fill="none" stroke="#fff0b8" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Pronotum_specular" data-name="Pronotum specular" d="M427.609 293.639 C446.119 281.636 487.98 273.872 511.505 279.218" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Pronotum_base_shadow" data-name="Pronotum base shadow" d="M409.93 339.53 C445.919 351.973 521.142 340.059 551.525 317.104" fill="none" stroke="#3a2008" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Head" d="M423.514 253.465 C419.309 226.916 436.417 206.063 460.754 202.209 C485.09 198.354 507.805 212.9 512.01 239.449 C514.814 257.148 496.654 271.364 472.317 275.219 C447.981 279.073 426.317 271.165 423.514 253.465 Z" fill="url(#radial-gradient-4)" stroke="#160e08" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Head_rim_light" data-name="Head rim light" d="M432.233 222.601 C446.318 211.299 477.292 206.393 494.181 212.79" fill="none" stroke="#e8b060" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Far_eye" data-name="Far eye" d="M408.377 258.131 C406.635 247.134 412.157 237.121 420.71 235.766 C429.263 234.411 437.609 242.228 439.351 253.225 C441.093 264.222 435.571 274.235 427.018 275.59 C418.464 276.944 410.119 269.128 408.377 258.131 Z" fill="url(#radial-gradient-5)" stroke="#160e08" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Near_eye" data-name="Near eye" d="M496.874 244.114 C495.132 233.117 500.654 223.104 509.207 221.75 C517.76 220.395 526.106 228.211 527.848 239.208 C529.59 250.205 524.068 260.218 515.515 261.573 C506.961 262.928 498.616 255.111 496.874 244.114 Z" fill="url(#radial-gradient-6)" stroke="#160e08" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Far_eye_glint" data-name="Far eye glint" d="M414.544 246.948 C414.253 245.116 415.504 243.394 417.337 243.104 C419.169 242.814 420.891 244.064 421.181 245.897 C421.471 247.73 420.221 249.451 418.388 249.741 C416.555 250.032 414.834 248.781 414.544 246.948 Z" fill="#ffffff" opacity="0.8"/>
+    <path id="Near_eye_glint" data-name="Near eye glint" d="M503.041 232.932 C502.75 231.099 504.001 229.378 505.834 229.088 C507.666 228.797 509.387 230.048 509.678 231.881 C509.968 233.713 508.718 235.435 506.885 235.725 C505.052 236.015 503.331 234.765 503.041 232.932 Z" fill="#ffffff" opacity="0.8"/>
+    <text transform="matrix(1 0 0 1 500 940)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="56" fill="#eedfb8" text-anchor="middle"><tspan x="0" y="0">JEWEL BEETLE</tspan></text>
+    <text transform="matrix(1 0 0 1 500 975)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="22" fill="#a89478" letter-spacing="8.8" text-anchor="middle"><tspan x="0" y="0">COLEOPTERA</tspan></text>
+  </g>
+</svg>
