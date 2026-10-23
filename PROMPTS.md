@@ -121,8 +121,8 @@ pangolin full body · saiga herd scene.
 Same disc, same name line; the second line is the taxonomic order in caps
 (`COLEOPTERA`, `LEPIDOPTERA`, `ODONATA`, `HEMIPTERA`, `HYMENOPTERA`,
 `MANTODEA`, `PHASMATODEA`, `MEGALOPTERA`, `BLATTODEA`). Pose is three-quarter
-dorsal unless the silhouette is lateral (stick insect, dobsonfly, cicada
-shell); keep the whole animal inside the disc, antennae and legs included.
+dorsal unless the silhouette is lateral (stick insect, dobsonfly, cicada);
+keep the whole animal inside the disc, antennae and legs included.
 Wings are translucent with visible venation over the backdrop, never an opaque
 fill. Living specimens, not collected ones: no pins, no kill jars, no shadow
 box — the insect is alive on the plate. Wave 1 roster: giraffe weevil ·
