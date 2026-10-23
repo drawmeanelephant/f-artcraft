@@ -218,6 +218,7 @@ def main():
         },
     }
 
+    (DOCS / "data").mkdir(parents=True, exist_ok=True)
     for name, obj in data.items():
         (DOCS / "data" / f"{name}.json").write_text(json.dumps(obj, indent=2) + "\n")
 
