@@ -20,14 +20,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Get dogbed binary
+      - name: Check out dogbed (pinned)
+        uses: actions/checkout@v4
+        with:
+          repository: drawmeanelephant/dogbed
+          ref: 0c94175e25483a9146939d9d4ca87b11ee7d311e
+          path: dogbed-src
+      - name: Install Zig 0.17.0
         run: |
-          curl -sL -o /tmp/dogbed https://github.com/drawmeanelephant/dogbed/releases/download/v0.1.0/dogbed-0.1.0-x86_64-linux-musl
-          chmod +x /tmp/dogbed
+          curl -sL -o /tmp/zig.tar.xz https://ziglang.org/download/0.17.0/zig-x86_64-linux-0.17.0.tar.xz
+          mkdir -p /tmp/zig && tar -xf /tmp/zig.tar.xz -C /tmp/zig --strip-components=1
+          echo "/tmp/zig" >> "$GITHUB_PATH"
+      - name: Build dogbed
+        run: cd dogbed-src && zig build
       - name: Regenerate data + site
         run: |
           python3 docs/gen_data.py
-          DOGBED=/tmp/dogbed sh docs/build.sh
+          DOGBED=dogbed-src/zig-out/bin/dogbed sh docs/build.sh
       - name: Fail if docs/ is stale (rebuild and commit)
         run: git diff --exit-code docs/
 
@@ -40,14 +49,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Get dogbed binary
+      - name: Check out dogbed (pinned)
+        uses: actions/checkout@v4
+        with:
+          repository: drawmeanelephant/dogbed
+          ref: 0c94175e25483a9146939d9d4ca87b11ee7d311e
+          path: dogbed-src
+      - name: Install Zig 0.17.0
         run: |
-          curl -sL -o /tmp/dogbed https://github.com/drawmeanelephant/dogbed/releases/download/v0.1.0/dogbed-0.1.0-x86_64-linux-musl
-          chmod +x /tmp/dogbed
+          curl -sL -o /tmp/zig.tar.xz https://ziglang.org/download/0.17.0/zig-x86_64-linux-0.17.0.tar.xz
+          mkdir -p /tmp/zig && tar -xf /tmp/zig.tar.xz -C /tmp/zig --strip-components=1
+          echo "/tmp/zig" >> "$GITHUB_PATH"
+      - name: Build dogbed
+        run: cd dogbed-src && zig build
       - name: Build docs/site
         run: |
           python3 docs/gen_data.py
-          DOGBED=/tmp/dogbed sh docs/build.sh
+          DOGBED=dogbed-src/zig-out/bin/dogbed sh docs/build.sh
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
