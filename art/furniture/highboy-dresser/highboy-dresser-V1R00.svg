@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#14261c"/>
+      <stop offset="1" stop-color="#060d09"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cc4a0"/>
+      <stop offset="0.5" stop-color="#6e9e78"/>
+      <stop offset="1" stop-color="#3e6a4c"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="200" y1="80" x2="420" y2="760" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f6f2d8" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#f6f2d8" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="420" cy="310" r="210" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8f4da" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#e8f4da" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-3" x1="0" y1="748" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4e7a58"/>
+      <stop offset="1" stop-color="#24442e"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-3" cx="500" cy="783" r="238" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0c1e12" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#0c1e12" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="510" cy="783" r="210" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#08140c" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#08140c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-4" x1="673.266" y1="684.867" x2="723.614" y2="684.867" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a3a26"/>
+      <stop offset="1" stop-color="#4a1a10"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="669" y1="758" x2="721" y2="758" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c4704c"/>
+      <stop offset="1" stop-color="#6e2616"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="652" y1="200" x2="706" y2="700" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e3220"/>
+      <stop offset="1" stop-color="#4e1c12"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="292" y1="160" x2="652" y2="700" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d07a54"/>
+      <stop offset="1" stop-color="#8c3824"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="386.696" y1="646.513" x2="405.304" y2="646.513" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d88460"/>
+      <stop offset="1" stop-color="#7a2c1a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="538.696" y1="646.513" x2="557.304" y2="646.513" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d88460"/>
+      <stop offset="1" stop-color="#7a2c1a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x1="304" y1="482" x2="640" y2="526" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d27c56"/>
+      <stop offset="1" stop-color="#923a24"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-5" cx="377.92" cy="504" r="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff0b0"/>
+      <stop offset="0.5" stop-color="#e2b656"/>
+      <stop offset="1" stop-color="#a4741e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-11" x1="364.17" y1="507" x2="391.67" y2="507" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe6a0"/>
+      <stop offset="1" stop-color="#9a6a1c"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-6" cx="566.08" cy="504" r="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff0b0"/>
+      <stop offset="0.5" stop-color="#e2b656"/>
+      <stop offset="1" stop-color="#a4741e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-12" x1="552.33" y1="507" x2="579.83" y2="507" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe6a0"/>
+      <stop offset="1" stop-color="#9a6a1c"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-7" cx="472" cy="504" r="10" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff0b0"/>
+      <stop offset="0.5" stop-color="#e2b656"/>
+      <stop offset="1" stop-color="#a4741e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-13" x1="304" y1="532" x2="396" y2="604" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d27c56"/>
+      <stop offset="1" stop-color="#923a24"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-8" cx="350" cy="568" r="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff0b0"/>
+      <stop offset="0.5" stop-color="#e2b656"/>
+      <stop offset="1" stop-color="#a4741e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-14" x1="336.25" y1="571" x2="363.75" y2="571" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe6a0"/>
+      <stop offset="1" stop-color="#9a6a1c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-15" x1="548" y1="532" x2="640" y2="604" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d27c56"/>
+      <stop offset="1" stop-color="#923a24"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-9" cx="594" cy="568" r="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff0b0"/>
+      <stop offset="0.5" stop-color="#e2b656"/>
+      <stop offset="1" stop-color="#a4741e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-16" x1="580.25" y1="571" x2="607.75" y2="571" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe6a0"/>
+      <stop offset="1" stop-color="#9a6a1c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-17" x1="402" y1="532" x2="542" y2="604" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d27c56"/>
+      <stop offset="1" stop-color="#923a24"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-10" cx="418.8" cy="568" r="7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff0b0"/>
+      <stop offset="0.5" stop-color="#e2b656"/>
+      <stop offset="1" stop-color="#a4741e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-11" cx="525.2" cy="568" r="7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff0b0"/>
+      <stop offset="0.5" stop-color="#e2b656"/>
+      <stop offset="1" stop-color="#a4741e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-18" x1="432" y1="589.15" x2="472" y2="589.15" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fcefc8"/>
+      <stop offset="1" stop-color="#e2c48a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-19" x1="434.4" y1="583.15" x2="472" y2="583.15" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e0b070"/>
+      <stop offset="1" stop-color="#b07a3c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-20" x1="441.4" y1="578.7" x2="472" y2="578.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fcefc8"/>
+      <stop offset="1" stop-color="#e2c48a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-21" x1="452" y1="576.3" x2="472" y2="576.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e0b070"/>
+      <stop offset="1" stop-color="#b07a3c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-22" x1="465.1" y1="576" x2="478.9" y2="576" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fcefc8"/>
+      <stop offset="1" stop-color="#e2c48a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-23" x1="472" y1="576.3" x2="492" y2="576.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e0b070"/>
+      <stop offset="1" stop-color="#b07a3c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-24" x1="472" y1="578.7" x2="502.6" y2="578.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fcefc8"/>
+      <stop offset="1" stop-color="#e2c48a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-25" x1="472" y1="583.15" x2="509.6" y2="583.15" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e0b070"/>
+      <stop offset="1" stop-color="#b07a3c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-26" x1="472" y1="589.15" x2="512" y2="589.15" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fcefc8"/>
+      <stop offset="1" stop-color="#e2c48a"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-12" cx="472" cy="596" r="7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff6da"/>
+      <stop offset="1" stop-color="#c89a58"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-27" x1="0" y1="476" x2="0" y2="490" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a0c06" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#2a0c06" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-28" x1="280" y1="636" x2="340" y2="790" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d88460"/>
+      <stop offset="1" stop-color="#7a2c1a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-29" x1="281" y1="784" x2="333" y2="784" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c4704c"/>
+      <stop offset="1" stop-color="#6e2616"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-30" x1="616" y1="636" x2="676" y2="790" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d88460"/>
+      <stop offset="1" stop-color="#7a2c1a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-31" x1="623" y1="784" x2="675" y2="784" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c4704c"/>
+      <stop offset="1" stop-color="#6e2616"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-32" x1="660" y1="456" x2="714" y2="456" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a3a26"/>
+      <stop offset="1" stop-color="#5a2014"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-33" x1="284" y1="449" x2="714" y2="449" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e49a70"/>
+      <stop offset="1" stop-color="#b05c3c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-34" x1="0" y1="462" x2="0" y2="476" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e08a62"/>
+      <stop offset="1" stop-color="#9a4228"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-35" x1="318" y1="322" x2="330" y2="322" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e0906a"/>
+      <stop offset="1" stop-color="#8a3622"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-36" x1="614" y1="322" x2="626" y2="322" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e0906a"/>
+      <stop offset="1" stop-color="#8a3622"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-37" x1="336" y1="188" x2="469" y2="237.603" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d27c56"/>
+      <stop offset="1" stop-color="#923a24"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-13" cx="402.5" cy="212.802" r="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff0b0"/>
+      <stop offset="0.5" stop-color="#e2b656"/>
+      <stop offset="1" stop-color="#a4741e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-38" x1="388.75" y1="215.802" x2="416.25" y2="215.802" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe6a0"/>
+      <stop offset="1" stop-color="#9a6a1c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-39" x1="475" y1="188" x2="608" y2="237.603" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d27c56"/>
+      <stop offset="1" stop-color="#923a24"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-14" cx="541.5" cy="212.802" r="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff0b0"/>
+      <stop offset="0.5" stop-color="#e2b656"/>
+      <stop offset="1" stop-color="#a4741e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-40" x1="527.75" y1="215.802" x2="555.25" y2="215.802" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe6a0"/>
+      <stop offset="1" stop-color="#9a6a1c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-41" x1="336" y1="243.603" x2="608" y2="301.143" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d27c56"/>
+      <stop offset="1" stop-color="#923a24"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-15" cx="395.84" cy="272.373" r="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff0b0"/>
+      <stop offset="0.5" stop-color="#e2b656"/>
+      <stop offset="1" stop-color="#a4741e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-42" x1="382.09" y1="275.373" x2="409.59" y2="275.373" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe6a0"/>
+      <stop offset="1" stop-color="#9a6a1c"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-16" cx="548.16" cy="272.373" r="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff0b0"/>
+      <stop offset="0.5" stop-color="#e2b656"/>
+      <stop offset="1" stop-color="#a4741e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-43" x1="534.41" y1="275.373" x2="561.91" y2="275.373" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe6a0"/>
+      <stop offset="1" stop-color="#9a6a1c"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-17" cx="472" cy="272.373" r="10" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff0b0"/>
+      <stop offset="0.5" stop-color="#e2b656"/>
+      <stop offset="1" stop-color="#a4741e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-44" x1="336" y1="307.143" x2="608" y2="374.603" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d27c56"/>
+      <stop offset="1" stop-color="#923a24"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-18" cx="395.84" cy="340.873" r="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff0b0"/>
+      <stop offset="0.5" stop-color="#e2b656"/>
+      <stop offset="1" stop-color="#a4741e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-45" x1="382.09" y1="343.873" x2="409.59" y2="343.873" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe6a0"/>
+      <stop offset="1" stop-color="#9a6a1c"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-19" cx="548.16" cy="340.873" r="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff0b0"/>
+      <stop offset="0.5" stop-color="#e2b656"/>
+      <stop offset="1" stop-color="#a4741e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-46" x1="534.41" y1="343.873" x2="561.91" y2="343.873" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe6a0"/>
+      <stop offset="1" stop-color="#9a6a1c"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-20" cx="472" cy="340.873" r="10" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff0b0"/>
+      <stop offset="0.5" stop-color="#e2b656"/>
+      <stop offset="1" stop-color="#a4741e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-47" x1="336" y1="380.603" x2="608" y2="456" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d27c56"/>
+      <stop offset="1" stop-color="#923a24"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-21" cx="395.84" cy="418.302" r="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff0b0"/>
+      <stop offset="0.5" stop-color="#e2b656"/>
+      <stop offset="1" stop-color="#a4741e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-48" x1="382.09" y1="421.302" x2="409.59" y2="421.302" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe6a0"/>
+      <stop offset="1" stop-color="#9a6a1c"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-22" cx="548.16" cy="418.302" r="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff0b0"/>
+      <stop offset="0.5" stop-color="#e2b656"/>
+      <stop offset="1" stop-color="#a4741e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-49" x1="534.41" y1="421.302" x2="561.91" y2="421.302" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe6a0"/>
+      <stop offset="1" stop-color="#9a6a1c"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-23" cx="472" cy="418.302" r="10" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff0b0"/>
+      <stop offset="0.5" stop-color="#e2b656"/>
+      <stop offset="1" stop-color="#a4741e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-50" x1="650" y1="153" x2="704" y2="153" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a3a26"/>
+      <stop offset="1" stop-color="#5a2014"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-51" x1="294" y1="137" x2="704" y2="137" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e49a70"/>
+      <stop offset="1" stop-color="#b05c3c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-52" x1="0" y1="150" x2="0" y2="182" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8986e"/>
+      <stop offset="1" stop-color="#9a4228"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-53" x1="0" y1="182" x2="0" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a0c06" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#2a0c06" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-54" x1="314" y1="182" x2="352" y2="640" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe6cc" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ffe6cc" stop-opacity="0.02"/>
+    </linearGradient>
+  </defs>
+  <title>Highboy Dresser — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo" data-name="Plate halo" d="M62 460 C62 218.099 258.099 22 500 22 C741.901 22 938 218.099 938 460 C938 701.901 741.901 898 500 898 C258.099 898 62 701.901 62 460 Z" fill="#7fb08a" opacity="0.08"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)"/>
+    <path id="Window_light" data-name="Window light" d="M190 250 L380 92 L560 92 L400 836 L232 718 Z" fill="url(#linear-gradient-2)"/>
+    <path id="Plate_glow" data-name="Plate glow" d="M210 310 C210 194.02 304.02 100 420 100 C535.98 100 630 194.02 630 310 C630 425.98 535.98 520 420 520 C304.02 520 210 425.98 210 310 Z" fill="url(#radial-gradient-2)"/>
+    <path id="Wainscot_rail" data-name="Wainscot rail" d="M155.3 700 L844.7 700" fill="none" stroke="#d8ecd6" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Floor" d="M194.3 748 L805.7 748 C726.338 832.238 615.734 879.994 500 879.994 C384.266 879.994 273.662 832.238 194.3 748 Z" fill="url(#linear-gradient-3)" opacity="0.85"/>
+    <path id="Floorboard_seam_1" data-name="Floorboard seam 1" d="M235.6 778 L764.4 778" fill="none" stroke="#1a3322" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Floorboard_seam_2" data-name="Floorboard seam 2" d="M280.9 812 L719.1 812" fill="none" stroke="#1a3322" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Floorboard_seam_3" data-name="Floorboard seam 3" d="M344.5 846 L655.5 846" fill="none" stroke="#1a3322" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Floor_edge_light" data-name="Floor edge light" d="M194.3 748 L805.7 748" fill="none" stroke="#cfe8cc" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Shadow" d="M262 783 C262 763.67 368.556 748 500 748 C631.444 748 738 763.67 738 783 C738 802.33 631.444 818 500 818 C368.556 818 262 802.33 262 783 Z" fill="url(#radial-gradient-3)"/>
+    <path id="Shadow_core" data-name="Shadow core" d="M300 783 C300 773.611 394.02 766 510 766 C625.98 766 720 773.611 720 783 C720 792.389 625.98 800 510 800 C394.02 800 300 792.389 300 783 Z" fill="url(#radial-gradient-4)"/>
+    <path id="Leg_rear_right" data-name="Leg rear right" d="M708 610 C715.7 613.1 719.7 622.3 722 628.5 C724.3 634.6 724 638.5 722 647 C720 655.4 714 667 710 679.3 C706 691.6 700.2 710.9 698 720.9 C695.8 730.9 695.3 734 697 739.4 C698.7 744.8 705.2 749.6 708 753.2 C710.8 756.8 719.3 759.6 714 760.9 C708.7 762.2 681.7 762.2 676 760.9 C670.3 759.6 678.5 756.8 680 753.2 C681.5 749.6 684.3 744.8 685 739.4 C685.7 734 684.8 730.9 684 720.9 C683.2 710.9 681.3 691.6 680 679.3 C678.7 667 676.8 655.9 676 647 C675.2 638 675 631.6 675 625.4 C675 619.2 670.5 612.6 676 610 C681.5 607.4 700.3 606.9 708 610 Z" fill="url(#linear-gradient-4)" stroke="#3a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Leg_rear_right_sheen" data-name="Leg rear right sheen" d="M702 619.2 C704 621.8 712.7 627.5 714 634.6 C715.3 641.8 712.7 652.1 710 662.4 C707.3 672.6 700 690.6 698 696.2" fill="none" stroke="#ffd2b0" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="Leg_rear_right_shade" data-name="Leg rear right shade" d="M682 687 C683 693.2 686.8 714.7 688 724 C689.2 733.2 688.8 739.4 689 742.4" fill="none" stroke="#2a0e08" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Leg_rear_right_pad" data-name="Leg rear right pad" d="M669 758 C669 753.582 680.641 750 695 750 C709.359 750 721 753.582 721 758 C721 762.418 709.359 766 695 766 C680.641 766 669 762.418 669 758 Z" fill="url(#linear-gradient-5)" stroke="#3a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Leg_rear_right_pad_sheen" data-name="Leg rear right pad sheen" d="M679 755 C679 753.343 683.925 752 690 752 C696.075 752 701 753.343 701 755 C701 756.657 696.075 758 690 758 C683.925 758 679 756.657 679 755 Z" fill="#ffd8b8" opacity="0.35"/>
+    <path id="Lower_case_side" data-name="Lower case side" d="M652 476 L706 450 L706 614 L652 640 Z" fill="url(#linear-gradient-6)" stroke="#3a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Side_apron_scallop" data-name="Side apron scallop" d="M658 637 C670 648 686 638 700 620 L700 612 L658 634 Z" fill="#5a2014" stroke="#3a1a12" stroke-width="3" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Lower_side_panel_line_1" data-name="Lower side panel line 1" d="M658 525.2 L700 499.2" fill="none" stroke="#2a0e08" stroke-width="3" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Lower_side_panel_line_2" data-name="Lower side panel line 2" d="M658 577.7 L700 551.7" fill="none" stroke="#2a0e08" stroke-width="3" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Lower_case_front" data-name="Lower case front" d="M292 476 L652 476 L652 640 C628 640 622 614 596 614 C576 614 572 630 548 630 C502 630 496 648 472 648 C448 648 442 630 396 630 C372 630 368 614 348 614 C322 614 316 640 292 640 Z" fill="url(#linear-gradient-7)" stroke="#3a1a12" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Apron_edge_light" data-name="Apron edge light" d="M300 636 C318 620 332 618 348 618" fill="none" stroke="#ffc8a0" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Drop_finial_1" data-name="Drop finial 1" d="M389 630 C386.3 631.3 386.5 635.3 387 638 C387.5 640.7 391.8 643.3 392 646 C392.2 648.7 387.3 651 388 654 C388.7 657 393.3 664 396 664 C398.7 664 403.3 657 404 654 C404.7 651 399.8 648.7 400 646 C400.2 643.3 404.5 640.7 405 638 C405.5 635.3 405.7 631.3 403 630 C400.3 628.7 391.7 628.7 389 630 Z" fill="url(#linear-gradient-8)" stroke="#3a1a12" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Drop_finial_2" data-name="Drop finial 2" d="M541 630 C538.3 631.3 538.5 635.3 539 638 C539.5 640.7 543.8 643.3 544 646 C544.2 648.7 539.3 651 540 654 C540.7 657 545.3 664 548 664 C550.7 664 555.3 657 556 654 C556.7 651 551.8 648.7 552 646 C552.2 643.3 556.5 640.7 557 638 C557.5 635.3 557.7 631.3 555 630 C552.3 628.7 543.7 628.7 541 630 Z" fill="url(#linear-gradient-9)" stroke="#3a1a12" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Lower_long_drawer_recess" data-name="Lower long drawer recess" d="M301 479 L643 479 L643 529 L301 529 Z" fill="#3a140c" opacity="0.55"/>
+    <path id="Lower_long_drawer" data-name="Lower long drawer" d="M304 482 L640 482 L640 526 L304 526 Z" fill="url(#linear-gradient-10)" stroke="#3a1a12" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Lower_long_drawer_lip_light" data-name="Lower long drawer lip light" d="M307 523 L307 485 L637 485" fill="none" stroke="#ffcca4" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Lower_long_drawer_lip_shade" data-name="Lower long drawer lip shade" d="M307 523 L637 523 L637 485" fill="none" stroke="#2a0c06" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Lower_long_drawer_grain_1" data-name="Lower long drawer grain 1" d="M312 495.2 C404.8 492.2 505.6 498.2 632 494.2" fill="none" stroke="#6a2414" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Lower_long_drawer_grain_2" data-name="Lower long drawer grain 2" d="M312 507.5 C404.8 503.5 505.6 511.5 632 506.5" fill="none" stroke="#6a2414" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Lower_long_drawer_pull_1_plate" data-name="Lower long drawer pull 1 plate" d="M357.92 504 C361.92 493 370.92 495 377.92 499 C384.92 495 393.92 493 397.92 504 C393.92 515 384.92 513 377.92 509 C370.92 513 361.92 515 357.92 504 Z" fill="url(#radial-gradient-5)" stroke="#7a5214" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Lower_long_drawer_pull_1_bail" data-name="Lower long drawer pull 1 bail" d="M365.92 503 C373.92 513.667 381.92 513.667 389.92 503" fill="none" stroke="url(#linear-gradient-11)" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Lower_long_drawer_pull_1_post_-1" data-name="Lower long drawer pull 1 post -1" d="M362.92 503 C362.92 501.343 364.263 500 365.92 500 C367.577 500 368.92 501.343 368.92 503 C368.92 504.657 367.577 506 365.92 506 C364.263 506 362.92 504.657 362.92 503 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Lower_long_drawer_pull_1_post_1" data-name="Lower long drawer pull 1 post 1" d="M386.92 503 C386.92 501.343 388.263 500 389.92 500 C391.577 500 392.92 501.343 392.92 503 C392.92 504.657 391.577 506 389.92 506 C388.263 506 386.92 504.657 386.92 503 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Lower_long_drawer_pull_2_plate" data-name="Lower long drawer pull 2 plate" d="M546.08 504 C550.08 493 559.08 495 566.08 499 C573.08 495 582.08 493 586.08 504 C582.08 515 573.08 513 566.08 509 C559.08 513 550.08 515 546.08 504 Z" fill="url(#radial-gradient-6)" stroke="#7a5214" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Lower_long_drawer_pull_2_bail" data-name="Lower long drawer pull 2 bail" d="M554.08 503 C562.08 513.667 570.08 513.667 578.08 503" fill="none" stroke="url(#linear-gradient-12)" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Lower_long_drawer_pull_2_post_-1" data-name="Lower long drawer pull 2 post -1" d="M551.08 503 C551.08 501.343 552.423 500 554.08 500 C555.737 500 557.08 501.343 557.08 503 C557.08 504.657 555.737 506 554.08 506 C552.423 506 551.08 504.657 551.08 503 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Lower_long_drawer_pull_2_post_1" data-name="Lower long drawer pull 2 post 1" d="M575.08 503 C575.08 501.343 576.423 500 578.08 500 C579.737 500 581.08 501.343 581.08 503 C581.08 504.657 579.737 506 578.08 506 C576.423 506 575.08 504.657 575.08 503 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Lower_long_drawer_escutcheon" data-name="Lower long drawer escutcheon" d="M465 504 C465 498.477 468.134 494 472 494 C475.866 494 479 498.477 479 504 C479 509.523 475.866 514 472 514 C468.134 514 465 509.523 465 504 Z" fill="url(#radial-gradient-7)" stroke="#7a5214" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Lower_long_drawer_keyhole" data-name="Lower long drawer keyhole" d="M472 500 L472 508" fill="none" stroke="#2a1608" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Lower_drawer_left_recess" data-name="Lower drawer left recess" d="M301 529 L399 529 L399 607 L301 607 Z" fill="#3a140c" opacity="0.55"/>
+    <path id="Lower_drawer_left" data-name="Lower drawer left" d="M304 532 L396 532 L396 604 L304 604 Z" fill="url(#linear-gradient-13)" stroke="#3a1a12" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Lower_drawer_left_lip_light" data-name="Lower drawer left lip light" d="M307 601 L307 535 L393 535" fill="none" stroke="#ffcca4" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Lower_drawer_left_lip_shade" data-name="Lower drawer left lip shade" d="M307 601 L393 601 L393 535" fill="none" stroke="#2a0c06" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Lower_drawer_left_grain_1" data-name="Lower drawer left grain 1" d="M312 553.6 C331.6 550.6 359.2 556.6 388 552.6" fill="none" stroke="#6a2414" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Lower_drawer_left_grain_2" data-name="Lower drawer left grain 2" d="M312 573.8 C331.6 569.8 359.2 577.8 388 572.8" fill="none" stroke="#6a2414" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Lower_drawer_left_grain_3" data-name="Lower drawer left grain 3" d="M312 593.9 C331.6 588.9 359.2 598.9 388 592.9" fill="none" stroke="#6a2414" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Lower_drawer_left_pull_1_plate" data-name="Lower drawer left pull 1 plate" d="M330 568 C334 557 343 559 350 563 C357 559 366 557 370 568 C366 579 357 577 350 573 C343 577 334 579 330 568 Z" fill="url(#radial-gradient-8)" stroke="#7a5214" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Lower_drawer_left_pull_1_bail" data-name="Lower drawer left pull 1 bail" d="M338 567 C346 577.667 354 577.667 362 567" fill="none" stroke="url(#linear-gradient-14)" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Lower_drawer_left_pull_1_post_-1" data-name="Lower drawer left pull 1 post -1" d="M335 567 C335 565.343 336.343 564 338 564 C339.657 564 341 565.343 341 567 C341 568.657 339.657 570 338 570 C336.343 570 335 568.657 335 567 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Lower_drawer_left_pull_1_post_1" data-name="Lower drawer left pull 1 post 1" d="M359 567 C359 565.343 360.343 564 362 564 C363.657 564 365 565.343 365 567 C365 568.657 363.657 570 362 570 C360.343 570 359 568.657 359 567 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Lower_drawer_right_recess" data-name="Lower drawer right recess" d="M545 529 L643 529 L643 607 L545 607 Z" fill="#3a140c" opacity="0.55"/>
+    <path id="Lower_drawer_right" data-name="Lower drawer right" d="M548 532 L640 532 L640 604 L548 604 Z" fill="url(#linear-gradient-15)" stroke="#3a1a12" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Lower_drawer_right_lip_light" data-name="Lower drawer right lip light" d="M551 601 L551 535 L637 535" fill="none" stroke="#ffcca4" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Lower_drawer_right_lip_shade" data-name="Lower drawer right lip shade" d="M551 601 L637 601 L637 535" fill="none" stroke="#2a0c06" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Lower_drawer_right_grain_1" data-name="Lower drawer right grain 1" d="M556 553.6 C575.6 550.6 603.2 556.6 632 552.6" fill="none" stroke="#6a2414" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Lower_drawer_right_grain_2" data-name="Lower drawer right grain 2" d="M556 573.8 C575.6 569.8 603.2 577.8 632 572.8" fill="none" stroke="#6a2414" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Lower_drawer_right_grain_3" data-name="Lower drawer right grain 3" d="M556 593.9 C575.6 588.9 603.2 598.9 632 592.9" fill="none" stroke="#6a2414" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Lower_drawer_right_pull_1_plate" data-name="Lower drawer right pull 1 plate" d="M574 568 C578 557 587 559 594 563 C601 559 610 557 614 568 C610 579 601 577 594 573 C587 577 578 579 574 568 Z" fill="url(#radial-gradient-9)" stroke="#7a5214" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Lower_drawer_right_pull_1_bail" data-name="Lower drawer right pull 1 bail" d="M582 567 C590 577.667 598 577.667 606 567" fill="none" stroke="url(#linear-gradient-16)" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Lower_drawer_right_pull_1_post_-1" data-name="Lower drawer right pull 1 post -1" d="M579 567 C579 565.343 580.343 564 582 564 C583.657 564 585 565.343 585 567 C585 568.657 583.657 570 582 570 C580.343 570 579 568.657 579 567 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Lower_drawer_right_pull_1_post_1" data-name="Lower drawer right pull 1 post 1" d="M603 567 C603 565.343 604.343 564 606 564 C607.657 564 609 565.343 609 567 C609 568.657 607.657 570 606 570 C604.343 570 603 568.657 603 567 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Lower_fan_drawer_recess" data-name="Lower fan drawer recess" d="M399 529 L545 529 L545 607 L399 607 Z" fill="#3a140c" opacity="0.55"/>
+    <path id="Lower_fan_drawer" data-name="Lower fan drawer" d="M402 532 L542 532 L542 604 L402 604 Z" fill="url(#linear-gradient-17)" stroke="#3a1a12" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Lower_fan_drawer_lip_light" data-name="Lower fan drawer lip light" d="M405 601 L405 535 L539 535" fill="none" stroke="#ffcca4" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Lower_fan_drawer_lip_shade" data-name="Lower fan drawer lip shade" d="M405 601 L539 601 L539 535" fill="none" stroke="#2a0c06" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Lower_fan_drawer_grain_1" data-name="Lower fan drawer grain 1" d="M410 553.6 C444 550.6 486 556.6 534 552.6" fill="none" stroke="#6a2414" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Lower_fan_drawer_grain_2" data-name="Lower fan drawer grain 2" d="M410 573.8 C444 569.8 486 577.8 534 572.8" fill="none" stroke="#6a2414" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Lower_fan_drawer_grain_3" data-name="Lower fan drawer grain 3" d="M410 593.9 C444 588.9 486 598.9 534 592.9" fill="none" stroke="#6a2414" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Lower_fan_drawer_knob_1" data-name="Lower fan drawer knob 1" d="M411.8 568 C411.8 564.134 414.934 561 418.8 561 C422.666 561 425.8 564.134 425.8 568 C425.8 571.866 422.666 575 418.8 575 C414.934 575 411.8 571.866 411.8 568 Z" fill="url(#radial-gradient-10)" stroke="#7a5214" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Lower_fan_drawer_knob_2" data-name="Lower fan drawer knob 2" d="M518.2 568 C518.2 564.134 521.334 561 525.2 561 C529.066 561 532.2 564.134 532.2 568 C532.2 571.866 529.066 575 525.2 575 C521.334 575 518.2 571.866 518.2 568 Z" fill="url(#radial-gradient-11)" stroke="#7a5214" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Fan_inlay_ray_1" data-name="Fan inlay ray 1" d="M472 596 L432 596 C431.994 591.328 432.806 586.691 434.4 582.3 Z" fill="url(#linear-gradient-18)" opacity="0.95"/>
+    <path id="Fan_inlay_ray_2" data-name="Fan inlay ray 2" d="M472 596 L434.4 582.3 C436.016 577.922 438.385 573.861 441.4 570.3 Z" fill="url(#linear-gradient-19)" opacity="0.95"/>
+    <path id="Fan_inlay_ray_3" data-name="Fan inlay ray 3" d="M472 596 L441.4 570.3 C444.389 566.74 447.976 563.728 452 561.4 Z" fill="url(#linear-gradient-20)" opacity="0.95"/>
+    <path id="Fan_inlay_ray_4" data-name="Fan inlay ray 4" d="M472 596 L452 561.4 C456.052 559.045 460.486 557.42 465.1 556.6 Z" fill="url(#linear-gradient-21)" opacity="0.95"/>
+    <path id="Fan_inlay_ray_5" data-name="Fan inlay ray 5" d="M472 596 L465.1 556.6 C469.665 555.801 474.335 555.801 478.9 556.6 Z" fill="url(#linear-gradient-22)" opacity="0.95"/>
+    <path id="Fan_inlay_ray_6" data-name="Fan inlay ray 6" d="M472 596 L478.9 556.6 C483.514 557.42 487.948 559.045 492 561.4 Z" fill="url(#linear-gradient-23)" opacity="0.95"/>
+    <path id="Fan_inlay_ray_7" data-name="Fan inlay ray 7" d="M472 596 L492 561.4 C496.024 563.728 499.611 566.74 502.6 570.3 Z" fill="url(#linear-gradient-24)" opacity="0.95"/>
+    <path id="Fan_inlay_ray_8" data-name="Fan inlay ray 8" d="M472 596 L502.6 570.3 C505.615 573.861 507.984 577.922 509.6 582.3 Z" fill="url(#linear-gradient-25)" opacity="0.95"/>
+    <path id="Fan_inlay_ray_9" data-name="Fan inlay ray 9" d="M472 596 L509.6 582.3 C511.194 586.691 512.006 591.328 512 596 Z" fill="url(#linear-gradient-26)" opacity="0.95"/>
+    <path id="Fan_inlay_band" data-name="Fan inlay band" d="M432 596 C432 573.909 449.909 556 472 556 C494.091 556 512 573.909 512 596" fill="none" stroke="#f6e2b0" stroke-width="4" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Fan_inlay_stringing" data-name="Fan inlay stringing" d="M427 596 C427 571.147 447.147 551 472 551 C496.853 551 517 571.147 517 596" fill="none" stroke="#3a1a0c" stroke-width="3" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Fan_inlay_hub" data-name="Fan inlay hub" d="M465 596 C465 592.134 468.134 589 472 589 C475.866 589 479 592.134 479 596 C479 599.866 475.866 603 472 603 C468.134 603 465 599.866 465 596 Z" fill="url(#radial-gradient-12)"/>
+    <path id="Waist_shadow" data-name="Waist shadow" d="M292 476 L652 476 L652 490 L292 490 Z" fill="url(#linear-gradient-27)"/>
+    <path id="Leg_front_left" data-name="Leg front left" d="M294 636 C286.3 639.1 282.3 648.3 280 654.5 C277.7 660.6 278 664.5 280 673 C282 681.4 288 693 292 705.3 C296 717.6 301.8 736.9 304 746.9 C306.2 756.9 306.7 760 305 765.4 C303.3 770.8 296.8 775.6 294 779.2 C291.2 782.8 282.7 785.6 288 786.9 C293.3 788.2 320.3 788.2 326 786.9 C331.7 785.6 323.5 782.8 322 779.2 C320.5 775.6 317.7 770.8 317 765.4 C316.3 760 317.2 756.9 318 746.9 C318.8 736.9 320.7 717.6 322 705.3 C323.3 693 325.2 681.9 326 673 C326.8 664 327 657.6 327 651.4 C327 645.2 331.5 638.6 326 636 C320.5 633.4 301.7 632.9 294 636 Z" fill="url(#linear-gradient-28)" stroke="#3a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Leg_front_left_sheen" data-name="Leg front left sheen" d="M300 645.2 C298 647.8 289.3 653.5 288 660.6 C286.7 667.8 289.3 678.1 292 688.4 C294.7 698.6 302 716.6 304 722.2" fill="none" stroke="#ffd2b0" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Leg_front_left_shade" data-name="Leg front left shade" d="M320 713 C319 719.2 315.2 740.7 314 750 C312.8 759.2 313.2 765.4 313 768.4" fill="none" stroke="#2a0e08" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Leg_front_left_pad" data-name="Leg front left pad" d="M281 784 C281 779.582 292.641 776 307 776 C321.359 776 333 779.582 333 784 C333 788.418 321.359 792 307 792 C292.641 792 281 788.418 281 784 Z" fill="url(#linear-gradient-29)" stroke="#3a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Leg_front_left_pad_sheen" data-name="Leg front left pad sheen" d="M291 781 C291 779.343 295.925 778 302 778 C308.075 778 313 779.343 313 781 C313 782.657 308.075 784 302 784 C295.925 784 291 782.657 291 781 Z" fill="#ffd8b8" opacity="0.35"/>
+    <path id="Leg_front_right" data-name="Leg front right" d="M662 636 C669.7 639.1 673.7 648.3 676 654.5 C678.3 660.6 678 664.5 676 673 C674 681.4 668 693 664 705.3 C660 717.6 654.2 736.9 652 746.9 C649.8 756.9 649.3 760 651 765.4 C652.7 770.8 659.2 775.6 662 779.2 C664.8 782.8 673.3 785.6 668 786.9 C662.7 788.2 635.7 788.2 630 786.9 C624.3 785.6 632.5 782.8 634 779.2 C635.5 775.6 638.3 770.8 639 765.4 C639.7 760 638.8 756.9 638 746.9 C637.2 736.9 635.3 717.6 634 705.3 C632.7 693 630.8 681.9 630 673 C629.2 664 629 657.6 629 651.4 C629 645.2 624.5 638.6 630 636 C635.5 633.4 654.3 632.9 662 636 Z" fill="url(#linear-gradient-30)" stroke="#3a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Leg_front_right_sheen" data-name="Leg front right sheen" d="M656 645.2 C658 647.8 666.7 653.5 668 660.6 C669.3 667.8 666.7 678.1 664 688.4 C661.3 698.6 654 716.6 652 722.2" fill="none" stroke="#ffd2b0" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Leg_front_right_shade" data-name="Leg front right shade" d="M636 713 C637 719.2 640.8 740.7 642 750 C643.2 759.2 642.8 765.4 643 768.4" fill="none" stroke="#2a0e08" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Leg_front_right_pad" data-name="Leg front right pad" d="M623 784 C623 779.582 634.641 776 649 776 C663.359 776 675 779.582 675 784 C675 788.418 663.359 792 649 792 C634.641 792 623 788.418 623 784 Z" fill="url(#linear-gradient-31)" stroke="#3a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Leg_front_right_pad_sheen" data-name="Leg front right pad sheen" d="M633 781 C633 779.343 637.925 778 644 778 C650.075 778 655 779.343 655 781 C655 782.657 650.075 784 644 784 C637.925 784 633 782.657 633 781 Z" fill="#ffd8b8" opacity="0.35"/>
+    <path id="Knee_bracket_1" data-name="Knee bracket 1" d="M326 638 C336 640 340 644 342 638 Z" fill="#b05a3a" stroke="#3a1a12" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Knee_bracket_2" data-name="Knee bracket 2" d="M630 638 C620 640 616 644 614 638 Z" fill="#b05a3a" stroke="#3a1a12" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Waist_moulding_side" data-name="Waist moulding side" d="M660 462 L714 436 L714 450 L660 476 Z" fill="url(#linear-gradient-32)" stroke="#3a1a12" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Waist_moulding_top" data-name="Waist moulding top" d="M284 462 L660 462 L714 436 L338 436 Z" fill="url(#linear-gradient-33)" stroke="#3a1a12" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Waist_moulding" data-name="Waist moulding" d="M284 462 L660 462 L660 476 L284 476 Z" fill="url(#linear-gradient-34)" stroke="#3a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Waist_moulding_bead" data-name="Waist moulding bead" d="M288 466 L656 466" fill="none" stroke="#ffd4b0" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Upper_case_side" data-name="Upper case side" d="M630 182 L684 156 L684 436 L630 462 Z" fill="url(#linear-gradient-6)" stroke="#3a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Upper_side_panel_line_1" data-name="Upper side panel line 1" d="M636 252 L678 226" fill="none" stroke="#2a0e08" stroke-width="3" stroke-miterlimit="10" opacity="0.25"/>
+    <path id="Upper_side_panel_line_2" data-name="Upper side panel line 2" d="M636 322 L678 296" fill="none" stroke="#2a0e08" stroke-width="3" stroke-miterlimit="10" opacity="0.25"/>
+    <path id="Upper_side_panel_line_3" data-name="Upper side panel line 3" d="M636 392 L678 366" fill="none" stroke="#2a0e08" stroke-width="3" stroke-miterlimit="10" opacity="0.25"/>
+    <path id="Upper_case_front" data-name="Upper case front" d="M314 182 L630 182 L630 462 L314 462 Z" fill="url(#linear-gradient-7)" stroke="#3a1a12" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Quarter_column_1" data-name="Quarter column 1" d="M318 188 L330 188 L330 456 L318 456 Z" fill="url(#linear-gradient-35)" stroke="#3a1a12" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Quarter_column_1_flute" data-name="Quarter column 1 flute" d="M324 196 L324 448" fill="none" stroke="#4a1a0e" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Quarter_column_2" data-name="Quarter column 2" d="M614 188 L626 188 L626 456 L614 456 Z" fill="url(#linear-gradient-36)" stroke="#3a1a12" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Quarter_column_2_flute" data-name="Quarter column 2 flute" d="M620 196 L620 448" fill="none" stroke="#4a1a0e" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Upper_small_drawer_left_recess" data-name="Upper small drawer left recess" d="M333 185 L472 185 L472 240.603 L333 240.603 Z" fill="#3a140c" opacity="0.55"/>
+    <path id="Upper_small_drawer_left" data-name="Upper small drawer left" d="M336 188 L469 188 L469 237.603 L336 237.603 Z" fill="url(#linear-gradient-37)" stroke="#3a1a12" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Upper_small_drawer_left_lip_light" data-name="Upper small drawer left lip light" d="M339 234.603 L339 191 L466 191" fill="none" stroke="#ffcca4" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Upper_small_drawer_left_lip_shade" data-name="Upper small drawer left lip shade" d="M339 234.603 L466 234.603 L466 191" fill="none" stroke="#2a0c06" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Upper_small_drawer_left_grain_1" data-name="Upper small drawer left grain 1" d="M344 202.9 C375.9 199.9 415.8 205.9 461 201.9" fill="none" stroke="#6a2414" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Upper_small_drawer_left_grain_2" data-name="Upper small drawer left grain 2" d="M344 216.8 C375.9 212.8 415.8 220.8 461 215.8" fill="none" stroke="#6a2414" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Upper_small_drawer_left_pull_1_plate" data-name="Upper small drawer left pull 1 plate" d="M382.5 212.802 C386.5 201.802 395.5 203.802 402.5 207.802 C409.5 203.802 418.5 201.802 422.5 212.802 C418.5 223.802 409.5 221.802 402.5 217.802 C395.5 221.802 386.5 223.802 382.5 212.802 Z" fill="url(#radial-gradient-13)" stroke="#7a5214" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Upper_small_drawer_left_pull_1_bail" data-name="Upper small drawer left pull 1 bail" d="M390.5 211.802 C398.5 222.468 406.5 222.468 414.5 211.802" fill="none" stroke="url(#linear-gradient-38)" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Upper_small_drawer_left_pull_1_post_-1" data-name="Upper small drawer left pull 1 post -1" d="M387.5 211.802 C387.5 210.145 388.843 208.802 390.5 208.802 C392.157 208.802 393.5 210.145 393.5 211.802 C393.5 213.458 392.157 214.802 390.5 214.802 C388.843 214.802 387.5 213.458 387.5 211.802 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Upper_small_drawer_left_pull_1_post_1" data-name="Upper small drawer left pull 1 post 1" d="M411.5 211.802 C411.5 210.145 412.843 208.802 414.5 208.802 C416.157 208.802 417.5 210.145 417.5 211.802 C417.5 213.458 416.157 214.802 414.5 214.802 C412.843 214.802 411.5 213.458 411.5 211.802 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Upper_small_drawer_right_recess" data-name="Upper small drawer right recess" d="M472 185 L611 185 L611 240.603 L472 240.603 Z" fill="#3a140c" opacity="0.55"/>
+    <path id="Upper_small_drawer_right" data-name="Upper small drawer right" d="M475 188 L608 188 L608 237.603 L475 237.603 Z" fill="url(#linear-gradient-39)" stroke="#3a1a12" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Upper_small_drawer_right_lip_light" data-name="Upper small drawer right lip light" d="M478 234.603 L478 191 L605 191" fill="none" stroke="#ffcca4" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Upper_small_drawer_right_lip_shade" data-name="Upper small drawer right lip shade" d="M478 234.603 L605 234.603 L605 191" fill="none" stroke="#2a0c06" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Upper_small_drawer_right_grain_1" data-name="Upper small drawer right grain 1" d="M483 202.9 C514.9 199.9 554.8 205.9 600 201.9" fill="none" stroke="#6a2414" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Upper_small_drawer_right_grain_2" data-name="Upper small drawer right grain 2" d="M483 216.8 C514.9 212.8 554.8 220.8 600 215.8" fill="none" stroke="#6a2414" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Upper_small_drawer_right_pull_1_plate" data-name="Upper small drawer right pull 1 plate" d="M521.5 212.802 C525.5 201.802 534.5 203.802 541.5 207.802 C548.5 203.802 557.5 201.802 561.5 212.802 C557.5 223.802 548.5 221.802 541.5 217.802 C534.5 221.802 525.5 223.802 521.5 212.802 Z" fill="url(#radial-gradient-14)" stroke="#7a5214" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Upper_small_drawer_right_pull_1_bail" data-name="Upper small drawer right pull 1 bail" d="M529.5 211.802 C537.5 222.468 545.5 222.468 553.5 211.802" fill="none" stroke="url(#linear-gradient-40)" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Upper_small_drawer_right_pull_1_post_-1" data-name="Upper small drawer right pull 1 post -1" d="M526.5 211.802 C526.5 210.145 527.843 208.802 529.5 208.802 C531.157 208.802 532.5 210.145 532.5 211.802 C532.5 213.458 531.157 214.802 529.5 214.802 C527.843 214.802 526.5 213.458 526.5 211.802 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Upper_small_drawer_right_pull_1_post_1" data-name="Upper small drawer right pull 1 post 1" d="M550.5 211.802 C550.5 210.145 551.843 208.802 553.5 208.802 C555.157 208.802 556.5 210.145 556.5 211.802 C556.5 213.458 555.157 214.802 553.5 214.802 C551.843 214.802 550.5 213.458 550.5 211.802 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_1_recess" data-name="Upper long drawer 1 recess" d="M333 240.603 L611 240.603 L611 304.143 L333 304.143 Z" fill="#3a140c" opacity="0.55"/>
+    <path id="Upper_long_drawer_1" data-name="Upper long drawer 1" d="M336 243.603 L608 243.603 L608 301.143 L336 301.143 Z" fill="url(#linear-gradient-41)" stroke="#3a1a12" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_1_lip_light" data-name="Upper long drawer 1 lip light" d="M339 298.143 L339 246.603 L605 246.603" fill="none" stroke="#ffcca4" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Upper_long_drawer_1_lip_shade" data-name="Upper long drawer 1 lip shade" d="M339 298.143 L605 298.143 L605 246.603" fill="none" stroke="#2a0c06" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Upper_long_drawer_1_grain_1" data-name="Upper long drawer 1 grain 1" d="M344 260.9 C417.6 257.9 499.2 263.9 600 259.9" fill="none" stroke="#6a2414" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Upper_long_drawer_1_grain_2" data-name="Upper long drawer 1 grain 2" d="M344 277 C417.6 273 499.2 281 600 276" fill="none" stroke="#6a2414" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Upper_long_drawer_1_pull_1_plate" data-name="Upper long drawer 1 pull 1 plate" d="M375.84 272.373 C379.84 261.373 388.84 263.373 395.84 267.373 C402.84 263.373 411.84 261.373 415.84 272.373 C411.84 283.373 402.84 281.373 395.84 277.373 C388.84 281.373 379.84 283.373 375.84 272.373 Z" fill="url(#radial-gradient-15)" stroke="#7a5214" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_1_pull_1_bail" data-name="Upper long drawer 1 pull 1 bail" d="M383.84 271.373 C391.84 282.04 399.84 282.04 407.84 271.373" fill="none" stroke="url(#linear-gradient-42)" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_1_pull_1_post_-1" data-name="Upper long drawer 1 pull 1 post -1" d="M380.84 271.373 C380.84 269.716 382.183 268.373 383.84 268.373 C385.497 268.373 386.84 269.716 386.84 271.373 C386.84 273.03 385.497 274.373 383.84 274.373 C382.183 274.373 380.84 273.03 380.84 271.373 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_1_pull_1_post_1" data-name="Upper long drawer 1 pull 1 post 1" d="M404.84 271.373 C404.84 269.716 406.183 268.373 407.84 268.373 C409.497 268.373 410.84 269.716 410.84 271.373 C410.84 273.03 409.497 274.373 407.84 274.373 C406.183 274.373 404.84 273.03 404.84 271.373 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_1_pull_2_plate" data-name="Upper long drawer 1 pull 2 plate" d="M528.16 272.373 C532.16 261.373 541.16 263.373 548.16 267.373 C555.16 263.373 564.16 261.373 568.16 272.373 C564.16 283.373 555.16 281.373 548.16 277.373 C541.16 281.373 532.16 283.373 528.16 272.373 Z" fill="url(#radial-gradient-16)" stroke="#7a5214" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_1_pull_2_bail" data-name="Upper long drawer 1 pull 2 bail" d="M536.16 271.373 C544.16 282.04 552.16 282.04 560.16 271.373" fill="none" stroke="url(#linear-gradient-43)" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_1_pull_2_post_-1" data-name="Upper long drawer 1 pull 2 post -1" d="M533.16 271.373 C533.16 269.716 534.503 268.373 536.16 268.373 C537.817 268.373 539.16 269.716 539.16 271.373 C539.16 273.03 537.817 274.373 536.16 274.373 C534.503 274.373 533.16 273.03 533.16 271.373 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_1_pull_2_post_1" data-name="Upper long drawer 1 pull 2 post 1" d="M557.16 271.373 C557.16 269.716 558.503 268.373 560.16 268.373 C561.817 268.373 563.16 269.716 563.16 271.373 C563.16 273.03 561.817 274.373 560.16 274.373 C558.503 274.373 557.16 273.03 557.16 271.373 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_1_escutcheon" data-name="Upper long drawer 1 escutcheon" d="M465 272.373 C465 266.85 468.134 262.373 472 262.373 C475.866 262.373 479 266.85 479 272.373 C479 277.896 475.866 282.373 472 282.373 C468.134 282.373 465 277.896 465 272.373 Z" fill="url(#radial-gradient-17)" stroke="#7a5214" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_1_keyhole" data-name="Upper long drawer 1 keyhole" d="M472 268.373 L472 276.373" fill="none" stroke="#2a1608" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_2_recess" data-name="Upper long drawer 2 recess" d="M333 304.143 L611 304.143 L611 377.603 L333 377.603 Z" fill="#3a140c" opacity="0.55"/>
+    <path id="Upper_long_drawer_2" data-name="Upper long drawer 2" d="M336 307.143 L608 307.143 L608 374.603 L336 374.603 Z" fill="url(#linear-gradient-44)" stroke="#3a1a12" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_2_lip_light" data-name="Upper long drawer 2 lip light" d="M339 371.603 L339 310.143 L605 310.143" fill="none" stroke="#ffcca4" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Upper_long_drawer_2_lip_shade" data-name="Upper long drawer 2 lip shade" d="M339 371.603 L605 371.603 L605 310.143" fill="none" stroke="#2a0c06" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Upper_long_drawer_2_grain_1" data-name="Upper long drawer 2 grain 1" d="M344 327.4 C417.6 324.4 499.2 330.4 600 326.4" fill="none" stroke="#6a2414" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Upper_long_drawer_2_grain_2" data-name="Upper long drawer 2 grain 2" d="M344 346.3 C417.6 342.3 499.2 350.3 600 345.3" fill="none" stroke="#6a2414" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Upper_long_drawer_2_grain_3" data-name="Upper long drawer 2 grain 3" d="M344 365.2 C417.6 360.2 499.2 370.2 600 364.2" fill="none" stroke="#6a2414" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Upper_long_drawer_2_pull_1_plate" data-name="Upper long drawer 2 pull 1 plate" d="M375.84 340.873 C379.84 329.873 388.84 331.873 395.84 335.873 C402.84 331.873 411.84 329.873 415.84 340.873 C411.84 351.873 402.84 349.873 395.84 345.873 C388.84 349.873 379.84 351.873 375.84 340.873 Z" fill="url(#radial-gradient-18)" stroke="#7a5214" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_2_pull_1_bail" data-name="Upper long drawer 2 pull 1 bail" d="M383.84 339.873 C391.84 350.54 399.84 350.54 407.84 339.873" fill="none" stroke="url(#linear-gradient-45)" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_2_pull_1_post_-1" data-name="Upper long drawer 2 pull 1 post -1" d="M380.84 339.873 C380.84 338.216 382.183 336.873 383.84 336.873 C385.497 336.873 386.84 338.216 386.84 339.873 C386.84 341.53 385.497 342.873 383.84 342.873 C382.183 342.873 380.84 341.53 380.84 339.873 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_2_pull_1_post_1" data-name="Upper long drawer 2 pull 1 post 1" d="M404.84 339.873 C404.84 338.216 406.183 336.873 407.84 336.873 C409.497 336.873 410.84 338.216 410.84 339.873 C410.84 341.53 409.497 342.873 407.84 342.873 C406.183 342.873 404.84 341.53 404.84 339.873 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_2_pull_2_plate" data-name="Upper long drawer 2 pull 2 plate" d="M528.16 340.873 C532.16 329.873 541.16 331.873 548.16 335.873 C555.16 331.873 564.16 329.873 568.16 340.873 C564.16 351.873 555.16 349.873 548.16 345.873 C541.16 349.873 532.16 351.873 528.16 340.873 Z" fill="url(#radial-gradient-19)" stroke="#7a5214" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_2_pull_2_bail" data-name="Upper long drawer 2 pull 2 bail" d="M536.16 339.873 C544.16 350.54 552.16 350.54 560.16 339.873" fill="none" stroke="url(#linear-gradient-46)" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_2_pull_2_post_-1" data-name="Upper long drawer 2 pull 2 post -1" d="M533.16 339.873 C533.16 338.216 534.503 336.873 536.16 336.873 C537.817 336.873 539.16 338.216 539.16 339.873 C539.16 341.53 537.817 342.873 536.16 342.873 C534.503 342.873 533.16 341.53 533.16 339.873 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_2_pull_2_post_1" data-name="Upper long drawer 2 pull 2 post 1" d="M557.16 339.873 C557.16 338.216 558.503 336.873 560.16 336.873 C561.817 336.873 563.16 338.216 563.16 339.873 C563.16 341.53 561.817 342.873 560.16 342.873 C558.503 342.873 557.16 341.53 557.16 339.873 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_2_escutcheon" data-name="Upper long drawer 2 escutcheon" d="M465 340.873 C465 335.35 468.134 330.873 472 330.873 C475.866 330.873 479 335.35 479 340.873 C479 346.396 475.866 350.873 472 350.873 C468.134 350.873 465 346.396 465 340.873 Z" fill="url(#radial-gradient-20)" stroke="#7a5214" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_2_keyhole" data-name="Upper long drawer 2 keyhole" d="M472 336.873 L472 344.873" fill="none" stroke="#2a1608" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_3_recess" data-name="Upper long drawer 3 recess" d="M333 377.603 L611 377.603 L611 459 L333 459 Z" fill="#3a140c" opacity="0.55"/>
+    <path id="Upper_long_drawer_3" data-name="Upper long drawer 3" d="M336 380.603 L608 380.603 L608 456 L336 456 Z" fill="url(#linear-gradient-47)" stroke="#3a1a12" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_3_lip_light" data-name="Upper long drawer 3 lip light" d="M339 453 L339 383.603 L605 383.603" fill="none" stroke="#ffcca4" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Upper_long_drawer_3_lip_shade" data-name="Upper long drawer 3 lip shade" d="M339 453 L605 453 L605 383.603" fill="none" stroke="#2a0c06" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Upper_long_drawer_3_grain_1" data-name="Upper long drawer 3 grain 1" d="M344 403.2 C417.6 400.2 499.2 406.2 600 402.2" fill="none" stroke="#6a2414" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Upper_long_drawer_3_grain_2" data-name="Upper long drawer 3 grain 2" d="M344 424.3 C417.6 420.3 499.2 428.3 600 423.3" fill="none" stroke="#6a2414" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Upper_long_drawer_3_grain_3" data-name="Upper long drawer 3 grain 3" d="M344 445.4 C417.6 440.4 499.2 450.4 600 444.4" fill="none" stroke="#6a2414" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Upper_long_drawer_3_pull_1_plate" data-name="Upper long drawer 3 pull 1 plate" d="M375.84 418.302 C379.84 407.302 388.84 409.302 395.84 413.302 C402.84 409.302 411.84 407.302 415.84 418.302 C411.84 429.302 402.84 427.302 395.84 423.302 C388.84 427.302 379.84 429.302 375.84 418.302 Z" fill="url(#radial-gradient-21)" stroke="#7a5214" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_3_pull_1_bail" data-name="Upper long drawer 3 pull 1 bail" d="M383.84 417.302 C391.84 427.968 399.84 427.968 407.84 417.302" fill="none" stroke="url(#linear-gradient-48)" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_3_pull_1_post_-1" data-name="Upper long drawer 3 pull 1 post -1" d="M380.84 417.302 C380.84 415.645 382.183 414.302 383.84 414.302 C385.497 414.302 386.84 415.645 386.84 417.302 C386.84 418.958 385.497 420.302 383.84 420.302 C382.183 420.302 380.84 418.958 380.84 417.302 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_3_pull_1_post_1" data-name="Upper long drawer 3 pull 1 post 1" d="M404.84 417.302 C404.84 415.645 406.183 414.302 407.84 414.302 C409.497 414.302 410.84 415.645 410.84 417.302 C410.84 418.958 409.497 420.302 407.84 420.302 C406.183 420.302 404.84 418.958 404.84 417.302 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_3_pull_2_plate" data-name="Upper long drawer 3 pull 2 plate" d="M528.16 418.302 C532.16 407.302 541.16 409.302 548.16 413.302 C555.16 409.302 564.16 407.302 568.16 418.302 C564.16 429.302 555.16 427.302 548.16 423.302 C541.16 427.302 532.16 429.302 528.16 418.302 Z" fill="url(#radial-gradient-22)" stroke="#7a5214" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_3_pull_2_bail" data-name="Upper long drawer 3 pull 2 bail" d="M536.16 417.302 C544.16 427.968 552.16 427.968 560.16 417.302" fill="none" stroke="url(#linear-gradient-49)" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_3_pull_2_post_-1" data-name="Upper long drawer 3 pull 2 post -1" d="M533.16 417.302 C533.16 415.645 534.503 414.302 536.16 414.302 C537.817 414.302 539.16 415.645 539.16 417.302 C539.16 418.958 537.817 420.302 536.16 420.302 C534.503 420.302 533.16 418.958 533.16 417.302 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_3_pull_2_post_1" data-name="Upper long drawer 3 pull 2 post 1" d="M557.16 417.302 C557.16 415.645 558.503 414.302 560.16 414.302 C561.817 414.302 563.16 415.645 563.16 417.302 C563.16 418.958 561.817 420.302 560.16 420.302 C558.503 420.302 557.16 418.958 557.16 417.302 Z" fill="#fff2c0" stroke="#7a5214" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_3_escutcheon" data-name="Upper long drawer 3 escutcheon" d="M465 418.302 C465 412.779 468.134 408.302 472 408.302 C475.866 408.302 479 412.779 479 418.302 C479 423.824 475.866 428.302 472 428.302 C468.134 428.302 465 423.824 465 418.302 Z" fill="url(#radial-gradient-23)" stroke="#7a5214" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Upper_long_drawer_3_keyhole" data-name="Upper long drawer 3 keyhole" d="M472 414.302 L472 422.302" fill="none" stroke="#2a1608" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Cornice_side" data-name="Cornice side" d="M650 150 L704 124 L704 156 L650 182 Z" fill="url(#linear-gradient-50)" stroke="#3a1a12" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Cornice_top" data-name="Cornice top" d="M294 150 L650 150 L704 124 L348 124 Z" fill="url(#linear-gradient-51)" stroke="#3a1a12" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Cornice" d="M294 150 L650 150 L650 160 C644 162 640 170 636 182 L308 182 C304 170 300 162 294 160 Z" fill="url(#linear-gradient-52)" stroke="#3a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Cornice_fillet" data-name="Cornice fillet" d="M298 155 L646 155" fill="none" stroke="#ffdab8" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Cornice_cove_line" data-name="Cornice cove line" d="M312 176 L632 176" fill="none" stroke="#4a1a0e" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Cornice_shadow" data-name="Cornice shadow" d="M314 182 L630 182 L630 200 L314 200 Z" fill="url(#linear-gradient-53)"/>
+    <path id="Front_sheen" data-name="Front sheen" d="M344 186 L410 186 L362 610 L312 610 Z" fill="url(#linear-gradient-54)"/>
+    <path id="Upper_corner_rim_light" data-name="Upper corner rim light" d="M633 184 L633 460" fill="none" stroke="#ffc09a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Lower_corner_rim_light" data-name="Lower corner rim light" d="M655 478 L655 636" fill="none" stroke="#ffc09a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Plate_rim" data-name="Plate rim" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="none" stroke="#16301e" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#e2f2dc" stroke-width="3" stroke-miterlimit="10" opacity="0.3"/>
+    <text transform="matrix(1 0 0 1 500 940)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="58" fill="#e2f0dc" text-anchor="middle"><tspan x="0" y="0">HIGHBOY DRESSER</tspan></text>
+    <text transform="matrix(1 0 0 1 500 975)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="22" fill="#a8ccae" letter-spacing="4.4" text-anchor="middle"><tspan x="0" y="0">CHERRY · WHITE PINE · BRASS</tspan></text>
+  </g>
+</svg>
