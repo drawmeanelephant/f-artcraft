@@ -1,5 +1,5 @@
 import sys, json
-sys.path.insert(0, "/home/hatch/workspace/vectorcraft/work")
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from mcp_client import MCP
 m = MCP(["--connect", "127.0.0.1:7979"]); m.init()
 

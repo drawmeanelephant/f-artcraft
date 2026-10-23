@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Filed & Forgotten ERROR bunny — Twitter banner scene, 1500x500."""
 import sys
-sys.path.insert(0, "/home/hatch/workspace/vectorcraft/work")
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from vc import Draw, NONE, rot_rect_path
 
 d = Draw()

@@ -3,6 +3,8 @@
 radius param); draw the three finger bumps over the paw. Also a second arm
 stub on the right for symmetry. Opens V2R00, saves V2R01."""
 import os
+import sys
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from vc import Draw, NONE
 from v2style import ship
 

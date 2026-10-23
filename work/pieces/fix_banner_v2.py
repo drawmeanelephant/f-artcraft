@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Surgical fixes for bunny-banner-v2: stamp text into box, hide plate behind ears, tone down tail."""
 import sys, json, time
-sys.path.insert(0, "/home/hatch/workspace/vectorcraft/work")
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from vc import Draw, OUT, NONE
 
 INK = "#38332A"; RED = "#B03A2E"

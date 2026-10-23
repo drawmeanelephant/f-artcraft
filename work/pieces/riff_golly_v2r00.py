@@ -2,6 +2,8 @@
 """golly-V2R00 — the cheerful guillotine under lamplight: deep plum field,
 one warm cone from above, wood in layered browns, the blade catching light.
 900x1100, riffing on golly-V1R00."""
+import sys, os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from vc import Draw, NONE
 from v2style import backdrop, glow, vignette, sparkle, ship
 

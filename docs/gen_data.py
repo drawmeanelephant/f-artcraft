@@ -21,10 +21,6 @@ MEDIA = DOCS / "site" / "media"
 
 REV = re.compile(r"^(?P<slug>.+)-V(?P<v>\d+)R(?P<r>\d+)$")
 
-# twitter/*.svg and the root fart-knocker.svg are byte-identical to art/
-# files — the set is shown once, from art/.
-SKIP_DIRS = {"twitter"}
-
 PAGES = ["index", "plates", "machines", "pieces", "guest", "about"]
 
 NAV = ('"index":index.html · "plates":plates.html · "machines":machines.html'
@@ -103,12 +99,8 @@ def main():
     machines = [section("Vehicles", art / "vehicles"),
                 section("Furniture", art / "furniture")]
 
-    fk = collect_versioned(art).get("fart-knocker", [])
-    fk_cards = [card("fart-knocker", fk)]
-    crest = ROOT / "fart-knocker-crest.svg"
-    if crest.exists():
-        fk_cards.append(singleton(crest))
     faf = collect_versioned(art)
+    fk_cards = [card(s, faf[s]) for s in ("fart-knocker", "fart-knocker-crest") if s in faf]
     pieces = [
         {"title": "Fart Knocker — self-portrait & crest", "pieces": fk_cards},
         {"title": "The Filed & Forgotten set", "pieces":

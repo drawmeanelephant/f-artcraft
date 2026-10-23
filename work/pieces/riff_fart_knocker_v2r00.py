@@ -2,6 +2,8 @@
 """fart-knocker-V2R00 — the self-portrait reconsidered: same burger crown,
 monocle and bowtied tentacles, but under one amber spot on a noir field.
 800x1000, riffing on fart-knocker-V1R00."""
+import sys, os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from vc import Draw, NONE
 from v2style import backdrop, glow, vignette, sparkle, ship
 

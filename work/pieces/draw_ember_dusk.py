@@ -2,6 +2,8 @@
 """Ember Dusk V1R00 — gradient-sky sunset: stars, sun, ridges, shimmer, birds.
 800x600. The piece that started the V2 idiom."""
 import random, os
+import sys, os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from vc import Draw, NONE
 from v2style import ship
 
