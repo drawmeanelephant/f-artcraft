@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1e140e"/>
+      <stop offset="1" stop-color="#0a0604"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5a3e2a"/>
+      <stop offset="0.55" stop-color="#3a2618"/>
+      <stop offset="1" stop-color="#1e130c"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="400" cy="370" r="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffc27a" stop-opacity="0.3"/>
+      <stop offset="0.55" stop-color="#ffb060" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#ffb060" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="690" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a1a10" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#2a1a10" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#140c07" stop-opacity="0.85"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-3" cx="478" cy="742" r="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#080402" stop-opacity="0.75"/>
+      <stop offset="0.7" stop-color="#080402" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#080402" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-3" x1="0" y1="640" x2="0" y2="780" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5a361e"/>
+      <stop offset="1" stop-color="#24140a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="220" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c2a1a"/>
+      <stop offset="1" stop-color="#34482f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0" y1="160" x2="0" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7c9c70"/>
+      <stop offset="1" stop-color="#4a6844"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0" y1="230" x2="0" y2="560" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#668a5c"/>
+      <stop offset="0.6" stop-color="#46663f"/>
+      <stop offset="1" stop-color="#2e4429"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-4" cx="319" cy="318" r="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a6c494" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#a6c494" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="389" cy="310" r="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a6c494" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#a6c494" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-6" cx="460" cy="302" r="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a6c494" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#a6c494" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-7" cx="531" cy="295" r="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a6c494" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#a6c494" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-8" cx="319" cy="377" r="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a6c494" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#a6c494" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-9" cx="389" cy="369" r="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a6c494" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#a6c494" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-10" cx="460" cy="361" r="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a6c494" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#a6c494" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-11" cx="531" cy="353" r="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a6c494" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#a6c494" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-12" cx="319" cy="435" r="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a6c494" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#a6c494" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-13" cx="389" cy="428" r="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a6c494" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#a6c494" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-14" cx="460" cy="420" r="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a6c494" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#a6c494" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-15" cx="531" cy="412" r="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a6c494" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#a6c494" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-16" cx="324.5" cy="293.5" r="5.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e9e70"/>
+      <stop offset="1" stop-color="#2e4428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-17" cx="395.5" cy="285.5" r="5.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e9e70"/>
+      <stop offset="1" stop-color="#2e4428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-18" cx="465.5" cy="278.5" r="5.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e9e70"/>
+      <stop offset="1" stop-color="#2e4428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-19" cx="536.5" cy="270.5" r="5.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e9e70"/>
+      <stop offset="1" stop-color="#2e4428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-20" cx="298.5" cy="355.5" r="5.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e9e70"/>
+      <stop offset="1" stop-color="#2e4428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-21" cx="359.5" cy="348.5" r="5.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e9e70"/>
+      <stop offset="1" stop-color="#2e4428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-22" cx="430.5" cy="340.5" r="5.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e9e70"/>
+      <stop offset="1" stop-color="#2e4428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-23" cx="501.5" cy="332.5" r="5.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e9e70"/>
+      <stop offset="1" stop-color="#2e4428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-24" cx="563.5" cy="326.5" r="5.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e9e70"/>
+      <stop offset="1" stop-color="#2e4428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-25" cx="324.5" cy="411.5" r="5.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e9e70"/>
+      <stop offset="1" stop-color="#2e4428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-26" cx="395.5" cy="403.5" r="5.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e9e70"/>
+      <stop offset="1" stop-color="#2e4428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-27" cx="465.5" cy="395.5" r="5.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e9e70"/>
+      <stop offset="1" stop-color="#2e4428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-28" cx="536.5" cy="387.5" r="5.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e9e70"/>
+      <stop offset="1" stop-color="#2e4428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-29" cx="298.5" cy="472.5" r="5.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e9e70"/>
+      <stop offset="1" stop-color="#2e4428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-30" cx="359.5" cy="465.5" r="5.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e9e70"/>
+      <stop offset="1" stop-color="#2e4428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-31" cx="430.5" cy="458.5" r="5.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e9e70"/>
+      <stop offset="1" stop-color="#2e4428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-32" cx="501.5" cy="450.5" r="5.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e9e70"/>
+      <stop offset="1" stop-color="#2e4428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-33" cx="563.5" cy="443.5" r="5.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e9e70"/>
+      <stop offset="1" stop-color="#2e4428"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-7" x1="560" y1="0" x2="740" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3c5636"/>
+      <stop offset="1" stop-color="#6a8c60"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="0" y1="0" x2="0" y2="1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3e5838"/>
+      <stop offset="1" stop-color="#24361f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="0" y1="520" x2="0" y2="600" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4e6c46"/>
+      <stop offset="1" stop-color="#7ea072"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x1="0" y1="520" x2="0" y2="720" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#56764e"/>
+      <stop offset="1" stop-color="#2c4228"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-11" x1="250" y1="0" x2="400" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c2a1a"/>
+      <stop offset="1" stop-color="#30442c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-12" x1="250" y1="0" x2="330" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a3e27"/>
+      <stop offset="1" stop-color="#48663f"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-34" cx="676.8" cy="466.718" r="52.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c8c094" stop-opacity="0.62"/>
+      <stop offset="0.7" stop-color="#b8b488" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#b8b488" stop-opacity="0.08"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-35" cx="702.5" cy="486.598" r="32.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d2c898" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#b8b488" stop-opacity="0.15"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-13" x1="0" y1="640" x2="0" y2="780" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7a4a2a"/>
+      <stop offset="0.5" stop-color="#4e2c18"/>
+      <stop offset="1" stop-color="#2e1a0e"/>
+    </linearGradient>
+  </defs>
+  <title>Wingback Armchair — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo" data-name="Plate halo" d="M60 460 C60 216.995 256.995 20 500 20 C743.005 20 940 216.995 940 460 C940 703.005 743.005 900 500 900 C256.995 900 60 703.005 60 460 Z" fill="#6a4a30" opacity="0.1"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#120a06" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#e8c49a" stroke-width="3" stroke-miterlimit="10" opacity="0.28"/>
+    <path id="Lamp_glow" data-name="Lamp glow" d="M120 370 C120 215.36 245.36 90 400 90 C554.64 90 680 215.36 680 370 C680 524.64 554.64 650 400 650 C245.36 650 120 524.64 120 370 Z" fill="url(#radial-gradient-2)"/>
+    <path id="Floor" d="M844.7 700 L155.3 700 C233.823 812.796 362.564 880.038 500 880.038 C637.436 880.038 766.177 812.796 844.7 700 Z" fill="url(#linear-gradient-2)"/>
+    <path id="Floor_seam_1" data-name="Floor seam 1" d="M192.8 742 L807.2 742" fill="none" stroke="#5a3c26" stroke-width="2" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Floor_seam_2" data-name="Floor seam 2" d="M246.8 792 L753.2 792" fill="none" stroke="#5a3c26" stroke-width="2" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Floor_seam_3" data-name="Floor seam 3" d="M338.5 846 L661.5 846" fill="none" stroke="#5a3c26" stroke-width="2" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Wainscot_rail" data-name="Wainscot rail" d="M90.3 520 L909.7 520" fill="none" stroke="#7a5638" stroke-width="3" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Floor_shadow" data-name="Floor shadow" d="M178 742 C178 713.281 312.315 690 478 690 C643.685 690 778 713.281 778 742 C778 770.719 643.685 794 478 794 C312.315 794 178 770.719 178 742 Z" fill="url(#radial-gradient-3)"/>
+    <path id="Leg_back_right" data-name="Leg back right" d="M564.3 630 L588.3 630 C594.3 652 578.8 678.5 582.8 694.5 C585.8 698.5 585.8 700.5 584.8 700.5 L567.8 700.5 C566.8 700.5 566.8 698.5 569.8 694.5 C565.8 678.5 570.3 652 564.3 630 Z" fill="url(#linear-gradient-3)" stroke="#2a1a12" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Leg_back_right_gloss" data-name="Leg back right gloss" d="M570.3 634 C576.3 652 574.3 674.5 574.3 692.5" fill="none" stroke="#e0a878" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Leg_back_left" data-name="Leg back left" d="M242.9 665.6 L266.9 665.6 C260.9 687.6 265.4 714 261.4 730 C264.4 734 264.4 736 263.4 736 L246.4 736 C245.4 736 245.4 734 248.4 730 C252.4 714 236.9 687.6 242.9 665.6 Z" fill="url(#linear-gradient-3)" stroke="#2a1a12" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Leg_back_left_gloss" data-name="Leg back left gloss" d="M248.9 669.6 C246.9 687.6 252.9 710 252.9 728" fill="none" stroke="#e0a878" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Side_panel" data-name="Side panel" d="M371.4 719.1 L230.6 664 L230.6 245.4 L254 254.6 L279.8 269.4 C293.7 274.7 304 298.6 304.9 353.8 C313.8 392.4 343.3 460.4 365.3 503.7 L371.4 533.2 Z" fill="url(#linear-gradient-4)" stroke="#2a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Side_wing_sheen" data-name="Side wing sheen" d="M260.2 433.2 C260.9 347.5 269.5 286.5 282.4 281.2" fill="none" stroke="#9ab88a" stroke-width="16" stroke-linecap="round" stroke-miterlimit="10" opacity="0.14"/>
+    <path id="Side_piping" data-name="Side piping" d="M368.6 712.1 L233.4 659.3" fill="none" stroke="#9ab88a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Side_skirt_shade" data-name="Side skirt shade" d="M371.4 719.1 L230.6 664 L230.6 624.9 L371.4 680 Z" fill="#060a05" opacity="0.28"/>
+    <path id="Side_arm_roll_light" data-name="Side arm roll light" d="M362 539.4 L258.7 499" fill="none" stroke="#9ab88a" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10" opacity="0.16"/>
+    <path id="Back_top" data-name="Back top" d="M254 254.6 C333.5 224.3 527.8 202.8 607.2 215.5 L583.7 206.3 C504.3 193.6 310 215.1 230.6 245.4 Z" fill="url(#linear-gradient-5)" stroke="#2a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Inside_back" data-name="Inside back" d="M278.8 549.2 L278.8 246.7 C345.9 223.9 515.4 205.1 582.5 213.1 L582.5 515.6 Z" fill="url(#linear-gradient-6)" stroke="#2a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Tuft_puff_1_-120" data-name="Tuft puff 1 -120" d="M295 318 C295 308.611 305.745 301 319 301 C332.255 301 343 308.611 343 318 C343 327.389 332.255 335 319 335 C305.745 335 295 327.389 295 318 Z" fill="url(#radial-gradient-4)"/>
+    <path id="Tuft_puff_1_-40" data-name="Tuft puff 1 -40" d="M365 310 C365 300.611 375.745 293 389 293 C402.255 293 413 300.611 413 310 C413 319.389 402.255 327 389 327 C375.745 327 365 319.389 365 310 Z" fill="url(#radial-gradient-5)"/>
+    <path id="Tuft_puff_1_40" data-name="Tuft puff 1 40" d="M436 302 C436 292.611 446.745 285 460 285 C473.255 285 484 292.611 484 302 C484 311.389 473.255 319 460 319 C446.745 319 436 311.389 436 302 Z" fill="url(#radial-gradient-6)"/>
+    <path id="Tuft_puff_1_120" data-name="Tuft puff 1 120" d="M507 295 C507 285.611 517.745 278 531 278 C544.255 278 555 285.611 555 295 C555 304.389 544.255 312 531 312 C517.745 312 507 304.389 507 295 Z" fill="url(#radial-gradient-7)"/>
+    <path id="Tuft_puff_2_-120" data-name="Tuft puff 2 -120" d="M295 377 C295 367.611 305.745 360 319 360 C332.255 360 343 367.611 343 377 C343 386.389 332.255 394 319 394 C305.745 394 295 386.389 295 377 Z" fill="url(#radial-gradient-8)"/>
+    <path id="Tuft_puff_2_-40" data-name="Tuft puff 2 -40" d="M365 369 C365 359.611 375.745 352 389 352 C402.255 352 413 359.611 413 369 C413 378.389 402.255 386 389 386 C375.745 386 365 378.389 365 369 Z" fill="url(#radial-gradient-9)"/>
+    <path id="Tuft_puff_2_40" data-name="Tuft puff 2 40" d="M436 361 C436 351.611 446.745 344 460 344 C473.255 344 484 351.611 484 361 C484 370.389 473.255 378 460 378 C446.745 378 436 370.389 436 361 Z" fill="url(#radial-gradient-10)"/>
+    <path id="Tuft_puff_2_120" data-name="Tuft puff 2 120" d="M507 353 C507 343.611 517.745 336 531 336 C544.255 336 555 343.611 555 353 C555 362.389 544.255 370 531 370 C517.745 370 507 362.389 507 353 Z" fill="url(#radial-gradient-11)"/>
+    <path id="Tuft_puff_3_-120" data-name="Tuft puff 3 -120" d="M295 435 C295 425.611 305.745 418 319 418 C332.255 418 343 425.611 343 435 C343 444.389 332.255 452 319 452 C305.745 452 295 444.389 295 435 Z" fill="url(#radial-gradient-12)"/>
+    <path id="Tuft_puff_3_-40" data-name="Tuft puff 3 -40" d="M365 428 C365 418.611 375.745 411 389 411 C402.255 411 413 418.611 413 428 C413 437.389 402.255 445 389 445 C375.745 445 365 437.389 365 428 Z" fill="url(#radial-gradient-13)"/>
+    <path id="Tuft_puff_3_40" data-name="Tuft puff 3 40" d="M436 420 C436 410.611 446.745 403 460 403 C473.255 403 484 410.611 484 420 C484 429.389 473.255 437 460 437 C446.745 437 436 429.389 436 420 Z" fill="url(#radial-gradient-14)"/>
+    <path id="Tuft_puff_3_120" data-name="Tuft puff 3 120" d="M507 412 C507 402.611 517.745 395 531 395 C544.255 395 555 402.611 555 412 C555 421.389 544.255 429 531 429 C517.745 429 507 421.389 507 412 Z" fill="url(#radial-gradient-15)"/>
+    <path id="Pleat_1" data-name="Pleat 1" d="M324.7 293.7 L360 348.5" fill="none" stroke="#1e2e1a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Pleat_1_light" data-name="Pleat 1 light" d="M326.7 295.7 L362 350.5" fill="none" stroke="#b4d0a0" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Pleat_2" data-name="Pleat 2" d="M395.3 285.9 L360 348.5" fill="none" stroke="#1e2e1a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Pleat_2_light" data-name="Pleat 2 light" d="M397.3 287.9 L362 350.5" fill="none" stroke="#b4d0a0" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Pleat_3" data-name="Pleat 3" d="M395.3 285.9 L430.6 340.7" fill="none" stroke="#1e2e1a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Pleat_3_light" data-name="Pleat 3 light" d="M397.3 287.9 L432.6 342.7" fill="none" stroke="#b4d0a0" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Pleat_4" data-name="Pleat 4" d="M466 278.1 L430.6 340.7" fill="none" stroke="#1e2e1a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Pleat_4_light" data-name="Pleat 4 light" d="M468 280.1 L432.6 342.7" fill="none" stroke="#b4d0a0" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Pleat_5" data-name="Pleat 5" d="M466 278.1 L501.3 332.9" fill="none" stroke="#1e2e1a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Pleat_5_light" data-name="Pleat 5 light" d="M468 280.1 L503.3 334.9" fill="none" stroke="#b4d0a0" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Pleat_6" data-name="Pleat 6" d="M536.6 270.3 L501.3 332.9" fill="none" stroke="#1e2e1a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Pleat_6_light" data-name="Pleat 6 light" d="M538.6 272.3 L503.3 334.9" fill="none" stroke="#b4d0a0" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Pleat_7" data-name="Pleat 7" d="M360 348.5 L324.7 411.1" fill="none" stroke="#1e2e1a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Pleat_7_light" data-name="Pleat 7 light" d="M362 350.5 L326.7 413.1" fill="none" stroke="#b4d0a0" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Pleat_8" data-name="Pleat 8" d="M360 348.5 L395.3 403.3" fill="none" stroke="#1e2e1a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Pleat_8_light" data-name="Pleat 8 light" d="M362 350.5 L397.3 405.3" fill="none" stroke="#b4d0a0" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Pleat_9" data-name="Pleat 9" d="M430.6 340.7 L395.3 403.3" fill="none" stroke="#1e2e1a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Pleat_9_light" data-name="Pleat 9 light" d="M432.6 342.7 L397.3 405.3" fill="none" stroke="#b4d0a0" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Pleat_10" data-name="Pleat 10" d="M430.6 340.7 L466 395.5" fill="none" stroke="#1e2e1a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Pleat_10_light" data-name="Pleat 10 light" d="M432.6 342.7 L468 397.5" fill="none" stroke="#b4d0a0" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Pleat_11" data-name="Pleat 11" d="M501.3 332.9 L466 395.5" fill="none" stroke="#1e2e1a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Pleat_11_light" data-name="Pleat 11 light" d="M503.3 334.9 L468 397.5" fill="none" stroke="#b4d0a0" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Pleat_12" data-name="Pleat 12" d="M501.3 332.9 L536.6 387.6" fill="none" stroke="#1e2e1a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Pleat_12_light" data-name="Pleat 12 light" d="M503.3 334.9 L538.6 389.6" fill="none" stroke="#b4d0a0" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Pleat_13" data-name="Pleat 13" d="M324.7 411.1 L360 465.9" fill="none" stroke="#1e2e1a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Pleat_13_light" data-name="Pleat 13 light" d="M326.7 413.1 L362 467.9" fill="none" stroke="#b4d0a0" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Pleat_14" data-name="Pleat 14" d="M395.3 403.3 L360 465.9" fill="none" stroke="#1e2e1a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Pleat_14_light" data-name="Pleat 14 light" d="M397.3 405.3 L362 467.9" fill="none" stroke="#b4d0a0" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Pleat_15" data-name="Pleat 15" d="M395.3 403.3 L430.6 458.1" fill="none" stroke="#1e2e1a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Pleat_15_light" data-name="Pleat 15 light" d="M397.3 405.3 L432.6 460.1" fill="none" stroke="#b4d0a0" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Pleat_16" data-name="Pleat 16" d="M466 395.5 L430.6 458.1" fill="none" stroke="#1e2e1a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Pleat_16_light" data-name="Pleat 16 light" d="M468 397.5 L432.6 460.1" fill="none" stroke="#b4d0a0" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Pleat_17" data-name="Pleat 17" d="M466 395.5 L501.3 450.2" fill="none" stroke="#1e2e1a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Pleat_17_light" data-name="Pleat 17 light" d="M468 397.5 L503.3 452.2" fill="none" stroke="#b4d0a0" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Pleat_18" data-name="Pleat 18" d="M536.6 387.6 L501.3 450.2" fill="none" stroke="#1e2e1a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Pleat_18_light" data-name="Pleat 18 light" d="M538.6 389.6 L503.3 452.2" fill="none" stroke="#b4d0a0" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Seat_pleat_1" data-name="Seat pleat 1" d="M298.2 472.7 L298.2 541.2" fill="none" stroke="#1e2e1a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Seat_pleat_2" data-name="Seat pleat 2" d="M360 465.9 L360 534.3" fill="none" stroke="#1e2e1a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Seat_pleat_3" data-name="Seat pleat 3" d="M430.6 458.1 L430.6 526.5" fill="none" stroke="#1e2e1a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Seat_pleat_4" data-name="Seat pleat 4" d="M501.3 450.2 L501.3 518.7" fill="none" stroke="#1e2e1a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Seat_pleat_5" data-name="Seat pleat 5" d="M563.1 443.4 L563.1 511.9" fill="none" stroke="#1e2e1a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Button_1_dimple" data-name="Button 1 dimple" d="M316 294 C316 289.582 320.029 286 325 286 C329.971 286 334 289.582 334 294 C334 298.418 329.971 302 325 302 C320.029 302 316 298.418 316 294 Z" fill="#14200f" opacity="0.45"/>
+    <path id="Button_1" data-name="Button 1" d="M319 293.5 C319 290.462 321.462 288 324.5 288 C327.538 288 330 290.462 330 293.5 C330 296.538 327.538 299 324.5 299 C321.462 299 319 296.538 319 293.5 Z" fill="url(#radial-gradient-16)" stroke="#2a1a12" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Button_2_dimple" data-name="Button 2 dimple" d="M386 286 C386 281.582 390.029 278 395 278 C399.971 278 404 281.582 404 286 C404 290.418 399.971 294 395 294 C390.029 294 386 290.418 386 286 Z" fill="#14200f" opacity="0.45"/>
+    <path id="Button_2" data-name="Button 2" d="M390 285.5 C390 282.462 392.462 280 395.5 280 C398.538 280 401 282.462 401 285.5 C401 288.538 398.538 291 395.5 291 C392.462 291 390 288.538 390 285.5 Z" fill="url(#radial-gradient-17)" stroke="#2a1a12" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Button_3_dimple" data-name="Button 3 dimple" d="M457 278 C457 273.582 461.029 270 466 270 C470.971 270 475 273.582 475 278 C475 282.418 470.971 286 466 286 C461.029 286 457 282.418 457 278 Z" fill="#14200f" opacity="0.45"/>
+    <path id="Button_3" data-name="Button 3" d="M460 278.5 C460 275.462 462.462 273 465.5 273 C468.538 273 471 275.462 471 278.5 C471 281.538 468.538 284 465.5 284 C462.462 284 460 281.538 460 278.5 Z" fill="url(#radial-gradient-18)" stroke="#2a1a12" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Button_4_dimple" data-name="Button 4 dimple" d="M528 270 C528 265.582 532.029 262 537 262 C541.971 262 546 265.582 546 270 C546 274.418 541.971 278 537 278 C532.029 278 528 274.418 528 270 Z" fill="#14200f" opacity="0.45"/>
+    <path id="Button_4" data-name="Button 4" d="M531 270.5 C531 267.462 533.462 265 536.5 265 C539.538 265 542 267.462 542 270.5 C542 273.538 539.538 276 536.5 276 C533.462 276 531 273.538 531 270.5 Z" fill="url(#radial-gradient-19)" stroke="#2a1a12" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Button_5_dimple" data-name="Button 5 dimple" d="M289 355 C289 350.582 293.029 347 298 347 C302.971 347 307 350.582 307 355 C307 359.418 302.971 363 298 363 C293.029 363 289 359.418 289 355 Z" fill="#14200f" opacity="0.45"/>
+    <path id="Button_5" data-name="Button 5" d="M293 355.5 C293 352.462 295.462 350 298.5 350 C301.538 350 304 352.462 304 355.5 C304 358.538 301.538 361 298.5 361 C295.462 361 293 358.538 293 355.5 Z" fill="url(#radial-gradient-20)" stroke="#2a1a12" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Button_6_dimple" data-name="Button 6 dimple" d="M351 348 C351 343.582 355.029 340 360 340 C364.971 340 369 343.582 369 348 C369 352.418 364.971 356 360 356 C355.029 356 351 352.418 351 348 Z" fill="#14200f" opacity="0.45"/>
+    <path id="Button_6" data-name="Button 6" d="M354 348.5 C354 345.462 356.462 343 359.5 343 C362.538 343 365 345.462 365 348.5 C365 351.538 362.538 354 359.5 354 C356.462 354 354 351.538 354 348.5 Z" fill="url(#radial-gradient-21)" stroke="#2a1a12" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Button_7_dimple" data-name="Button 7 dimple" d="M422 341 C422 336.582 426.029 333 431 333 C435.971 333 440 336.582 440 341 C440 345.418 435.971 349 431 349 C426.029 349 422 345.418 422 341 Z" fill="#14200f" opacity="0.45"/>
+    <path id="Button_7" data-name="Button 7" d="M425 340.5 C425 337.462 427.462 335 430.5 335 C433.538 335 436 337.462 436 340.5 C436 343.538 433.538 346 430.5 346 C427.462 346 425 343.538 425 340.5 Z" fill="url(#radial-gradient-22)" stroke="#2a1a12" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Button_8_dimple" data-name="Button 8 dimple" d="M492 333 C492 328.582 496.029 325 501 325 C505.971 325 510 328.582 510 333 C510 337.418 505.971 341 501 341 C496.029 341 492 337.418 492 333 Z" fill="#14200f" opacity="0.45"/>
+    <path id="Button_8" data-name="Button 8" d="M496 332.5 C496 329.462 498.462 327 501.5 327 C504.538 327 507 329.462 507 332.5 C507 335.538 504.538 338 501.5 338 C498.462 338 496 335.538 496 332.5 Z" fill="url(#radial-gradient-23)" stroke="#2a1a12" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Button_9_dimple" data-name="Button 9 dimple" d="M554 326 C554 321.582 558.029 318 563 318 C567.971 318 572 321.582 572 326 C572 330.418 567.971 334 563 334 C558.029 334 554 330.418 554 326 Z" fill="#14200f" opacity="0.45"/>
+    <path id="Button_9" data-name="Button 9" d="M558 326.5 C558 323.462 560.462 321 563.5 321 C566.538 321 569 323.462 569 326.5 C569 329.538 566.538 332 563.5 332 C560.462 332 558 329.538 558 326.5 Z" fill="url(#radial-gradient-24)" stroke="#2a1a12" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Button_10_dimple" data-name="Button 10 dimple" d="M316 411 C316 406.582 320.029 403 325 403 C329.971 403 334 406.582 334 411 C334 415.418 329.971 419 325 419 C320.029 419 316 415.418 316 411 Z" fill="#14200f" opacity="0.45"/>
+    <path id="Button_10" data-name="Button 10" d="M319 411.5 C319 408.462 321.462 406 324.5 406 C327.538 406 330 408.462 330 411.5 C330 414.538 327.538 417 324.5 417 C321.462 417 319 414.538 319 411.5 Z" fill="url(#radial-gradient-25)" stroke="#2a1a12" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Button_11_dimple" data-name="Button 11 dimple" d="M386 403 C386 398.582 390.029 395 395 395 C399.971 395 404 398.582 404 403 C404 407.418 399.971 411 395 411 C390.029 411 386 407.418 386 403 Z" fill="#14200f" opacity="0.45"/>
+    <path id="Button_11" data-name="Button 11" d="M390 403.5 C390 400.462 392.462 398 395.5 398 C398.538 398 401 400.462 401 403.5 C401 406.538 398.538 409 395.5 409 C392.462 409 390 406.538 390 403.5 Z" fill="url(#radial-gradient-26)" stroke="#2a1a12" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Button_12_dimple" data-name="Button 12 dimple" d="M457 395 C457 390.582 461.029 387 466 387 C470.971 387 475 390.582 475 395 C475 399.418 470.971 403 466 403 C461.029 403 457 399.418 457 395 Z" fill="#14200f" opacity="0.45"/>
+    <path id="Button_12" data-name="Button 12" d="M460 395.5 C460 392.462 462.462 390 465.5 390 C468.538 390 471 392.462 471 395.5 C471 398.538 468.538 401 465.5 401 C462.462 401 460 398.538 460 395.5 Z" fill="url(#radial-gradient-27)" stroke="#2a1a12" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Button_13_dimple" data-name="Button 13 dimple" d="M528 388 C528 383.582 532.029 380 537 380 C541.971 380 546 383.582 546 388 C546 392.418 541.971 396 537 396 C532.029 396 528 392.418 528 388 Z" fill="#14200f" opacity="0.45"/>
+    <path id="Button_13" data-name="Button 13" d="M531 387.5 C531 384.462 533.462 382 536.5 382 C539.538 382 542 384.462 542 387.5 C542 390.538 539.538 393 536.5 393 C533.462 393 531 390.538 531 387.5 Z" fill="url(#radial-gradient-28)" stroke="#2a1a12" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Button_14_dimple" data-name="Button 14 dimple" d="M289 473 C289 468.582 293.029 465 298 465 C302.971 465 307 468.582 307 473 C307 477.418 302.971 481 298 481 C293.029 481 289 477.418 289 473 Z" fill="#14200f" opacity="0.45"/>
+    <path id="Button_14" data-name="Button 14" d="M293 472.5 C293 469.462 295.462 467 298.5 467 C301.538 467 304 469.462 304 472.5 C304 475.538 301.538 478 298.5 478 C295.462 478 293 475.538 293 472.5 Z" fill="url(#radial-gradient-29)" stroke="#2a1a12" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Button_15_dimple" data-name="Button 15 dimple" d="M351 466 C351 461.582 355.029 458 360 458 C364.971 458 369 461.582 369 466 C369 470.418 364.971 474 360 474 C355.029 474 351 470.418 351 466 Z" fill="#14200f" opacity="0.45"/>
+    <path id="Button_15" data-name="Button 15" d="M354 465.5 C354 462.462 356.462 460 359.5 460 C362.538 460 365 462.462 365 465.5 C365 468.538 362.538 471 359.5 471 C356.462 471 354 468.538 354 465.5 Z" fill="url(#radial-gradient-30)" stroke="#2a1a12" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Button_16_dimple" data-name="Button 16 dimple" d="M422 458 C422 453.582 426.029 450 431 450 C435.971 450 440 453.582 440 458 C440 462.418 435.971 466 431 466 C426.029 466 422 462.418 422 458 Z" fill="#14200f" opacity="0.45"/>
+    <path id="Button_16" data-name="Button 16" d="M425 458.5 C425 455.462 427.462 453 430.5 453 C433.538 453 436 455.462 436 458.5 C436 461.538 433.538 464 430.5 464 C427.462 464 425 461.538 425 458.5 Z" fill="url(#radial-gradient-31)" stroke="#2a1a12" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Button_17_dimple" data-name="Button 17 dimple" d="M492 450 C492 445.582 496.029 442 501 442 C505.971 442 510 445.582 510 450 C510 454.418 505.971 458 501 458 C496.029 458 492 454.418 492 450 Z" fill="#14200f" opacity="0.45"/>
+    <path id="Button_17" data-name="Button 17" d="M496 450.5 C496 447.462 498.462 445 501.5 445 C504.538 445 507 447.462 507 450.5 C507 453.538 504.538 456 501.5 456 C498.462 456 496 453.538 496 450.5 Z" fill="url(#radial-gradient-32)" stroke="#2a1a12" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Button_18_dimple" data-name="Button 18 dimple" d="M554 443 C554 438.582 558.029 435 563 435 C567.971 435 572 438.582 572 443 C572 447.418 567.971 451 563 451 C558.029 451 554 447.418 554 443 Z" fill="#14200f" opacity="0.45"/>
+    <path id="Button_18" data-name="Button 18" d="M558 443.5 C558 440.462 560.462 438 563.5 438 C566.538 438 569 440.462 569 443.5 C569 446.538 566.538 449 563.5 449 C560.462 449 558 446.538 558 443.5 Z" fill="url(#radial-gradient-33)" stroke="#2a1a12" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Back_top_shade" data-name="Back top shade" d="M278.8 248.7 C345.9 225.8 515.4 207.1 582.5 215.1 L582.5 252.3 C515.4 247.2 345.9 265.9 278.8 285.9 Z" fill="#0e180c" opacity="0.22"/>
+    <path id="Right_wing_inner" data-name="Right wing inner" d="M582.5 515.6 L582.5 218.2 L650.6 228.4 C687.4 231.2 714.7 253.2 715.6 308.4 C708.7 348.7 690.4 422.1 694.7 467.3 L694.2 559.3 Z" fill="url(#linear-gradient-7)" stroke="#2a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Right_wing_sheen" data-name="Right wing sheen" d="M616.6 255.6 C650.6 248 687.4 262.5 698.3 314.4" fill="none" stroke="#c2dcae" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Right_wing_crease" data-name="Right wing crease" d="M584.4 508.5 L585.2 224.8" fill="none" stroke="#14200f" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Right_wing_edge" data-name="Right wing edge" d="M559 209.1 L582.5 218.2 L650.6 228.4 C687.4 231.2 714.7 253.2 715.6 308.4 C708.7 348.7 690.4 422.1 694.7 467.3 L719.5 464.6 C715.1 419.3 733.4 346 740.4 305.6 C739.4 250.5 712.2 228.4 675.4 225.7 L607.2 215.5 L583.7 206.3 Z" fill="url(#linear-gradient-5)" stroke="#2a1a12" stroke-width="4" stroke-linejoin="round"/>
+    <path id="Left_ear_piping" data-name="Left ear piping" d="M255.8 252.4 L281.6 267.2 C295.5 272.5 305.8 296.5 306.6 351.6 C315 390.3 344.5 458.3 366.8 501.6" fill="none" stroke="#9ab88a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Right_ear_piping" data-name="Right ear piping" d="M584.3 216.1 L652.4 226.2 C689.2 229 716.5 251.1 717.5 306.2 C711 346.5 692.8 419.8 696.7 465.1" fill="none" stroke="#9ab88a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Right_arm_inner" data-name="Right arm inner" d="M662.8 610.6 L545.4 564.7 L545.4 466.9 L662.8 512.8 Z" fill="url(#linear-gradient-8)" stroke="#2a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Right_arm_top" data-name="Right arm top" d="M662.8 512.8 C662.8 493.2 680.4 475.6 700.1 473.4 C717.7 471.5 737 477.2 737 492.8 L619.6 446.9 C619.6 431.3 600.2 425.6 582.5 427.6 C563.1 429.7 545.4 447.3 545.4 466.9 Z" fill="url(#linear-gradient-5)" stroke="#2a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Right_arm_top_crown_light" data-name="Right arm top crown light" d="M694.5 472.2 L585.4 429.6" fill="none" stroke="#c8e0b2" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Seat_cushion_top" data-name="Seat cushion top" d="M431.3 590.2 L660.9 564.9 L545.4 519.7 L315.8 545.1 Z" fill="url(#linear-gradient-9)" stroke="#2a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Seat_back_shadow" data-name="Seat back shadow" d="M315.8 545.1 L545.4 519.7 L578.3 532.6 C484.7 535.8 414.1 543.6 344 556.1 Z" fill="#0e180c" opacity="0.3"/>
+    <path id="Seat_sit-mark" data-name="Seat sit-mark" d="M435.7 574.2 C479.3 564.7 541.1 557.9 602.7 557.2" fill="none" stroke="#b6d2a0" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" opacity="0.18"/>
+    <path id="Seat_cushion_front" data-name="Seat cushion front" d="M433.2 632.1 C430.6 603 435 588.8 445.6 587.6 L650.4 565 C661 563.8 665.4 577 662.8 606.7 Z" fill="url(#linear-gradient-10)" stroke="#2a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Cushion_piping" data-name="Cushion piping" d="M443.8 590.8 L652.2 567.7" fill="none" stroke="#9ab88a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Left_arm_outer" data-name="Left arm outer" d="M371.4 644.8 L254 598.9 L254 487.4 L371.4 533.2 Z" fill="url(#linear-gradient-11)" stroke="#2a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Left_arm_roll_light" data-name="Left arm roll light" d="M365.8 542.8 L258.7 500.9" fill="none" stroke="#9ab88a" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10" opacity="0.18"/>
+    <path id="Left_arm_top" data-name="Left arm top" d="M433.2 538.2 C433.2 518.6 415.6 504.9 395.9 507.1 C378.3 509 359 519 359 534.6 L241.7 488.7 C241.7 473.1 261.1 463.1 278.8 461.1 C298.2 459 315.8 472.7 315.8 492.3 Z" fill="url(#linear-gradient-5)" stroke="#2a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Left_arm_top_crown_light" data-name="Left arm top crown light" d="M394 505.4 L285.2 462.8" fill="none" stroke="#c8e0b2" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Left_wing_outer" data-name="Left wing outer" d="M254 461.9 L254 254.6 L279.8 269.4 C293.7 274.7 304 298.6 304.9 353.8 C313.8 392.4 343.3 460.4 365.3 503.7 L365.5 505.6 Z" fill="url(#linear-gradient-12)" stroke="#2a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Left_wing_sheen" data-name="Left wing sheen" d="M264.2 425.4 C262.3 339 272.1 282.7 287.5 285.4" fill="none" stroke="#b4d0a0" stroke-width="12" stroke-linecap="round" stroke-miterlimit="10" opacity="0.16"/>
+    <path id="Left_wing_hinge_shade" data-name="Left wing hinge shade" d="M256.8 459.1 L255.6 261.7" fill="none" stroke="#0a1208" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Left_wing_edge" data-name="Left wing edge" d="M230.6 245.4 L254 254.6 L279.8 269.4 C293.7 274.7 304 298.6 304.9 353.8 C313.8 392.4 343.3 460.4 365.3 503.7 L390 501 C368.1 457.7 338.5 389.7 329.7 351 C328.7 295.9 318.4 272 304.5 266.7 L278.8 251.8 L255.3 242.6 Z" fill="url(#linear-gradient-5)" stroke="#2a1a12" stroke-width="4" stroke-linejoin="round"/>
+    <path id="Front_rail" data-name="Front rail" d="M371.4 719.1 L724.6 680.1 L724.6 603.8 L371.4 642.8 Z" fill="url(#linear-gradient-10)" stroke="#2a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Front_rail_piping" data-name="Front rail piping" d="M376.7 712.6 L719.3 674.8" fill="none" stroke="#9ab88a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Front_rail_shade" data-name="Front rail shade" d="M374.9 716.7 L721.1 678.5 L721.1 651.1 L374.9 689.4 Z" fill="#0e180c" opacity="0.22"/>
+    <path id="Right_arm_front" data-name="Right arm front" d="M662.8 610.6 L662.8 514.7 C662.8 493.2 680.4 475.6 700.1 473.4 C717.7 471.5 737 477.2 737 494.8 C737 508.5 728.1 515.3 724.6 517.7 L724.6 603.8 Z" fill="url(#linear-gradient-10)" stroke="#2a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Right_scroll_curl" data-name="Right scroll curl" d="M671.6 509.8 C673.4 488.1 698.1 479.5 712.2 485.8 C724.6 492.2 721.1 510.2 706.9 513.8 C696.3 514.9 694.6 501.4 703.4 498.5" fill="none" stroke="#1a2816" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Right_arm_panel_seam" data-name="Right arm panel seam" d="M669.8 517.9 L669.8 603.9" fill="none" stroke="#9ab88a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Left_arm_front" data-name="Left arm front" d="M433.2 636 L433.2 540.1 C433.2 518.6 415.6 504.9 395.9 507.1 C378.3 509 359 519 359 536.6 C359 550.3 367.9 555.2 371.4 556.7 L371.4 642.8 Z" fill="url(#linear-gradient-10)" stroke="#2a1a12" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Left_scroll_curl" data-name="Left scroll curl" d="M424.4 537.2 C422.6 515.8 397.9 512.7 383.8 522.1 C371.4 531.3 374.9 548.5 389.1 548.9 C399.7 547.7 401.4 533.8 392.6 532.9" fill="none" stroke="#1a2816" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Left_arm_panel_seam" data-name="Left arm panel seam" d="M426.2 544.8 L426.2 630.9" fill="none" stroke="#9ab88a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Worn_arm_cap" data-name="Worn arm cap" d="M670.7 482.1 C683.9 470.4 710.9 467.4 728.9 481.5 L678.2 461.7 C656.2 446.1 629.4 449.1 624.7 464.1 Z" fill="url(#radial-gradient-34)"/>
+    <path id="Worn_scroll" data-name="Worn scroll" d="M669.8 500.3 C673.4 482.3 689.3 472.7 705.4 472.9 C721.1 473.1 733.4 479.5 735.2 493 C721.1 486.8 689.3 486.4 669.8 500.3 Z" fill="url(#radial-gradient-35)"/>
+    <path id="Leg_front_right" data-name="Leg front right" d="M690.1 679.2 L714.1 679.2 C720.1 701.2 704.6 727.7 708.6 743.7 C711.6 747.7 711.6 749.7 710.6 749.7 L693.6 749.7 C692.6 749.7 692.6 747.7 695.6 743.7 C691.6 727.7 696.1 701.2 690.1 679.2 Z" fill="url(#linear-gradient-13)" stroke="#2a1a12" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Leg_front_right_gloss" data-name="Leg front right gloss" d="M696.1 683.2 C702.1 701.2 700.1 723.7 700.1 741.7" fill="none" stroke="#e0a878" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Leg_front_left" data-name="Leg front left" d="M368.7 714.8 L392.7 714.8 C386.7 736.8 391.2 763.2 387.2 779.2 C390.2 783.2 390.2 785.2 389.2 785.2 L372.2 785.2 C371.2 785.2 371.2 783.2 374.2 779.2 C378.2 763.2 362.7 736.8 368.7 714.8 Z" fill="url(#linear-gradient-13)" stroke="#2a1a12" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Leg_front_left_gloss" data-name="Leg front left gloss" d="M374.7 718.8 C372.7 736.8 378.7 759.2 378.7 777.2" fill="none" stroke="#e0a878" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <text transform="matrix(1 0 0 1 500 930)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="56" fill="#f0dec4" text-anchor="middle"><tspan x="0" y="0">WINGBACK ARMCHAIR</tspan></text>
+    <text transform="matrix(1 0 0 1 500 968)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="22" fill="#c8a884" letter-spacing="5.72" text-anchor="middle"><tspan x="0" y="0">WALNUT · WOOL · HORSEHAIR</tspan></text>
+  </g>
+</svg>
