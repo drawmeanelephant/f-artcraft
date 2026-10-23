@@ -80,13 +80,18 @@ full-body when the silhouette is the point (narwhal tusk, pangolin scales,
 tardigrade segments). Living in `art/animals/<slug>/`, scripts in
 `work/animals/`. Roster so far:
 
-- axolotl · fennec fox · pangolin · aye-aye
-- narwhal · okapi · tardigrade · mantis shrimp
-- quokka · markhor (all V1R00)
+- axolotl · fennec fox · pangolin · aye-aye (V1R00 + V2R00)
+- narwhal · okapi · tardigrade · mantis shrimp · quokka · markhor
+- capybara · fossa · saiga · secretary bird · jerboa · kakapo
+- tapir · sun bear · shoebill · dumbo octopus · gerenuk · maned wolf
+- blobfish · potoo · vaquita (all V1R00)
 
-Pool for later agents: capybara, fossa, saiga, secretary bird, jerboa,
-kakapo, tapir, sun bear, shoebill, dumbo octopus, gerenuk, maned wolf,
-aye-aye full body, blobfish (controversial), potoo, vaquita.
+Wave 3 lives as issues #20–#32 under the *wave 3* milestone: platypus,
+echidna, numbat, caracal, wolverine, snow leopard, manatee, cassowary,
+hoatzin, gharial, tuatara, horseshoe crab, nautilus.
+
+Pool for later agents: dik-dik, pudu, serval, oryx, kiwi, ibis, civet,
+dugong, atlas moth, leaf insect, pangolin full body, saiga herd scene.
 
 Known trap: decorative shapes near the plate's lower edge must end on the
 disc's own arc (`A420,420 0 0 1 …` close) or they leak past the rim.
