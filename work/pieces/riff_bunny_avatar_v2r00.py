@@ -2,6 +2,8 @@
 """bunny-avatar-V2R00 — the ERROR badge gone noir: dark coin, thin gold ring,
 one lamp from the upper-left, the red of the stamp doing all the talking.
 1000x1000, riffing on bunny-avatar-V1R01."""
+import sys, os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from vc import Draw, NONE
 from v2style import backdrop, glow, vignette, ship
 

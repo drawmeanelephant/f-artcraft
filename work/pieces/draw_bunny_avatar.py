@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Filed & Forgotten ERROR bunny — Twitter profile badge, 1000x1000."""
 import sys
-sys.path.insert(0, "/home/hatch/workspace/vectorcraft/work")
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from vc import Draw, NONE
 
 d = Draw()

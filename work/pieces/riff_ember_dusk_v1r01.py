@@ -3,6 +3,8 @@
 crescent moon, shooting star, vignette. Opens V1R00, saves V1R01 (AGENTS.md
 revision rule: never overwrite)."""
 import os
+import sys
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from vc import Draw, NONE
 from v2style import ship
 

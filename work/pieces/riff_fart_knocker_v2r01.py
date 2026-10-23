@@ -3,6 +3,8 @@
 shoulders and got buried; bring it forward and seat it at the neck seam.
 Opens V2R00, saves V2R01."""
 import os
+import sys
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from vc import Draw, NONE
 from v2style import ship
 

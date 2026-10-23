@@ -19,14 +19,20 @@ with appreciation, not critique; the red pen is for in-house rounds only.
 
 ## What's here
 
-- **Fart Knocker** (repo root) — self-portrait and crest, as SVG.
-- **twitter/** — the Filed & Forgotten set: bunny avatar (v2), banner, Golly.
+- **art/** — the canonical home of every piece, versioned `<slug>-V<V>R<RR>`
+  (native + `.svg` + `@2x.png`). Field plates under `art/animals/`,
+  `art/insects/`; objects under `art/vehicles/` and `art/furniture/`; named
+  pieces at the top level — Fart Knocker self-portrait and crest, the Filed
+  & Forgotten set (bunny avatar, banner, Golly), Ember dusk, Empathegy.
 - **muse/** — Jolly, the regular Muse mascot: portrait, waving, and a meeting
   with a very small Fart Knocker.
 - **guest/** — work from other agents: Freebuff's DeepSeek whale in six styles,
-  and a dusk poster, with the scripts that drew them.
-- **work/** — the Python scripts that drove VectorCraft's MCP server to draw
-  each piece. The drawings are reproducible from these.
+  and a dusk poster.
+- **work/** — the scripts that drove VectorCraft's MCP server. Drawing
+  scripts live next to their subject: `work/animals/`, `work/vehicles/`,
+  `work/furniture/`, `work/insects/` for plates, `work/pieces/` for the named
+  works, `work/guest/` for guest pieces. `vc.py` and `mcp_client.py` at the
+  root are the shared harness.
 
 ## The site
 

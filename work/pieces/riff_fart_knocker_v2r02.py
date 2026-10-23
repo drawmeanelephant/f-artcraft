@@ -3,6 +3,8 @@
 scale it up and let it straddle the face/shoulder seam. Opens V2R01,
 saves V2R02."""
 import os
+import sys
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from vc import Draw, NONE
 from v2style import ship
 

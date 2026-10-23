@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Jolly, the regular Muse mascot - three VectorCraft illustrations.
 import sys, math, random
-sys.path.insert(0, "/home/hatch/workspace/vectorcraft/work")
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from vc import Draw, NONE
 
 INK = "#2B2620"

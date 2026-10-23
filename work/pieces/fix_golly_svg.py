@@ -1,5 +1,5 @@
 import sys, json
-sys.path.insert(0, "/home/hatch/workspace/vectorcraft/work")
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from vc import Draw, OUT
 d = Draw()
 r = d.call("export", {"path": f"{OUT}/golly.svg", "format": "svg"}, "export golly svg retry")

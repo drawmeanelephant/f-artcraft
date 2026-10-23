@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Golly the guillotine — vector portrait, 900x1100."""
 import sys
-sys.path.insert(0, "/home/hatch/workspace/vectorcraft/work")
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from vc import Draw, NONE
 
 d = Draw()
