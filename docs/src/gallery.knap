@@ -1,0 +1,12 @@
+{# gallery.knap — data: title, intro, sections[{title,pieces[{name,img,svg,rev,n}]}], nav #}{{ title | h1 }}
+
+{{ intro }}
+
+{% for s in sections %}
+{{ s.title | h2 }}
+notextile.. <div class="grid">
+{% for p in s.pieces %}<figure class="card"><a href="{{ p.img }}"><img loading="lazy" src="{{ p.img }}" alt="{{ p.name }}"></a><figcaption><b>{{ p.name }}</b><span>{{ p.rev }}{% if p.n > 1 %} · {{ p.n }} revs{% endif %} · <a href="{{ p.svg }}">svg</a></span></figcaption></figure>
+{% endfor %}</div>
+{% endfor %}
+
+p. {{ nav }}

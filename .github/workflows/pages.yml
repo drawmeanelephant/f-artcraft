@@ -1,0 +1,56 @@
+name: pages
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  docs-repro:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Get dogbed binary
+        run: |
+          curl -sL -o /tmp/dogbed https://github.com/drawmeanelephant/dogbed/releases/download/v0.1.0/dogbed-0.1.0-x86_64-linux-musl
+          chmod +x /tmp/dogbed
+      - name: Regenerate data + site
+        run: |
+          python3 docs/gen_data.py
+          DOGBED=/tmp/dogbed sh docs/build.sh
+      - name: Fail if docs/ is stale (rebuild and commit)
+        run: git diff --exit-code docs/
+
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    needs: docs-repro
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Get dogbed binary
+        run: |
+          curl -sL -o /tmp/dogbed https://github.com/drawmeanelephant/dogbed/releases/download/v0.1.0/dogbed-0.1.0-x86_64-linux-musl
+          chmod +x /tmp/dogbed
+      - name: Build docs/site
+        run: |
+          python3 docs/gen_data.py
+          DOGBED=/tmp/dogbed sh docs/build.sh
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/site
+      - uses: actions/deploy-pages@v4
+        id: deployment
