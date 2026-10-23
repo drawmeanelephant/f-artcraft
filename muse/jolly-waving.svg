@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="1050" viewBox="0 0 900 1050">
+  <defs>
+    <radialGradient id="radial-gradient-1" cx="450" cy="540" r="390" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f3e5c8"/>
+      <stop offset="1" stop-color="#dcc7a0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="450" cy="326" r="172" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fcf0d6"/>
+      <stop offset="1" stop-color="#f5e0b4"/>
+    </radialGradient>
+  </defs>
+  <title>Jolly - Waving</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L900 0 L900 1050 L0 1050 Z" fill="#f7f2e4"/>
+    <path id="Halo" d="M98 520 C98 325.596 255.596 168 450 168 C644.404 168 802 325.596 802 520 C802 714.404 644.404 872 450 872 C255.596 872 98 714.404 98 520 Z" fill="#efe3c8"/>
+    <path id="Halo_ring" data-name="Halo ring" d="M98 520 C98 325.596 255.596 168 450 168 C644.404 168 802 325.596 802 520 C802 714.404 644.404 872 450 872 C255.596 872 98 714.404 98 520 Z" fill="none" stroke="#b98a2f" stroke-width="1.6" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Ground_shadow" data-name="Ground shadow" d="M255 969 C255 958.507 342.304 950 450 950 C557.696 950 645 958.507 645 969 C645 979.493 557.696 988 450 988 C342.304 988 255 979.493 255 969 Z" fill="#3a2e1c" opacity="0.1"/>
+    <path id="Arm_L" data-name="Arm L" d="M246 540 C206 640 190 720 196 792" fill="none" stroke="#e7d5b0" stroke-width="66" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Hand_L" data-name="Hand L" d="M166 801 C166 779.461 180.327 762 198 762 C215.673 762 230 779.461 230 801 C230 822.539 215.673 840 198 840 C180.327 840 166 822.539 166 801 Z" fill="#e7d5b0"/>
+    <path id="Arm_R_wave" data-name="Arm R wave" d="M648 520 C716 446 752 384 762 302" fill="none" stroke="#e7d5b0" stroke-width="66" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Hand_R" data-name="Hand R" d="M730 274 C730 250.804 745.222 232 764 232 C782.778 232 798 250.804 798 274 C798 297.196 782.778 316 764 316 C745.222 316 730 297.196 730 274 Z" fill="#e7d5b0"/>
+    <path id="Wave_arc_50" data-name="Wave arc 50" d="M807 247 L811 252 L813 257 L815 262 L817 267 L818 272 L818 278 L818 284 L817 289 L815 294 L813 299 L811 304 L807 309" fill="none" stroke="#b98a2f" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wave_arc_74" data-name="Wave arc 74" d="M829 237 L833 243 L836 249 L839 256 L841 263 L842 271 L842 278 L842 285 L841 293 L839 300 L836 307 L833 313 L829 319" fill="none" stroke="#b98a2f" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wave_arc_98" data-name="Wave arc 98" d="M853 229 L857 237 L860 244 L863 253 L865 261 L866 269 L866 278 L866 287 L865 295 L863 303 L860 312 L857 319 L853 327" fill="none" stroke="#b98a2f" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Body" d="M450 150 C596 150 668 262 676 420 C681 545 714 648 710 756 C706 852 638 916 556 930 L344 930 C262 916 194 852 190 756 C186 648 219 545 224 420 C232 262 304 150 450 150 Z" fill="url(#radial-gradient-1)"/>
+    <path id="Shade_L" data-name="Shade L" d="M238 420 C228 548 202 652 206 752 C209 836 258 894 326 920 C262 904 202 848 198 756 C194 650 222 540 238 420 Z" fill="#c9b18a" opacity="0.28"/>
+    <path id="Shade_R" data-name="Shade R" d="M662 420 C672 548 698 652 694 752 C691 836 642 894 574 920 C638 904 698 848 702 756 C706 650 678 540 662 420 Z" fill="#c9b18a" opacity="0.28"/>
+    <path id="Belly_highlight" data-name="Belly highlight" d="M300 710 C300 627.157 367.157 560 450 560 C532.843 560 600 627.157 600 710 C600 792.843 532.843 860 450 860 C367.157 860 300 792.843 300 710 Z" fill="#ffffff" opacity="0.13"/>
+    <path id="Foot_L" data-name="Foot L" d="M288 935 C288 920.088 316.654 908 352 908 C387.346 908 416 920.088 416 935 C416 949.912 387.346 962 352 962 C316.654 962 288 949.912 288 935 Z" fill="#e2cda6"/>
+    <path id="Foot_L_shade" data-name="Foot L shade" d="M302 916 C332 906 372 906 402 916" fill="none" stroke="#c9b18a" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Foot_R" data-name="Foot R" d="M484 935 C484 920.088 512.654 908 548 908 C583.346 908 612 920.088 612 935 C612 949.912 583.346 962 548 962 C512.654 962 484 949.912 484 935 Z" fill="#e2cda6"/>
+    <path id="Foot_R_shade" data-name="Foot R shade" d="M498 916 C528 906 568 906 598 916" fill="none" stroke="#c9b18a" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Face" d="M278 332 C278 246 352 200 450 200 C548 200 622 246 622 332 C622 414 548 452 450 452 C352 452 278 414 278 332 Z" fill="url(#radial-gradient-2)"/>
+    <path id="Face_top_shade" data-name="Face top shade" d="M318 256 C362 216 538 216 582 256" fill="none" stroke="#e4c88f" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Blush_L" data-name="Blush L" d="M310 373 C310 361.402 328.804 352 352 352 C375.196 352 394 361.402 394 373 C394 384.598 375.196 394 352 394 C328.804 394 310 384.598 310 373 Z" fill="#f2a48c" opacity="0.38"/>
+    <path id="Blush_L_core" data-name="Blush L core" d="M328 373 C328 366.925 338.745 362 352 362 C365.255 362 376 366.925 376 373 C376 379.075 365.255 384 352 384 C338.745 384 328 379.075 328 373 Z" fill="#ee9b82" opacity="0.3"/>
+    <path id="Blush_R" data-name="Blush R" d="M506 373 C506 361.402 524.804 352 548 352 C571.196 352 590 361.402 590 373 C590 384.598 571.196 394 548 394 C524.804 394 506 384.598 506 373 Z" fill="#f2a48c" opacity="0.38"/>
+    <path id="Blush_R_core" data-name="Blush R core" d="M524 373 C524 366.925 534.745 362 548 362 C561.255 362 572 366.925 572 373 C572 379.075 561.255 384 548 384 C534.745 384 524 379.075 524 373 Z" fill="#ee9b82" opacity="0.3"/>
+    <path id="Eye_L" data-name="Eye L" d="M355 322 C355 312.611 362.611 305 372 305 C381.389 305 389 312.611 389 322 C389 331.389 381.389 339 372 339 C362.611 339 355 331.389 355 322 Z" fill="#2b2620"/>
+    <path id="Eye_L_glint" data-name="Eye L glint" d="M364 316 C364 313.239 366.239 311 369 311 C371.761 311 374 313.239 374 316 C374 318.761 371.761 321 369 321 C366.239 321 364 318.761 364 316 Z" fill="#ffffff"/>
+    <path id="Eye_R" data-name="Eye R" d="M511 322 C511 312.611 518.611 305 528 305 C537.389 305 545 312.611 545 322 C545 331.389 537.389 339 528 339 C518.611 339 511 331.389 511 322 Z" fill="#2b2620"/>
+    <path id="Eye_R_glint" data-name="Eye R glint" d="M520 316 C520 313.239 522.239 311 525 311 C527.761 311 530 313.239 530 316 C530 318.761 527.761 321 525 321 C522.239 321 520 318.761 520 316 Z" fill="#ffffff"/>
+    <path id="Smile" d="M424 372 C438 385 462 385 476 372" fill="none" stroke="#2b2620" stroke-width="6.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Tuft_0" data-name="Tuft 0" d="M237 393 L250 388 L241 378 L253 374 L244 366" fill="none" stroke="#c9b18a" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Tuft_1" data-name="Tuft 1" d="M256 315 L270 314 L264 303 L276 302 L270 291" fill="none" stroke="#c9b18a" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Tuft_2" data-name="Tuft 2" d="M289 248 L303 251 L300 238 L312 240 L309 228" fill="none" stroke="#c9b18a" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Tuft_3" data-name="Tuft 3" d="M333 196 L345 202 L346 189 L357 194 L357 182" fill="none" stroke="#c9b18a" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Tuft_4" data-name="Tuft 4" d="M385 163 L395 171 L399 159 L408 167 L412 155" fill="none" stroke="#c9b18a" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Tuft_5" data-name="Tuft 5" d="M441 150 L449 161 L456 150 L463 160 L469 149" fill="none" stroke="#c9b18a" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Tuft_6" data-name="Tuft 6" d="M498 159 L502 172 L512 163 L516 174 L525 165" fill="none" stroke="#c9b18a" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Tuft_7" data-name="Tuft 7" d="M551 189 L552 202 L564 196 L565 209 L576 202" fill="none" stroke="#c9b18a" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Tuft_8" data-name="Tuft 8" d="M598 238 L595 251 L608 249 L606 261 L618 257" fill="none" stroke="#c9b18a" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Tuft_9" data-name="Tuft 9" d="M634 302 L629 315 L642 316 L636 327 L649 326" fill="none" stroke="#c9b18a" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Tick_0" data-name="Tick 0" d="M379.533 574.306 L381 586" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_1" data-name="Tick 1" d="M464.353 651.648 L460 666" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_2" data-name="Tick 2" d="M264.998 676.112 L262 687" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_3" data-name="Tick 3" d="M419.808 817.667 L417 830" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_4" data-name="Tick 4" d="M500.973 861.175 L502 875" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_5" data-name="Tick 5" d="M593.387 624.259 L591 636" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_6" data-name="Tick 6" d="M373.393 813.805 L370 829" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_7" data-name="Tick 7" d="M505.565 654.063 L506 666" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_8" data-name="Tick 8" d="M273.84 594.145 L275 608" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_9" data-name="Tick 9" d="M375.659 730.802 L375 744" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_10" data-name="Tick 10" d="M567.752 771.638 L565 787" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_11" data-name="Tick 11" d="M460.079 835.049 L462 848" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_12" data-name="Tick 12" d="M417.249 792.571 L414 807" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_13" data-name="Tick 13" d="M265.683 760.558 L268 776" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_14" data-name="Tick 14" d="M600.191 632.949 L602 649" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_15" data-name="Tick 15" d="M481.958 684.234 L486 702" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_16" data-name="Tick 16" d="M439.639 759.095 L435 775" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_17" data-name="Tick 17" d="M508.852 877.515 L512 891" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_18" data-name="Tick 18" d="M404.317 760.715 L400 775" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_19" data-name="Tick 19" d="M317.219 562.154 L313 579" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_20" data-name="Tick 20" d="M301.736 609.141 L301 627" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_21" data-name="Tick 21" d="M282.233 681.707 L283 700" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_22" data-name="Tick 22" d="M577.712 831.034 L576 845" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_23" data-name="Tick 23" d="M393.508 838.309 L397 850" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_24" data-name="Tick 24" d="M320.487 603.504 L318 618" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_25" data-name="Tick 25" d="M485.649 614.589 L481 628" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Sparkle_0" data-name="Sparkle 0" d="M150 174 C152.88 187.12 152.88 187.12 166 190 C152.88 192.88 152.88 192.88 150 206 C147.12 192.88 147.12 192.88 134 190 C147.12 187.12 147.12 187.12 150 174 Z" fill="#b98a2f"/>
+    <path id="Sparkle_1" data-name="Sparkle 1" d="M692 106 C694.16 115.84 694.16 115.84 704 118 C694.16 120.16 694.16 120.16 692 130 C689.84 120.16 689.84 120.16 680 118 C689.84 115.84 689.84 115.84 692 106 Z" fill="#b98a2f"/>
+    <text transform="matrix(1 0 0 1 450 1032)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;" font-size="36" fill="#8a7648" text-anchor="middle"><tspan x="0" y="0">JOLLY, WAVING</tspan></text>
+  </g>
+</svg>

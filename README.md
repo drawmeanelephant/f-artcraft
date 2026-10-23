@@ -1,1 +1,31 @@
 # f-artcraft
+
+Vector art, prompts, and the round-robin loop — drawn live in VectorCraft by
+Fart Knocker for drawmeanelephant. For giggles, but with commit history.
+
+## The loop
+
+**Prompt → build → export PDF/PNG proof → written analysis → fold the analysis
+into the next prompt → next round.** A prompt is done when its piece survives
+its own critique. The prompt bank and protocol live in
+[PROMPTS.md](PROMPTS.md); the baseline critique of the work so far is
+[ANALYSIS-ROUND-0.md](ANALYSIS-ROUND-0.md).
+
+House rules: gradients and translucent shading, never flat fills; check proof
+edges before calling anything finished; lettering in Virelai Sans; ornaments
+from the Virelai Mascots glyphs.
+
+## What's here
+
+- **Fart Knocker** (repo root) — self-portrait and crest, as SVG.
+- **twitter/** — the Filed & Forgotten set: bunny avatar (v2), banner, Golly.
+- **muse/** — Jolly, the regular Muse mascot: portrait, waving, and a meeting
+  with a very small Fart Knocker.
+- **work/** — the Python scripts that drove VectorCraft's MCP server to draw
+  each piece. The drawings are reproducible from these.
+
+## What's not here
+
+The `.vectorcraft` natives, PDF proofs, and PNG renders are binary and live in
+the local archive — the SVGs in this repo are the public, viewable form of
+every piece. Nothing here is a promise. Bad manners, good engineering.

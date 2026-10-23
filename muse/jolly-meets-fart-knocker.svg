@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="1050" viewBox="0 0 1200 1050">
+  <defs>
+    <radialGradient id="radial-gradient-1" cx="400" cy="540" r="390" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f3e5c8"/>
+      <stop offset="1" stop-color="#dcc7a0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="400" cy="326" r="172" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fcf0d6"/>
+      <stop offset="1" stop-color="#f5e0b4"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="905" cy="856" r="85" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f5b942"/>
+      <stop offset="1" stop-color="#c96a12"/>
+    </radialGradient>
+  </defs>
+  <title>Jolly Meets Fart Knocker</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1200 0 L1200 1050 L0 1050 Z" fill="#f7f2e4"/>
+    <path id="Halo" d="M48 520 C48 325.596 205.596 168 400 168 C594.404 168 752 325.596 752 520 C752 714.404 594.404 872 400 872 C205.596 872 48 714.404 48 520 Z" fill="#efe3c8"/>
+    <path id="Halo_ring" data-name="Halo ring" d="M48 520 C48 325.596 205.596 168 400 168 C594.404 168 752 325.596 752 520 C752 714.404 594.404 872 400 872 C205.596 872 48 714.404 48 520 Z" fill="none" stroke="#b98a2f" stroke-width="1.6" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Ground_shadow" data-name="Ground shadow" d="M205 969 C205 958.507 292.304 950 400 950 C507.696 950 595 958.507 595 969 C595 979.493 507.696 988 400 988 C292.304 988 205 979.493 205 969 Z" fill="#3a2e1c" opacity="0.1"/>
+    <path id="Arm_L" data-name="Arm L" d="M196 540 C156 640 140 720 146 792" fill="none" stroke="#e7d5b0" stroke-width="66" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Hand_L" data-name="Hand L" d="M116 801 C116 779.461 130.327 762 148 762 C165.673 762 180 779.461 180 801 C180 822.539 165.673 840 148 840 C130.327 840 116 822.539 116 801 Z" fill="#e7d5b0"/>
+    <path id="Arm_R" data-name="Arm R" d="M604 540 C644 640 660 720 654 792" fill="none" stroke="#e7d5b0" stroke-width="66" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Hand_R" data-name="Hand R" d="M622 801 C622 779.461 636.327 762 654 762 C671.673 762 686 779.461 686 801 C686 822.539 671.673 840 654 840 C636.327 840 622 822.539 622 801 Z" fill="#e7d5b0"/>
+    <path id="Body" d="M400 150 C546 150 618 262 626 420 C631 545 664 648 660 756 C656 852 588 916 506 930 L294 930 C212 916 144 852 140 756 C136 648 169 545 174 420 C182 262 254 150 400 150 Z" fill="url(#radial-gradient-1)"/>
+    <path id="Shade_L" data-name="Shade L" d="M188 420 C178 548 152 652 156 752 C159 836 208 894 276 920 C212 904 152 848 148 756 C144 650 172 540 188 420 Z" fill="#c9b18a" opacity="0.28"/>
+    <path id="Shade_R" data-name="Shade R" d="M612 420 C622 548 648 652 644 752 C641 836 592 894 524 920 C588 904 648 848 652 756 C656 650 628 540 612 420 Z" fill="#c9b18a" opacity="0.28"/>
+    <path id="Belly_highlight" data-name="Belly highlight" d="M250 710 C250 627.157 317.157 560 400 560 C482.843 560 550 627.157 550 710 C550 792.843 482.843 860 400 860 C317.157 860 250 792.843 250 710 Z" fill="#ffffff" opacity="0.13"/>
+    <path id="Foot_L" data-name="Foot L" d="M238 935 C238 920.088 266.654 908 302 908 C337.346 908 366 920.088 366 935 C366 949.912 337.346 962 302 962 C266.654 962 238 949.912 238 935 Z" fill="#e2cda6"/>
+    <path id="Foot_L_shade" data-name="Foot L shade" d="M252 916 C282 906 322 906 352 916" fill="none" stroke="#c9b18a" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Foot_R" data-name="Foot R" d="M434 935 C434 920.088 462.654 908 498 908 C533.346 908 562 920.088 562 935 C562 949.912 533.346 962 498 962 C462.654 962 434 949.912 434 935 Z" fill="#e2cda6"/>
+    <path id="Foot_R_shade" data-name="Foot R shade" d="M448 916 C478 906 518 906 548 916" fill="none" stroke="#c9b18a" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Face" d="M228 332 C228 246 302 200 400 200 C498 200 572 246 572 332 C572 414 498 452 400 452 C302 452 228 414 228 332 Z" fill="url(#radial-gradient-2)"/>
+    <path id="Face_top_shade" data-name="Face top shade" d="M268 256 C312 216 488 216 532 256" fill="none" stroke="#e4c88f" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Blush_L" data-name="Blush L" d="M260 373 C260 361.402 278.804 352 302 352 C325.196 352 344 361.402 344 373 C344 384.598 325.196 394 302 394 C278.804 394 260 384.598 260 373 Z" fill="#f2a48c" opacity="0.38"/>
+    <path id="Blush_L_core" data-name="Blush L core" d="M278 373 C278 366.925 288.745 362 302 362 C315.255 362 326 366.925 326 373 C326 379.075 315.255 384 302 384 C288.745 384 278 379.075 278 373 Z" fill="#ee9b82" opacity="0.3"/>
+    <path id="Blush_R" data-name="Blush R" d="M456 373 C456 361.402 474.804 352 498 352 C521.196 352 540 361.402 540 373 C540 384.598 521.196 394 498 394 C474.804 394 456 384.598 456 373 Z" fill="#f2a48c" opacity="0.38"/>
+    <path id="Blush_R_core" data-name="Blush R core" d="M474 373 C474 366.925 484.745 362 498 362 C511.255 362 522 366.925 522 373 C522 379.075 511.255 384 498 384 C484.745 384 474 379.075 474 373 Z" fill="#ee9b82" opacity="0.3"/>
+    <path id="Eye_L" data-name="Eye L" d="M311 327 C311 317.611 318.611 310 328 310 C337.389 310 345 317.611 345 327 C345 336.389 337.389 344 328 344 C318.611 344 311 336.389 311 327 Z" fill="#2b2620"/>
+    <path id="Eye_L_glint" data-name="Eye L glint" d="M320 321 C320 318.239 322.239 316 325 316 C327.761 316 330 318.239 330 321 C330 323.761 327.761 326 325 326 C322.239 326 320 323.761 320 321 Z" fill="#ffffff"/>
+    <path id="Eye_R" data-name="Eye R" d="M467 327 C467 317.611 474.611 310 484 310 C493.389 310 501 317.611 501 327 C501 336.389 493.389 344 484 344 C474.611 344 467 336.389 467 327 Z" fill="#2b2620"/>
+    <path id="Eye_R_glint" data-name="Eye R glint" d="M476 321 C476 318.239 478.239 316 481 316 C483.761 316 486 318.239 486 321 C486 323.761 483.761 326 481 326 C478.239 326 476 323.761 476 321 Z" fill="#ffffff"/>
+    <path id="Smile" d="M374 372 C388 385 412 385 426 372" fill="none" stroke="#2b2620" stroke-width="6.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Tuft_0" data-name="Tuft 0" d="M187 393 L200 388 L191 378 L203 374 L194 366" fill="none" stroke="#c9b18a" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Tuft_1" data-name="Tuft 1" d="M206 315 L220 314 L214 303 L226 302 L220 291" fill="none" stroke="#c9b18a" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Tuft_2" data-name="Tuft 2" d="M239 248 L253 251 L250 238 L262 240 L259 228" fill="none" stroke="#c9b18a" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Tuft_3" data-name="Tuft 3" d="M283 196 L295 202 L296 189 L307 194 L307 182" fill="none" stroke="#c9b18a" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Tuft_4" data-name="Tuft 4" d="M335 163 L345 171 L349 159 L358 167 L362 155" fill="none" stroke="#c9b18a" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Tuft_5" data-name="Tuft 5" d="M391 150 L399 161 L406 150 L413 160 L419 149" fill="none" stroke="#c9b18a" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Tuft_6" data-name="Tuft 6" d="M448 159 L452 172 L462 163 L466 174 L475 165" fill="none" stroke="#c9b18a" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Tuft_7" data-name="Tuft 7" d="M501 189 L502 202 L514 196 L515 209 L526 202" fill="none" stroke="#c9b18a" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Tuft_8" data-name="Tuft 8" d="M548 238 L545 251 L558 249 L556 261 L568 257" fill="none" stroke="#c9b18a" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Tuft_9" data-name="Tuft 9" d="M584 302 L579 315 L592 316 L586 327 L599 326" fill="none" stroke="#c9b18a" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Tick_0" data-name="Tick 0" d="M329.533 574.306 L331 586" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_1" data-name="Tick 1" d="M414.353 651.648 L410 666" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_2" data-name="Tick 2" d="M214.998 676.112 L212 687" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_3" data-name="Tick 3" d="M369.808 817.667 L367 830" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_4" data-name="Tick 4" d="M450.973 861.175 L452 875" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_5" data-name="Tick 5" d="M543.387 624.259 L541 636" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_6" data-name="Tick 6" d="M323.393 813.805 L320 829" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_7" data-name="Tick 7" d="M455.565 654.063 L456 666" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_8" data-name="Tick 8" d="M223.84 594.145 L225 608" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_9" data-name="Tick 9" d="M325.659 730.802 L325 744" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_10" data-name="Tick 10" d="M517.752 771.638 L515 787" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_11" data-name="Tick 11" d="M410.079 835.049 L412 848" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_12" data-name="Tick 12" d="M367.249 792.571 L364 807" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_13" data-name="Tick 13" d="M215.683 760.558 L218 776" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_14" data-name="Tick 14" d="M550.191 632.949 L552 649" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_15" data-name="Tick 15" d="M431.958 684.234 L436 702" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_16" data-name="Tick 16" d="M389.639 759.095 L385 775" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_17" data-name="Tick 17" d="M458.852 877.515 L462 891" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_18" data-name="Tick 18" d="M354.317 760.715 L350 775" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_19" data-name="Tick 19" d="M267.219 562.154 L263 579" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_20" data-name="Tick 20" d="M251.736 609.141 L251 627" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_21" data-name="Tick 21" d="M232.233 681.707 L233 700" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_22" data-name="Tick 22" d="M527.712 831.034 L526 845" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_23" data-name="Tick 23" d="M343.508 838.309 L347 850" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_24" data-name="Tick 24" d="M270.487 603.504 L268 618" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Tick_25" data-name="Tick 25" d="M435.649 614.589 L431 628" fill="none" stroke="#cbb289" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Burger_shadow" data-name="Burger shadow" d="M812 956 C812 950.477 853.638 946 905 946 C956.362 946 998 950.477 998 956 C998 961.523 956.362 966 905 966 C853.638 966 812 961.523 812 956 Z" fill="#3a2e1c" opacity="0.12"/>
+    <path id="Mini_dome" data-name="Mini dome" d="M820 902 C820 844 858 810 905 810 C952 810 990 844 990 902 Z" fill="url(#radial-gradient-3)"/>
+    <path id="Mini_sesame_0" data-name="Mini sesame 0" d="M862 851.5 C862 849.567 864.91 848 868.5 848 C872.09 848 875 849.567 875 851.5 C875 853.433 872.09 855 868.5 855 C864.91 855 862 853.433 862 851.5 Z" fill="#fbe3b0"/>
+    <path id="Mini_sesame_1" data-name="Mini sesame 1" d="M905 839.5 C905 837.567 907.91 836 911.5 836 C915.09 836 918 837.567 918 839.5 C918 841.433 915.09 843 911.5 843 C907.91 843 905 841.433 905 839.5 Z" fill="#fbe3b0"/>
+    <path id="Mini_sesame_2" data-name="Mini sesame 2" d="M946 853.5 C946 851.567 948.91 850 952.5 850 C956.09 850 959 851.567 959 853.5 C959 855.433 956.09 857 952.5 857 C948.91 857 946 855.433 946 853.5 Z" fill="#fbe3b0"/>
+    <path id="Mini_sesame_3" data-name="Mini sesame 3" d="M884 869.5 C884 867.567 886.91 866 890.5 866 C894.09 866 897 867.567 897 869.5 C897 871.433 894.09 873 890.5 873 C886.91 873 884 871.433 884 869.5 Z" fill="#fbe3b0"/>
+    <path id="Mini_lettuce" data-name="Mini lettuce" d="M820 902 L990 902 L990 910 L820 910 Z" fill="#7c9a52"/>
+    <path id="Mini_tomato" data-name="Mini tomato" d="M820 910 L990 910 L990 917 L820 917 Z" fill="#c8452c"/>
+    <path id="Mini_patty" data-name="Mini patty" d="M820 917 L990 917 L990 927 L820 927 Z" fill="#6b4226"/>
+    <path id="Mini_face" data-name="Mini face" d="M820 927 C820 952 858 968 905 968 C952 968 990 952 990 927 Z" fill="#f2c063"/>
+    <path id="Mini_eye_L" data-name="Mini eye L" d="M876 943 C876 940.239 877.791 938 880 938 C882.209 938 884 940.239 884 943 C884 945.761 882.209 948 880 948 C877.791 948 876 945.761 876 943 Z" fill="#2b2620"/>
+    <path id="Mini_eye_R" data-name="Mini eye R" d="M924 943 C924 940.239 925.791 938 928 938 C930.209 938 932 940.239 932 943 C932 945.761 930.209 948 928 948 C925.791 948 924 945.761 924 943 Z" fill="#2b2620"/>
+    <path id="Mini_monocle" data-name="Mini monocle" d="M916 944 C916 937.373 921.373 932 928 932 C934.627 932 940 937.373 940 944 C940 950.627 934.627 956 928 956 C921.373 956 916 950.627 916 944 Z" fill="#ffffff" stroke="#b98a2f" stroke-width="2.6" stroke-miterlimit="10" opacity="0.14"/>
+    <path id="Mini_smile" data-name="Mini smile" d="M894 954 C900 958 910 958 916 954" fill="none" stroke="#2b2620" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Mini_bowtie_L" data-name="Mini bowtie L" d="M897 982 L862 968 C848 962 840 970 842 981 C840 992 848 998 862 993 Z" fill="#23201b"/>
+    <path id="Mini_bowtie_R" data-name="Mini bowtie R" d="M913 982 L948 968 C962 962 970 970 968 981 C970 992 962 998 948 993 Z" fill="#23201b"/>
+    <path id="Mini_knot" data-name="Mini knot" d="M901 970 L909 970 C911.209 970 913 971.791 913 974 L913 982 C913 984.209 911.209 986 909 986 L901 986 C898.791 986 897 984.209 897 982 L897 974 C897 971.791 898.791 970 901 970 Z" fill="#322e28"/>
+    <path id="Heart" d="M905 772 C896 752 866 756 866 778 C866 796 888 806 905 822 C922 806 944 796 944 778 C944 756 914 752 905 772 Z" fill="#d96a5a"/>
+    <text transform="matrix(1 0 0 1 600 1032)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;" font-size="30" fill="#8a7648" text-anchor="middle"><tspan x="0" y="0">JOLLY MEETS A VERY SMALL FART KNOCKER</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+# installed app binaries and release tarballs (reinstallable, huge)
+app/
+*.tar.gz
+# scratch renders (deliverables live at top level, twitter/, muse/)
+work/out/
+__pycache__/
+# app window proof screenshots
+*window*.png
+*.log
