@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="500" y1="0" x2="500" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#14100c"/>
+      <stop offset="1" stop-color="#060403"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a6248"/>
+      <stop offset="0.6" stop-color="#54381f"/>
+      <stop offset="1" stop-color="#2c1a0e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="200" cy="349" r="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b8be8e"/>
+      <stop offset="1" stop-color="#6e7448"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="786" cy="311" r="26" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b8be8e"/>
+      <stop offset="1" stop-color="#6e7448"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="832" cy="569" r="22" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b8be8e"/>
+      <stop offset="1" stop-color="#6e7448"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="239" cy="628" r="19" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b8be8e"/>
+      <stop offset="1" stop-color="#6e7448"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-6" cx="583" cy="180" r="23" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b8be8e"/>
+      <stop offset="1" stop-color="#6e7448"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="484" y1="422" x2="312" y2="600" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#dc3e2c"/>
+      <stop offset="0.6" stop-color="#b0281e"/>
+      <stop offset="1" stop-color="#7e1812"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="516" y1="422" x2="692" y2="606" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#dc3e2c"/>
+      <stop offset="0.6" stop-color="#b0281e"/>
+      <stop offset="1" stop-color="#7e1812"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="500" y1="448" x2="500" y2="638" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4a3828"/>
+      <stop offset="0.5" stop-color="#2e2014"/>
+      <stop offset="1" stop-color="#18100a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="482" y1="366" x2="262" y2="528" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cfc9ac"/>
+      <stop offset="0.5" stop-color="#ada789"/>
+      <stop offset="0.82" stop-color="#7e785c"/>
+      <stop offset="1" stop-color="#5c563f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="518" y1="366" x2="758" y2="544" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cfc9ac"/>
+      <stop offset="0.5" stop-color="#ada789"/>
+      <stop offset="0.82" stop-color="#7e785c"/>
+      <stop offset="1" stop-color="#5c563f"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-7" cx="500" cy="359" r="57" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5a4630"/>
+      <stop offset="0.6" stop-color="#33241a"/>
+      <stop offset="1" stop-color="#17100a"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-8" cx="500" cy="302" r="32.19" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6e5238"/>
+      <stop offset="0.6" stop-color="#3a2818"/>
+      <stop offset="1" stop-color="#1a0f08"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-9" cx="476" cy="300" r="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e5e3e"/>
+      <stop offset="1" stop-color="#140c06"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-10" cx="526" cy="300" r="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e5e3e"/>
+      <stop offset="1" stop-color="#140c06"/>
+    </radialGradient>
+  </defs>
+  <title>Spotted Lanternfly — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#3c2410" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#c09a72" stroke-width="3" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Bark_furrow_1" data-name="Bark furrow 1" d="M150 300 C174 510 236 510 260 720" fill="none" stroke="#1c0e06" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Bark_furrow_2" data-name="Bark furrow 2" d="M210 400 C234 520 156 520 180 640" fill="none" stroke="#1c0e06" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Bark_furrow_3" data-name="Bark furrow 3" d="M310 180 C334 490 306 490 330 800" fill="none" stroke="#1c0e06" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Bark_furrow_4" data-name="Bark furrow 4" d="M660 160 C684 470 666 470 690 780" fill="none" stroke="#1c0e06" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Bark_furrow_5" data-name="Bark furrow 5" d="M760 280 C784 490 696 490 720 700" fill="none" stroke="#1c0e06" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Bark_furrow_6" data-name="Bark furrow 6" d="M830 380 C854 500 776 500 800 620" fill="none" stroke="#1c0e06" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Pale_ridge" data-name="Pale ridge" d="M262 150 C286 340 268 540 292 770" fill="none" stroke="#c8a87e" stroke-width="9" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Ridge_light" data-name="Ridge light" d="M274 160 C296 340 280 540 302 760" fill="none" stroke="#eed9b8" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Ridge_shadow" data-name="Ridge shadow" d="M250 160 C274 340 256 540 280 760" fill="none" stroke="#241408" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Lichen_1" data-name="Lichen 1" d="M180 349 C180 344.029 188.954 340 200 340 C211.046 340 220 344.029 220 349 C220 353.971 211.046 358 200 358 C188.954 358 180 353.971 180 349 Z" fill="url(#radial-gradient-2)" opacity="0.45"/>
+    <path id="Lichen_2" data-name="Lichen 2" d="M760 311 C760 304.925 771.641 300 786 300 C800.359 300 812 304.925 812 311 C812 317.075 800.359 322 786 322 C771.641 322 760 317.075 760 311 Z" fill="url(#radial-gradient-3)" opacity="0.45"/>
+    <path id="Lichen_3" data-name="Lichen 3" d="M810 569 C810 564.029 819.85 560 832 560 C844.15 560 854 564.029 854 569 C854 573.971 844.15 578 832 578 C819.85 578 810 573.971 810 569 Z" fill="url(#radial-gradient-4)" opacity="0.45"/>
+    <path id="Lichen_4" data-name="Lichen 4" d="M220 628 C220 623.582 228.507 620 239 620 C249.493 620 258 623.582 258 628 C258 632.418 249.493 636 239 636 C228.507 636 220 632.418 220 628 Z" fill="url(#radial-gradient-5)" opacity="0.45"/>
+    <path id="Lichen_5" data-name="Lichen 5" d="M560 180 C560 174.477 570.297 170 583 170 C595.703 170 606 174.477 606 180 C606 185.523 595.703 190 583 190 C570.297 190 560 185.523 560 180 Z" fill="url(#radial-gradient-6)" opacity="0.45"/>
+    <path id="Lanternfly_shadow" data-name="Lanternfly shadow" d="M330 660 C330 648.954 406.112 640 500 640 C593.888 640 670 648.954 670 660 C670 671.046 593.888 680 500 680 C406.112 680 330 671.046 330 660 Z" fill="#000000" opacity="0.35"/>
+    <path id="Far_hindwing_fan" data-name="Far hindwing fan" d="M478.1 415.2 L471.4 418.9 L464.7 422.6 L457.9 426.3 L451.1 430.1 L444.3 433.9 L437.4 437.7 L430.5 441.6 L423.6 445.6 L416.7 449.6 L409.7 453.7 L402.9 457.9 L396.3 462.5 L389.7 467.2 L383.1 472 L376.6 476.8 L370 481.7 L363.5 486.7 L357 491.8 L350.5 496.9 L344 502.2 L337.6 507.5 L332.8 514.4 L328.8 522 L325 529.6 L321.3 537.3 L317.7 545 L314.2 552.7 L310.9 560.5 L307.7 568.4 L304.8 576.2 L301.9 584.1 L299.3 592 L324.7 608 L330.5 602.9 L336.3 597.9 L342.2 593 L348.2 588.2 L354.3 583.6 L360.5 579.1 L366.7 574.7 L373 570.4 L379.4 566.1 L385.8 562 L391.5 557.2 L395.8 551.1 L400.2 545 L404.7 538.9 L409.3 532.8 L414 526.8 L418.7 520.8 L423.5 514.8 L428.4 508.8 L433.3 502.9 L438.3 497 L443 490.8 L447.7 484.5 L452.4 478.2 L457.1 472 L461.8 465.7 L466.5 459.5 L471.2 453.3 L475.9 447.2 L480.6 441 L485.3 434.9 L489.9 428.8 Z" fill="url(#linear-gradient-2)" stroke="#3a1408" stroke-width="4" stroke-miterlimit="10" opacity="0.72"/>
+    <path id="Far_hindwing_black_band" data-name="Far hindwing black band" d="M401 541 L354 496" fill="none" stroke="#1e0e0a" stroke-width="30" stroke-linecap="round" stroke-miterlimit="10" opacity="0.58"/>
+    <path id="Far_hindwing_cream_band" data-name="Far hindwing cream band" d="M362 577 L320 543" fill="none" stroke="#f0e0c0" stroke-width="20" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Far_hindwing_spot_1" data-name="Far hindwing spot 1" d="M445.72 442.122 C445.72 439.637 447.735 437.622 450.22 437.622 C452.705 437.622 454.72 439.637 454.72 442.122 C454.72 444.608 452.705 446.622 450.22 446.622 C447.735 446.622 445.72 444.608 445.72 442.122 Z" fill="#1e0e0a" opacity="0.72"/>
+    <path id="Far_hindwing_spot_2" data-name="Far hindwing spot 2" d="M433.831 472.933 C433.831 470.724 435.622 468.933 437.831 468.933 C440.04 468.933 441.831 470.724 441.831 472.933 C441.831 475.142 440.04 476.933 437.831 476.933 C435.622 476.933 433.831 475.142 433.831 472.933 Z" fill="#1e0e0a" opacity="0.72"/>
+    <path id="Far_hindwing_spot_3" data-name="Far hindwing spot 3" d="M404.8 477.478 C404.8 475.545 406.367 473.978 408.3 473.978 C410.233 473.978 411.8 475.545 411.8 477.478 C411.8 479.411 410.233 480.978 408.3 480.978 C406.367 480.978 404.8 479.411 404.8 477.478 Z" fill="#1e0e0a" opacity="0.72"/>
+    <path id="Near_hindwing_fan" data-name="Near hindwing fan" d="M510.3 429 L515.2 435.2 L520.2 441.4 L525.1 447.7 L530 454 L534.9 460.4 L539.7 466.8 L544.6 473.2 L549.4 479.7 L554.2 486.2 L558.9 492.8 L563.7 499.2 L568.7 505.4 L573.6 511.6 L578.5 517.9 L583.3 524.2 L588.1 530.5 L592.7 536.8 L597.3 543.2 L601.8 549.6 L606.1 556 L610.4 562.4 L616.2 567.4 L622.8 571.7 L629.3 576.2 L635.7 580.7 L642.1 585.2 L648.3 589.9 L654.5 594.6 L660.6 599.5 L666.7 604.4 L672.6 609.4 L678.5 614.5 L705.5 597.5 L703 589.5 L700.3 581.6 L697.4 573.6 L694.3 565.6 L691.1 557.7 L687.8 549.7 L684.2 541.8 L680.6 533.9 L676.8 526 L672.9 518.2 L668.1 511.1 L661.6 505.5 L655 500 L648.3 494.6 L641.7 489.3 L634.9 484 L628.2 478.9 L621.4 473.8 L614.6 468.8 L607.7 463.8 L600.9 459 L593.7 454.5 L586.5 450.2 L579.2 446 L572 441.9 L564.7 437.8 L557.5 433.8 L550.3 429.9 L543.1 426.1 L535.9 422.3 L528.8 418.6 L521.7 415 Z" fill="url(#linear-gradient-3)" stroke="#3a1408" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Near_hindwing_black_band" data-name="Near hindwing black band" d="M651 499 L601 546" fill="none" stroke="#1e0e0a" stroke-width="30" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Near_hindwing_cream_band" data-name="Near hindwing cream band" d="M685 547 L640 583" fill="none" stroke="#f0e0c0" stroke-width="20" stroke-linecap="round" stroke-miterlimit="10" opacity="0.85"/>
+    <path id="Near_hindwing_spot_1" data-name="Near hindwing spot 1" d="M537.83 453.085 C537.83 450.6 539.844 448.585 542.33 448.585 C544.815 448.585 546.83 450.6 546.83 453.085 C546.83 455.57 544.815 457.585 542.33 457.585 C539.844 457.585 537.83 455.57 537.83 453.085 Z" fill="#1e0e0a" opacity="0.72"/>
+    <path id="Near_hindwing_spot_2" data-name="Near hindwing spot 2" d="M571.723 461.704 C571.723 459.494 573.514 457.704 575.723 457.704 C577.932 457.704 579.723 459.494 579.723 461.704 C579.723 463.913 577.932 465.704 575.723 465.704 C573.514 465.704 571.723 463.913 571.723 461.704 Z" fill="#1e0e0a" opacity="0.72"/>
+    <path id="Near_hindwing_spot_3" data-name="Near hindwing spot 3" d="M579.758 491.767 C579.758 489.834 581.325 488.267 583.258 488.267 C585.191 488.267 586.758 489.834 586.758 491.767 C586.758 493.7 585.191 495.267 583.258 495.267 C581.325 495.267 579.758 493.7 579.758 491.767 Z" fill="#1e0e0a" opacity="0.72"/>
+    <path id="Abdomen" d="M452 458 C440 528 452 588 480 628 C494 646 516 646 528 628 C552 588 558 528 548 458 C520 440 480 440 452 458 Z" fill="url(#linear-gradient-4)" stroke="#241610" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Abdomen_band_1" data-name="Abdomen band 1" d="M426 488 C463 500 537 500 574 488" fill="none" stroke="#c8a05a" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Abdomen_band_2" data-name="Abdomen band 2" d="M434 533 C467 545 533 545 566 533" fill="none" stroke="#c8a05a" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Abdomen_band_3" data-name="Abdomen band 3" d="M446 578 C473 590 527 590 554 578" fill="none" stroke="#c8a05a" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Abdomen_band_4" data-name="Abdomen band 4" d="M462 616 C481 628 519 628 538 616" fill="none" stroke="#c8a05a" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Far_forewing_wing" data-name="Far forewing wing" d="M486.1 359.2 L477.5 352.3 L468.7 346.1 L459.7 340.7 L450.4 335.9 L440.9 332 L431.1 328.8 L421.1 326.5 L410.9 325 L400.6 324.3 L390.1 324.6 L379.6 326.1 L369.6 329.2 L359.7 333.1 L350.1 337.8 L340.7 343.2 L331.6 349.2 L322.8 355.9 L314.3 363.2 L306 371.1 L298 379.5 L290.3 388.5 L284.3 399 L279.5 410.3 L275 421.9 L270.9 433.8 L267.1 446 L263.6 458.5 L260.5 471.3 L257.8 484.4 L255.3 497.7 L253.2 511.3 L251.4 525.1 L272.6 530.9 L278.2 518.8 L284 507.2 L290.1 496.2 L296.3 485.6 L302.7 475.6 L309.3 466.1 L316 457.3 L322.8 449 L329.7 441.4 L336.7 434.4 L343 427.6 L348 420.3 L353.1 413.5 L358.2 407.3 L363.5 401.5 L368.9 396.3 L374.3 391.6 L379.7 387.4 L385.3 383.7 L390.9 380.5 L396.5 377.8 L402.1 374.8 L407.9 371.8 L414 369.4 L420.5 367.4 L427.5 366 L434.8 365.3 L442.7 365.2 L450.9 365.9 L459.5 367.3 L468.5 369.6 L477.9 372.8 Z" fill="url(#linear-gradient-5)" stroke="#241610" stroke-width="5" stroke-miterlimit="10" opacity="0.88"/>
+    <path id="Far_forewing_leading_light" data-name="Far forewing leading light" d="M461 349 C434.333 325 397 327.667 349 357" fill="none" stroke="#ede6cc" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Far_forewing_spot_1" data-name="Far forewing spot 1" d="M439.633 341.072 C439.633 338.959 441.648 337.247 444.133 337.247 C446.618 337.247 448.633 338.959 448.633 341.072 C448.633 343.184 446.618 344.897 444.133 344.897 C441.648 344.897 439.633 343.184 439.633 341.072 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Far_forewing_spot_2" data-name="Far forewing spot 2" d="M436.611 356.734 C436.611 354.856 438.402 353.334 440.611 353.334 C442.821 353.334 444.611 354.856 444.611 356.734 C444.611 358.612 442.821 360.134 440.611 360.134 C438.402 360.134 436.611 358.612 436.611 356.734 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Far_forewing_spot_3" data-name="Far forewing spot 3" d="M404.597 344.354 C404.597 342.007 406.836 340.104 409.597 340.104 C412.359 340.104 414.597 342.007 414.597 344.354 C414.597 346.701 412.359 348.604 409.597 348.604 C406.836 348.604 404.597 346.701 404.597 344.354 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Far_forewing_spot_4" data-name="Far forewing spot 4" d="M398.855 363.181 C398.855 361.538 400.422 360.206 402.355 360.206 C404.288 360.206 405.855 361.538 405.855 363.181 C405.855 364.824 404.288 366.156 402.355 366.156 C400.422 366.156 398.855 364.824 398.855 363.181 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Far_forewing_spot_5" data-name="Far forewing spot 5" d="M380.543 336.811 C380.543 334.933 382.334 333.411 384.543 333.411 C386.753 333.411 388.543 334.933 388.543 336.811 C388.543 338.689 386.753 340.211 384.543 340.211 C382.334 340.211 380.543 338.689 380.543 336.811 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Far_forewing_spot_6" data-name="Far forewing spot 6" d="M362.821 367.219 C362.821 365.106 364.835 363.394 367.321 363.394 C369.806 363.394 371.821 365.106 371.821 367.219 C371.821 369.331 369.806 371.044 367.321 371.044 C364.835 371.044 362.821 369.331 362.821 367.219 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Far_forewing_spot_7" data-name="Far forewing spot 7" d="M347.951 353.26 C347.951 351.617 349.518 350.285 351.451 350.285 C353.384 350.285 354.951 351.617 354.951 353.26 C354.951 354.903 353.384 356.235 351.451 356.235 C349.518 356.235 347.951 354.903 347.951 353.26 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Far_forewing_spot_8" data-name="Far forewing spot 8" d="M334.997 381.958 C334.997 380.08 336.788 378.558 338.997 378.558 C341.206 378.558 342.997 380.08 342.997 381.958 C342.997 383.836 341.206 385.358 338.997 385.358 C336.788 385.358 334.997 383.836 334.997 381.958 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Far_forewing_spot_9" data-name="Far forewing spot 9" d="M342.039 400.553 C342.039 399.145 343.382 398.003 345.039 398.003 C346.696 398.003 348.039 399.145 348.039 400.553 C348.039 401.961 346.696 403.103 345.039 403.103 C343.382 403.103 342.039 401.961 342.039 400.553 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Far_forewing_spot_10" data-name="Far forewing spot 10" d="M307.13 391.546 C307.13 389.903 308.697 388.571 310.63 388.571 C312.563 388.571 314.13 389.903 314.13 391.546 C314.13 393.189 312.563 394.521 310.63 394.521 C308.697 394.521 307.13 393.189 307.13 391.546 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Far_forewing_spot_11" data-name="Far forewing spot 11" d="M312.941 416.881 C312.941 415.473 314.284 414.331 315.941 414.331 C317.598 414.331 318.941 415.473 318.941 416.881 C318.941 418.289 317.598 419.431 315.941 419.431 C314.284 419.431 312.941 418.289 312.941 416.881 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Far_forewing_spot_12" data-name="Far forewing spot 12" d="M293.85 421.129 C293.85 419.721 295.193 418.579 296.85 418.579 C298.506 418.579 299.85 419.721 299.85 421.129 C299.85 422.537 298.506 423.679 296.85 423.679 C295.193 423.679 293.85 422.537 293.85 421.129 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Far_forewing_crossvein_1" data-name="Far forewing crossvein 1" d="M337 425 L295 394" fill="none" stroke="#2e2416" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Far_forewing_crossvein_2" data-name="Far forewing crossvein 2" d="M312 455 L276 436" fill="none" stroke="#2e2416" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Far_forewing_crossvein_3" data-name="Far forewing crossvein 3" d="M288 493 L262 483" fill="none" stroke="#2e2416" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Far_forewing_long_vein" data-name="Far forewing long vein" d="M324 399 C308 443.667 288.667 482.667 266 516" fill="none" stroke="#2e2416" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Near_forewing_wing" data-name="Near forewing wing" d="M522 372.9 L532.1 369.8 L541.9 367.6 L551.3 366.3 L560.4 365.9 L569 366.3 L577.3 367.4 L585.1 369.2 L592.5 371.6 L599.6 374.6 L606.3 378.1 L612.8 381.7 L619.4 384.9 L626 388.7 L632.4 393.1 L638.7 397.9 L644.9 403.3 L651 409.2 L657 415.7 L662.7 422.6 L668.4 430.1 L673.8 438 L680.6 445.4 L688.1 452.8 L695.5 460.9 L702.7 469.6 L709.7 478.9 L716.5 488.8 L723.1 499.3 L729.4 510.4 L735.3 521.9 L741 534 L746.3 546.6 L769.7 541.4 L768.6 526.9 L767 512.6 L765 498.5 L762.4 484.6 L759.5 471 L756 457.5 L752.1 444.4 L747.8 431.4 L742.9 418.8 L737.6 406.5 L731 395.1 L722.5 385.3 L713.6 376.1 L704.4 367.5 L694.9 359.5 L685.1 352.2 L674.9 345.5 L664.5 339.6 L653.9 334.4 L643 330 L631.8 326.4 L620.3 324.5 L608.7 324 L597.2 324.3 L585.9 325.6 L574.8 327.9 L563.9 331 L553.3 335 L543 339.8 L533.1 345.4 L523.4 351.9 L514 359.1 Z" fill="url(#linear-gradient-6)" stroke="#241610" stroke-width="5" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Near_forewing_leading_light" data-name="Near forewing leading light" d="M541 348 C573.667 326 616 330 668 360" fill="none" stroke="#ede6cc" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Near_forewing_spot_1" data-name="Near forewing spot 1" d="M558.542 357.058 C558.542 354.945 560.557 353.233 563.042 353.233 C565.527 353.233 567.542 354.945 567.542 357.058 C567.542 359.17 565.527 360.883 563.042 360.883 C560.557 360.883 558.542 359.17 558.542 357.058 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Near_forewing_spot_2" data-name="Near forewing spot 2" d="M555.923 340.605 C555.923 338.727 557.714 337.205 559.923 337.205 C562.132 337.205 563.923 338.727 563.923 340.605 C563.923 342.482 562.132 344.005 559.923 344.005 C557.714 344.005 555.923 342.482 555.923 340.605 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Near_forewing_spot_3" data-name="Near forewing spot 3" d="M592.552 349.972 C592.552 347.625 594.79 345.722 597.552 345.722 C600.313 345.722 602.552 347.625 602.552 349.972 C602.552 352.319 600.313 354.222 597.552 354.222 C594.79 354.222 592.552 352.319 592.552 349.972 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Near_forewing_spot_4" data-name="Near forewing spot 4" d="M609.766 334.138 C609.766 332.495 611.333 331.163 613.266 331.163 C615.199 331.163 616.766 332.495 616.766 334.138 C616.766 335.781 615.199 337.113 613.266 337.113 C611.333 337.113 609.766 335.781 609.766 334.138 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Near_forewing_spot_5" data-name="Near forewing spot 5" d="M612.162 368.26 C612.162 366.382 613.953 364.86 616.162 364.86 C618.371 364.86 620.162 366.382 620.162 368.26 C620.162 370.137 618.371 371.66 616.162 371.66 C613.953 371.66 612.162 370.137 612.162 368.26 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Near_forewing_spot_6" data-name="Near forewing spot 6" d="M647.894 360.721 C647.894 358.608 649.909 356.896 652.394 356.896 C654.879 356.896 656.894 358.608 656.894 360.721 C656.894 362.833 654.879 364.546 652.394 364.546 C649.909 364.546 647.894 362.833 647.894 360.721 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Near_forewing_spot_7" data-name="Near forewing spot 7" d="M642.238 382.802 C642.238 381.159 643.805 379.827 645.738 379.827 C647.671 379.827 649.238 381.159 649.238 382.802 C649.238 384.445 647.671 385.777 645.738 385.777 C643.805 385.777 642.238 384.445 642.238 382.802 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Near_forewing_spot_8" data-name="Near forewing spot 8" d="M673.621 388.035 C673.621 386.157 675.412 384.635 677.621 384.635 C679.83 384.635 681.621 386.157 681.621 388.035 C681.621 389.913 679.83 391.435 677.621 391.435 C675.412 391.435 673.621 389.913 673.621 388.035 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Near_forewing_spot_9" data-name="Near forewing spot 9" d="M695.493 382.429 C695.493 381.021 696.836 379.879 698.493 379.879 C700.15 379.879 701.493 381.021 701.493 382.429 C701.493 383.837 700.15 384.979 698.493 384.979 C696.836 384.979 695.493 383.837 695.493 382.429 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Near_forewing_spot_10" data-name="Near forewing spot 10" d="M680.763 418.567 C680.763 416.924 682.33 415.592 684.263 415.592 C686.196 415.592 687.763 416.924 687.763 418.567 C687.763 420.21 686.196 421.542 684.263 421.542 C682.33 421.542 680.763 420.21 680.763 418.567 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Near_forewing_spot_11" data-name="Near forewing spot 11" d="M708.832 420.184 C708.832 418.776 710.175 417.634 711.832 417.634 C713.489 417.634 714.832 418.776 714.832 420.184 C714.832 421.592 713.489 422.734 711.832 422.734 C710.175 422.734 708.832 421.592 708.832 420.184 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Near_forewing_spot_12" data-name="Near forewing spot 12" d="M704.555 440.828 C704.555 439.419 705.898 438.278 707.555 438.278 C709.212 438.278 710.555 439.419 710.555 440.828 C710.555 442.236 709.212 443.378 707.555 443.378 C705.898 443.378 704.555 442.236 704.555 440.828 Z" fill="#18100c" opacity="0.78"/>
+    <path id="Near_forewing_crossvein_1" data-name="Near forewing crossvein 1" d="M726 401 L680 435" fill="none" stroke="#2e2416" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Near_forewing_crossvein_2" data-name="Near forewing crossvein 2" d="M747 446 L707 467" fill="none" stroke="#2e2416" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Near_forewing_crossvein_3" data-name="Near forewing crossvein 3" d="M761 497 L732 507" fill="none" stroke="#2e2416" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Near_forewing_long_vein" data-name="Near forewing long vein" d="M694 406 C725.333 454 745.667 495.667 755 531" fill="none" stroke="#2e2416" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Near_wing_sheen" data-name="Near wing sheen" d="M560 380 C640 348 716 408 748 518 C700 450 620 408 560 400 Z" fill="#fff6e0" opacity="0.28"/>
+    <path id="Thorax" d="M452 368 C448 332 468 306 500 302 C532 306 552 332 548 368 C544 398 524 416 500 416 C476 416 456 398 452 368 Z" fill="url(#radial-gradient-7)" stroke="#241610" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Thorax_rim_light" data-name="Thorax rim light" d="M468 324 C484 312 518 312 534 324" fill="none" stroke="#c8a87e" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Head" d="M468 306 C466 284 480 270 500 270 C520 270 534 284 532 306 C528 324 514 334 500 334 C486 334 472 324 468 306 Z" fill="url(#radial-gradient-8)" stroke="#241610" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Snout" d="M486 320 C494 326 506 326 514 320 C510 336 490 336 486 320 Z" fill="#2e1e10" stroke="#241610" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Far_eye" data-name="Far eye" d="M466 300 C466 293.373 470.477 288 476 288 C481.523 288 486 293.373 486 300 C486 306.627 481.523 312 476 312 C470.477 312 466 306.627 466 300 Z" fill="url(#radial-gradient-9)" stroke="#241610" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Near_eye" data-name="Near eye" d="M516 300 C516 293.373 520.477 288 526 288 C531.523 288 536 293.373 536 300 C536 306.627 531.523 312 526 312 C520.477 312 516 306.627 516 300 Z" fill="url(#radial-gradient-10)" stroke="#241610" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Far_eye_glint" data-name="Far eye glint" d="M471 295.5 C471 294.119 472.119 293 473.5 293 C474.881 293 476 294.119 476 295.5 C476 296.881 474.881 298 473.5 298 C472.119 298 471 296.881 471 295.5 Z" fill="#ffffff" opacity="0.8"/>
+    <path id="Near_eye_glint" data-name="Near eye glint" d="M521 295.5 C521 294.119 522.119 293 523.5 293 C524.881 293 526 294.119 526 295.5 C526 296.881 524.881 298 523.5 298 C522.119 298 521 296.881 521 295.5 Z" fill="#ffffff" opacity="0.8"/>
+    <path id="Far_antenna" data-name="Far antenna" d="M488 276 C478 254 466 242 452 236" fill="none" stroke="#241610" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Near_antenna" data-name="Near antenna" d="M512 276 C522 254 534 242 548 236" fill="none" stroke="#241610" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Far_antenna_tip" data-name="Far antenna tip" d="M449 236 C449 234.343 450.343 233 452 233 C453.657 233 455 234.343 455 236 C455 237.657 453.657 239 452 239 C450.343 239 449 237.657 449 236 Z" fill="#241610"/>
+    <path id="Near_antenna_tip" data-name="Near antenna tip" d="M545 236 C545 234.343 546.343 233 548 233 C549.657 233 551 234.343 551 236 C551 237.657 549.657 239 548 239 C546.343 239 545 237.657 545 236 Z" fill="#241610"/>
+    <path id="Far_fore_leg_ink" data-name="Far fore leg ink" d="M470 384 L412.5 384.4 L400 416" fill="none" stroke="#241610" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+    <path id="Far_fore_leg" data-name="Far fore leg" d="M470 384 L412.5 384.4 L400 416" fill="none" stroke="#1c110a" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+    <path id="Far_fore_leg_tarsus" data-name="Far fore leg tarsus" d="M400 416 L388 424" fill="none" stroke="#241610" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Far_mid_leg_ink" data-name="Far mid leg ink" d="M458 458 L396.9 462 L380 498" fill="none" stroke="#241610" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+    <path id="Far_mid_leg" data-name="Far mid leg" d="M458 458 L396.9 462 L380 498" fill="none" stroke="#1c110a" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+    <path id="Far_mid_leg_tarsus" data-name="Far mid leg tarsus" d="M380 498 L368 506" fill="none" stroke="#241610" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Far_hind_leg_ink" data-name="Far hind leg ink" d="M468 548 L412.3 561 L402 608" fill="none" stroke="#241610" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+    <path id="Far_hind_leg" data-name="Far hind leg" d="M468 548 L412.3 561 L402 608" fill="none" stroke="#1c110a" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+    <path id="Far_hind_leg_tarsus" data-name="Far hind leg tarsus" d="M402 608 L390 616" fill="none" stroke="#241610" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Near_fore_leg_ink" data-name="Near fore leg ink" d="M530 384 L588.4 385.3 L602 418" fill="none" stroke="#241610" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Near_fore_leg" data-name="Near fore leg" d="M530 384 L588.4 385.3 L602 418" fill="none" stroke="#3a2414" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Near_fore_leg_tarsus" data-name="Near fore leg tarsus" d="M602 418 L614 426" fill="none" stroke="#241610" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Near_mid_leg_ink" data-name="Near mid leg ink" d="M542 458 L604.9 462.9 L624 500" fill="none" stroke="#241610" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Near_mid_leg" data-name="Near mid leg" d="M542 458 L604.9 462.9 L624 500" fill="none" stroke="#3a2414" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Near_mid_leg_tarsus" data-name="Near mid leg tarsus" d="M624 500 L636 508" fill="none" stroke="#241610" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Near_hind_leg_ink" data-name="Near hind leg ink" d="M532 548 L588.6 561.9 L600 610" fill="none" stroke="#241610" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Near_hind_leg" data-name="Near hind leg" d="M532 548 L588.6 561.9 L600 610" fill="none" stroke="#3a2414" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Near_hind_leg_tarsus" data-name="Near hind leg tarsus" d="M600 610 L612 618" fill="none" stroke="#241610" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 938)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="48" fill="#ead9bc" text-anchor="middle"><tspan x="0" y="0">SPOTTED LANTERNFLY</tspan></text>
+    <text transform="matrix(1 0 0 1 500 974)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="22" fill="#b8966c" letter-spacing="8.8" text-anchor="middle"><tspan x="0" y="0">HEMIPTERA</tspan></text>
+  </g>
+</svg>
