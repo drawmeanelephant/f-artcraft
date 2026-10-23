@@ -1,8 +1,14 @@
 #!/usr/bin/env python3
-"""Minimal MCP stdio client for VectorCraft (remote mode, live app on :7979)."""
-import json, subprocess, sys, threading
+"""Minimal MCP stdio client for `vectorcraft-cli mcp` (newline JSON-RPC)."""
+import json, os, shutil, subprocess, threading
 
-CLI = "/home/hatch/workspace/vectorcraft/app/vectorcraft-0.13.1-linux-x86_64/bin/vectorcraft-cli"
+# vectorcraft-cli location: env wins, then PATH, then known install spots.
+CLI = (os.environ.get("VECTORCRAFT_CLI")
+       or shutil.which("vectorcraft-cli")
+       or next((p for p in (
+           os.path.expanduser("~/.local/bin/vectorcraft-cli"),
+           "/home/hatch/workspace/vectorcraft/app/vectorcraft-0.13.1-linux-x86_64/bin/vectorcraft-cli",
+       ) if os.path.exists(p)), "vectorcraft-cli"))
 
 class MCP:
     def __init__(self, args):
@@ -11,7 +17,7 @@ class MCP:
                                   stderr=subprocess.PIPE, text=True, bufsize=1)
         self._id = 0
         self.err = []
-        t = threading.Thread(target=self._drain_err, daemon=True); t.start()
+        threading.Thread(target=self._drain_err, daemon=True).start()
 
     def _drain_err(self):
         for line in self.p.stderr:
@@ -36,10 +42,7 @@ class MCP:
 
     def call(self, tool, args=None):
         res = self.request("tools/call", {"name": tool, "arguments": args or {}})
-        texts = []
-        for c in res.get("content", []):
-            if c.get("type") == "text":
-                texts.append(c["text"])
+        texts = [c["text"] for c in res.get("content", []) if c.get("type") == "text"]
         joined = "\n".join(texts)
         if res.get("isError"):
             raise RuntimeError(f"tool {tool} error: {joined[:600]}")
@@ -53,10 +56,3 @@ class MCP:
                                         "clientInfo": {"name": "fart-knocker", "version": "1.0"}})
         self.send({"jsonrpc": "2.0", "method": "notifications/initialized"})
         return r
-
-if __name__ == "__main__":
-    m = MCP(["--connect", "127.0.0.1:7979"])
-    info = m.init()
-    print("server:", json.dumps(info.get("serverInfo", {})))
-    tools = m.request("tools/list", {})
-    print("tools:", [t["name"] for t in tools.get("tools", [])])

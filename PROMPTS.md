@@ -10,6 +10,8 @@ its own critique. House rules learned the hard way:
   shapes past badges/rims, no overset, nothing clipped at canvas edges.
 - Lettering: Virelai Sans. Ornaments: Virelai Mascots glyphs (U+E002–E00A).
 - Every piece ships as `.vectorcraft` + `.svg` + `.pdf` + `@2x.png`.
+- Never overwrite a piece: revisions are `<slug>-V<V>R<RR>` — see the
+  revision rule in [AGENTS.md](AGENTS.md).
 
 Repo layout when this goes to git: `art/` (native + exports), `pdf/` (proofs),
 `prompts/` (this file, split per round), `analysis/` (one note per round).

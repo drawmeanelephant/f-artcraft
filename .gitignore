@@ -7,3 +7,10 @@ __pycache__/
 # app window proof screenshots
 *window*.png
 *.log
+
+# local archive: natives and pdf proofs stay out of git (see AGENTS.md)
+*.vectorcraft
+*.designcraft
+pdf/
+# T3 agent scratch workspaces
+t3-*/

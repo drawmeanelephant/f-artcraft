@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="1100" viewBox="0 0 900 1100">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1100" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1230"/>
+      <stop offset="0.55" stop-color="#2a1a3e"/>
+      <stop offset="1" stop-color="#0d0816"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="450" cy="320" r="330" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffb35c"/>
+      <stop offset="1" stop-color="#ffb35c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="450" cy="950" r="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffb35c"/>
+      <stop offset="1" stop-color="#ffb35c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="0" x2="80" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9a6f3e"/>
+      <stop offset="0.5" stop-color="#7a5430"/>
+      <stop offset="1" stop-color="#4e3016"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0" y1="90" x2="0" y2="175" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a87945"/>
+      <stop offset="1" stop-color="#6b4525"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-3" cx="440" cy="52" r="48.415" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8bc6a"/>
+      <stop offset="1" stop-color="#8a5c22"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-4" x1="356" y1="190" x2="430" y2="368" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cfd8e4"/>
+      <stop offset="0.55" stop-color="#8a97ab"/>
+      <stop offset="1" stop-color="#4e5a70"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0" y1="170" x2="0" y2="204" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5e3d28"/>
+      <stop offset="1" stop-color="#38210f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0" y1="760" x2="0" y2="960" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a5f36"/>
+      <stop offset="1" stop-color="#4e3016"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-4" cx="420" cy="830" r="108.167" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6b4a2c"/>
+      <stop offset="1" stop-color="#3a2412"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="450" cy="550" r="550" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0a0514" stop-opacity="0"/>
+      <stop offset="0.6" stop-color="#0a0514" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0a0514" stop-opacity="0.38"/>
+    </radialGradient>
+  </defs>
+  <title>Golly V2R00</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L900 0 L900 1100 L0 1100 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Lamplight" d="M120 320 C120 137.746 267.746 -10 450 -10 C632.254 -10 780 137.746 780 320 C780 502.254 632.254 650 450 650 C267.746 650 120 502.254 120 320 Z" fill="url(#radial-gradient-1)" opacity="0.42"/>
+    <path id="Floor_pool" data-name="Floor pool" d="M110 950 C110 893.667 262.223 848 450 848 C637.777 848 790 893.667 790 950 C790 1006.333 637.777 1052 450 1052 C262.223 1052 110 1006.333 110 950 Z" fill="url(#radial-gradient-2)" opacity="0.18"/>
+    <path id="Spark_0" data-name="Spark 0" d="M120 114 L121.32 118.68 L126 120 L121.32 121.32 L120 126 L118.68 121.32 L114 120 L118.68 118.68 Z" fill="#ffe9b0" opacity="0.85"/>
+    <path id="Spark_1" data-name="Spark 1" d="M780 145 L781.1 148.9 L785 150 L781.1 151.1 L780 155 L778.9 151.1 L775 150 L778.9 148.9 Z" fill="#ffe9b0" opacity="0.85"/>
+    <path id="Spark_2" data-name="Spark 2" d="M830 56 L830.88 59.12 L834 60 L830.88 60.88 L830 64 L829.12 60.88 L826 60 L829.12 59.12 Z" fill="#ffe9b0" opacity="0.85"/>
+    <path id="Spark_3" data-name="Spark 3" d="M70 296 L70.88 299.12 L74 300 L70.88 300.88 L70 304 L69.12 300.88 L66 300 L69.12 299.12 Z" fill="#ffe9b0" opacity="0.85"/>
+    <path id="Post_L" data-name="Post L" d="M300 160 L336 160 C341.523 160 346 164.477 346 170 L346 770 C346 775.523 341.523 780 336 780 L300 780 C294.477 780 290 775.523 290 770 L290 170 C290 164.477 294.477 160 300 160 Z" fill="url(#linear-gradient-2)"/>
+    <path id="Post_R" data-name="Post R" d="M564 160 L600 160 C605.523 160 610 164.477 610 170 L610 770 C610 775.523 605.523 780 600 780 L564 780 C558.477 780 554 775.523 554 770 L554 170 C554 164.477 558.477 160 564 160 Z" fill="url(#linear-gradient-2)"/>
+    <path id="Bolt_0" data-name="Bolt 0" d="M311 200 C311 196.134 314.134 193 318 193 C321.866 193 325 196.134 325 200 C325 203.866 321.866 207 318 207 C314.134 207 311 203.866 311 200 Z" fill="#d4a24a"/>
+    <path id="Bolt_1" data-name="Bolt 1" d="M311 720 C311 716.134 314.134 713 318 713 C321.866 713 325 716.134 325 720 C325 723.866 321.866 727 318 727 C314.134 727 311 723.866 311 720 Z" fill="#d4a24a"/>
+    <path id="Bolt_2" data-name="Bolt 2" d="M575 200 C575 196.134 578.134 193 582 193 C585.866 193 589 196.134 589 200 C589 203.866 585.866 207 582 207 C578.134 207 575 203.866 575 200 Z" fill="#d4a24a"/>
+    <path id="Bolt_3" data-name="Bolt 3" d="M575 720 C575 716.134 578.134 713 582 713 C585.866 713 589 716.134 589 720 C589 723.866 585.866 727 582 727 C578.134 727 575 723.866 575 720 Z" fill="#d4a24a"/>
+    <path id="Beam" d="M302 90 L598 90 C620.091 90 638 107.909 638 130 L638 136 C638 158.091 620.091 176 598 176 L302 176 C279.909 176 262 158.091 262 136 L262 130 C262 107.909 279.909 90 302 90 Z" fill="url(#linear-gradient-3)"/>
+    <path id="Knob" d="M424 66 C424 51.641 435.641 40 450 40 C464.359 40 476 51.641 476 66 C476 80.359 464.359 92 450 92 C435.641 92 424 80.359 424 66 Z" fill="url(#radial-gradient-3)"/>
+    <path id="Blade" d="M356 190 L544 190 L544 238 L356 368 Z" fill="url(#linear-gradient-4)"/>
+    <path id="Blade_edge" data-name="Blade edge" d="M356 340 L356 368 L544 238 L544 230 Z" fill="#e8f0fa" opacity="0.8"/>
+    <path id="Blade_sheen" data-name="Blade sheen" d="M380 200 L500 200 L420 290 Z" fill="#f5f9ff" opacity="0.3"/>
+    <path id="Carriage" d="M354 170 L546 170 C550.418 170 554 173.582 554 178 L554 196 C554 200.418 550.418 204 546 204 L354 204 C349.582 204 346 200.418 346 196 L346 178 C346 173.582 349.582 170 354 170 Z" fill="url(#linear-gradient-5)"/>
+    <path id="Rope" d="M640 176 C664 300 664 420 652 500" fill="none" stroke="#c9a25a" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Tassel" d="M652 500 C640 540 646 575 660 600 L646 606 C628 578 624 540 638 502 Z" fill="#c9a25a"/>
+    <path id="Base" d="M294 760 L606 760 C619.255 760 630 770.745 630 784 L630 936 C630 949.255 619.255 960 606 960 L294 960 C280.745 960 270 949.255 270 936 L270 784 C270 770.745 280.745 760 294 760 Z" fill="url(#linear-gradient-6)"/>
+    <path id="Face_panel" data-name="Face panel" d="M356 800 L544 800 C555.046 800 564 808.954 564 820 L564 920 C564 931.046 555.046 940 544 940 L356 940 C344.954 940 336 931.046 336 920 L336 820 C336 808.954 344.954 800 356 800 Z" fill="url(#radial-gradient-4)"/>
+    <path id="Eye_0" data-name="Eye 0" d="M382 850 C382 834.536 393.641 822 408 822 C422.359 822 434 834.536 434 850 C434 865.464 422.359 878 408 878 C393.641 878 382 865.464 382 850 Z" fill="#f5ead0"/>
+    <path id="Pupil_0" data-name="Pupil 0" d="M392 850 C392 842.268 397.373 836 404 836 C410.627 836 416 842.268 416 850 C416 857.732 410.627 864 404 864 C397.373 864 392 857.732 392 850 Z" fill="#1c1208"/>
+    <path id="Glint_0" data-name="Glint 0" d="M398 844 C398 841.791 399.791 840 402 840 C404.209 840 406 841.791 406 844 C406 846.209 404.209 848 402 848 C399.791 848 398 846.209 398 844 Z" fill="#fff6e8"/>
+    <path id="Eye_1" data-name="Eye 1" d="M466 850 C466 834.536 477.641 822 492 822 C506.359 822 518 834.536 518 850 C518 865.464 506.359 878 492 878 C477.641 878 466 865.464 466 850 Z" fill="#f5ead0"/>
+    <path id="Pupil_1" data-name="Pupil 1" d="M476 850 C476 842.268 481.373 836 488 836 C494.627 836 500 842.268 500 850 C500 857.732 494.627 864 488 864 C481.373 864 476 857.732 476 850 Z" fill="#1c1208"/>
+    <path id="Glint_1" data-name="Glint 1" d="M482 844 C482 841.791 483.791 840 486 840 C488.209 840 490 841.791 490 844 C490 846.209 488.209 848 486 848 C483.791 848 482 846.209 482 844 Z" fill="#fff6e8"/>
+    <path id="Brows" d="M372 816 C384 808 398 806 410 810 M490 810 C502 806 516 808 528 816" fill="none" stroke="#2a1a0c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Mouth" d="M412 912 C412 900.954 429.013 892 450 892 C470.987 892 488 900.954 488 912 C488 923.046 470.987 932 450 932 C429.013 932 412 923.046 412 912 Z" fill="#4a1420"/>
+    <path id="Tongue" d="M430 918 C430 912.477 438.954 908 450 908 C461.046 908 470 912.477 470 918 C470 923.523 461.046 928 450 928 C438.954 928 430 923.523 430 918 Z" fill="#c96a6a"/>
+    <path id="Arm_L" data-name="Arm L" d="M290 540 C230 540 190 500 186 448" fill="none" stroke="#7a5430" stroke-width="26" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Paw" d="M140 433 C140 409.252 161.49 390 188 390 C214.51 390 236 409.252 236 433 C236 456.748 214.51 476 188 476 C161.49 476 140 456.748 140 433 Z" fill="#f5ead0"/>
+    <path id="Bowtie" d="M400 958 L440 946 L440 978 Z M500 958 L460 946 L460 978 Z" fill="#e85a80"/>
+    <path id="Knot" d="M442 961 C442 956.029 445.582 952 450 952 C454.418 952 458 956.029 458 961 C458 965.971 454.418 970 450 970 C445.582 970 442 965.971 442 961 Z" fill="#c94a6e"/>
+    <path id="Bowtie_dot_0" data-name="Bowtie dot 0" d="M409 962 C409 960.343 410.343 959 412 959 C413.657 959 415 960.343 415 962 C415 963.657 413.657 965 412 965 C410.343 965 409 963.657 409 962 Z" fill="#8a2a50"/>
+    <path id="Bowtie_dot_1" data-name="Bowtie dot 1" d="M485 962 C485 960.343 486.343 959 488 959 C489.657 959 491 960.343 491 962 C491 963.657 489.657 965 488 965 C486.343 965 485 963.657 485 962 Z" fill="#8a2a50"/>
+    <path id="Bowtie_dot_2" data-name="Bowtie dot 2" d="M425 968 C425 966.343 426.343 965 428 965 C429.657 965 431 966.343 431 968 C431 969.657 429.657 971 428 971 C426.343 971 425 969.657 425 968 Z" fill="#8a2a50"/>
+    <path id="Bowtie_dot_3" data-name="Bowtie dot 3" d="M469 968 C469 966.343 470.343 965 472 965 C473.657 965 475 966.343 475 968 C475 969.657 473.657 971 472 971 C470.343 971 469 969.657 469 968 Z" fill="#8a2a50"/>
+    <path id="Foot_L" data-name="Foot L" d="M342 960 L388 960 C400.15 960 410 969.85 410 982 L410 990 C410 1002.15 400.15 1012 388 1012 L342 1012 C329.85 1012 320 1002.15 320 990 L320 982 C320 969.85 329.85 960 342 960 Z" fill="#3a2412"/>
+    <path id="Foot_R" data-name="Foot R" d="M512 960 L558 960 C570.15 960 580 969.85 580 982 L580 990 C580 1002.15 570.15 1012 558 1012 L512 1012 C499.85 1012 490 1002.15 490 990 L490 982 C490 969.85 499.85 960 512 960 Z" fill="#3a2412"/>
+    <path id="Shadow" d="M280 1032 C280 1025.373 356.112 1020 450 1020 C543.888 1020 620 1025.373 620 1032 C620 1038.627 543.888 1044 450 1044 C356.112 1044 280 1038.627 280 1032 Z" fill="#050308" opacity="0.55"/>
+    <path id="Vignette" d="M0 0 L900 0 L900 1100 L0 1100 Z" fill="url(#radial-gradient-5)"/>
+    <path id="Finger_0" data-name="Finger 0" d="M148 385 C148 374.507 153.82 366 161 366 C168.18 366 174 374.507 174 385 C174 395.493 168.18 404 161 404 C153.82 404 148 395.493 148 385 Z" fill="#f5ead0"/>
+    <path id="Finger_1" data-name="Finger 1" d="M176 385 C176 374.507 181.82 366 189 366 C196.18 366 202 374.507 202 385 C202 395.493 196.18 404 189 404 C181.82 404 176 395.493 176 385 Z" fill="#f5ead0"/>
+    <path id="Finger_2" data-name="Finger 2" d="M204 385 C204 374.507 209.82 366 217 366 C224.18 366 230 374.507 230 385 C230 395.493 224.18 404 217 404 C209.82 404 204 395.493 204 385 Z" fill="#f5ead0"/>
+    <path id="Arm_R" data-name="Arm R" d="M610 560 C660 575 690 610 692 660" fill="none" stroke="#7a5430" stroke-width="26" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Paw_R" data-name="Paw R" d="M664 667 C664 652.088 677.431 640 694 640 C710.569 640 724 652.088 724 667 C724 681.912 710.569 694 694 694 C677.431 694 664 681.912 664 667 Z" fill="#f5ead0"/>
+  </g>
+</svg>

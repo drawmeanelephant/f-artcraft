@@ -1,15 +1,24 @@
 #!/usr/bin/env python3
-"""Shared drawing helper over the VectorCraft MCP remote session."""
-import sys, json
-sys.path.insert(0, "/home/hatch/workspace/vectorcraft/work")
+"""Shared drawing helper over the VectorCraft MCP session."""
+import sys, os, json
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from mcp_client import MCP
 
-OUT = "/home/hatch/workspace/vectorcraft/work/out"
+WORK = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(WORK)                 # the t3 scratch dir
+REPO = os.path.dirname(ROOT)                 # the f-artcraft checkout
+OUT = os.path.join(WORK, "out")
+os.makedirs(OUT, exist_ok=True)
 NONE = "none"
 
 class Draw:
-    def __init__(self):
-        self.m = MCP(["--connect", "127.0.0.1:7979"])
+    def __init__(self, connect=False):
+        # connect=True drives the live app (launch it with --control 7979);
+        # default is headless with this scratch dir as the automation roots.
+        args = (["--connect", "127.0.0.1:7979"] if connect else
+                ["--automation-read-root", REPO,
+                 "--automation-write-root", REPO])
+        self.m = MCP(args)
         self.m.init()
         self.errors = []
         self.count = 0
@@ -29,6 +38,9 @@ class Draw:
             "name": name, "width": w, "height": h, "units": "Pixels",
             "backgroundContents": "white", "colorMode": "rgb"}}, f"file.new {name}")
 
+    def open(self, path):
+        return self.call("open_file", {"path": path}, f"open {os.path.basename(path)}")
+
     def shape(self, shape_, label, **kw):
         a = {"shape": shape_, "name": label}; a.update(kw)
         return self.call("draw_shape", a, label)
@@ -41,8 +53,11 @@ class Draw:
         a = {"text": txt}; a.update(kw)
         return self.call("add_text", a, label)
 
+    def cmd(self, command, label=None, **params):
+        return self.call("run_command", {"command": command, "params": params}, label or command)
+
     def finish(self, base, scales=(2,)):
-        self.call("run_command", {"command": "select.none", "params": {}}, "select.none")
+        self.cmd("select.none", "select.none")
         r = self.call("save_file", {"path": f"{OUT}/{base}.vectorcraft"}, "save")
         print("save:", json.dumps(r)[:160] if r else None)
         for fmt, path, scale in [("png", f"{OUT}/{base}@2x.png", 2),

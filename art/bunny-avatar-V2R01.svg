@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141020"/>
+      <stop offset="0.55" stop-color="#1e1830"/>
+      <stop offset="1" stop-color="#090614"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="360" cy="300" r="394.462" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3d3227"/>
+      <stop offset="0.7" stop-color="#241d14"/>
+      <stop offset="1" stop-color="#171208"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="370" cy="320" r="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffcf8a"/>
+      <stop offset="1" stop-color="#ffcf8a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="436" y1="150" x2="436" y2="430" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a89b82"/>
+      <stop offset="1" stop-color="#5e5340"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="564" y1="150" x2="564" y2="430" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a89b82"/>
+      <stop offset="1" stop-color="#5e5340"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-3" cx="400" cy="460" r="256.125" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b8ab90"/>
+      <stop offset="0.75" stop-color="#7a6e58"/>
+      <stop offset="1" stop-color="#4e4534"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="500" cy="900" r="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d43a2e"/>
+      <stop offset="1" stop-color="#d43a2e" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="500" cy="500" r="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0a0514" stop-opacity="0"/>
+      <stop offset="0.6" stop-color="#0a0514" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0a0514" stop-opacity="0.45"/>
+    </radialGradient>
+  </defs>
+  <title>Bunny Avatar V2R00</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Badge" d="M70 500 C70 262.518 262.518 70 500 70 C737.482 70 930 262.518 930 500 C930 737.482 737.482 930 500 930 C262.518 930 70 737.482 70 500 Z" fill="url(#radial-gradient-1)"/>
+    <path id="Ring" d="M70 500 C70 262.518 262.518 70 500 70 C737.482 70 930 262.518 930 500 C930 737.482 737.482 930 500 930 C262.518 930 70 737.482 70 500 Z" fill="none" stroke="#c9a25a" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Inner_ring" data-name="Inner ring" d="M96 500 C96 276.877 276.877 96 500 96 C723.123 96 904 276.877 904 500 C904 723.123 723.123 904 500 904 C276.877 904 96 723.123 96 500 Z" fill="none" stroke="#7a6238" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Lamp" d="M70 320 C70 154.315 204.315 20 370 20 C535.685 20 670 154.315 670 320 C670 485.685 535.685 620 370 620 C204.315 620 70 485.685 70 320 Z" fill="url(#radial-gradient-2)" opacity="0.3"/>
+    <path id="Ear_0" data-name="Ear 0" d="M394.409 290.845 C384.032 217.012 394.241 154.542 417.212 151.314 C440.182 148.086 467.215 205.322 477.591 279.155 C487.968 352.988 477.759 415.458 454.788 418.686 C431.818 421.914 404.785 364.678 394.409 290.845 Z" fill="url(#linear-gradient-2)"/>
+    <path id="Inner_ear_0" data-name="Inner ear 0" d="M412.234 288.34 C404.547 233.649 408.957 187.818 422.083 185.973 C435.209 184.128 452.08 226.969 459.766 281.66 C467.453 336.351 463.043 382.182 449.917 384.027 C436.791 385.872 419.92 343.031 412.234 288.34 Z" fill="#3a3024" opacity="0.7"/>
+    <path id="Ear_1" data-name="Ear 1" d="M522.409 279.155 C532.785 205.322 559.818 148.086 582.788 151.314 C605.759 154.542 615.968 217.012 605.591 290.845 C595.215 364.678 568.182 421.914 545.212 418.686 C522.241 415.458 512.032 352.988 522.409 279.155 Z" fill="url(#linear-gradient-3)"/>
+    <path id="Inner_ear_1" data-name="Inner ear 1" d="M540.234 281.66 C547.92 226.969 564.791 184.128 577.917 185.973 C591.043 187.818 595.453 233.649 587.766 288.34 C580.08 343.031 563.209 385.872 550.083 384.027 C536.957 382.182 532.547 336.351 540.234 281.66 Z" fill="#3a3024" opacity="0.7"/>
+    <path id="Head" d="M310 560 C310 460.589 395.066 380 500 380 C604.934 380 690 460.589 690 560 C690 659.411 604.934 740 500 740 C395.066 740 310 659.411 310 560 Z" fill="url(#radial-gradient-3)"/>
+    <path id="Eye_0" data-name="Eye 0" d="M400 551 C400 533.879 413.431 520 430 520 C446.569 520 460 533.879 460 551 C460 568.121 446.569 582 430 582 C413.431 582 400 568.121 400 551 Z" fill="#241c10"/>
+    <path id="Glint_0" data-name="Glint 0" d="M416 538 C416 534.686 418.686 532 422 532 C425.314 532 428 534.686 428 538 C428 541.314 425.314 544 422 544 C418.686 544 416 541.314 416 538 Z" fill="#e8d8b8" opacity="0.7"/>
+    <path id="Lid_0" data-name="Lid 0" d="M392 526 C412 508 448 508 468 526" fill="none" stroke="#3a3024" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Eye_1" data-name="Eye 1" d="M540 551 C540 533.879 553.431 520 570 520 C586.569 520 600 533.879 600 551 C600 568.121 586.569 582 570 582 C553.431 582 540 568.121 540 551 Z" fill="#241c10"/>
+    <path id="Glint_1" data-name="Glint 1" d="M556 538 C556 534.686 558.686 532 562 532 C565.314 532 568 534.686 568 538 C568 541.314 565.314 544 562 544 C558.686 544 556 541.314 556 538 Z" fill="#e8d8b8" opacity="0.7"/>
+    <path id="Lid_1" data-name="Lid 1" d="M532 526 C552 508 588 508 608 526" fill="none" stroke="#3a3024" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Frown" d="M455 668 C480 652 520 652 545 668" fill="none" stroke="#3a3024" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Whisker_L0" data-name="Whisker L0" d="M315 592 L215 598" fill="none" stroke="#4e4534" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Whisker_L1" data-name="Whisker L1" d="M315 612 L215 612" fill="none" stroke="#4e4534" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Whisker_L2" data-name="Whisker L2" d="M315 632 L215 626" fill="none" stroke="#4e4534" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Whisker_R0" data-name="Whisker R0" d="M685 592 L785 586" fill="none" stroke="#4e4534" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Whisker_R1" data-name="Whisker R1" d="M685 612 L785 612" fill="none" stroke="#4e4534" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Whisker_R2" data-name="Whisker R2" d="M685 632 L785 638" fill="none" stroke="#4e4534" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Bowtie" d="M428 758 L503 731 L503 800 Z M572 758 L497 731 L497 800 Z" fill="#2e2620"/>
+    <path id="Knot" d="M485 764 C485 754.059 491.716 746 500 746 C508.284 746 515 754.059 515 764 C515 773.941 508.284 782 500 782 C491.716 782 485 773.941 485 764 Z" fill="#2e2620"/>
+    <path id="Stamp_glow" data-name="Stamp glow" d="M310 900 C310 863.273 395.066 833.5 500 833.5 C604.934 833.5 690 863.273 690 900 C690 936.727 604.934 966.5 500 966.5 C395.066 966.5 310 936.727 310 900 Z" fill="url(#radial-gradient-4)" opacity="0.22"/>
+    <text transform="matrix(1 0 0 1 500 918)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;, sans-serif" font-size="64" fill="#d43a2e" text-anchor="middle"><tspan x="0" y="0">ERROR</tspan></text>
+    <path id="Vignette" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#radial-gradient-5)"/>
+  </g>
+</svg>
