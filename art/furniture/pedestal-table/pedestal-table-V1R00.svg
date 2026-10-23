@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0e1a1a"/>
+      <stop offset="1" stop-color="#04080a"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3e7a72"/>
+      <stop offset="0.6" stop-color="#26554e"/>
+      <stop offset="1" stop-color="#0e2826"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="460" cy="290" r="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eaf6ec" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#eaf6ec" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="700" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2c2620" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#100d0a" stop-opacity="0.9"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-3" cx="500" cy="799" r="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#06080a" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#06080a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="334" cy="746.5" r="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5a564c" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#5a564c" stop-opacity="0.5"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="678" cy="742.5" r="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5a564c" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#5a564c" stop-opacity="0.5"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-6" cx="352" cy="798.5" r="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5a564c" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#5a564c" stop-opacity="0.5"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-7" cx="672" cy="792.5" r="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5a564c" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#5a564c" stop-opacity="0.5"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-3" x1="430" y1="500" x2="575" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d9d5c8"/>
+      <stop offset="0.35" stop-color="#faf8f2"/>
+      <stop offset="0.75" stop-color="#d9d5c8"/>
+      <stop offset="1" stop-color="#6e6a5e"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-8" cx="481" cy="555" r="125" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-9" cx="554" cy="595" r="115" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3c382e" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#3c382e" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-10" cx="500" cy="419" r="96" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#201c16" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#201c16" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-4" x1="500" y1="330" x2="500" y2="446" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b4b0a2"/>
+      <stop offset="0.5" stop-color="#8e8a7c"/>
+      <stop offset="1" stop-color="#565248"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-11" cx="500" cy="378" r="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fdfbf6"/>
+      <stop offset="0.55" stop-color="#e6e2d4"/>
+      <stop offset="1" stop-color="#b2ae9e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-12" cx="455" cy="360" r="105" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-13" cx="600" cy="387" r="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9fb8b0" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#9fb8b0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <title>Pedestal Table — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)"/>
+    <path id="Overhead_light" data-name="Overhead light" d="M180 290 C180 168.497 305.36 70 460 70 C614.64 70 740 168.497 740 290 C740 411.503 614.64 510 460 510 C305.36 510 180 411.503 180 290 Z" fill="url(#radial-gradient-2)"/>
+    <path id="Plate_fleck_1" data-name="Plate fleck 1" d="M205 218 C205 216.343 206.343 215 208 215 C209.657 215 211 216.343 211 218 C211 219.657 209.657 221 208 221 C206.343 221 205 219.657 205 218 Z" fill="#8eb8ae" opacity="0.32"/>
+    <path id="Plate_fleck_2" data-name="Plate fleck 2" d="M780 243.5 C780 241.567 781.567 240 783.5 240 C785.433 240 787 241.567 787 243.5 C787 245.433 785.433 247 783.5 247 C781.567 247 780 245.433 780 243.5 Z" fill="#8eb8ae" opacity="0.32"/>
+    <path id="Plate_fleck_3" data-name="Plate fleck 3" d="M168 618 C168 616.343 169.343 615 171 615 C172.657 615 174 616.343 174 618 C174 619.657 172.657 621 171 621 C169.343 621 168 619.657 168 618 Z" fill="#8eb8ae" opacity="0.32"/>
+    <path id="Plate_fleck_4" data-name="Plate fleck 4" d="M828 593.5 C828 591.567 829.567 590 831.5 590 C833.433 590 835 591.567 835 593.5 C835 595.433 833.433 597 831.5 597 C829.567 597 828 595.433 828 593.5 Z" fill="#8eb8ae" opacity="0.32"/>
+    <path id="Plate_fleck_5" data-name="Plate fleck 5" d="M425 105 C425 103.343 426.343 102 428 102 C429.657 102 431 103.343 431 105 C431 106.657 429.657 108 428 108 C426.343 108 425 106.657 425 105 Z" fill="#8eb8ae" opacity="0.32"/>
+    <path id="Plate_fleck_6" data-name="Plate fleck 6" d="M645 111.5 C645 109.567 646.567 108 648.5 108 C650.433 108 652 109.567 652 111.5 C652 113.433 650.433 115 648.5 115 C646.567 115 645 113.433 645 111.5 Z" fill="#8eb8ae" opacity="0.32"/>
+    <path id="Plate_fleck_7" data-name="Plate fleck 7" d="M152 423 C152 421.343 153.343 420 155 420 C156.657 420 158 421.343 158 423 C158 424.657 156.657 426 155 426 C153.343 426 152 424.657 152 423 Z" fill="#8eb8ae" opacity="0.32"/>
+    <path id="Plate_fleck_8" data-name="Plate fleck 8" d="M855 408 C855 406.343 856.343 405 858 405 C859.657 405 861 406.343 861 408 C861 409.657 859.657 411 858 411 C856.343 411 855 409.657 855 408 Z" fill="#8eb8ae" opacity="0.32"/>
+    <path id="Floor" d="M155.3 700 L844.7 700 C766.177 812.796 637.436 880.038 500 880.038 C362.564 880.038 233.823 812.796 155.3 700 Z" fill="url(#linear-gradient-2)"/>
+    <path id="Table_shadow" data-name="Table shadow" d="M280 799 C280 775.252 378.497 756 500 756 C621.503 756 720 775.252 720 799 C720 822.748 621.503 842 500 842 C378.497 842 280 822.748 280 799 Z" fill="url(#radial-gradient-3)"/>
+    <path id="Rear_foot_L" data-name="Rear foot L" d="M458 686 C418 703.333 376.667 722 334 742" fill="none" stroke="#8a867a" stroke-width="15" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Rear_foot_L_pad" data-name="Rear foot L pad" d="M314 746.5 C314 742.91 322.954 740 334 740 C345.046 740 354 742.91 354 746.5 C354 750.09 345.046 753 334 753 C322.954 753 314 750.09 314 746.5 Z" fill="url(#radial-gradient-4)"/>
+    <path id="Rear_foot_R" data-name="Rear foot R" d="M550 688 C591.333 702.667 634 719.333 678 738" fill="none" stroke="#7c786c" stroke-width="15" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Rear_foot_R_pad" data-name="Rear foot R pad" d="M658 742.5 C658 738.91 666.954 736 678 736 C689.046 736 698 738.91 698 742.5 C698 746.09 689.046 749 678 749 C666.954 749 658 746.09 658 742.5 Z" fill="url(#radial-gradient-5)"/>
+    <path id="Front_foot_L" data-name="Front foot L" d="M472 698 C445.333 728.667 405.333 760.667 352 794" fill="none" stroke="#cfcab9" stroke-width="24" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Front_foot_L_light" data-name="Front foot L light" d="M472 693 C445.333 723.667 405.333 755.667 352 789" fill="none" stroke="#fdfbf4" stroke-width="9.12" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Front_foot_L_pad" data-name="Front foot L pad" d="M332 798.5 C332 794.91 340.954 792 352 792 C363.046 792 372 794.91 372 798.5 C372 802.09 363.046 805 352 805 C340.954 805 332 802.09 332 798.5 Z" fill="url(#radial-gradient-6)"/>
+    <path id="Front_foot_R" data-name="Front foot R" d="M538 700 C574 730.667 618.667 760 672 788" fill="none" stroke="#b4b0a0" stroke-width="24" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Front_foot_R_light" data-name="Front foot R light" d="M538 695 C574 725.667 618.667 755 672 783" fill="none" stroke="#e4e0d2" stroke-width="9.12" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Front_foot_R_pad" data-name="Front foot R pad" d="M652 792.5 C652 788.91 660.954 786 672 786 C683.046 786 692 788.91 692 792.5 C692 796.09 683.046 799 672 799 C660.954 799 652 796.09 652 792.5 Z" fill="url(#radial-gradient-7)"/>
+    <path id="Column_silhouette" data-name="Column silhouette" d="M534 412 C530 429.333 528.333 441.333 529 448 C529.667 454.667 533.333 460.333 540 465 C546.667 469.667 550.667 474.667 552 480 C552.667 485.333 551.333 490.667 548 496 C544 502 541.667 508.667 541 516 C540.333 524 542.667 530.667 548 536 C553.333 542 556.667 548.333 558 555 C560 561.667 558.667 568.667 554 576 C550 584 547.333 592.667 546 602 C545.333 610.667 547 618.667 551 626 C555 632.667 557.333 639.333 558 646 C559.333 652 562.667 657.333 568 662 C572.667 666 576.667 671 580 677 C583.333 683 589.333 688.333 598 693 C606 697.667 614 702 622 706 C630 710 635 714.333 637 719 L640 726 L360 726 C364 716.667 370 710 378 706 C386 702 394 697.667 402 693 C410.667 688.333 416.667 683 420 677 C423.333 671 427.333 666 432 662 C437.333 657.333 440.667 652 442 646 C442.667 639.333 445 632.667 449 626 C453 618.667 454.667 610.667 454 602 C452.667 592.667 450 584 446 576 C441.333 568.667 440 561.667 442 555 C443.333 548.333 446.667 542 452 536 C457.333 530.667 459.667 524 459 516 C458.333 508.667 456 502 452 496 C448.667 490.667 447.333 485.333 448 480 C449.333 474.667 453.333 469.667 460 465 C466.667 460.333 470.333 454.667 471 448 C471.667 441.333 471 433.667 469 425 Z" fill="url(#linear-gradient-3)" stroke="#4a463c" stroke-width="3.5" stroke-linejoin="round"/>
+    <path id="Turning_groove_1" data-name="Turning groove 1" d="M476 446 C476 449.314 486.745 452 500 452 C513.255 452 524 449.314 524 446" fill="none" stroke="#7a7668" stroke-width="3.2" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Turning_groove_2" data-name="Turning groove 2" d="M458 498 C458 503.523 476.804 508 500 508 C523.196 508 542 503.523 542 498" fill="none" stroke="#7a7668" stroke-width="3.2" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Turning_groove_3" data-name="Turning groove 3" d="M458 535 C458 540.523 476.804 545 500 545 C523.196 545 542 540.523 542 535" fill="none" stroke="#7a7668" stroke-width="3.2" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Turning_groove_4" data-name="Turning groove 4" d="M452 580 C452 586.075 473.49 591 500 591 C526.51 591 548 586.075 548 580" fill="none" stroke="#7a7668" stroke-width="3.2" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Turning_groove_5" data-name="Turning groove 5" d="M456 622 C456 628.075 475.699 633 500 633 C524.301 633 544 628.075 544 622" fill="none" stroke="#7a7668" stroke-width="3.2" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Turning_groove_6" data-name="Turning groove 6" d="M445 652 C445 659.18 469.624 665 500 665 C530.376 665 555 659.18 555 652" fill="none" stroke="#7a7668" stroke-width="3.2" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Turning_groove_7" data-name="Turning groove 7" d="M409 692 C409 704.15 449.742 714 500 714 C550.258 714 591 704.15 591 692" fill="none" stroke="#7a7668" stroke-width="3.2" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Turning_bead_1" data-name="Turning bead 1" d="M468 462 C468 465.866 482.327 469 500 469 C517.673 469 532 465.866 532 462" fill="none" stroke="#ffffff" stroke-width="3" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Turning_bead_2" data-name="Turning bead 2" d="M446 552 C446 558.627 470.177 564 500 564 C529.823 564 554 558.627 554 552" fill="none" stroke="#ffffff" stroke-width="3" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Turning_bead_3" data-name="Turning bead 3" d="M458 610 C458 614.971 476.804 619 500 619 C523.196 619 542 614.971 542 610" fill="none" stroke="#ffffff" stroke-width="3" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Turning_bead_4" data-name="Turning bead 4" d="M429 668 C429 676.837 460.788 684 500 684 C539.212 684 571 676.837 571 668" fill="none" stroke="#ffffff" stroke-width="3" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Column_sheen" data-name="Column sheen" d="M458 555 C458 485.964 468.297 430 481 430 C493.703 430 504 485.964 504 555 C504 624.036 493.703 680 481 680 C468.297 680 458 624.036 458 555 Z" fill="url(#radial-gradient-8)"/>
+    <path id="Column_shade" data-name="Column shade" d="M528 595 C528 531.487 539.641 480 554 480 C568.359 480 580 531.487 580 595 C580 658.513 568.359 710 554 710 C539.641 710 528 658.513 528 595 Z" fill="url(#radial-gradient-9)"/>
+    <path id="Top_underside" data-name="Top underside" d="M404 419 C404 409.611 446.981 402 500 402 C553.019 402 596 409.611 596 419 C596 428.389 553.019 436 500 436 C446.981 436 404 428.389 404 419 Z" fill="url(#radial-gradient-10)"/>
+    <path id="Top_edge_band" data-name="Top edge band" d="M304 394 C304 364.177 391.752 340 500 340 C608.248 340 696 364.177 696 394 C696 423.823 608.248 448 500 448 C391.752 448 304 423.823 304 394 Z" fill="url(#linear-gradient-4)" stroke="#4a463c" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Top_surface" data-name="Top surface" d="M310 378 C310 350.386 395.066 328 500 328 C604.934 328 690 350.386 690 378 C690 405.614 604.934 428 500 428 C395.066 428 310 405.614 310 378 Z" fill="url(#radial-gradient-11)" stroke="#7a7668" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Top_lit_edge" data-name="Top lit edge" d="M314 390 C322.319 412.894 385.766 431.603 470 436" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Top_sheen" data-name="Top sheen" d="M350 360 C350 348.954 397.01 340 455 340 C512.99 340 560 348.954 560 360 C560 371.046 512.99 380 455 380 C397.01 380 350 371.046 350 360 Z" fill="url(#radial-gradient-12)"/>
+    <path id="Top_cool_pool" data-name="Top cool pool" d="M540 387 C540 374.297 566.863 364 600 364 C633.137 364 660 374.297 660 387 C660 399.703 633.137 410 600 410 C566.863 410 540 399.703 540 387 Z" fill="url(#radial-gradient-13)"/>
+    <path id="Plate_rim" data-name="Plate rim" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="none" stroke="#08100e" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#c8e0d6" stroke-width="3" stroke-miterlimit="10" opacity="0.26"/>
+    <text transform="matrix(1 0 0 1 500 940)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="58" fill="#eaf2ea" text-anchor="middle"><tspan x="0" y="0">PEDESTAL TABLE</tspan></text>
+    <text transform="matrix(1 0 0 1 500 975)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="22" fill="#a8c8bc" letter-spacing="6.6" text-anchor="middle"><tspan x="0" y="0">BEECH · WHITE LACQUER</tspan></text>
+  </g>
+</svg>
