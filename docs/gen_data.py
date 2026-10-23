@@ -28,7 +28,7 @@ NAV = ('"index":index.html · "plates":plates.html · "machines":machines.html'
 
 
 def humanize(slug):
-    return slug.replace("-", " ").title()
+    return re.sub(r"^\d+\.", "", slug).replace("-", " ").title()
 
 
 def site_path(rel):
@@ -88,16 +88,34 @@ def section(title, base, slugs=None):
     return {"title": title, "pieces": [card(s, groups[s]) for s in order if s in groups]}
 
 
+# art/<category>/ dirs are discovered, not hardcoded — a new category can
+# never silently bypass the site or the docs-repro gate. Routing is by
+# name; an unknown category lands on plates (the catalog pages).
+CAT_ORDER = {"animals": 0, "insects": 1, "mascots": 2,
+             "vehicles": 0, "furniture": 1}
+MACHINE_CATS = {"vehicles", "furniture"}
+
+
+def category_sections(art):
+    plates, machines = [], []
+    for d in sorted(p for p in art.iterdir() if p.is_dir()):
+        title = d.name.replace("-", " ").title()
+        s = section(title, d)
+        if not s["pieces"]:
+            continue
+        (machines if d.name in MACHINE_CATS else plates).append(s)
+    sort = lambda secs: sorted(secs, key=lambda s: CAT_ORDER.get(
+        re.sub(r"\s", "-", s["title"].lower()), 99))
+    return sort(plates), sort(machines)
+
+
 def main():
     if MEDIA.exists():
         shutil.rmtree(MEDIA)
     MEDIA.mkdir(parents=True)
 
     art = ROOT / "art"
-    plates = [section("Animals", art / "animals"),
-              section("Insects", art / "insects")]
-    machines = [section("Vehicles", art / "vehicles"),
-                section("Furniture", art / "furniture")]
+    plates, machines = category_sections(art)
 
     faf = collect_versioned(art)
     fk_cards = [card(s, faf[s]) for s in ("fart-knocker", "fart-knocker-crest") if s in faf]
@@ -117,13 +135,10 @@ def main():
     guest_secs = [{"title": "Freebuff — DeepSeek, six styles + dusk poster",
                    "pieces": [singleton(f) for f in sorted(guest_dir.glob("*.svg"))]}]
 
-    counts = {
-        "animals": sum(len(s["pieces"]) for s in plates[:1]),
-        "insects": sum(len(s["pieces"]) for s in plates[1:]),
-        "vehicles": sum(len(s["pieces"]) for s in machines[:1]),
-        "furniture": sum(len(s["pieces"]) for s in machines[1:]),
-    }
-    total = sum(counts.values()) + sum(len(s["pieces"]) for s in pieces)
+    total = sum(len(s["pieces"]) for s in plates + machines + pieces)
+    counts = (" · ".join(f"{len(s['pieces'])} {s['title'].lower()}"
+                         for s in plates + machines)
+              + f" — {total} pieces in the gallery")
 
     featured = []
     for label, slug, base in (
@@ -149,17 +164,15 @@ def main():
                       "For giggles, but with commit history."),
             "pipeline": ("prompt -> build in VectorCraft -> export PDF/PNG proof"
                          " -> written analysis -> fold into next prompt -> next round"),
-            "counts": (f"{counts['animals']} animal plates · {counts['insects']} insect plates"
-                       f" · {counts['vehicles']} vehicles · {counts['furniture']} furniture"
-                       f" — {total} pieces in the gallery"),
+            "counts": counts,
             "featured": featured,
             "nav": NAV,
         },
         "plates": {
             "title": "Field plates",
-            "intro": ("Natural-history-style specimen plates — gradients and "
-                      "translucent shading, never flat fills. The full set, newest "
-                      "revision of each."),
+            "intro": ("Specimen plates and portrait series — gradients and "
+                      "translucent shading, never flat fills. The full set, "
+                      "newest revision of each."),
             "sections": plates, "nav": NAV,
         },
         "machines": {

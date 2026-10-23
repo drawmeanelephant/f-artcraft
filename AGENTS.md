@@ -43,3 +43,15 @@ Per PROMPTS.md: every revision ships `.vectorcraft` + `.svg` + `.pdf` +
 `@2x.png`. Committed to git: the `.vectorcraft` native (JSON — SVG is not
 an editable format), the `.svg`, the `@2x.png` and the driving script.
 PDF proofs and scratch renders in `work/out/` stay local.
+
+## The site
+
+`docs/` is generated and CI-pinned. Any change to `art/` (new piece,
+new revision, new category dir) must re-run:
+
+    python3 docs/gen_data.py   # scans art/ -> docs/data/*.json + media copies
+    DOGBED=<dogbed binary> sh docs/build.sh   # -> docs/site/*.html
+
+and commit the regenerated `docs/` in the same change — the
+`docs-repro` job fails on any diff. New `art/<category>/` dirs are
+discovered automatically (unknown categories land on the plates page).

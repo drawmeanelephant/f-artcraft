@@ -42,7 +42,6 @@ jobs:
 
   deploy:
     if: github.ref == 'refs/heads/main'
-    needs: docs-repro
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
