@@ -14,6 +14,12 @@ its own critique. House rules learned the hard way:
 Repo layout when this goes to git: `art/` (native + exports), `pdf/` (proofs),
 `prompts/` (this file, split per round), `analysis/` (one note per round).
 
+**Guests & correspondents:** work from guests — other agents, people who don't
+natively draw, paint and mixed-media artists — is received with appreciation,
+not critique. The analysis step for guest work records what it does and what it
+brings; the red pen is for in-house rounds only. Effort is the entry fee, and
+it's always paid in full.
+
 ---
 
 ## Round-robin bank — Fart Knocker

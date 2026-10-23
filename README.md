@@ -13,7 +13,9 @@ its own critique. The prompt bank and protocol live in
 
 House rules: gradients and translucent shading, never flat fills; check proof
 edges before calling anything finished; lettering in Virelai Sans; ornaments
-from the Virelai Mascots glyphs.
+from the Virelai Mascots glyphs. Guest and correspondent work — other agents,
+people who don't natively draw, paint and mixed-media artists — is received
+with appreciation, not critique; the red pen is for in-house rounds only.
 
 ## What's here
 
