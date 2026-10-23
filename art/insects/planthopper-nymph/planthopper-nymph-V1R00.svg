@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="500" y1="0" x2="500" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0c1408"/>
+      <stop offset="1" stop-color="#040703"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#94bc64"/>
+      <stop offset="0.6" stop-color="#568040"/>
+      <stop offset="1" stop-color="#26401c"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="506.45" y1="630.8" x2="506.45" y2="879.972" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cc470"/>
+      <stop offset="0.4" stop-color="#5e8c42"/>
+      <stop offset="1" stop-color="#2e4e22"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="575" cy="471" r="11" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fffdf4"/>
+      <stop offset="1" stop-color="#e8dcb8"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-3" x1="384" y1="440" x2="544" y2="580" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8f0bc"/>
+      <stop offset="0.55" stop-color="#a2ce82"/>
+      <stop offset="1" stop-color="#5e8a50"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-3" cx="356.766" cy="515" r="39" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c4e4a4"/>
+      <stop offset="0.65" stop-color="#86b468"/>
+      <stop offset="1" stop-color="#4e7438"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="348" cy="504" r="14" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a6e3e"/>
+      <stop offset="1" stop-color="#241808"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-4" x1="464" y1="550" x2="524" y2="600" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9ec47e"/>
+      <stop offset="1" stop-color="#4e7438"/>
+    </linearGradient>
+  </defs>
+  <title>Planthopper Nymph — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#2e4a20" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#c8e4a4" stroke-width="3" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Plate_midrib" data-name="Plate midrib" d="M200 760 C330 600 480 420 700 220" fill="none" stroke="#3c6028" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.25"/>
+    <path id="Plate_vein_1" data-name="Plate vein 1" d="M300 640 C366.667 586.667 426.667 560 480 560" fill="none" stroke="#3c6028" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Plate_vein_2" data-name="Plate vein 2" d="M380 540 C446.667 493.333 506.667 466.667 560 460" fill="none" stroke="#3c6028" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Plate_vein_3" data-name="Plate vein 3" d="M460 440 C526.667 393.333 593.333 363.333 660 350" fill="none" stroke="#3c6028" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Plate_vein_4" data-name="Plate vein 4" d="M340 600 C393.333 573.333 436.667 576.667 470 610" fill="none" stroke="#3c6028" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Plate_vein_5" data-name="Plate vein 5" d="M430 480 C490 466.667 536.667 470 570 490" fill="none" stroke="#3c6028" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Dew_1" data-name="Dew 1" d="M230 305 C230 302.239 232.239 300 235 300 C237.761 300 240 302.239 240 305 C240 307.761 237.761 310 235 310 C232.239 310 230 307.761 230 305 Z" fill="#e8f6dc" opacity="0.45"/>
+    <path id="Dew_2" data-name="Dew 2" d="M760 264 C760 261.791 761.791 260 764 260 C766.209 260 768 261.791 768 264 C768 266.209 766.209 268 764 268 C761.791 268 760 266.209 760 264 Z" fill="#e8f6dc" opacity="0.45"/>
+    <path id="Dew_3" data-name="Dew 3" d="M820 524.5 C820 522.015 822.015 520 824.5 520 C826.985 520 829 522.015 829 524.5 C829 526.985 826.985 529 824.5 529 C822.015 529 820 526.985 820 524.5 Z" fill="#e8f6dc" opacity="0.45"/>
+    <path id="Dew_4" data-name="Dew 4" d="M190 524 C190 521.791 191.791 520 194 520 C196.209 520 198 521.791 198 524 C198 526.209 196.209 528 194 528 C191.791 528 190 526.209 190 524 Z" fill="#e8f6dc" opacity="0.45"/>
+    <path id="Dew_5" data-name="Dew 5" d="M640 163.5 C640 161.567 641.567 160 643.5 160 C645.433 160 647 161.567 647 163.5 C647 165.433 645.433 167 643.5 167 C641.567 167 640 165.433 640 163.5 Z" fill="#e8f6dc" opacity="0.45"/>
+    <path id="Dew_6" data-name="Dew 6" d="M300 184 C300 181.791 301.791 180 304 180 C306.209 180 308 181.791 308 184 C308 186.209 306.209 188 304 188 C301.791 188 300 186.209 300 184 Z" fill="#e8f6dc" opacity="0.45"/>
+    <path id="Dew_7" data-name="Dew 7" d="M700 704.5 C700 702.015 702.015 700 704.5 700 C706.985 700 709 702.015 709 704.5 C709 706.985 706.985 709 704.5 709 C702.015 709 700 706.985 700 704.5 Z" fill="#e8f6dc" opacity="0.45"/>
+    <path id="Dew_8" data-name="Dew 8" d="M400 803.5 C400 801.567 401.567 800 403.5 800 C405.433 800 407 801.567 407 803.5 C407 805.433 405.433 807 403.5 807 C401.567 807 400 805.433 400 803.5 Z" fill="#e8f6dc" opacity="0.45"/>
+    <path id="Dew_glint" data-name="Dew glint" d="M232 303 C232 301.895 232.895 301 234 301 C235.105 301 236 301.895 236 303 C236 304.105 235.105 305 234 305 C232.895 305 232 304.105 232 303 Z" fill="#ffffff" opacity="0.8"/>
+    <path id="Leaf_blade" data-name="Leaf blade" d="M129.2 657.2 C300 676 620 700 883.7 630.8 C818.392 777.485 675.166 874.099 514.698 879.714 C354.229 885.329 204.601 798.962 129.2 657.2 Z" fill="url(#linear-gradient-2)" stroke="#203818" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Leaf_edge_light" data-name="Leaf edge light" d="M141 665 C320 682 620 706 870 639" fill="none" stroke="#dcf0b8" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Leaf_serration_1" data-name="Leaf serration 1" d="M250 672 L264 666 L274 674" fill="none" stroke="#2e4e22" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Leaf_serration_2" data-name="Leaf serration 2" d="M330 668 L344 662 L354 670" fill="none" stroke="#2e4e22" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Leaf_serration_3" data-name="Leaf serration 3" d="M410 668 L424 662 L434 670" fill="none" stroke="#2e4e22" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Leaf_serration_4" data-name="Leaf serration 4" d="M490 672 L504 666 L514 674" fill="none" stroke="#2e4e22" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Leaf_serration_5" data-name="Leaf serration 5" d="M570 678 L584 672 L594 680" fill="none" stroke="#2e4e22" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Leaf_serration_6" data-name="Leaf serration 6" d="M650 686 L664 680 L674 688" fill="none" stroke="#2e4e22" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Launch_print" data-name="Launch print" d="M300 671 C300 667.134 310.297 664 323 664 C335.703 664 346 667.134 346 671 C346 674.866 335.703 678 323 678 C310.297 678 300 674.866 300 671 Z" fill="#2e4e22" opacity="0.4"/>
+    <path id="Nymph_shadow" data-name="Nymph shadow" d="M360 663 C360 656.925 402.533 652 455 652 C507.467 652 550 656.925 550 663 C550 669.075 507.467 674 455 674 C402.533 674 360 669.075 360 663 Z" fill="#14230c" opacity="0.3"/>
+    <path id="Wax_glow_0" data-name="Wax glow 0" d="M574 470 C626 480 675.667 473 723 449" fill="none" stroke="#fff6e4" stroke-width="11" stroke-linecap="round" stroke-miterlimit="10" opacity="0.18"/>
+    <path id="Wax_filament_0" data-name="Wax filament 0" d="M574 470 C626 480 675.667 473 723 449" fill="none" stroke="#fff6e4" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.88"/>
+    <path id="Wax_curl_0" data-name="Wax curl 0" d="M723 449 C723.667 455.667 719.667 453.667 711 443" fill="none" stroke="#fff6e4" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Wax_bead_0" data-name="Wax bead 0" d="M699.657 442.794 C699.657 441.137 701 439.794 702.657 439.794 C704.314 439.794 705.657 441.137 705.657 442.794 C705.657 444.451 704.314 445.794 702.657 445.794 C701 445.794 699.657 444.451 699.657 442.794 Z" fill="#fff6e4" opacity="0.8"/>
+    <path id="Wax_glow_1" data-name="Wax glow 1" d="M574 470 C636 452 692 422.333 742 381" fill="none" stroke="#fff6e4" stroke-width="11" stroke-linecap="round" stroke-miterlimit="10" opacity="0.18"/>
+    <path id="Wax_filament_1" data-name="Wax filament 1" d="M574 470 C636 452 692 422.333 742 381" fill="none" stroke="#fff6e4" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.88"/>
+    <path id="Wax_curl_1" data-name="Wax curl 1" d="M742 381 C744.667 385.667 741 384.667 731 378" fill="none" stroke="#fff6e4" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Wax_bead_1" data-name="Wax bead 1" d="M720.165 378.434 C720.165 376.777 721.508 375.434 723.165 375.434 C724.822 375.434 726.165 376.777 726.165 378.434 C726.165 380.091 724.822 381.434 723.165 381.434 C721.508 381.434 720.165 380.091 720.165 378.434 Z" fill="#fff6e4" opacity="0.8"/>
+    <path id="Wax_glow_2" data-name="Wax glow 2" d="M574 470 C626.667 421.333 674.667 368 718 310" fill="none" stroke="#fff6e4" stroke-width="11" stroke-linecap="round" stroke-miterlimit="10" opacity="0.18"/>
+    <path id="Wax_filament_2" data-name="Wax filament 2" d="M574 470 C626.667 421.333 674.667 368 718 310" fill="none" stroke="#fff6e4" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.88"/>
+    <path id="Wax_curl_2" data-name="Wax curl 2" d="M718 310 C720 312 717.333 312.333 710 311" fill="none" stroke="#fff6e4" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Wax_bead_2" data-name="Wax bead 2" d="M698.834 311.142 C698.834 309.485 700.177 308.142 701.834 308.142 C703.49 308.142 704.834 309.485 704.834 311.142 C704.834 312.798 703.49 314.142 701.834 314.142 C700.177 314.142 698.834 312.798 698.834 311.142 Z" fill="#fff6e4" opacity="0.8"/>
+    <path id="Wax_glow_3" data-name="Wax glow 3" d="M574 470 C599.333 399.333 627.333 329.667 658 261" fill="none" stroke="#fff6e4" stroke-width="11" stroke-linecap="round" stroke-miterlimit="10" opacity="0.18"/>
+    <path id="Wax_filament_3" data-name="Wax filament 3" d="M574 470 C599.333 399.333 627.333 329.667 658 261" fill="none" stroke="#fff6e4" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.88"/>
+    <path id="Wax_curl_3" data-name="Wax curl 3" d="M658 261 C657.333 261 656 262.333 654 265" fill="none" stroke="#fff6e4" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Wax_bead_3" data-name="Wax bead 3" d="M642.791 264.51 C642.791 262.853 644.134 261.51 645.791 261.51 C647.448 261.51 648.791 262.853 648.791 264.51 C648.791 266.167 647.448 267.51 645.791 267.51 C644.134 267.51 642.791 266.167 642.791 264.51 Z" fill="#fff6e4" opacity="0.8"/>
+    <path id="Wax_glow_4" data-name="Wax glow 4" d="M574 470 C566 396.667 568.667 323.333 582 250" fill="none" stroke="#fff6e4" stroke-width="11" stroke-linecap="round" stroke-miterlimit="10" opacity="0.18"/>
+    <path id="Wax_filament_4" data-name="Wax filament 4" d="M574 470 C566 396.667 568.667 323.333 582 250" fill="none" stroke="#fff6e4" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.88"/>
+    <path id="Wax_curl_4" data-name="Wax curl 4" d="M582 250 C577.333 250 577 251.333 581 254" fill="none" stroke="#fff6e4" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Wax_bead_4" data-name="Wax bead 4" d="M570.259 254.127 C570.259 252.47 571.602 251.127 573.259 251.127 C574.916 251.127 576.259 252.47 576.259 254.127 C576.259 255.784 574.916 257.127 573.259 257.127 C571.602 257.127 570.259 255.784 570.259 254.127 Z" fill="#fff6e4" opacity="0.8"/>
+    <path id="Wax_glow_5" data-name="Wax glow 5" d="M574 470 C539.333 411.333 518.667 348 512 280" fill="none" stroke="#fff6e4" stroke-width="11" stroke-linecap="round" stroke-miterlimit="10" opacity="0.18"/>
+    <path id="Wax_filament_5" data-name="Wax filament 5" d="M574 470 C539.333 411.333 518.667 348 512 280" fill="none" stroke="#fff6e4" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.88"/>
+    <path id="Wax_curl_5" data-name="Wax curl 5" d="M512 280 C506.667 282 508 283 516 283" fill="none" stroke="#fff6e4" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Wax_bead_5" data-name="Wax bead 5" d="M504.905 283.201 C504.905 281.545 506.248 280.201 507.905 280.201 C509.562 280.201 510.905 281.545 510.905 283.201 C510.905 284.858 509.562 286.201 507.905 286.201 C506.248 286.201 504.905 284.858 504.905 283.201 Z" fill="#fff6e4" opacity="0.8"/>
+    <path id="Wax_glow_6" data-name="Wax glow 6" d="M574 470 C528.667 433.333 493.667 388.667 469 336" fill="none" stroke="#fff6e4" stroke-width="11" stroke-linecap="round" stroke-miterlimit="10" opacity="0.18"/>
+    <path id="Wax_filament_6" data-name="Wax filament 6" d="M574 470 C528.667 433.333 493.667 388.667 469 336" fill="none" stroke="#fff6e4" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.88"/>
+    <path id="Wax_curl_6" data-name="Wax curl 6" d="M469 336 C465 339.333 467.667 339.667 477 337" fill="none" stroke="#fff6e4" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Wax_bead_6" data-name="Wax bead 6" d="M465.725 337.494 C465.725 335.837 467.069 334.494 468.725 334.494 C470.382 334.494 471.725 335.837 471.725 337.494 C471.725 339.151 470.382 340.494 468.725 340.494 C467.069 340.494 465.725 339.151 465.725 337.494 Z" fill="#fff6e4" opacity="0.8"/>
+    <path id="Wax_glow_7" data-name="Wax glow 7" d="M574 470 C530.667 452 492.667 426.333 460 393" fill="none" stroke="#fff6e4" stroke-width="11" stroke-linecap="round" stroke-miterlimit="10" opacity="0.18"/>
+    <path id="Wax_filament_7" data-name="Wax filament 7" d="M574 470 C530.667 452 492.667 426.333 460 393" fill="none" stroke="#fff6e4" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.88"/>
+    <path id="Wax_curl_7" data-name="Wax curl 7" d="M460 393 C457.333 395.667 460.667 395.333 470 392" fill="none" stroke="#fff6e4" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Wax_bead_7" data-name="Wax bead 7" d="M458.541 391.542 C458.541 389.885 459.884 388.542 461.541 388.542 C463.198 388.542 464.541 389.885 464.541 391.542 C464.541 393.199 463.198 394.542 461.541 394.542 C459.884 394.542 458.541 393.199 458.541 391.542 Z" fill="#fff6e4" opacity="0.8"/>
+    <path id="Wax_glow_8" data-name="Wax glow 8" d="M574 470 C607.333 494.667 643.667 499.667 683 485" fill="none" stroke="#fff6e4" stroke-width="11" stroke-linecap="round" stroke-miterlimit="10" opacity="0.18"/>
+    <path id="Wax_filament_8" data-name="Wax filament 8" d="M574 470 C607.333 494.667 643.667 499.667 683 485" fill="none" stroke="#fff6e4" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.88"/>
+    <path id="Wax_curl_8" data-name="Wax curl 8" d="M683 485 C681.667 493 677.667 490 671 476" fill="none" stroke="#fff6e4" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Wax_bead_8" data-name="Wax bead 8" d="M660.046 475.639 C660.046 473.982 661.389 472.639 663.046 472.639 C664.703 472.639 666.046 473.982 666.046 475.639 C666.046 477.296 664.703 478.639 663.046 478.639 C661.389 478.639 660.046 477.296 660.046 475.639 Z" fill="#fff6e4" opacity="0.8"/>
+    <path id="Wax_glow_9" data-name="Wax glow 9" d="M574 470 C589.333 501.333 613.667 512.333 647 503" fill="none" stroke="#fff6e4" stroke-width="11" stroke-linecap="round" stroke-miterlimit="10" opacity="0.18"/>
+    <path id="Wax_filament_9" data-name="Wax filament 9" d="M574 470 C589.333 501.333 613.667 512.333 647 503" fill="none" stroke="#fff6e4" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.88"/>
+    <path id="Wax_curl_9" data-name="Wax curl 9" d="M647 503 C643.667 511 640 506.667 636 490" fill="none" stroke="#fff6e4" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Wax_bead_9" data-name="Wax bead 9" d="M625.121 489.658 C625.121 488.001 626.464 486.658 628.121 486.658 C629.778 486.658 631.121 488.001 631.121 489.658 C631.121 491.315 629.778 492.658 628.121 492.658 C626.464 492.658 625.121 491.315 625.121 489.658 Z" fill="#fff6e4" opacity="0.8"/>
+    <path id="Wax_tuft_0" data-name="Wax tuft 0" d="M574 470 L647 417" fill="none" stroke="#fff6e4" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Wax_tuft_1" data-name="Wax tuft 1" d="M574 470 L622 387" fill="none" stroke="#fff6e4" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Wax_tuft_2" data-name="Wax tuft 2" d="M574 470 L584 379" fill="none" stroke="#fff6e4" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Wax_tuft_3" data-name="Wax tuft 3" d="M574 470 L545 391" fill="none" stroke="#fff6e4" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Wax_gland" data-name="Wax gland" d="M564 471 C564 464.925 568.925 460 575 460 C581.075 460 586 464.925 586 471 C586 477.075 581.075 482 575 482 C568.925 482 564 477.075 564 471 Z" fill="url(#radial-gradient-2)" stroke="#c8b888" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Body" d="M356 530 C350 486 384 452 436 444 C492 436 546 452 572 484 C588 504 586 530 568 546 C524 578 432 584 386 562 C368 552 358 542 356 530 Z" fill="url(#linear-gradient-3)" stroke="#22401e" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Wax_skirt" data-name="Wax skirt" d="M380 550 C424 576 504 580 562 550 C550 584 524 606 480 610 C434 614 394 592 380 550 Z" fill="#fff2dc" stroke="#d8c898" stroke-width="3" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Skirt_fringe_1" data-name="Skirt fringe 1" d="M404 573 L398 594" fill="none" stroke="#f0e0bc" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Skirt_fringe_2" data-name="Skirt fringe 2" d="M444 576 L438 594" fill="none" stroke="#f0e0bc" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Skirt_fringe_3" data-name="Skirt fringe 3" d="M484 578 L478 594" fill="none" stroke="#f0e0bc" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Skirt_fringe_4" data-name="Skirt fringe 4" d="M524 581 L518 594" fill="none" stroke="#f0e0bc" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Body_segment_1" data-name="Body segment 1" d="M414 452 C424 487 424 515 414 550" fill="none" stroke="#4e7038" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Body_segment_2" data-name="Body segment 2" d="M459 448 C469 492 469 520 459 564" fill="none" stroke="#4e7038" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Body_segment_3" data-name="Body segment 3" d="M504 452 C514 496 514 524 504 568" fill="none" stroke="#4e7038" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Body_segment_4" data-name="Body segment 4" d="M544 464 C554 498 554 526 544 560" fill="none" stroke="#4e7038" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Back_sheen" data-name="Back sheen" d="M380 498 C404 464 454 448 504 452" fill="none" stroke="#f4fcd8" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Back_gloss" data-name="Back gloss" d="M394 472 C394 460.954 418.624 452 449 452 C479.376 452 504 460.954 504 472 C504 483.046 479.376 492 449 492 C418.624 492 394 483.046 394 472 Z" fill="#ffffff" opacity="0.18"/>
+    <path id="Head" d="M328 538 C320 510 332 484 356 476 C376 476 388 490 388 512 C388 536 370 554 348 554 C338 552 330 546 328 538 Z" fill="url(#radial-gradient-3)" stroke="#22401e" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Frons" d="M330 542 C316 552 306 566 304 582 C318 582 332 570 338 554 Z" fill="#86b468" stroke="#22401e" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Eye" d="M336 504 C336 496.268 341.373 490 348 490 C354.627 490 360 496.268 360 504 C360 511.732 354.627 518 348 518 C341.373 518 336 511.732 336 504 Z" fill="url(#radial-gradient-4)" stroke="#22401e" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Eye_glint" data-name="Eye glint" d="M341 498 C341 496.343 342.343 495 344 495 C345.657 495 347 496.343 347 498 C347 499.657 345.657 501 344 501 C342.343 501 341 499.657 341 498 Z" fill="#ffffff" opacity="0.85"/>
+    <path id="Rostrum" d="M344 550 C352 560 362 566 372 568" fill="none" stroke="#3c6028" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Antenna_bristle" data-name="Antenna bristle" d="M336 482 C320 468 306 462 292 460" fill="none" stroke="#4e7438" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Bristle_tip" data-name="Bristle tip" d="M289 460 C289 458.343 290.343 457 292 457 C293.657 457 295 458.343 295 460 C295 461.657 293.657 463 292 463 C290.343 463 289 461.657 289 460 Z" fill="#4e7438"/>
+    <path id="Hind_leg_ink" data-name="Hind leg ink" d="M524 550 L454 590 L384 624 L330 650" fill="none" stroke="#22401e" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Hind_leg" data-name="Hind leg" d="M524 550 L454 590 L384 624 L330 650" fill="none" stroke="#3a6028" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Hind_toe" data-name="Hind toe" d="M330 650 L318 654" fill="none" stroke="#22401e" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Hind_femur" data-name="Hind femur" d="M524 550 C496 558 472 574 458 590 C476 598 500 592 518 578 C528 568 530 558 524 550 Z" fill="url(#linear-gradient-4)" stroke="#22401e" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Mid_leg_ink" data-name="Mid leg ink" d="M414 564 L400 614 L428 646" fill="none" stroke="#22401e" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Mid_leg" data-name="Mid leg" d="M414 564 L400 614 L428 646" fill="none" stroke="#3a6028" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Mid_toe" data-name="Mid toe" d="M428 646 L436 654" fill="none" stroke="#22401e" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Fore_leg_ink" data-name="Fore leg ink" d="M370 556 L384 600 L368 636" fill="none" stroke="#22401e" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Fore_leg" data-name="Fore leg" d="M370 556 L384 600 L368 636" fill="none" stroke="#3a6028" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Fore_toe" data-name="Fore toe" d="M368 636 L360 646" fill="none" stroke="#22401e" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Far_hind_leg_ink" data-name="Far hind leg ink" d="M540 538 L504 578 L464 602" fill="none" stroke="#22401e" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+    <path id="Far_hind_leg" data-name="Far hind leg" d="M540 538 L504 578 L464 602" fill="none" stroke="#2e4e22" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+    <path id="Far_mid_leg_ink" data-name="Far mid leg ink" d="M434 546 L440 588 L462 614" fill="none" stroke="#22401e" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+    <path id="Far_mid_leg" data-name="Far mid leg" d="M434 546 L440 588 L462 614" fill="none" stroke="#2e4e22" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+    <text transform="matrix(1 0 0 1 500 938)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="48" fill="#e8f2cc" text-anchor="middle"><tspan x="0" y="0">PLANTHOPPER NYMPH</tspan></text>
+    <text transform="matrix(1 0 0 1 500 974)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="22" fill="#b4cc8e" letter-spacing="8.8" text-anchor="middle"><tspan x="0" y="0">HEMIPTERA</tspan></text>
+  </g>
+</svg>
