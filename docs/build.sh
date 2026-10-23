@@ -16,6 +16,9 @@ if [ -z "${DOGBED:-}" ]; then
 fi
 : "${DOGBED:?no dogbed binary — set DOGBED or drop one at ./dogbed}"
 
+mkdir -p docs/site
+cp docs/assets/style.css docs/site/style.css
+
 tmp=""
 cleanup() {
     if [ -n "$tmp" ]; then rm -f "$tmp"; fi

@@ -1,7 +1,0 @@
-{
-  "title": "About this site",
-  "p1": "Every piece was drawn live inside VectorCraft over its MCP server \u2014 the driving scripts live in @work/@ in the \"repo\":https://github.com/drawmeanelephant/f-artcraft. Nothing is raster-edited: the @.vectorcraft@ natives are the source of truth, the SVGs are the public viewable form, and the PNGs shown here are the @2x proof renders (lettering is Virelai Sans, so the proofs are the faithful display).",
-  "p2": "Revisions are immutable: @<slug>-V<V>R<RR>@. V is the interpretation, R the revision inside it \u2014 a refinement bumps R, a redesign bumps V. Previous revision files are read-only; a bad revision is fixed by the next one, never edited in place.",
-  "p3": "The site is dogfooded: @docs/gen_data.py@ scans the repo, the @docs/src/*.knap@ templates plus the generated JSON render through \"dogbed\":https://github.com/drawmeanelephant/dogbed (k4o \u2192 Textile \u2192 oliver \u2192 HTML) via @docs/build.sh@, and GitHub Actions deploys @docs/site/@ to GitHub Pages. The HTML is generated and committed \u2014 a CI job fails if it goes stale.",
-  "nav": "\"index\":index.html \u00b7 \"plates\":plates.html \u00b7 \"machines\":machines.html \u00b7 \"pieces\":pieces.html \u00b7 \"guest\":guest.html \u00b7 \"about\":about.html"
-}

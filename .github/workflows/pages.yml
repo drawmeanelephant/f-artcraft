@@ -19,7 +19,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  docs-repro:
+  docs-build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -36,19 +36,12 @@ jobs:
           echo "/tmp/zig" >> "$GITHUB_PATH"
       - name: Build dogbed
         run: cd dogbed-src && zig build
+      # docs/data + docs/site are build artifacts (untracked) — this job
+      # only proves the scan + render pipeline still works end to end.
       - name: Regenerate data + site
         run: |
           python3 docs/gen_data.py
           DOGBED=dogbed-src/zig-out/bin/dogbed sh docs/build.sh
-      # Advisory only: the deploy job regenerates docs/ on every main push
-      # and commits it back, so committed output self-heals. A real render
-      # break still fails above (nonzero exit), but drift is a warning.
-      - name: Report stale docs (advisory)
-        run: |
-          if ! git diff --quiet docs/; then
-            git diff --stat docs/
-            echo "::warning title=stale docs::docs/ generated output is behind the artwork — the deploy job will regen and commit it on main"
-          fi
 
   deploy:
     if: github.ref == 'refs/heads/main'
@@ -71,31 +64,14 @@ jobs:
           echo "/tmp/zig" >> "$GITHUB_PATH"
       - name: Build dogbed
         run: cd dogbed-src && zig build
-      # Rebuild on top of latest origin/main, and if the generated output
-      # drifted, commit it back so docs/ never rots. Retries absorb the
-      # plate-merge race: a rejected push just means re-sync and regen.
-      - name: Build docs/site and commit regenerated docs
+      # Build on top of latest origin/main so the artifact always reflects
+      # the newest merged artwork, not whatever this run's commit pinned.
+      - name: Build docs/site
         run: |
-          set -e
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          for i in 1 2 3; do
-            git fetch origin main
-            git reset --hard origin/main
-            python3 docs/gen_data.py
-            DOGBED=dogbed-src/zig-out/bin/dogbed sh docs/build.sh
-            if git diff --quiet docs/; then
-              echo "docs/ is fresh — nothing to commit"
-              break
-            fi
-            git add docs/
-            git commit -m "chore: regen docs/site [skip ci]"
-            if git push origin HEAD:main; then
-              echo "committed regenerated docs/ to main"
-              break
-            fi
-            echo "push raced a newer main (attempt $i) — retrying"
-          done
+          git fetch origin main
+          git reset --hard origin/main
+          python3 docs/gen_data.py
+          DOGBED=dogbed-src/zig-out/bin/dogbed sh docs/build.sh
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
