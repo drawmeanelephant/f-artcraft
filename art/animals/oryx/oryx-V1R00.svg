@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1a1428"/>
+      <stop offset="1" stop-color="#090611"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="40" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4e3f6e"/>
+      <stop offset="0.42" stop-color="#7e5c84"/>
+      <stop offset="0.72" stop-color="#b88c92"/>
+      <stop offset="1" stop-color="#e2c9a4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="480" y1="340" x2="250" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a2e26"/>
+      <stop offset="1" stop-color="#161010"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="420" y1="380" x2="480" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cbae84"/>
+      <stop offset="1" stop-color="#a08456"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="500" y1="400" x2="640" y2="830" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8d6b2"/>
+      <stop offset="1" stop-color="#a88860"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="555.501" cy="377.09" r="87.751" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8f2e6"/>
+      <stop offset="0.7" stop-color="#eadcc4"/>
+      <stop offset="1" stop-color="#cbb694"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-6" x1="460" y1="340" x2="620" y2="430" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38302c"/>
+      <stop offset="1" stop-color="#181414"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="550.5" cy="379" r="12.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4a3424"/>
+      <stop offset="1" stop-color="#120a05"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-7" x1="500" y1="330" x2="260" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4a3c30"/>
+      <stop offset="1" stop-color="#1c1614"/>
+    </linearGradient>
+  </defs>
+  <title>Oryx — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#linear-gradient-2)" stroke="#4a3a5e" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#f0e2f2" stroke-width="3" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Horizon_glow" data-name="Horizon glow" d="M200 680 C200 613.726 325.36 560 480 560 C634.64 560 760 613.726 760 680 C760 746.274 634.64 800 480 800 C325.36 800 200 746.274 200 680 Z" fill="#f0d8b4" opacity="0.25"/>
+    <path id="Patina" d="M170 240 C170 206.863 219.249 180 280 180 C340.751 180 390 206.863 390 240 C390 273.137 340.751 300 280 300 C219.249 300 170 273.137 170 240 Z" fill="#cbb8d4" opacity="0.16"/>
+    <path id="Dusk_star_1" data-name="Dusk star 1" d="M220 172.5 C220 171.119 221.119 170 222.5 170 C223.881 170 225 171.119 225 172.5 C225 173.881 223.881 175 222.5 175 C221.119 175 220 173.881 220 172.5 Z" fill="#f4eaf6" opacity="0.5"/>
+    <path id="Dusk_star_2" data-name="Dusk star 2" d="M340 122 C340 120.895 340.895 120 342 120 C343.105 120 344 120.895 344 122 C344 123.105 343.105 124 342 124 C340.895 124 340 123.105 340 122 Z" fill="#f4eaf6" opacity="0.5"/>
+    <path id="Dusk_star_3" data-name="Dusk star 3" d="M640 112.5 C640 111.119 641.119 110 642.5 110 C643.881 110 645 111.119 645 112.5 C645 113.881 643.881 115 642.5 115 C641.119 115 640 113.881 640 112.5 Z" fill="#f4eaf6" opacity="0.5"/>
+    <path id="Dusk_star_4" data-name="Dusk star 4" d="M760 192 C760 190.895 760.895 190 762 190 C763.105 190 764 190.895 764 192 C764 193.105 763.105 194 762 194 C760.895 194 760 193.105 760 192 Z" fill="#f4eaf6" opacity="0.5"/>
+    <path id="Dusk_star_5" data-name="Dusk star 5" d="M180 302 C180 300.895 180.895 300 182 300 C183.105 300 184 300.895 184 302 C184 303.105 183.105 304 182 304 C180.895 304 180 303.105 180 302 Z" fill="#f4eaf6" opacity="0.5"/>
+    <path id="Dusk_star_6" data-name="Dusk star 6" d="M830 332.5 C830 331.119 831.119 330 832.5 330 C833.881 330 835 331.119 835 332.5 C835 333.881 833.881 335 832.5 335 C831.119 335 830 333.881 830 332.5 Z" fill="#f4eaf6" opacity="0.5"/>
+    <path id="Dusk_star_7" data-name="Dusk star 7" d="M700 262 C700 260.895 700.895 260 702 260 C703.105 260 704 260.895 704 262 C704 263.105 703.105 264 702 264 C700.895 264 700 263.105 700 262 Z" fill="#f4eaf6" opacity="0.5"/>
+    <path id="Dusk_star_8" data-name="Dusk star 8" d="M260 422 C260 420.895 260.895 420 262 420 C263.105 420 264 420.895 264 422 C264 423.105 263.105 424 262 424 C260.895 424 260 423.105 260 422 Z" fill="#f4eaf6" opacity="0.5"/>
+    <path id="Dusk_star_9" data-name="Dusk star 9" d="M160 602.5 C160 601.119 161.119 600 162.5 600 C163.881 600 165 601.119 165 602.5 C165 603.881 163.881 605 162.5 605 C161.119 605 160 603.881 160 602.5 Z" fill="#f4eaf6" opacity="0.5"/>
+    <path id="Dusk_star_10" data-name="Dusk star 10" d="M860 522 C860 520.895 860.895 520 862 520 C863.105 520 864 520.895 864 522 C864 523.105 863.105 524 862 524 C860.895 524 860 523.105 860 522 Z" fill="#f4eaf6" opacity="0.5"/>
+    <path id="Dune_far" data-name="Dune far" d="M160 600 C240 580 320 576 400 586" fill="none" stroke="#c9a284" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Dune_near" data-name="Dune near" d="M190 650 C260 634 330 632 390 640" fill="none" stroke="#b08c72" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.18"/>
+    <path id="Shrub" d="M240 600 L238 572 M238 584 L222 568 M240 580 L256 564 M242 592 L262 584" fill="none" stroke="#6e5244" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.32"/>
+    <path id="Horn_far" data-name="Horn far" d="M490.7 326.1 L477.3 316 L463.9 306.3 L450.6 296.9 L437.3 287.8 L424.1 279.1 L410.9 270.8 L397.7 262.8 L384.5 255.2 L371.3 247.9 L358.2 240.9 L345.2 234.3 L332.1 228.1 L319.1 222.2 L306.2 216.7 L293.2 211.5 L280.3 206.7 L267.5 202.2 L254.6 198.1 L253.4 201.9 L265.9 206.6 L278.4 211.6 L291 216.9 L303.6 222.6 L316.2 228.6 L328.8 235 L341.4 241.7 L354 248.7 L366.7 256.1 L379.3 263.9 L392 271.9 L404.7 280.3 L417.4 289.1 L430.2 298.1 L442.9 307.6 L455.7 317.3 L468.5 327.4 L481.3 337.9 Z" fill="url(#linear-gradient-3)"/>
+    <path id="Horn_far_sheen" data-name="Horn far sheen" d="M470 310 C420 270 360 232 300 212" fill="none" stroke="#9e8a78" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Ear" d="M486 390 C464 378 440 376 420 386 C426 400 444 410 464 412 C474 408 482 400 486 390 Z" fill="url(#linear-gradient-4)" stroke="#241a14" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Ear_shade" data-name="Ear shade" d="M472 392 C456 386 442 386 430 390" fill="none" stroke="#6e5240" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Neck_and_shoulder" data-name="Neck and shoulder" d="M545 436 C586 478 616 540 634 604 C648 650 668 700 690 740 C706 768 720 790 732 810 C591.37 903.189 408.63 903.189 268 810 C320 780 380 730 424 676 C448 648 460 610 464 570 C466 520 470 470 480 424 C494 410 522 416 545 436 Z" fill="url(#linear-gradient-5)" stroke="#241a14" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Throat_shade" data-name="Throat shade" d="M560 450 C596 494 622 550 638 608" fill="none" stroke="#6e5240" stroke-width="14" stroke-linecap="round" stroke-miterlimit="10" opacity="0.25"/>
+    <path id="Nape_light" data-name="Nape light" d="M452 600 C456 556 462 508 474 464" fill="none" stroke="#f4e4c2" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Withers_shade" data-name="Withers shade" d="M420 700 C440 670 452 640 456 610" fill="none" stroke="#6e5240" stroke-width="12" stroke-linecap="round" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="Chest_shadow" data-name="Chest shadow" d="M600 620 C630 660 658 700 690 740 C704 760 716 780 726 796 C700 790 668 772 644 744 C622 712 606 668 600 620 Z" fill="#8a7050" opacity="0.3"/>
+    <path id="Neck_fold" data-name="Neck fold" d="M510 520 C530 570 552 620 576 668" fill="none" stroke="#8a7050" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.28"/>
+    <path id="Nape_sheen" data-name="Nape sheen" d="M478 560 C480 520 486 482 498 452" fill="none" stroke="#f8ecd2" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Flank_stripe" data-name="Flank stripe" d="M304 794 C380 822 460 832 500 834 C580 832 656 818 714 794" fill="none" stroke="#1e1818" stroke-width="11" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Head" d="M498 318 C530 322 560 336 590 352 C614 364 632 378 642 392 C646 400 640 408 630 412 C608 420 580 426 556 432 C536 436 514 438 496 434 C480 428 470 412 468 394 C466 368 476 336 498 318 Z" fill="url(#radial-gradient-1)" stroke="#241a14" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Forehead_light" data-name="Forehead light" d="M512 332 C546 338 578 352 606 370" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Jaw_shade" data-name="Jaw shade" d="M500 420 C520 428 544 428 566 424" fill="none" stroke="#8a7050" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Nose_wedge" data-name="Nose wedge" d="M614 370 C630 378 641 388 644 398 C640 408 628 414 612 416 C606 404 606 386 614 370 Z" fill="url(#linear-gradient-6)"/>
+    <path id="Nostril" d="M624 395 C624 393.343 626.015 392 628.5 392 C630.985 392 633 393.343 633 395 C633 396.657 630.985 398 628.5 398 C626.015 398 624 396.657 624 395 Z" fill="#080606"/>
+    <path id="Eye_band" data-name="Eye band" d="M491.5 346.5 L497.5 350.8 L503.5 355.1 L509.5 359.5 L515.4 363.7 L521.4 368 L527.3 372.3 L533.1 376.6 L539 380.8 L544.8 385 L550.6 389.3 L556.4 393.5 L562.1 397.7 L567.9 401.9 L573.6 406 L579.3 410.2 L584.9 414.3 L590.6 418.5 L596.2 422.6 L603.8 413.4 L598.8 408.6 L593.6 403.8 L588.5 399 L583.4 394.2 L578.2 389.4 L573 384.6 L567.7 379.7 L562.5 374.8 L557.2 370 L551.9 365.1 L546.5 360.2 L541.2 355.3 L535.8 350.3 L530.4 345.4 L524.9 340.4 L519.5 335.5 L514 330.5 L508.5 325.5 Z" fill="url(#linear-gradient-6)"/>
+    <path id="Chin_edge" data-name="Chin edge" d="M552 424 C574 420 594 414 612 406" fill="none" stroke="#1e1818" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Poll_wedge" data-name="Poll wedge" d="M484 314 C504 312 524 322 534 336 C518 332 500 328 486 326 Z" fill="url(#linear-gradient-6)"/>
+    <path id="Blaze_light" data-name="Blaze light" d="M508 352 C528 360 550 374 568 390" fill="none" stroke="#ffffff" stroke-width="9" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Eye" d="M538 379 C538 372.925 543.596 368 550.5 368 C557.404 368 563 372.925 563 379 C563 385.075 557.404 390 550.5 390 C543.596 390 538 385.075 538 379 Z" fill="url(#radial-gradient-2)" stroke="#0e0806" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Eye_glint" data-name="Eye glint" d="M545 375.5 C545 373.567 546.567 372 548.5 372 C550.433 372 552 373.567 552 375.5 C552 377.433 550.433 379 548.5 379 C546.567 379 545 377.433 545 375.5 Z" fill="#ffffff" opacity="0.9"/>
+    <path id="Brow_accent" data-name="Brow accent" d="M534 368 C544 360 558 360 568 368" fill="none" stroke="#f8f2e6" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Mouth" d="M610 416 C596 420 582 424 570 426" fill="none" stroke="#241a14" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Horn_near" data-name="Horn near" d="M506.1 316 L493.2 303.8 L480.4 292 L467.5 280.7 L454.6 270 L441.7 259.8 L428.7 250.1 L415.8 240.9 L402.8 232.2 L389.8 224.1 L376.8 216.4 L363.8 209.3 L350.8 202.7 L337.8 196.7 L324.7 191.1 L311.7 186.1 L298.6 181.6 L285.6 177.6 L272.5 174.1 L271.5 177.9 L284.2 182.1 L296.8 186.7 L309.4 191.8 L322 197.4 L334.5 203.5 L347 210.1 L359.4 217.2 L371.8 224.8 L384.2 232.9 L396.5 241.5 L408.8 250.6 L421 260.1 L433.3 270.2 L445.5 280.8 L457.6 291.8 L469.8 303.4 L481.9 315.4 L493.9 328 Z" fill="url(#linear-gradient-7)"/>
+    <path id="Horn_sheen" data-name="Horn sheen" d="M488 300 C436 256 372 216 306 194" fill="none" stroke="#b09a88" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Horn_ridge_1" data-name="Horn ridge 1" d="M490 330 L499 319" fill="none" stroke="#100c0a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Horn_ridge_2" data-name="Horn ridge 2" d="M480 315 L489 304" fill="none" stroke="#100c0a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Horn_ridge_3" data-name="Horn ridge 3" d="M468 300 L477 290" fill="none" stroke="#100c0a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Horn_ridge_4" data-name="Horn ridge 4" d="M458 285 L468 275" fill="none" stroke="#100c0a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Plate_rim" data-name="Plate rim" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="none" stroke="#4a3a5e" stroke-width="6" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 962)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="60" fill="#e8dcf0" text-anchor="middle"><tspan x="0" y="0">ORYX</tspan></text>
+  </g>
+</svg>
