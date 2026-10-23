@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="500" x2="1000" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#211c26"/>
+      <stop offset="1" stop-color="#0e0b12"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d9c9a4"/>
+      <stop offset="0.72" stop-color="#a8916b"/>
+      <stop offset="1" stop-color="#6e5b40"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="760" y1="750" x2="930" y2="750" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2ead2"/>
+      <stop offset="1" stop-color="#cfc2a0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="700" y1="649.5" x2="840" y2="649.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2ead2"/>
+      <stop offset="1" stop-color="#cfc2a0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="650" y1="564.5" x2="762" y2="564.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2ead2"/>
+      <stop offset="1" stop-color="#cfc2a0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="610" y1="496.5" x2="700" y2="496.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2ead2"/>
+      <stop offset="1" stop-color="#cfc2a0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="578" y1="443.5" x2="650" y2="443.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2ead2"/>
+      <stop offset="1" stop-color="#cfc2a0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="552" y1="402.5" x2="610" y2="402.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2ead2"/>
+      <stop offset="1" stop-color="#cfc2a0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="300" y1="530" x2="630" y2="530" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2ead2"/>
+      <stop offset="1" stop-color="#cfc2a0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="368" y1="595" x2="558" y2="595" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2ead2"/>
+      <stop offset="1" stop-color="#cfc2a0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x1="430" y1="634" x2="502" y2="634" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2ead2"/>
+      <stop offset="1" stop-color="#cfc2a0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-11" x1="462" y1="646" x2="488" y2="646" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2ead2"/>
+      <stop offset="1" stop-color="#cfc2a0"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="205" cy="690" r="47" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2d48a"/>
+      <stop offset="1" stop-color="#c79a4e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="169" cy="703" r="17" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff3c2"/>
+      <stop offset="1" stop-color="#e8a33d"/>
+    </radialGradient>
+  </defs>
+  <title>LLG-0051 Emotional Verification Deadlock</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#54462e" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#efe3c4" stroke-width="3" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Patina_1" data-name="Patina 1" d="M170 245 C170 203.579 223.726 170 290 170 C356.274 170 410 203.579 410 245 C410 286.421 356.274 320 290 320 C223.726 320 170 286.421 170 245 Z" fill="#8c7852" opacity="0.25"/>
+    <path id="Patina_2" data-name="Patina 2" d="M580 770 C580 731.34 635.964 700 705 700 C774.036 700 830 731.34 830 770 C830 808.66 774.036 840 705 840 C635.964 840 580 808.66 580 770 Z" fill="#8c7852" opacity="0.22"/>
+    <path id="Plate_fleck_1" data-name="Plate fleck 1" d="M200 324 C200 321.791 201.791 320 204 320 C206.209 320 208 321.791 208 324 C208 326.209 206.209 328 204 328 C201.791 328 200 326.209 200 324 Z" fill="#6e5a3c" opacity="0.4"/>
+    <path id="Plate_fleck_2" data-name="Plate fleck 2" d="M790 243.5 C790 241.567 791.567 240 793.5 240 C795.433 240 797 241.567 797 243.5 C797 245.433 795.433 247 793.5 247 C791.567 247 790 245.433 790 243.5 Z" fill="#6e5a3c" opacity="0.4"/>
+    <path id="Plate_fleck_3" data-name="Plate fleck 3" d="M150 564.5 C150 562.015 152.015 560 154.5 560 C156.985 560 159 562.015 159 564.5 C159 566.985 156.985 569 154.5 569 C152.015 569 150 566.985 150 564.5 Z" fill="#6e5a3c" opacity="0.4"/>
+    <path id="Plate_fleck_4" data-name="Plate fleck 4" d="M830 544 C830 541.791 831.791 540 834 540 C836.209 540 838 541.791 838 544 C838 546.209 836.209 548 834 548 C831.791 548 830 546.209 830 544 Z" fill="#6e5a3c" opacity="0.4"/>
+    <path id="Plate_fleck_5" data-name="Plate fleck 5" d="M260 793.5 C260 791.567 261.567 790 263.5 790 C265.433 790 267 791.567 267 793.5 C267 795.433 265.433 797 263.5 797 C261.567 797 260 795.433 260 793.5 Z" fill="#6e5a3c" opacity="0.4"/>
+    <path id="Plate_fleck_6" data-name="Plate fleck 6" d="M750 764.5 C750 762.015 752.015 760 754.5 760 C756.985 760 759 762.015 759 764.5 C759 766.985 756.985 769 754.5 769 C752.015 769 750 766.985 750 764.5 Z" fill="#6e5a3c" opacity="0.4"/>
+    <path id="Plate_fleck_7" data-name="Plate fleck 7" d="M140 423 C140 421.343 141.343 420 143 420 C144.657 420 146 421.343 146 423 C146 424.657 144.657 426 143 426 C141.343 426 140 424.657 140 423 Z" fill="#6e5a3c" opacity="0.4"/>
+    <path id="Plate_fleck_8" data-name="Plate fleck 8" d="M860 413.5 C860 411.567 861.567 410 863.5 410 C865.433 410 867 411.567 867 413.5 C867 415.433 865.433 417 863.5 417 C861.567 417 860 415.433 860 413.5 Z" fill="#6e5a3c" opacity="0.4"/>
+    <path id="Queue_form_1" data-name="Queue form 1" d="M764 690 L926 690 C928.209 690 930 691.791 930 694 L930 806 C930 808.209 928.209 810 926 810 L764 810 C761.791 810 760 808.209 760 806 L760 694 C760 691.791 761.791 690 764 690 Z" fill="url(#linear-gradient-2)" stroke="#33271e" stroke-width="2" stroke-miterlimit="10" opacity="0.95"/>
+    <path id="Queue_head_1" data-name="Queue head 1" d="M780.4 706.8 L865.4 706.8 L865.4 718.8 L780.4 718.8 Z" fill="#8a7a5e" opacity="0.76"/>
+    <path id="Queue_rule_1" data-name="Queue rule 1" d="M780.4 744 L909.6 744 L909.6 751.2 L780.4 751.2 Z" fill="#9a8a68" opacity="0.57"/>
+    <path id="Queue_form_2" data-name="Queue form 2" d="M704 600 L836 600 C838.209 600 840 601.791 840 604 L840 695 C840 697.209 838.209 699 836 699 L704 699 C701.791 699 700 697.209 700 695 L700 604 C700 601.791 701.791 600 704 600 Z" fill="url(#linear-gradient-3)" stroke="#33271e" stroke-width="2" stroke-miterlimit="10" opacity="0.82"/>
+    <path id="Queue_head_2" data-name="Queue head 2" d="M716.8 613.86 L786.8 613.86 L786.8 623.76 L716.8 623.76 Z" fill="#8a7a5e" opacity="0.65"/>
+    <path id="Queue_rule_2" data-name="Queue rule 2" d="M716.8 644.55 L823.2 644.55 L823.2 650.49 L716.8 650.49 Z" fill="#9a8a68" opacity="0.49"/>
+    <path id="Queue_form_3" data-name="Queue form 3" d="M654 525 L758 525 C760.209 525 762 526.791 762 529 L762 600 C762 602.209 760.209 604 758 604 L654 604 C651.791 604 650 602.209 650 600 L650 529 C650 526.791 651.791 525 654 525 Z" fill="url(#linear-gradient-4)" stroke="#33271e" stroke-width="2" stroke-miterlimit="10" opacity="0.68"/>
+    <path id="Queue_head_3" data-name="Queue head 3" d="M663.44 536.06 L719.44 536.06 L719.44 543.96 L663.44 543.96 Z" fill="#8a7a5e" opacity="0.54"/>
+    <path id="Queue_rule_3" data-name="Queue rule 3" d="M663.44 560.55 L748.56 560.55 L748.56 565.29 L663.44 565.29 Z" fill="#9a8a68" opacity="0.4"/>
+    <path id="Queue_form_4" data-name="Queue form 4" d="M614 465 L696 465 C698.209 465 700 466.791 700 469 L700 524 C700 526.209 698.209 528 696 528 L614 528 C611.791 528 610 526.209 610 524 L610 469 C610 466.791 611.791 465 614 465 Z" fill="url(#linear-gradient-5)" stroke="#33271e" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Queue_head_4" data-name="Queue head 4" d="M620.8 473.82 L665.8 473.82 L665.8 480.12 L620.8 480.12 Z" fill="#8a7a5e" opacity="0.44"/>
+    <path id="Queue_rule_4" data-name="Queue rule 4" d="M620.8 493.35 L689.2 493.35 L689.2 497.13 L620.8 497.13 Z" fill="#9a8a68" opacity="0.33"/>
+    <path id="Queue_form_5" data-name="Queue form 5" d="M582 418 L646 418 C648.209 418 650 419.791 650 422 L650 465 C650 467.209 648.209 469 646 469 L582 469 C579.791 469 578 467.209 578 465 L578 422 C578 419.791 579.791 418 582 418 Z" fill="url(#linear-gradient-6)" stroke="#33271e" stroke-width="2" stroke-miterlimit="10" opacity="0.44"/>
+    <path id="Queue_head_5" data-name="Queue head 5" d="M586.64 425.14 L622.64 425.14 L622.64 430.24 L586.64 430.24 Z" fill="#8a7a5e" opacity="0.35"/>
+    <path id="Queue_rule_5" data-name="Queue rule 5" d="M586.64 440.95 L641.36 440.95 L641.36 444.01 L586.64 444.01 Z" fill="#9a8a68" opacity="0.26"/>
+    <path id="Queue_form_6" data-name="Queue form 6" d="M556 382 L606 382 C608.209 382 610 383.791 610 386 L610 419 C610 421.209 608.209 423 606 423 L556 423 C553.791 423 552 421.209 552 419 L552 386 C552 383.791 553.791 382 556 382 Z" fill="url(#linear-gradient-7)" stroke="#33271e" stroke-width="2" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Queue_head_6" data-name="Queue head 6" d="M558.96 387.74 L587.96 387.74 L587.96 391.84 L558.96 391.84 Z" fill="#8a7a5e" opacity="0.27"/>
+    <path id="Queue_rule_6" data-name="Queue rule 6" d="M558.96 400.45 L603.04 400.45 L603.04 402.91 L558.96 402.91 Z" fill="#9a8a68" opacity="0.2"/>
+    <path id="VP_guides" data-name="VP guides" d="M760 690 L540 360 M930 690 L560 368" fill="none" stroke="#6e5b40" stroke-width="2" stroke-miterlimit="10" opacity="0.18"/>
+    <path id="Outer_sheet" data-name="Outer sheet" d="M309.9 330 L620.1 330 C625.568 330 630 334.432 630 339.9 L630 720.1 C630 725.568 625.568 730 620.1 730 L309.9 730 C304.432 730 300 725.568 300 720.1 L300 339.9 C300 334.432 304.432 330 309.9 330 Z" fill="url(#linear-gradient-8)" stroke="#33271e" stroke-width="5.28" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 465 394)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="33" fill="#33271e" text-anchor="middle"><tspan x="0" y="0">FORM 51-E</tspan></text>
+    <text transform="matrix(1 0 0 1 465 450)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="17.16" fill="#6a5c40" text-anchor="middle"><tspan x="0" y="0">HOW DOES THIS FORM MAKE YOU FEEL?</tspan></text>
+    <path id="Outer_rule_1" data-name="Outer rule 1" d="M339.6 498 L590.4 498 L590.4 502.62 L339.6 502.62 Z" fill="#9a8a68" opacity="0.6"/>
+    <path id="Outer_rule_2" data-name="Outer rule 2" d="M339.6 554 L590.4 554 L590.4 558.62 L339.6 558.62 Z" fill="#9a8a68" opacity="0.6"/>
+    <path id="Outer_rule_3" data-name="Outer rule 3" d="M339.6 610 L590.4 610 L590.4 614.62 L339.6 614.62 Z" fill="#9a8a68" opacity="0.6"/>
+    <path id="Chew_mark" data-name="Chew mark" d="M300 690 C308 678 308 665.333 300 652 C313.333 660 320.667 656 322 640 C332.667 650.667 340 648 344 632 L344 730 L300 730 Z" fill="#a8916b" stroke="#33271e" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Nested_sheet" data-name="Nested sheet" d="M373.7 480 L552.3 480 C555.448 480 558 482.552 558 485.7 L558 704.3 C558 707.448 555.448 710 552.3 710 L373.7 710 C370.552 710 368 707.448 368 704.3 L368 485.7 C368 482.552 370.552 480 373.7 480 Z" fill="url(#linear-gradient-9)" stroke="#33271e" stroke-width="3.04" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 463 516.8)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="19" fill="#5a4a3a" text-anchor="middle"><tspan x="0" y="0">FORM 51-E</tspan></text>
+    <text transform="matrix(1 0 0 1 463 549)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="9.88" fill="#8a7a5e" text-anchor="middle"><tspan x="0" y="0">HOW DOES THIS FORM MAKE YOU FEEL?</tspan></text>
+    <path id="Nested_rule_1" data-name="Nested rule 1" d="M390.8 576.6 L535.2 576.6 L535.2 579.26 L390.8 579.26 Z" fill="#9a8a68" opacity="0.48"/>
+    <path id="Nested_rule_2" data-name="Nested rule 2" d="M390.8 608.8 L535.2 608.8 L535.2 611.46 L390.8 611.46 Z" fill="#9a8a68" opacity="0.48"/>
+    <path id="Nested_rule_3" data-name="Nested rule 3" d="M390.8 641 L535.2 641 L535.2 643.66 L390.8 643.66 Z" fill="#9a8a68" opacity="0.48"/>
+    <path id="Deep_nest" data-name="Deep nest" d="M433 590 L499 590 C500.657 590 502 591.343 502 593 L502 675 C502 676.657 500.657 678 499 678 L433 678 C431.343 678 430 676.657 430 675 L430 593 C430 591.343 431.343 590 433 590 Z" fill="url(#linear-gradient-10)" stroke="#33271e" stroke-width="2" stroke-miterlimit="10" opacity="0.7"/>
+    <text transform="matrix(1 0 0 1 466 620)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="12" fill="#6a5c40" text-anchor="middle"><tspan x="0" y="0">51-E</tspan></text>
+    <path id="Deep_nest_rule" data-name="Deep nest rule" d="M442 636 L490 636 L490 640 L442 640 Z" fill="#9a8a68" opacity="0.5"/>
+    <path id="Deeper_still" data-name="Deeper still" d="M462 630 L488 630 L488 662 L462 662 Z" fill="url(#linear-gradient-11)" stroke="#33271e" stroke-width="1.5" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Stamp_box" data-name="Stamp box" d="M337.106 722.3 L568.225 758.906 C572.589 759.597 575.566 763.695 574.875 768.059 L562.047 849.05 C561.356 853.413 557.258 856.391 552.894 855.7 L321.775 819.094 C317.411 818.403 314.434 814.305 315.125 809.941 L327.953 728.95 C328.644 724.587 332.742 721.609 337.106 722.3 Z" fill="none" stroke="#b03a2e" stroke-width="5" stroke-miterlimit="10" opacity="0.85"/>
+    <text transform="matrix(0.988 0.156 -0.156 0.988 447.034 776.16)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="17" fill="#b03a2e" text-anchor="middle"><tspan x="0" y="0">PREPARED</tspan></text>
+    <text transform="matrix(0.988 0.156 -0.156 0.988 442.966 801.84)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="17" fill="#b03a2e" text-anchor="middle"><tspan x="0" y="0">AMBIVALENT</tspan></text>
+    <text transform="matrix(0.988 0.156 -0.156 0.988 438.899 827.52)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="17" fill="#b03a2e" text-anchor="middle"><tspan x="0" y="0">UNFIT</tspan></text>
+    <path id="Kindy_lantern_glow" data-name="Kindy lantern glow" d="M150 675 C150 655.67 165.67 640 185 640 C204.33 640 220 655.67 220 675 C220 694.33 204.33 710 185 710 C165.67 710 150 694.33 150 675 Z" fill="#ffdf8a" opacity="0.25"/>
+    <path id="Kindy_body" data-name="Kindy body" d="M180 650 C196.667 640.667 213.333 640.667 230 650 L230 730 C213.333 739.333 196.667 739.333 180 730 Z" fill="url(#radial-gradient-2)" stroke="#33271e" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Kindy_eye_L" data-name="Kindy eye L" d="M192 681 C192 678.239 193.791 676 196 676 C198.209 676 200 678.239 200 681 C200 683.761 198.209 686 196 686 C193.791 686 192 683.761 192 681 Z" fill="#2a1c16"/>
+    <path id="Kindy_eye_R" data-name="Kindy eye R" d="M210 681 C210 678.239 211.791 676 214 676 C216.209 676 218 678.239 218 681 C218 683.761 216.209 686 214 686 C211.791 686 210 683.761 210 681 Z" fill="#2a1c16"/>
+    <path id="Kindy_lantern" data-name="Kindy lantern" d="M152 703 C152 693.611 159.611 686 169 686 C178.389 686 186 693.611 186 703 C186 712.389 178.389 720 169 720 C159.611 720 152 712.389 152 703 Z" fill="url(#radial-gradient-3)" stroke="#33271e" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Kindy_flame" data-name="Kindy flame" d="M164 704 C164 700.686 166.239 698 169 698 C171.761 698 174 700.686 174 704 C174 707.314 171.761 710 169 710 C166.239 710 164 707.314 164 704 Z" fill="#fff6d8"/>
+    <path id="Kindy_gaze" data-name="Kindy gaze" d="M232 668 C330.667 622.667 410 586.667 470 560" fill="none" stroke="#6e5b40" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="6 8" opacity="0.25"/>
+    <text transform="matrix(1 0 0 1 500 930)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="58" fill="#efe3c4" text-anchor="middle"><tspan x="0" y="0">FORM 51-E</tspan></text>
+    <text transform="matrix(1 0 0 1 500 968)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="20" fill="#b8a67e" text-anchor="middle"><tspan x="0" y="0">F E E L I N G S   A B O U T   F E E L I N G S</tspan></text>
+  </g>
+</svg>
