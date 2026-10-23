@@ -1,0 +1,74 @@
+name: pages
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  docs-repro:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check out dogbed (pinned)
+        uses: actions/checkout@v4
+        with:
+          repository: drawmeanelephant/dogbed
+          ref: 0c94175e25483a9146939d9d4ca87b11ee7d311e
+          path: dogbed-src
+      - name: Install Zig 0.17.0
+        run: |
+          curl -sL -o /tmp/zig.tar.xz https://ziglang.org/download/0.17.0/zig-x86_64-linux-0.17.0.tar.xz
+          mkdir -p /tmp/zig && tar -xf /tmp/zig.tar.xz -C /tmp/zig --strip-components=1
+          echo "/tmp/zig" >> "$GITHUB_PATH"
+      - name: Build dogbed
+        run: cd dogbed-src && zig build
+      - name: Regenerate data + site
+        run: |
+          python3 docs/gen_data.py
+          DOGBED=dogbed-src/zig-out/bin/dogbed sh docs/build.sh
+      - name: Fail if docs/ is stale (rebuild and commit)
+        run: git diff --exit-code docs/
+
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    needs: docs-repro
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check out dogbed (pinned)
+        uses: actions/checkout@v4
+        with:
+          repository: drawmeanelephant/dogbed
+          ref: 0c94175e25483a9146939d9d4ca87b11ee7d311e
+          path: dogbed-src
+      - name: Install Zig 0.17.0
+        run: |
+          curl -sL -o /tmp/zig.tar.xz https://ziglang.org/download/0.17.0/zig-x86_64-linux-0.17.0.tar.xz
+          mkdir -p /tmp/zig && tar -xf /tmp/zig.tar.xz -C /tmp/zig --strip-components=1
+          echo "/tmp/zig" >> "$GITHUB_PATH"
+      - name: Build dogbed
+        run: cd dogbed-src && zig build
+      - name: Build docs/site
+        run: |
+          python3 docs/gen_data.py
+          DOGBED=dogbed-src/zig-out/bin/dogbed sh docs/build.sh
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/site
+      - uses: actions/deploy-pages@v4
+        id: deployment

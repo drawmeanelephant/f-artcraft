@@ -1,0 +1,16 @@
+{# index.knap — data: title, intro, pipeline, counts, featured[{name,img,svg,rev,n}], nav #}{{ title | h1 }}
+
+{{ intro }}
+
+{{ "The loop" | h2 }}
+
+{{ pipeline | codeblock }}
+
+{{ counts }}
+
+{{ "Featured" | h2 }}
+notextile.. <div class="grid featured">
+{% for p in featured %}<figure class="card"><a href="{{ p.img }}"><img loading="lazy" src="{{ p.img }}" alt="{{ p.name }}"></a><figcaption><b>{{ p.name }}</b><span>{{ p.rev }} · <a href="{{ p.svg }}">svg</a></span></figcaption></figure>
+{% endfor %}</div>
+
+p. {{ nav }}
