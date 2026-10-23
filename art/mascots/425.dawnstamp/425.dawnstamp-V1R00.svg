@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="500" x2="1000" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1a30"/>
+      <stop offset="1" stop-color="#0b0a16"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d3dce8"/>
+      <stop offset="0.7" stop-color="#9aa8c2"/>
+      <stop offset="1" stop-color="#5f6e92"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="500" cy="558" r="122.504" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5a6480"/>
+      <stop offset="0.7" stop-color="#3e4658"/>
+      <stop offset="1" stop-color="#2a303e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="500" cy="417" r="72" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ede0cc"/>
+      <stop offset="1" stop-color="#cbaf96"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="424" y1="364.005" x2="654" y2="364.005" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7a5680"/>
+      <stop offset="1" stop-color="#4e3654"/>
+    </linearGradient>
+  </defs>
+  <title>Dawnstamp — Mascot Portrait</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#556284" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#e2eaf4" stroke-width="3" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Star_1" data-name="Star 1" d="M247 235 L263 235 M255 227 L255 243" fill="none" stroke="#edf2fa" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Star_2" data-name="Star 2" d="M737 245 L753 245 M745 237 L745 253" fill="none" stroke="#edf2fa" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Star_3" data-name="Star 3" d="M312 165 L328 165 M320 157 L320 173" fill="none" stroke="#edf2fa" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Star_4" data-name="Star 4" d="M672 170 L688 170 M680 162 L680 178" fill="none" stroke="#edf2fa" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Star_5" data-name="Star 5" d="M492 140 L508 140 M500 132 L500 148" fill="none" stroke="#edf2fa" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Star_6" data-name="Star 6" d="M202 430 L218 430 M210 422 L210 438" fill="none" stroke="#edf2fa" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Star_7" data-name="Star 7" d="M792 430 L808 430 M800 422 L800 438" fill="none" stroke="#edf2fa" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Dawn_glow" data-name="Dawn glow" d="M290 650 C290 600.294 384.02 560 500 560 C615.98 560 710 600.294 710 650 C710 699.706 615.98 740 500 740 C384.02 740 290 699.706 290 650 Z" fill="#f2c48a" opacity="0.3"/>
+    <path id="Glow_core" data-name="Glow core" d="M400 645 C400 620.147 444.772 600 500 600 C555.228 600 600 620.147 600 645 C600 669.853 555.228 690 500 690 C444.772 690 400 669.853 400 645 Z" fill="#ffd9a0" opacity="0.3"/>
+    <path id="Horizon" d="M152 640 C300 612 700 612 848 640 C769.896 755.586 639.5 824.849 500 824.849 C360.5 824.849 230.104 755.586 152 640 Z" fill="#2c3252" opacity="0.55"/>
+    <path id="Desk_shadow" data-name="Desk shadow" d="M340 783 C340 775.82 413.873 770 505 770 C596.127 770 670 775.82 670 783 C670 790.18 596.127 796 505 796 C413.873 796 340 790.18 340 783 Z" fill="#262c44" opacity="0.45"/>
+    <path id="Desk" d="M364 648 L638 648 C642.418 648 646 651.582 646 656 L646 758 C646 762.418 642.418 766 638 766 L364 766 C359.582 766 356 762.418 356 758 L356 656 C356 651.582 359.582 648 364 648 Z" fill="#4a3a50" stroke="#2e2430" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Desk_top_edge" data-name="Desk top edge" d="M356 636 L646 636 C650.418 636 654 639.582 654 644 L654 650 C654 654.418 650.418 658 646 658 L356 658 C351.582 658 348 654.418 348 650 L348 644 C348 639.582 351.582 636 356 636 Z" fill="#5e4a62" stroke="#2e2430" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Body" d="M378 648 C372 540 420 470 500 468 C580 470 628 540 622 648 Z" fill="url(#radial-gradient-2)" stroke="#2e2430" stroke-width="6" stroke-linejoin="round"/>
+    <path id="Body_fold" data-name="Body fold" d="M412 620 C412 560 436 512 470 494" fill="none" stroke="#222836" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Head" d="M428 417 C428 381.101 460.235 352 500 352 C539.765 352 572 381.101 572 417 C572 452.899 539.765 482 500 482 C460.235 482 428 452.899 428 417 Z" fill="url(#radial-gradient-3)" stroke="#2e2430" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Nightcap" d="M424 384 C428 330 462 296 506 296 C546 296 574 322 580 362 C610 352 640 362 654 388 C640 402 614 402 596 392 C580 410 560 424 534 430 C500 438 456 422 424 384 Z" fill="url(#linear-gradient-2)" stroke="#2e2430" stroke-width="5" stroke-linejoin="round"/>
+    <path id="Pompom" d="M644 399 C644 389.611 651.611 382 661 382 C670.389 382 678 389.611 678 399 C678 408.389 670.389 416 661 416 C651.611 416 644 408.389 644 399 Z" fill="#ede0cc" stroke="#2e2430" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Cap_band" data-name="Cap band" d="M428 388 C470 368 540 368 576 384" fill="none" stroke="#2e2430" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Lid_L_hint" data-name="Lid L hint" d="M456 414 L456 404" fill="none" opacity="0"/>
+    <path id="Eyes" d="M452 418 C458 424 470 424 476 418 M510 418 C516 424 528 424 534 418" fill="none" stroke="#2e2430" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Heavy_lids" data-name="Heavy lids" d="M450 402 L478 406 M508 406 L536 402" fill="none" stroke="#2e2430" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Mouth" d="M480 452 C488 458 500 458 506 452" fill="none" stroke="#2e2430" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Arm_L" data-name="Arm L" d="M400 560 C388 592 388 616 396 638" fill="none" stroke="#3e4658" stroke-width="24" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Hand_L" data-name="Hand L" d="M382 637 C382 629.82 389.163 624 398 624 C406.837 624 414 629.82 414 637 C414 644.18 406.837 650 398 650 C389.163 650 382 644.18 382 637 Z" fill="#d9bfa4" stroke="#2e2430" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Arm_R" data-name="Arm R" d="M584 548 C612 566 630 590 638 614" fill="none" stroke="#3e4658" stroke-width="24" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Stamp_neck" data-name="Stamp neck" d="M580 516 L624 512 L630 558 L574 562 Z" fill="#8a6238" stroke="#2e2430" stroke-width="4" stroke-linejoin="round"/>
+    <path id="Stamp_knob" data-name="Stamp knob" d="M590 499 C590 491.82 595.373 486 602 486 C608.627 486 614 491.82 614 499 C614 506.18 608.627 512 602 512 C595.373 512 590 506.18 590 499 Z" fill="#6e4a2a" stroke="#2e2430" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Stamp_base" data-name="Stamp base" d="M570 556 L636 552 L640 584 L566 588 Z" fill="#3e3a34" stroke="#2e2430" stroke-width="4" stroke-linejoin="round"/>
+    <path id="Press_ticks" data-name="Press ticks" d="M556 592 L544 598 M650 586 L662 590" fill="none" stroke="#2e2430" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Document" d="M470 600 L636 596 L648 636 L478 642 Z" fill="#f4eeda" stroke="#2e2430" stroke-width="3" stroke-linejoin="round"/>
+    <path id="Doc_rules" data-name="Doc rules" d="M486 610 L560 608 M488 622 L596 618" fill="none" stroke="#9a9482" stroke-width="3" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Imprint_ring" data-name="Imprint ring" d="M578 615 C578 607.82 586.954 602 598 602 C609.046 602 618 607.82 618 615 C618 622.18 609.046 628 598 628 C586.954 628 578 622.18 578 615 Z" fill="none" stroke="#c8483a" stroke-width="4" stroke-miterlimit="10" opacity="0.85"/>
+    <path id="Imprint_bar" data-name="Imprint bar" d="M586 615 L608 614" fill="none" stroke="#c8483a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.85"/>
+    <path id="Hand_R" data-name="Hand R" d="M624 611 C624 602.716 631.163 596 640 596 C648.837 596 656 602.716 656 611 C656 619.284 648.837 626 640 626 C631.163 626 624 619.284 624 611 Z" fill="#d9bfa4" stroke="#2e2430" stroke-width="4" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 930)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="58" fill="#dee6f2" text-anchor="middle"><tspan x="0" y="0">DAWNSTAMP</tspan></text>
+    <text transform="matrix(1 0 0 1 500 968)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="23" fill="#a2b2cc" text-anchor="middle"><tspan x="0" y="0">T O O   E A R L Y</tspan></text>
+  </g>
+</svg>
