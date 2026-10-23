@@ -7,10 +7,14 @@ __pycache__/
 # app window proof screenshots
 *window*.png
 *.log
+.DS_Store
 
-# local archive: natives and pdf proofs stay out of git (see AGENTS.md)
+# local archive: pdf proofs stay out of git (see AGENTS.md).
+# natives ship with their plate so any checkout can open them in the app —
+# but scratch natives in work/out/ stay ignored.
 *.vectorcraft
 *.designcraft
+!art/**/*.vectorcraft
 pdf/
 # T3 agent scratch workspaces
 t3-*/
