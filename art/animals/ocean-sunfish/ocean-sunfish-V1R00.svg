@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#081620"/>
+      <stop offset="1" stop-color="#020609"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2e5e7c"/>
+      <stop offset="0.6" stop-color="#17374e"/>
+      <stop offset="1" stop-color="#0a1d2d"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="60" x2="0" y2="820" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d6ecfa" stop-opacity="0"/>
+      <stop offset="0.16" stop-color="#d6ecfa" stop-opacity="0.26"/>
+      <stop offset="0.75" stop-color="#bcddf2" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#bcddf2" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0" y1="240" x2="0" y2="740" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e8e9a"/>
+      <stop offset="0.38" stop-color="#b9c4cc"/>
+      <stop offset="0.7" stop-color="#a8b4bc"/>
+      <stop offset="1" stop-color="#5e6e7a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0" y1="200" x2="0" y2="760" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8b9aa6"/>
+      <stop offset="1" stop-color="#4e5e6a"/>
+    </linearGradient>
+  </defs>
+  <title>Ocean Sunfish — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo" data-name="Plate halo" d="M60 460 C60 216.995 256.995 20 500 20 C743.005 20 940 216.995 940 460 C940 703.005 743.005 900 500 900 C256.995 900 60 703.005 60 460 Z" fill="#2e5e7c" opacity="0.1"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#0a1826" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#9cc4da" stroke-width="3" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Sun_shaft" data-name="Sun shaft" d="M560 62 L668 62 L560 830 L430 830 Z" fill="url(#linear-gradient-2)"/>
+    <path id="Shaft_bloom" data-name="Shaft bloom" d="M470 170 C470 136.863 537.157 110 620 110 C702.843 110 770 136.863 770 170 C770 203.137 702.843 230 620 230 C537.157 230 470 203.137 470 170 Z" fill="#d6ecfa" opacity="0.08"/>
+    <path id="Marine_snow_1" data-name="Marine snow 1" d="M180 333 C180 331.343 181.343 330 183 330 C184.657 330 186 331.343 186 333 C186 334.657 184.657 336 183 336 C181.343 336 180 334.657 180 333 Z" fill="#e8f2f8" opacity="0.4"/>
+    <path id="Marine_snow_2" data-name="Marine snow 2" d="M820 302.5 C820 301.119 821.119 300 822.5 300 C823.881 300 825 301.119 825 302.5 C825 303.881 823.881 305 822.5 305 C821.119 305 820 303.881 820 302.5 Z" fill="#e8f2f8" opacity="0.4"/>
+    <path id="Marine_snow_3" data-name="Marine snow 3" d="M160 523.5 C160 521.567 161.567 520 163.5 520 C165.433 520 167 521.567 167 523.5 C167 525.433 165.433 527 163.5 527 C161.567 527 160 525.433 160 523.5 Z" fill="#e8f2f8" opacity="0.4"/>
+    <path id="Marine_snow_4" data-name="Marine snow 4" d="M850 503 C850 501.343 851.343 500 853 500 C854.657 500 856 501.343 856 503 C856 504.657 854.657 506 853 506 C851.343 506 850 504.657 850 503 Z" fill="#e8f2f8" opacity="0.4"/>
+    <path id="Marine_snow_5" data-name="Marine snow 5" d="M240 722.5 C240 721.119 241.119 720 242.5 720 C243.881 720 245 721.119 245 722.5 C245 723.881 243.881 725 242.5 725 C241.119 725 240 723.881 240 722.5 Z" fill="#e8f2f8" opacity="0.4"/>
+    <path id="Marine_snow_6" data-name="Marine snow 6" d="M760 743.5 C760 741.567 761.567 740 763.5 740 C765.433 740 767 741.567 767 743.5 C767 745.433 765.433 747 763.5 747 C761.567 747 760 745.433 760 743.5 Z" fill="#e8f2f8" opacity="0.4"/>
+    <path id="Marine_snow_7" data-name="Marine snow 7" d="M140 422.5 C140 421.119 141.119 420 142.5 420 C143.881 420 145 421.119 145 422.5 C145 423.881 143.881 425 142.5 425 C141.119 425 140 423.881 140 422.5 Z" fill="#e8f2f8" opacity="0.4"/>
+    <path id="Marine_snow_8" data-name="Marine snow 8" d="M870 602.5 C870 601.119 871.119 600 872.5 600 C873.881 600 875 601.119 875 602.5 C875 603.881 873.881 605 872.5 605 C871.119 605 870 603.881 870 602.5 Z" fill="#e8f2f8" opacity="0.4"/>
+    <path id="Marine_snow_9" data-name="Marine snow 9" d="M420 102.5 C420 101.119 421.119 100 422.5 100 C423.881 100 425 101.119 425 102.5 C425 103.881 423.881 105 422.5 105 C421.119 105 420 103.881 420 102.5 Z" fill="#e8f2f8" opacity="0.4"/>
+    <path id="Marine_snow_10" data-name="Marine snow 10" d="M620 113 C620 111.343 621.343 110 623 110 C624.657 110 626 111.343 626 113 C626 114.657 624.657 116 623 116 C621.343 116 620 114.657 620 113 Z" fill="#e8f2f8" opacity="0.4"/>
+    <path id="Marine_snow_11" data-name="Marine snow 11" d="M300 142 C300 140.895 300.895 140 302 140 C303.105 140 304 140.895 304 142 C304 143.105 303.105 144 302 144 C300.895 144 300 143.105 300 142 Z" fill="#e8f2f8" opacity="0.4"/>
+    <path id="Marine_snow_12" data-name="Marine snow 12" d="M700 182.5 C700 181.119 701.119 180 702.5 180 C703.881 180 705 181.119 705 182.5 C705 183.881 703.881 185 702.5 185 C701.119 185 700 183.881 700 182.5 Z" fill="#e8f2f8" opacity="0.4"/>
+    <path id="Marine_snow_13" data-name="Marine snow 13" d="M330 822.5 C330 821.119 331.119 820 332.5 820 C333.881 820 335 821.119 335 822.5 C335 823.881 333.881 825 332.5 825 C331.119 825 330 823.881 330 822.5 Z" fill="#e8f2f8" opacity="0.4"/>
+    <path id="Marine_snow_14" data-name="Marine snow 14" d="M660 822 C660 820.895 660.895 820 662 820 C663.105 820 664 820.895 664 822 C664 823.105 663.105 824 662 824 C660.895 824 660 823.105 660 822 Z" fill="#e8f2f8" opacity="0.4"/>
+    <path id="Marine_snow_15" data-name="Marine snow 15" d="M120 602 C120 600.895 120.895 600 122 600 C123.105 600 124 600.895 124 602 C124 603.105 123.105 604 122 604 C120.895 604 120 603.105 120 602 Z" fill="#e8f2f8" opacity="0.4"/>
+    <path id="Marine_snow_16" data-name="Marine snow 16" d="M880 382 C880 380.895 880.895 380 882 380 C883.105 380 884 380.895 884 382 C884 383.105 883.105 384 882 384 C880.895 384 880 383.105 880 382 Z" fill="#e8f2f8" opacity="0.4"/>
+    <path id="Marine_snow_17" data-name="Marine snow 17" d="M520 862 C520 860.895 520.895 860 522 860 C523.105 860 524 860.895 524 862 C524 863.105 523.105 864 522 864 C520.895 864 520 863.105 520 862 Z" fill="#e8f2f8" opacity="0.4"/>
+    <path id="Marine_snow_18" data-name="Marine snow 18" d="M210 642 C210 640.895 210.895 640 212 640 C213.105 640 214 640.895 214 642 C214 643.105 213.105 644 212 644 C210.895 644 210 643.105 210 642 Z" fill="#e8f2f8" opacity="0.4"/>
+    <path id="Marine_snow_19" data-name="Marine snow 19" d="M790 662.5 C790 661.119 791.119 660 792.5 660 C793.881 660 795 661.119 795 662.5 C795 663.881 793.881 665 792.5 665 C791.119 665 790 663.881 790 662.5 Z" fill="#e8f2f8" opacity="0.4"/>
+    <path id="Marine_snow_20" data-name="Marine snow 20" d="M450 782 C450 780.895 450.895 780 452 780 C453.105 780 454 780.895 454 782 C454 783.105 453.105 784 452 784 C450.895 784 450 783.105 450 782 Z" fill="#e8f2f8" opacity="0.4"/>
+    <path id="Body" d="M282.8 483 C279.6 424.6 306.6 370.6 360.6 336.1 C431.8 292.9 507.4 273.4 570.1 267 C580.9 228.1 598.2 193.5 621.9 176.2 C645.7 208.6 665.1 245.4 675.9 286.4 C714.8 321 740.7 381.4 747.2 439.8 C755.867 451.267 755.867 463.5 747.2 476.5 C757.267 489.433 756.533 502.4 745 515.4 C755.133 528.333 754.433 541.267 742.9 554.2 C750.1 565.733 747.933 577.267 736.4 588.8 C727.8 627.7 699.7 666.6 660.8 692.5 C654.3 724.9 639.2 753 619.8 770.2 C598.2 744.3 580.9 709.8 574.4 679.5 C520.4 703.3 447 683.8 393 645 C349.8 616.9 315.2 567.2 295.8 524 C283.9 507.8 280.6 493.8 282.8 483 Z" fill="url(#linear-gradient-3)" stroke="#16242e" stroke-width="7" stroke-miterlimit="10"/>
+    <path id="Mottle_3" data-name="Mottle 3" d="M551.8 470.8 C551.8 468.425 556.031 466.5 561.25 466.5 C566.469 466.5 570.7 468.425 570.7 470.8 C570.7 473.175 566.469 475.1 561.25 475.1 C556.031 475.1 551.8 473.175 551.8 470.8 Z" fill="#e2e9ee" opacity="0.22"/>
+    <path id="Mottle_4" data-name="Mottle 4" d="M492.9 389.1 C492.9 387.112 496.818 385.5 501.65 385.5 C506.482 385.5 510.4 387.112 510.4 389.1 C510.4 391.088 506.482 392.7 501.65 392.7 C496.818 392.7 492.9 391.088 492.9 389.1 Z" fill="#e2e9ee" opacity="0.29"/>
+    <path id="Mottle_5" data-name="Mottle 5" d="M483.5 508.25 C483.5 504.798 488.626 502 494.95 502 C501.274 502 506.4 504.798 506.4 508.25 C506.4 511.702 501.274 514.5 494.95 514.5 C488.626 514.5 483.5 511.702 483.5 508.25 Z" fill="#e2e9ee" opacity="0.2"/>
+    <path id="Mottle_6" data-name="Mottle 6" d="M628.1 539.55 C628.1 535.712 632.891 532.6 638.8 532.6 C644.709 532.6 649.5 535.712 649.5 539.55 C649.5 543.388 644.709 546.5 638.8 546.5 C632.891 546.5 628.1 543.388 628.1 539.55 Z" fill="#5a6a76" opacity="0.25"/>
+    <path id="Mottle_7" data-name="Mottle 7" d="M702.2 418.3 C702.2 413.495 708.378 409.6 716 409.6 C723.622 409.6 729.8 413.495 729.8 418.3 C729.8 423.105 723.622 427 716 427 C708.378 427 702.2 423.105 702.2 418.3 Z" fill="#7c8c98" opacity="0.19"/>
+    <path id="Mottle_8" data-name="Mottle 8" d="M602.1 538.9 C602.1 535.752 605.973 533.2 610.75 533.2 C615.527 533.2 619.4 535.752 619.4 538.9 C619.4 542.048 615.527 544.6 610.75 544.6 C605.973 544.6 602.1 542.048 602.1 538.9 Z" fill="#e2e9ee" opacity="0.19"/>
+    <path id="Mottle_9" data-name="Mottle 9" d="M528.4 572.25 C528.4 568.964 532.609 566.3 537.8 566.3 C542.991 566.3 547.2 568.964 547.2 572.25 C547.2 575.536 542.991 578.2 537.8 578.2 C532.609 578.2 528.4 575.536 528.4 572.25 Z" fill="#e2e9ee" opacity="0.17"/>
+    <path id="Mottle_10" data-name="Mottle 10" d="M485.5 531.1 C485.5 527.289 491.522 524.2 498.95 524.2 C506.378 524.2 512.4 527.289 512.4 531.1 C512.4 534.911 506.378 538 498.95 538 C491.522 538 485.5 534.911 485.5 531.1 Z" fill="#5a6a76" opacity="0.17"/>
+    <path id="Mottle_11" data-name="Mottle 11" d="M462.9 417.7 C462.9 414.828 466.168 412.5 470.2 412.5 C474.232 412.5 477.5 414.828 477.5 417.7 C477.5 420.572 474.232 422.9 470.2 422.9 C466.168 422.9 462.9 420.572 462.9 417.7 Z" fill="#e2e9ee" opacity="0.22"/>
+    <path id="Mottle_12" data-name="Mottle 12" d="M375 548.75 C375 546.568 377.462 544.8 380.5 544.8 C383.538 544.8 386 546.568 386 548.75 C386 550.932 383.538 552.7 380.5 552.7 C377.462 552.7 375 550.932 375 548.75 Z" fill="#7c8c98" opacity="0.21"/>
+    <path id="Mottle_13" data-name="Mottle 13" d="M446.4 359.2 C446.4 356.383 451.571 354.1 457.95 354.1 C464.329 354.1 469.5 356.383 469.5 359.2 C469.5 362.017 464.329 364.3 457.95 364.3 C451.571 364.3 446.4 362.017 446.4 359.2 Z" fill="#7c8c98" opacity="0.19"/>
+    <path id="Mottle_14" data-name="Mottle 14" d="M494.7 316.55 C494.7 313.319 499.379 310.7 505.15 310.7 C510.921 310.7 515.6 313.319 515.6 316.55 C515.6 319.781 510.921 322.4 505.15 322.4 C499.379 322.4 494.7 319.781 494.7 316.55 Z" fill="#e2e9ee" opacity="0.21"/>
+    <path id="Mottle_18" data-name="Mottle 18" d="M614.5 443.1 C614.5 438.903 620.678 435.5 628.3 435.5 C635.922 435.5 642.1 438.903 642.1 443.1 C642.1 447.297 635.922 450.7 628.3 450.7 C620.678 450.7 614.5 447.297 614.5 443.1 Z" fill="#e2e9ee" opacity="0.15"/>
+    <path id="Mottle_19" data-name="Mottle 19" d="M345.5 488.2 C345.5 485.549 348.298 483.4 351.75 483.4 C355.202 483.4 358 485.549 358 488.2 C358 490.851 355.202 493 351.75 493 C348.298 493 345.5 490.851 345.5 488.2 Z" fill="#5a6a76" opacity="0.2"/>
+    <path id="Mottle_20" data-name="Mottle 20" d="M351.8 526.7 C351.8 522.724 356.568 519.5 362.45 519.5 C368.332 519.5 373.1 522.724 373.1 526.7 C373.1 530.676 368.332 533.9 362.45 533.9 C356.568 533.9 351.8 530.676 351.8 526.7 Z" fill="#e2e9ee" opacity="0.22"/>
+    <path id="Mottle_21" data-name="Mottle 21" d="M355.2 366.25 C355.2 364.51 357.192 363.1 359.65 363.1 C362.108 363.1 364.1 364.51 364.1 366.25 C364.1 367.99 362.108 369.4 359.65 369.4 C357.192 369.4 355.2 367.99 355.2 366.25 Z" fill="#7c8c98" opacity="0.19"/>
+    <path id="Mottle_22" data-name="Mottle 22" d="M672.9 577.65 C672.9 574.53 676.638 572 681.25 572 C685.862 572 689.6 574.53 689.6 577.65 C689.6 580.77 685.862 583.3 681.25 583.3 C676.638 583.3 672.9 580.77 672.9 577.65 Z" fill="#e2e9ee" opacity="0.23"/>
+    <path id="Mottle_23" data-name="Mottle 23" d="M485.1 424.75 C485.1 420.249 490.786 416.6 497.8 416.6 C504.814 416.6 510.5 420.249 510.5 424.75 C510.5 429.251 504.814 432.9 497.8 432.9 C490.786 432.9 485.1 429.251 485.1 424.75 Z" fill="#e2e9ee" opacity="0.23"/>
+    <path id="Mottle_24" data-name="Mottle 24" d="M358.5 554.1 C358.5 551.504 361.88 549.4 366.05 549.4 C370.22 549.4 373.6 551.504 373.6 554.1 C373.6 556.696 370.22 558.8 366.05 558.8 C361.88 558.8 358.5 556.696 358.5 554.1 Z" fill="#7c8c98" opacity="0.21"/>
+    <path id="Mottle_25" data-name="Mottle 25" d="M381.3 566.35 C381.3 563.506 384.703 561.2 388.9 561.2 C393.097 561.2 396.5 563.506 396.5 566.35 C396.5 569.194 393.097 571.5 388.9 571.5 C384.703 571.5 381.3 569.194 381.3 566.35 Z" fill="#e2e9ee" opacity="0.21"/>
+    <path id="Mottle_28" data-name="Mottle 28" d="M423.9 435.85 C423.9 433.889 425.937 432.3 428.45 432.3 C430.963 432.3 433 433.889 433 435.85 C433 437.811 430.963 439.4 428.45 439.4 C425.937 439.4 423.9 437.811 423.9 435.85 Z" fill="#7c8c98" opacity="0.2"/>
+    <path id="Mottle_30" data-name="Mottle 30" d="M576.8 602.9 C576.8 598.647 582.889 595.2 590.4 595.2 C597.911 595.2 604 598.647 604 602.9 C604 607.153 597.911 610.6 590.4 610.6 C582.889 610.6 576.8 607.153 576.8 602.9 Z" fill="#5a6a76" opacity="0.29"/>
+    <path id="Shoulder_light" data-name="Shoulder light" d="M423.2 335 C423.2 308.159 471.553 286.4 531.2 286.4 C590.847 286.4 639.2 308.159 639.2 335 C639.2 361.841 590.847 383.6 531.2 383.6 C471.553 383.6 423.2 361.841 423.2 335 Z" fill="#ffffff" opacity="0.12"/>
+    <path id="Belly_shade" data-name="Belly shade" d="M369.2 642.8 C369.2 618.941 427.224 599.6 498.8 599.6 C570.376 599.6 628.4 618.941 628.4 642.8 C628.4 666.659 570.376 686 498.8 686 C427.224 686 369.2 666.659 369.2 642.8 Z" fill="#3e505c" opacity="0.18"/>
+    <path id="Rear_shade" data-name="Rear shade" d="M671.6 318.8 C721.3 364.2 742.9 426.8 742.9 478.6" fill="none" stroke="#3e505c" stroke-width="26" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Striation_1" data-name="Striation 1" d="M390.8 362 C412.4 426.8 416.7 524 401.6 610.4" fill="none" stroke="#5a6a76" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.18"/>
+    <path id="Striation_2" data-name="Striation 2" d="M450.2 335 C468.6 416 472.9 545.6 455.6 653.6" fill="none" stroke="#5a6a76" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.18"/>
+    <path id="Striation_3" data-name="Striation 3" d="M520.4 318.8 C537.7 416 539.8 556.4 522.6 675.2" fill="none" stroke="#5a6a76" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.18"/>
+    <path id="Clavus_rim_light" data-name="Clavus rim light" d="M747.2 439.8 C755.867 451.267 755.867 463.5 747.2 476.5 C757.267 489.433 756.533 502.4 745 515.4 C755.133 528.333 754.433 541.267 742.9 554.2 C750.1 565.733 747.933 577.267 736.4 588.8" fill="none" stroke="#dde6ec" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Dorsal_crease" data-name="Dorsal crease" d="M621.9 184.9 C606.8 228.1 600.3 267 602.5 299.4" fill="none" stroke="#3e505c" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Anal_crease" data-name="Anal crease" d="M621.9 759.4 C606.8 722.7 598.2 692.5 598.2 666.6" fill="none" stroke="#3e505c" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Pectoral_fin" data-name="Pectoral fin" d="M429.7 517.5 C457.8 502.4 483.7 508.9 490.2 532.6 C481.5 554.2 453.4 562.9 434 549.9 C425.4 539.1 423.2 528.3 429.7 517.5 Z" fill="url(#linear-gradient-4)" stroke="#16242e" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Fin_ray" data-name="Fin ray" d="M438.3 526.2 C453.4 519.7 468.6 521.8 479.4 532.6" fill="none" stroke="#3e505c" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Eye_socket" data-name="Eye socket" d="M323.8 447.3 C323.8 434.763 334.433 424.6 347.55 424.6 C360.667 424.6 371.3 434.763 371.3 447.3 C371.3 459.837 360.667 470 347.55 470 C334.433 470 323.8 459.837 323.8 447.3 Z" fill="#93a3ae" opacity="0.45"/>
+    <path id="Eye" d="M332.5 446.25 C332.5 439.098 338.544 433.3 346 433.3 C353.456 433.3 359.5 439.098 359.5 446.25 C359.5 453.402 353.456 459.2 346 459.2 C338.544 459.2 332.5 453.402 332.5 446.25 Z" fill="#141e26" stroke="#16242e" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Eye_glint" data-name="Eye glint" d="M339 442.5 C339 440.401 340.701 438.7 342.8 438.7 C344.899 438.7 346.6 440.401 346.6 442.5 C346.6 444.599 344.899 446.3 342.8 446.3 C340.701 446.3 339 444.599 339 442.5 Z" fill="#ffffff" opacity="0.85"/>
+    <path id="Gill_slit" data-name="Gill slit" d="M388.6 467.8 C397.3 502.4 397.3 537 386.5 567.2" fill="none" stroke="#3e505c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Beak" d="M282.8 478.6 C293.6 472.2 306.6 472.2 315.2 478.6 C306.6 487.3 293.6 487.3 282.8 483 Z" fill="#3e505c" stroke="#16242e" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Mouth_line" data-name="Mouth line" d="M285 490.5 C295.8 494.8 306.6 494.8 315.2 490.5" fill="none" stroke="#16242e" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 960)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="58" fill="#d8e6f0" text-anchor="middle"><tspan x="0" y="0">OCEAN SUNFISH</tspan></text>
+  </g>
+</svg>
