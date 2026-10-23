@@ -46,12 +46,12 @@ PDF proofs and scratch renders in `work/out/` stay local.
 
 ## The site
 
-`docs/` is generated and CI-pinned. Any change to `art/` (new piece,
-new revision, new category dir) must re-run:
+`docs/` generated output (data JSONs, site HTML, media copies) is a
+build artifact — never committed. The deploy job rebuilds on latest
+main, so nothing needs regen-by-hand: new pieces and new
+`art/<category>/` dirs are discovered automatically (unknown
+categories land on the plates page). The `docs-build` check only
+verifies the scan + render still runs clean:
 
-    python3 docs/gen_data.py   # scans art/ -> docs/data/*.json + media copies
+    python3 docs/gen_data.py   # scans art/ -> docs/data/*.json + docs/site/media/
     DOGBED=<dogbed binary> sh docs/build.sh   # -> docs/site/*.html
-
-and commit the regenerated `docs/` in the same change — the
-`docs-repro` job fails on any diff. New `art/<category>/` dirs are
-discovered automatically (unknown categories land on the plates page).

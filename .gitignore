@@ -18,4 +18,7 @@ __pycache__/
 pdf/
 # T3 agent scratch workspaces
 t3-*/
-docs/site/media/
+# generated site + data — rebuilt by docs/gen_data.py + docs/build.sh on
+# every deploy; main is protected so generated output stays untracked.
+docs/site/
+docs/data/
