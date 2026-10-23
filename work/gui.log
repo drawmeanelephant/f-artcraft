@@ -1,0 +1,10 @@
+2026-10-23T12:30:45.378Z INFO  [main] vectorcraft: VectorCraft 0.13.1, log file /home/hatch/.config/vectorcraft/logs/vectorcraft.log
+2026-10-23T12:30:45.422Z INFO  [main] vectorcraft: graphics processor chosen by the user (LowPower): which GPU drives the display isn't considered
+2026-10-23T12:30:45.445Z WARN  [main] winit::platform_impl::linux::x11::xdisplay: error setting XSETTINGS; Xft options won't reload automatically
+2026-10-23T12:30:45.464Z WARN  [main] winit::platform_impl::linux::x11::util::randr: XRandR reported that the display's 0mm in size, which is certifiably insane
+2026-10-23T12:30:45.550Z INFO  [main] vectorcraft::gpu: graphics adapters: llvmpipe (LLVM 20.1.2, 256 bits) (Gl, Cpu, Gl:10005:0000)
+2026-10-23T12:30:45.550Z INFO  [main] vectorcraft::gpu: drawing on llvmpipe (LLVM 20.1.2, 256 bits) (Gl, Cpu): power preference LowPower
+2026-10-23T12:30:45.551Z WARN  [main] egui_wgpu: Software rasterizer detected - loss of performance expected. backend: Gl, device_type: Cpu, name: "llvmpipe (LLVM 20.1.2, 256 bits)", driver_info: "4.5 (Core Profile) Mesa 25.2.8-0ubuntu0.24.04.4", vendor: Mesa (0x10005), subgroup_size: 4..=128, transient_saves_memory: None, limit_bucket: None
+2026-10-23T12:30:45.709Z INFO  [main] vectorcraft: rendering with llvmpipe (LLVM 20.1.2, 256 bits) (Gl, Cpu) (power preference LowPower)
+vectorcraft: control server listening on 127.0.0.1:7979
+2026-10-23T12:30:45.709Z INFO  [main] vectorcraft: control channel confined to the automation roots: read Some("/home/hatch/workspace/vectorcraft/work"), write Some("/home/hatch/workspace/vectorcraft/work/out")
