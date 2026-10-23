@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="500" y1="1000" x2="500" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffb25e"/>
+      <stop offset="0.3" stop-color="#f2657a"/>
+      <stop offset="0.62" stop-color="#6b2b6e"/>
+      <stop offset="1" stop-color="#241046"/>
+    </linearGradient>
+    <filter id="filter-1" filterUnits="userSpaceOnUse" x="57.75" y="127.75" width="884.5" height="884.5" data-vc-blend="screen" color-interpolation-filters="sRGB"><feComponentTransfer in="SourceAlpha"><feFuncA type="linear" slope="255"/></feComponentTransfer><feMorphology operator="dilate" radius="0.25"/><feGaussianBlur stdDeviation="40" result="glow"/><feFlood flood-color="#ff9a5c" flood-opacity="0.85"/><feComposite in2="glow" operator="in" result="paint"/><feMerge><feMergeNode in="paint"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <radialGradient id="radial-gradient-1" cx="500" cy="570" r="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff4c2"/>
+      <stop offset="0.45" stop-color="#ffd166"/>
+      <stop offset="1" stop-color="#ff8a5c"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="500" y1="1000" x2="500" y2="812" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4a1b52" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#170a2e"/>
+    </linearGradient>
+  </defs>
+  <title>whale-sunset</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Sky" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <g filter="url(#filter-1)">
+      <path id="Sun" d="M180 570 C180 393.269 323.269 250 500 250 C676.731 250 820 393.269 820 570 C820 746.731 676.731 890 500 890 C323.269 890 180 746.731 180 570 Z" fill="url(#radial-gradient-1)"/>
+    </g>
+    <path id="Sun_band" data-name="Sun band" d="M0 612 L1000 612 L1000 628 L0 628 Z" fill="#f2657a" opacity="0.55"/>
+    <path id="Sun_band-2" data-name="Sun band" d="M0 652 L1000 652 L1000 674 L0 674 Z" fill="#f2657a" opacity="0.55"/>
+    <path id="Sun_band-3" data-name="Sun band" d="M0 700 L1000 700 L1000 730 L0 730 Z" fill="#f2657a" opacity="0.55"/>
+    <path id="Sun_band-4" data-name="Sun band" d="M0 756 L1000 756 L1000 796 L0 796 Z" fill="#f2657a" opacity="0.55"/>
+    <path id="Sea" d="M0 812 L1000 812 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-2)"/>
+    <path id="Spout" d="M589 372 C589 363.716 595.716 357 604 357 C612.284 357 619 363.716 619 372 C619 380.284 612.284 387 604 387 C595.716 387 589 380.284 589 372 Z" fill="#ffd9a8" opacity="0.85"/>
+    <path id="Spout-2" data-name="Spout" d="M628 330 C628 318.954 636.954 310 648 310 C659.046 310 668 318.954 668 330 C668 341.046 659.046 350 648 350 C636.954 350 628 341.046 628 330 Z" fill="#ffd9a8" opacity="0.85"/>
+    <path id="Spout-3" data-name="Spout" d="M573 286 C573 272.193 584.193 261 598 261 C611.807 261 623 272.193 623 286 C623 299.807 611.807 311 598 311 C584.193 311 573 299.807 573 286 Z" fill="#ffd9a8" opacity="0.85"/>
+    <path id="Tail" d="M329.25 574.61 C296.67 556.64 256.54 547.26 223.56 553.15 C219.29 576.29 238.36 596.14 266.93 603.4 C291.64 609.94 316.03 605.26 331.49 590.57 C336.02 604.96 337.23 613.55 336.5 626.18 C317.58 616.32 292.85 618.54 270.9 631.64 C245.44 646.49 232.58 670.84 243.06 691.9 C276.38 688.47 312.38 668.39 338.74 642.14 Z" fill="#2a1140"/>
+    <path id="Body" d="M315.09 554.06 C310.97 515.82 341.38 482.74 384.57 460.39 C436.01 434.38 508.12 421.74 565.79 431.17 C624.69 440.42 665.11 478.57 676.58 524.54 C688.4 572.97 668.29 625.88 621.05 655.06 C568.01 687.56 498.39 691.08 445.82 673.42 C401.13 658.42 364.72 630.98 341.11 605.5 C324.84 587.75 315.05 571.59 315.09 554.06 Z" fill="#2a1140"/>
+    <path id="Belly" d="M375.12 616.74 L378.63 619.44 L382.2 622.14 L385.89 624.81 L389.64 627.41 L393.5 629.94 L397.42 632.46 L401.41 634.96 L405.51 637.39 L409.66 639.75 L413.92 642.03 L418.19 644.31 L422.56 646.45 L426.99 648.59 L431.53 650.58 L436.12 652.56 L440.77 654.41 L445.47 656.26 L450.28 657.96 L456.05 659.78 L461.93 661.52 L467.96 662.99 L474.1 664.38 L480.39 665.5 L486.79 666.48 L493.29 667.25 L499.83 667.9 L506.51 668.28 L513.25 668.52 L520.07 668.5 L526.86 668.23 L533.74 667.77 L540.66 667.11 L547.54 666.14 L554.45 664.98 L561.39 663.57 L568.22 661.86 L575.02 659.9 L581.78 657.63 L588.44 655.13 L595 652.4 L601.46 649.3 L607.74 645.91 L613.23 642.63 L618.37 639.16 L623.29 635.4 L627.93 631.43 L632.36 627.3 L636.45 622.97 L640.26 618.49 L643.8 613.79 L647.06 608.95 L650.06 604.02 L652.79 598.94 L655.2 593.79 L657.27 588.49 L659.14 583.09 C582.11 651.52 468.03 661.29 375.12 616.74 Z" fill="#f6c08a" opacity="0.38"/>
+    <path id="Eye" d="M605.47 506.69 C605.47 500.615 610.395 495.69 616.47 495.69 C622.545 495.69 627.47 500.615 627.47 506.69 C627.47 512.765 622.545 517.69 616.47 517.69 C610.395 517.69 605.47 512.765 605.47 506.69 Z" fill="#fff1d6"/>
+    <text transform="matrix(1 0 0 1 500 948)" x="0" y="0" xml:space="preserve" font-family="Helvetica, sans-serif" font-size="84" fill="#ffe3b0" text-anchor="middle"><tspan x="0" y="0">deepseek</tspan></text>
+  </g>
+</svg>

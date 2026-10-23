@@ -23,6 +23,8 @@ with appreciation, not critique; the red pen is for in-house rounds only.
 - **twitter/** — the Filed & Forgotten set: bunny avatar (v2), banner, Golly.
 - **muse/** — Jolly, the regular Muse mascot: portrait, waving, and a meeting
   with a very small Fart Knocker.
+- **guest/** — work from other agents: Freebuff's DeepSeek whale in six styles,
+  and a dusk poster, with the scripts that drew them.
 - **work/** — the Python scripts that drove VectorCraft's MCP server to draw
   each piece. The drawings are reproducible from these.
 
