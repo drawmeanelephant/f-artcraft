@@ -70,31 +70,91 @@ it's always paid in full.
     its official seal: green seal circle, "SIGN ECLIPSES FACT" around a stamp core.
     (Circular text will need hand-placed letters — budget the time.) 1000×1000.
 
-## Field plates — Animals (`art/animals/`)
+## Field plates — the series format
 
-A standing series, not a round-robin: one **field-guide plate** per animal,
-`<slug>-V<V>R<RR>` as usual. Canvas 1000×1000. Composition: dark moody
-backdrop → one large gradient plate disc → the animal → its name in caps,
-Virelai Sans (~56–60pt) at the bottom. Portraits for face-forward animals,
-full-body when the silhouette is the point (narwhal tusk, pangolin scales,
-tardigrade segments). Living in `art/animals/<slug>/`, scripts in
-`work/animals/`. Roster so far:
+A standing series, not a round-robin: one **field plate** per subject,
+`<slug>-V<V>R<RR>` as usual. Four sub-series share the format — animals,
+insects, furniture, vehicles — so a plate from any of them hangs next to the
+others. Canvas 1000×1000. Composition: dark moody backdrop → one large
+gradient plate disc (center 500,460, r≈420) → the subject → its name in caps,
+Virelai Sans (~56–60pt) near the bottom. Under the name sits a second, smaller
+line (Virelai Sans ~22–24pt, wide tracking) that says what kind of thing it
+is: a taxonomic order for an insect, a material list for a piece of
+furniture, a year and a drivetrain for a vehicle. Portraits when the face is
+the point; full-body or profile when the silhouette is.
 
-- axolotl · fennec fox · pangolin · aye-aye (V1R00 + V2R00)
-- narwhal · okapi · tardigrade · mantis shrimp · quokka · markhor
-- capybara · fossa · saiga · secretary bird · jerboa · kakapo
-- tapir · sun bear · shoebill · dumbo octopus · gerenuk · maned wolf
-- blobfish · potoo · vaquita (all V1R00)
+Gradients and translucent shading throughout, never flat fills. Warm dark ink,
+never pure black. Living in `art/<series>/<slug>/`, scripts in
+`work/<series>/`. Every revision ships `.vectorcraft` + `.svg` + `@2x.png`
+with the piece; the `.pdf` proof stays in `work/out/` (local only).
 
-Wave 3 lives as issues #20–#32 under the *wave 3* milestone: platypus,
-echidna, numbat, caracal, wolverine, snow leopard, manatee, cassowary,
-hoatzin, gharial, tuatara, horseshoe crab, nautilus.
+Known traps:
 
-Pool for later agents: dik-dik, pudu, serval, oryx, kiwi, ibis, civet,
-dugong, atlas moth, leaf insect, pangolin full body, saiga herd scene.
+- Decorative shapes near the plate's lower edge must end on the disc's own arc
+  (`A420,420 0 0 1 …` close) or they leak past the rim.
+- The second line must clear that arc: keep it ≤28pt, ≤760pt wide, and check
+  it on the proof — it is the first thing to collide with the rim.
+- Thin geometry (antennae, legs, spindles, spokes, rigging) disappears at plate
+  scale. Give it ≥3pt of stroke and judge it at @2x, not at 1×.
 
-Known trap: decorative shapes near the plate's lower edge must end on the
-disc's own arc (`A420,420 0 0 1 …` close) or they leak past the rim.
+### Animals (`art/animals/`)
+
+Roster so far:
+
+- base set (V1R00): axolotl · fennec fox · pangolin · aye-aye · narwhal · okapi ·
+  tardigrade · mantis shrimp · quokka · markhor
+- wave 2 (shipped): capybara · fossa · saiga · secretary bird · jerboa · kakapo ·
+  tapir · sun bear · shoebill · dumbo octopus · gerenuk · maned wolf · blobfish ·
+  potoo · vaquita · aye-aye V2
+- wave 3 (shipped): platypus · echidna · numbat · caracal · wolverine ·
+  snow leopard · manatee · cassowary · hoatzin · gharial · tuatara ·
+  horseshoe crab · nautilus
+- wave 4 (open in #51): glass frog · thorny devil · harpy eagle · kiwi · tarsier ·
+  emperor tamarin · proboscis monkey · binturong · colugo · pink fairy armadillo ·
+  wombat · musk ox · bongo · babirusa · leafy seadragon · ocean sunfish
+
+Pool for later agents: dik-dik · pudu · serval · oryx · ibis · civet · dugong ·
+pangolin full body · saiga herd scene.
+
+### Insects (`art/insects/`)
+
+Same disc, same name line; the second line is the taxonomic order in caps
+(`COLEOPTERA`, `LEPIDOPTERA`, `ODONATA`, `HEMIPTERA`, `HYMENOPTERA`,
+`MANTODEA`, `PHASMATODEA`, `MEGALOPTERA`, `BLATTODEA`). Pose is three-quarter
+dorsal unless the silhouette is lateral (stick insect, dobsonfly, cicada);
+keep the whole animal inside the disc, antennae and legs included.
+Wings are translucent with visible venation over the backdrop, never an opaque
+fill. Living specimens, not collected ones: no pins, no kill jars, no shadow
+box — the insect is alive on the plate. Wave 1 roster: giraffe weevil ·
+Hercules beetle · stag beetle · jewel beetle · atlas moth · orchid mantis ·
+spotted lanternfly · periodical cicada · firefly · green darner · monarch ·
+walking stick · dobsonfly · leafcutter ant · termite queen · planthopper nymph.
+
+### Furniture (`art/furniture/`)
+
+One piece per plate, in near-side view with a slight three-quarter so depth
+reads, seated on a soft shadow ellipse that hugs the disc. The second line is
+the material list in caps (`OAK · CANE · BRASS`, `WALNUT · LEATHER · STEEL`).
+No manufacturer names, no badges, no designer attributions — generic type
+names only, because the drawing is the specimen. Spindles, stretchers and
+cane webbing are the thin-geometry trap: ≥3pt, and the piece must not touch
+the rim. Wave 1 roster: wingback armchair · chesterfield sofa · plywood lounge
+chair · bentwood café chair · Windsor chair · rocking chair · sling chair ·
+pedestal table · nesting tables · roll-top desk · campaign chest · highboy
+dresser · four-poster bed · chaise longue · arc floor lamp · coat stand.
+
+### Vehicles (`art/vehicles/`)
+
+Profile view, wheels or hull grounded on a chord of the disc, moving right
+unless the design reads better the other way. The second line is the spec in
+caps (`1929 · AIR-COOLED FLAT-SIX`, `DIESEL-ELECTRIC · 1,200 HP`). Keep
+liveries and numbers generic: no real operator marks, no manufacturer badges,
+no racing numbers of actual cars. Windows and glazing are translucent so the
+backdrop reads through; chrome is a gradient, never a white bar. Wave 1
+roster: steam locomotive · streetcar · double-decker bus · city taxi · vintage
+fire engine · pickup truck · camper van · rear-engined coupe · land-speed
+streamliner · cargo bike · sidecar motorcycle · biplane · flying boat · rigid
+airship · tugboat · paddle steamer.
 
 ---
 
