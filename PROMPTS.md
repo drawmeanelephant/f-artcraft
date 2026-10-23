@@ -70,6 +70,27 @@ it's always paid in full.
     its official seal: green seal circle, "SIGN ECLIPSES FACT" around a stamp core.
     (Circular text will need hand-placed letters — budget the time.) 1000×1000.
 
+## Field plates — Animals (`art/animals/`)
+
+A standing series, not a round-robin: one **field-guide plate** per animal,
+`<slug>-V<V>R<RR>` as usual. Canvas 1000×1000. Composition: dark moody
+backdrop → one large gradient plate disc → the animal → its name in caps,
+Virelai Sans (~56–60pt) at the bottom. Portraits for face-forward animals,
+full-body when the silhouette is the point (narwhal tusk, pangolin scales,
+tardigrade segments). Living in `art/animals/<slug>/`, scripts in
+`work/animals/`. Roster so far:
+
+- axolotl · fennec fox · pangolin · aye-aye
+- narwhal · okapi · tardigrade · mantis shrimp
+- quokka · markhor (all V1R00)
+
+Pool for later agents: capybara, fossa, saiga, secretary bird, jerboa,
+kakapo, tapir, sun bear, shoebill, dumbo octopus, gerenuk, maned wolf,
+aye-aye full body, blobfish (controversial), potoo, vaquita.
+
+Known trap: decorative shapes near the plate's lower edge must end on the
+disc's own arc (`A420,420 0 0 1 …` close) or they leak past the rim.
+
 ---
 
 ## Analysis log

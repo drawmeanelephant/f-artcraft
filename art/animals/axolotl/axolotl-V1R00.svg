@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="500" x2="1000" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#123a40"/>
+      <stop offset="1" stop-color="#071a1e"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c8eae0"/>
+      <stop offset="0.7" stop-color="#9ccfc2"/>
+      <stop offset="1" stop-color="#6fa79b"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="244.5" y1="426" x2="339.5" y2="426" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e4687a"/>
+      <stop offset="1" stop-color="#b54356"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="188.5" y1="519" x2="325.5" y2="519" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e4687a"/>
+      <stop offset="1" stop-color="#b54356"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="207.5" y1="625" x2="337.5" y2="625" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e4687a"/>
+      <stop offset="1" stop-color="#b54356"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="660.5" y1="426" x2="755.5" y2="426" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e4687a"/>
+      <stop offset="1" stop-color="#b54356"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="674.5" y1="519" x2="811.5" y2="519" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e4687a"/>
+      <stop offset="1" stop-color="#b54356"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="662.5" y1="625" x2="792.5" y2="625" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e4687a"/>
+      <stop offset="1" stop-color="#b54356"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="500" cy="521" r="202.043" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fad9dc"/>
+      <stop offset="0.72" stop-color="#efb3bc"/>
+      <stop offset="1" stop-color="#d98c99"/>
+    </radialGradient>
+  </defs>
+  <title>Axolotl — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#4f8a80" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#e2f4ec" stroke-width="3" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Patina_1" data-name="Patina 1" d="M180 250 C180 211.34 229.249 180 290 180 C350.751 180 400 211.34 400 250 C400 288.66 350.751 320 290 320 C229.249 320 180 288.66 180 250 Z" fill="#8fbfb2" opacity="0.25"/>
+    <path id="Patina_2" data-name="Patina 2" d="M600 715 C600 673.579 658.203 640 730 640 C801.797 640 860 673.579 860 715 C860 756.421 801.797 790 730 790 C658.203 790 600 756.421 600 715 Z" fill="#8fbfb2" opacity="0.22"/>
+    <path id="Plate_fleck_1" data-name="Plate fleck 1" d="M200 304 C200 301.791 201.791 300 204 300 C206.209 300 208 301.791 208 304 C208 306.209 206.209 308 204 308 C201.791 308 200 306.209 200 304 Z" fill="#5f9386" opacity="0.4"/>
+    <path id="Plate_fleck_2" data-name="Plate fleck 2" d="M760 243.5 C760 241.567 761.567 240 763.5 240 C765.433 240 767 241.567 767 243.5 C767 245.433 765.433 247 763.5 247 C761.567 247 760 245.433 760 243.5 Z" fill="#5f9386" opacity="0.4"/>
+    <path id="Plate_fleck_3" data-name="Plate fleck 3" d="M170 564.5 C170 562.015 172.015 560 174.5 560 C176.985 560 179 562.015 179 564.5 C179 566.985 176.985 569 174.5 569 C172.015 569 170 566.985 170 564.5 Z" fill="#5f9386" opacity="0.4"/>
+    <path id="Plate_fleck_4" data-name="Plate fleck 4" d="M800 564 C800 561.791 801.791 560 804 560 C806.209 560 808 561.791 808 564 C808 566.209 806.209 568 804 568 C801.791 568 800 566.209 800 564 Z" fill="#5f9386" opacity="0.4"/>
+    <path id="Plate_fleck_5" data-name="Plate fleck 5" d="M250 763.5 C250 761.567 251.567 760 253.5 760 C255.433 760 257 761.567 257 763.5 C257 765.433 255.433 767 253.5 767 C251.567 767 250 765.433 250 763.5 Z" fill="#5f9386" opacity="0.4"/>
+    <path id="Plate_fleck_6" data-name="Plate fleck 6" d="M730 744.5 C730 742.015 732.015 740 734.5 740 C736.985 740 739 742.015 739 744.5 C739 746.985 736.985 749 734.5 749 C732.015 749 730 746.985 730 744.5 Z" fill="#5f9386" opacity="0.4"/>
+    <path id="Plate_fleck_7" data-name="Plate fleck 7" d="M130 423 C130 421.343 131.343 420 133 420 C134.657 420 136 421.343 136 423 C136 424.657 134.657 426 133 426 C131.343 426 130 424.657 130 423 Z" fill="#5f9386" opacity="0.4"/>
+    <path id="Plate_fleck_8" data-name="Plate fleck 8" d="M860 403.5 C860 401.567 861.567 400 863.5 400 C865.433 400 867 401.567 867 403.5 C867 405.433 865.433 407 863.5 407 C861.567 407 860 405.433 860 403.5 Z" fill="#5f9386" opacity="0.4"/>
+    <path id="Plate_fleck_9" data-name="Plate fleck 9" d="M400 123.5 C400 121.567 401.567 120 403.5 120 C405.433 120 407 121.567 407 123.5 C407 125.433 405.433 127 403.5 127 C401.567 127 400 125.433 400 123.5 Z" fill="#5f9386" opacity="0.4"/>
+    <path id="Plate_fleck_10" data-name="Plate fleck 10" d="M590 114 C590 111.791 591.791 110 594 110 C596.209 110 598 111.791 598 114 C598 116.209 596.209 118 594 118 C591.791 118 590 116.209 590 114 Z" fill="#5f9386" opacity="0.4"/>
+    <path id="Plate_fleck_11" data-name="Plate fleck 11" d="M330 833 C330 831.343 331.343 830 333 830 C334.657 830 336 831.343 336 833 C336 834.657 334.657 836 333 836 C331.343 836 330 834.657 330 833 Z" fill="#5f9386" opacity="0.4"/>
+    <path id="Plate_fleck_12" data-name="Plate fleck 12" d="M660 833.5 C660 831.567 661.567 830 663.5 830 C665.433 830 667 831.567 667 833.5 C667 835.433 665.433 837 663.5 837 C661.567 837 660 835.433 660 833.5 Z" fill="#5f9386" opacity="0.4"/>
+    <path id="Bubble_1" data-name="Bubble 1" d="M790 649 C790 644.029 794.029 640 799 640 C803.971 640 808 644.029 808 649 C808 653.971 803.971 658 799 658 C794.029 658 790 653.971 790 649 Z" fill="#ffffff" opacity="0.16"/>
+    <path id="Bubble_2" data-name="Bubble 2" d="M815 566 C815 562.686 817.686 560 821 560 C824.314 560 827 562.686 827 566 C827 569.314 824.314 572 821 572 C817.686 572 815 569.314 815 566 Z" fill="#ffffff" opacity="0.16"/>
+    <path id="Bubble_3" data-name="Bubble 3" d="M795 481 C795 474.925 799.925 470 806 470 C812.075 470 817 474.925 817 481 C817 487.075 812.075 492 806 492 C799.925 492 795 487.075 795 481 Z" fill="#ffffff" opacity="0.16"/>
+    <path id="Bubble_4" data-name="Bubble 4" d="M830 397 C830 393.134 833.134 390 837 390 C840.866 390 844 393.134 844 397 C844 400.866 840.866 404 837 404 C833.134 404 830 400.866 830 397 Z" fill="#ffffff" opacity="0.16"/>
+    <path id="Bubble_5" data-name="Bubble 5" d="M810 305 C810 302.239 812.239 300 815 300 C817.761 300 820 302.239 820 305 C820 307.761 817.761 310 815 310 C812.239 310 810 307.761 810 305 Z" fill="#ffffff" opacity="0.16"/>
+    <path id="Gill_L1_stalk" data-name="Gill L1 stalk" d="M332 480 C300.667 446.667 274 410.667 252 372" fill="none" stroke="url(#linear-gradient-2)" stroke-width="15" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_L1_filament_1" data-name="Gill L1 filament 1" d="M303 447 L280 466" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_L1_filament_2" data-name="Gill L1 filament 2" d="M288 428 L268 443" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_L1_filament_3" data-name="Gill L1 filament 3" d="M275 408 L256 421" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_L1_filament_4" data-name="Gill L1 filament 4" d="M262 389 L247 399" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_L2_stalk" data-name="Gill L2 stalk" d="M318 540 C276 533.333 235.333 519.333 196 498" fill="none" stroke="url(#linear-gradient-3)" stroke-width="15" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_L2_filament_1" data-name="Gill L2 filament 1" d="M278 531 L270 560" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_L2_filament_2" data-name="Gill L2 filament 2" d="M256 524 L248 549" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_L2_filament_3" data-name="Gill L2 filament 3" d="M234 516 L226 537" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_L2_filament_4" data-name="Gill L2 filament 4" d="M214 507 L206 523" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_L3_stalk" data-name="Gill L3 stalk" d="M330 596 C290 614.667 251.667 634 215 654" fill="none" stroke="url(#linear-gradient-4)" stroke-width="15" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_L3_filament_1" data-name="Gill L3 filament 1" d="M292 614 L305 641" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_L3_filament_2" data-name="Gill L3 filament 2" d="M271 624 L283 648" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_L3_filament_3" data-name="Gill L3 filament 3" d="M251 635 L261 655" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_L3_filament_4" data-name="Gill L3 filament 4" d="M232 645 L240 661" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_R1_stalk" data-name="Gill R1 stalk" d="M668 480 C699.333 446.667 726 410.667 748 372" fill="none" stroke="url(#linear-gradient-5)" stroke-width="15" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_R1_filament_1" data-name="Gill R1 filament 1" d="M697 447 L720 466" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_R1_filament_2" data-name="Gill R1 filament 2" d="M712 428 L732 443" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_R1_filament_3" data-name="Gill R1 filament 3" d="M725 408 L744 421" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_R1_filament_4" data-name="Gill R1 filament 4" d="M738 389 L753 399" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_R2_stalk" data-name="Gill R2 stalk" d="M682 540 C724 533.333 764.667 519.333 804 498" fill="none" stroke="url(#linear-gradient-6)" stroke-width="15" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_R2_filament_1" data-name="Gill R2 filament 1" d="M722 531 L730 560" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_R2_filament_2" data-name="Gill R2 filament 2" d="M744 524 L752 549" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_R2_filament_3" data-name="Gill R2 filament 3" d="M766 516 L774 537" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_R2_filament_4" data-name="Gill R2 filament 4" d="M786 507 L794 523" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_R3_stalk" data-name="Gill R3 stalk" d="M670 596 C710 614.667 748.333 634 785 654" fill="none" stroke="url(#linear-gradient-7)" stroke-width="15" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_R3_filament_1" data-name="Gill R3 filament 1" d="M708 614 L695 641" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_R3_filament_2" data-name="Gill R3 filament 2" d="M729 624 L717 648" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_R3_filament_3" data-name="Gill R3 filament 3" d="M749 635 L739 655" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_R3_filament_4" data-name="Gill R3 filament 4" d="M768 645 L760 661" fill="none" stroke="#c8485c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_base_L" data-name="Gill base L" d="M298 540 C298 501.34 309.641 470 324 470 C338.359 470 350 501.34 350 540 C350 578.66 338.359 610 324 610 C309.641 610 298 578.66 298 540 Z" fill="#d98c99"/>
+    <path id="Gill_base_R" data-name="Gill base R" d="M650 540 C650 501.34 661.641 470 676 470 C690.359 470 702 501.34 702 540 C702 578.66 690.359 610 676 610 C661.641 610 650 578.66 650 540 Z" fill="#d98c99"/>
+    <path id="Head" d="M500 378 C622 378 700 448 702 545 C704 622 636 664 500 664 C364 664 296 622 298 545 C300 448 378 378 500 378 Z" fill="url(#radial-gradient-2)" stroke="#503139" stroke-width="7" stroke-miterlimit="10"/>
+    <path id="Head_highlight" data-name="Head highlight" d="M380 427 C380 407.67 433.726 392 500 392 C566.274 392 620 407.67 620 427 C620 446.33 566.274 462 500 462 C433.726 462 380 446.33 380 427 Z" fill="#ffffff" opacity="0.14"/>
+    <path id="Chin_shadow" data-name="Chin shadow" d="M380 632 C440 654 560 654 620 632 C560 644 440 644 380 632 Z" fill="#c97e8c" opacity="0.4"/>
+    <path id="Speckle_1" data-name="Speckle 1" d="M385 448.5 C385 446.567 386.567 445 388.5 445 C390.433 445 392 446.567 392 448.5 C392 450.433 390.433 452 388.5 452 C386.567 452 385 450.433 385 448.5 Z" fill="#b97f8c" opacity="0.55"/>
+    <path id="Speckle_2" data-name="Speckle 2" d="M455 418 C455 416.343 456.343 415 458 415 C459.657 415 461 416.343 461 418 C461 419.657 459.657 421 458 421 C456.343 421 455 419.657 455 418 Z" fill="#b97f8c" opacity="0.55"/>
+    <path id="Speckle_3" data-name="Speckle 3" d="M560 421.5 C560 419.567 561.567 418 563.5 418 C565.433 418 567 419.567 567 421.5 C567 423.433 565.433 425 563.5 425 C561.567 425 560 423.433 560 421.5 Z" fill="#b97f8c" opacity="0.55"/>
+    <path id="Speckle_4" data-name="Speckle 4" d="M620 458 C620 456.343 621.343 455 623 455 C624.657 455 626 456.343 626 458 C626 459.657 624.657 461 623 461 C621.343 461 620 459.657 620 458 Z" fill="#b97f8c" opacity="0.55"/>
+    <path id="Speckle_5" data-name="Speckle 5" d="M365 563 C365 561.343 366.343 560 368 560 C369.657 560 371 561.343 371 563 C371 564.657 369.657 566 368 566 C366.343 566 365 564.657 365 563 Z" fill="#b97f8c" opacity="0.55"/>
+    <path id="Speckle_6" data-name="Speckle 6" d="M640 558.5 C640 556.567 641.567 555 643.5 555 C645.433 555 647 556.567 647 558.5 C647 560.433 645.433 562 643.5 562 C641.567 562 640 560.433 640 558.5 Z" fill="#b97f8c" opacity="0.55"/>
+    <path id="Speckle_7" data-name="Speckle 7" d="M500 432.5 C500 431.119 501.119 430 502.5 430 C503.881 430 505 431.119 505 432.5 C505 433.881 503.881 435 502.5 435 C501.119 435 500 433.881 500 432.5 Z" fill="#b97f8c" opacity="0.55"/>
+    <path id="Eye_L" data-name="Eye L" d="M390 521 C390 512.163 395.82 505 403 505 C410.18 505 416 512.163 416 521 C416 529.837 410.18 537 403 537 C395.82 537 390 529.837 390 521 Z" fill="#33222a"/>
+    <path id="Eye_R" data-name="Eye R" d="M584 521 C584 512.163 589.82 505 597 505 C604.18 505 610 512.163 610 521 C610 529.837 604.18 537 597 537 C589.82 537 584 529.837 584 521 Z" fill="#33222a"/>
+    <path id="Glint_L" data-name="Glint L" d="M396 514.5 C396 512.567 397.567 511 399.5 511 C401.433 511 403 512.567 403 514.5 C403 516.433 401.433 518 399.5 518 C397.567 518 396 516.433 396 514.5 Z" fill="#ffffff" opacity="0.9"/>
+    <path id="Glint_R" data-name="Glint R" d="M590 514.5 C590 512.567 591.567 511 593.5 511 C595.433 511 597 512.567 597 514.5 C597 516.433 595.433 518 593.5 518 C591.567 518 590 516.433 590 514.5 Z" fill="#ffffff" opacity="0.9"/>
+    <path id="Nostril_L" data-name="Nostril L" d="M458 585.5 C458 583.567 460.015 582 462.5 582 C464.985 582 467 583.567 467 585.5 C467 587.433 464.985 589 462.5 589 C460.015 589 458 587.433 458 585.5 Z" fill="#8a5560" opacity="0.7"/>
+    <path id="Nostril_R" data-name="Nostril R" d="M533 585.5 C533 583.567 535.015 582 537.5 582 C539.985 582 542 583.567 542 585.5 C542 587.433 539.985 589 537.5 589 C535.015 589 533 587.433 533 585.5 Z" fill="#8a5560" opacity="0.7"/>
+    <path id="Smile" d="M402 598 C448 622 552 622 598 598" fill="none" stroke="#503139" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 962)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="60" fill="#cde7df" text-anchor="middle"><tspan x="0" y="0">AXOLOTL</tspan></text>
+  </g>
+</svg>

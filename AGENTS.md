@@ -40,5 +40,6 @@ drawing helper.
 ## Deliverables
 
 Per PROMPTS.md: every revision ships `.vectorcraft` + `.svg` + `.pdf` +
-`@2x.png`. Committed to git: the `.svg`, the `@2x.png` and the driving script.
-Natives, proofs and scratch renders stay local.
+`@2x.png`. Committed to git: the `.vectorcraft` native (JSON — SVG is not
+an editable format), the `.svg`, the `@2x.png` and the driving script.
+PDF proofs and scratch renders in `work/out/` stay local.
