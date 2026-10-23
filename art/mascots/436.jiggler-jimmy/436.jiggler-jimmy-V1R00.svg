@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="500" x2="1000" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1a1d"/>
+      <stop offset="1" stop-color="#050d0e"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3f7076"/>
+      <stop offset="0.7" stop-color="#2a4e55"/>
+      <stop offset="1" stop-color="#163038"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="170" y1="682.5" x2="830" y2="682.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2e4a50"/>
+      <stop offset="1" stop-color="#172a2e"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="660" cy="591" r="70" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5e7e88"/>
+      <stop offset="0.7" stop-color="#415e68"/>
+      <stop offset="1" stop-color="#2a4048"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="476" cy="506" r="91" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7fd0ce"/>
+      <stop offset="0.7" stop-color="#54a8a9"/>
+      <stop offset="1" stop-color="#357880"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-3" x1="446" y1="399" x2="506" y2="399" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8dee2"/>
+      <stop offset="1" stop-color="#93a0a8"/>
+    </linearGradient>
+  </defs>
+  <title>Jiggler Jimmy — Mascot Portrait</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#5e9a9c" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#c8ecea" stroke-width="3" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Plate_fleck_1" data-name="Plate fleck 1" d="M190 244 C190 241.791 191.791 240 194 240 C196.209 240 198 241.791 198 244 C198 246.209 196.209 248 194 248 C191.791 248 190 246.209 190 244 Z" fill="#3a626a" opacity="0.45"/>
+    <path id="Plate_fleck_2" data-name="Plate fleck 2" d="M800 233.5 C800 231.567 801.567 230 803.5 230 C805.433 230 807 231.567 807 233.5 C807 235.433 805.433 237 803.5 237 C801.567 237 800 235.433 800 233.5 Z" fill="#3a626a" opacity="0.45"/>
+    <path id="Plate_fleck_3" data-name="Plate fleck 3" d="M160 524.5 C160 522.015 162.015 520 164.5 520 C166.985 520 169 522.015 169 524.5 C169 526.985 166.985 529 164.5 529 C162.015 529 160 526.985 160 524.5 Z" fill="#3a626a" opacity="0.45"/>
+    <path id="Plate_fleck_4" data-name="Plate fleck 4" d="M830 544 C830 541.791 831.791 540 834 540 C836.209 540 838 541.791 838 544 C838 546.209 836.209 548 834 548 C831.791 548 830 546.209 830 544 Z" fill="#3a626a" opacity="0.45"/>
+    <path id="Plate_fleck_5" data-name="Plate fleck 5" d="M240 763.5 C240 761.567 241.567 760 243.5 760 C245.433 760 247 761.567 247 763.5 C247 765.433 245.433 767 243.5 767 C241.567 767 240 765.433 240 763.5 Z" fill="#3a626a" opacity="0.45"/>
+    <path id="Plate_fleck_6" data-name="Plate fleck 6" d="M760 744.5 C760 742.015 762.015 740 764.5 740 C766.985 740 769 742.015 769 744.5 C769 746.985 766.985 749 764.5 749 C762.015 749 760 746.985 760 744.5 Z" fill="#3a626a" opacity="0.45"/>
+    <path id="Plate_fleck_7" data-name="Plate fleck 7" d="M130 393 C130 391.343 131.343 390 133 390 C134.657 390 136 391.343 136 393 C136 394.657 134.657 396 133 396 C131.343 396 130 394.657 130 393 Z" fill="#3a626a" opacity="0.45"/>
+    <path id="Plate_fleck_8" data-name="Plate fleck 8" d="M865 393.5 C865 391.567 866.567 390 868.5 390 C870.433 390 872 391.567 872 393.5 C872 395.433 870.433 397 868.5 397 C866.567 397 865 395.433 865 393.5 Z" fill="#3a626a" opacity="0.45"/>
+    <path id="Plate_fleck_9" data-name="Plate fleck 9" d="M390 113.5 C390 111.567 391.567 110 393.5 110 C395.433 110 397 111.567 397 113.5 C397 115.433 395.433 117 393.5 117 C391.567 117 390 115.433 390 113.5 Z" fill="#3a626a" opacity="0.45"/>
+    <path id="Plate_fleck_10" data-name="Plate fleck 10" d="M610 114 C610 111.791 611.791 110 614 110 C616.209 110 618 111.791 618 114 C618 116.209 616.209 118 614 118 C611.791 118 610 116.209 610 114 Z" fill="#3a626a" opacity="0.45"/>
+    <path id="Plate_fleck_11" data-name="Plate fleck 11" d="M330 823 C330 821.343 331.343 820 333 820 C334.657 820 336 821.343 336 823 C336 824.657 334.657 826 333 826 C331.343 826 330 824.657 330 823 Z" fill="#3a626a" opacity="0.45"/>
+    <path id="Plate_fleck_12" data-name="Plate fleck 12" d="M665 818.5 C665 816.567 666.567 815 668.5 815 C670.433 815 672 816.567 672 818.5 C672 820.433 670.433 822 668.5 822 C666.567 822 665 820.433 665 818.5 Z" fill="#3a626a" opacity="0.45"/>
+    <path id="Desk" d="M170 682.5 C170 645.221 317.746 615 500 615 C682.254 615 830 645.221 830 682.5 C830 719.779 682.254 750 500 750 C317.746 750 170 719.779 170 682.5 Z" fill="url(#linear-gradient-2)" opacity="0.92"/>
+    <path id="Jimmy_shadow" data-name="Jimmy shadow" d="M410 657 C410 647.611 448.056 640 495 640 C541.944 640 580 647.611 580 657 C580 666.389 541.944 674 495 674 C448.056 674 410 666.389 410 657 Z" fill="#081114" opacity="0.5"/>
+    <path id="Mouse_shadow" data-name="Mouse shadow" d="M575 650 C575 641.716 610.817 635 655 635 C699.183 635 735 641.716 735 650 C735 658.284 699.183 665 655 665 C610.817 665 575 658.284 575 650 Z" fill="#081114" opacity="0.45"/>
+    <path id="Chip_glow" data-name="Chip glow" d="M268 272 C268 244.386 319.487 222 383 222 C446.513 222 498 244.386 498 272 C498 299.614 446.513 322 383 322 C319.487 322 268 299.614 268 272 Z" fill="#4ade80" opacity="0.1"/>
+    <path id="Chip" d="M290 240 L476 240 C482.627 240 488 245.373 488 252 L488 292 C488 298.627 482.627 304 476 304 L290 304 C283.373 304 278 298.627 278 292 L278 252 C278 245.373 283.373 240 290 240 Z" fill="#0e2226" stroke="#4a7278" stroke-width="4" stroke-miterlimit="10" opacity="0.95"/>
+    <path id="Dot_glow" data-name="Dot glow" d="M296 272 C296 264.268 302.268 258 310 258 C317.732 258 324 264.268 324 272 C324 279.732 317.732 286 310 286 C302.268 286 296 279.732 296 272 Z" fill="#4ade80" opacity="0.3"/>
+    <path id="Dot" d="M300 272 C300 266.477 304.477 262 310 262 C315.523 262 320 266.477 320 272 C320 277.523 315.523 282 310 282 C304.477 282 300 277.523 300 272 Z" fill="#58e896" stroke="#1e5a3e" stroke-width="3" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 334 280)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="20" fill="#8fe8b0"><tspan x="0" y="0">ACTIVE</tspan></text>
+    <path id="Chip_lead" data-name="Chip lead" d="M440 304 C470 360 480 430 470 480" fill="none" stroke="#4a7278" stroke-width="3" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Mouse_cable" data-name="Mouse cable" d="M712 568 C790 556 830 590 824 640 C820 672 800 690 780 694" fill="none" stroke="#243840" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Mouse" d="M590 591 C590 565.595 621.34 545 660 545 C698.66 545 730 565.595 730 591 C730 616.405 698.66 637 660 637 C621.34 637 590 616.405 590 591 Z" fill="url(#radial-gradient-2)" stroke="#332a33" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Button_split" data-name="Button split" d="M665 545 C660 560 660 575 665 591" fill="none" stroke="#332a33" stroke-width="4" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Wheel" d="M654 578 C654 571.373 657.582 566 662 566 C666.418 566 670 571.373 670 578 C670 584.627 666.418 590 662 590 C657.582 590 654 584.627 654 578 Z" fill="#1e3038" stroke="#332a33" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Mouse_highlight" data-name="Mouse highlight" d="M610 565 C610 560.029 621.193 556 635 556 C648.807 556 660 560.029 660 565 C660 569.971 648.807 574 635 574 C621.193 574 610 569.971 610 565 Z" fill="#ffffff" opacity="0.14"/>
+    <path id="Jiggle_1" data-name="Jiggle 1" d="M618 508 C608 520 608 532 618 544" fill="none" stroke="#9fd8d4" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Jiggle_2" data-name="Jiggle 2" d="M650 494 C640 506 640 518 650 530" fill="none" stroke="#9fd8d4" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Jiggle_3" data-name="Jiggle 3" d="M684 508 C674 520 674 532 684 544" fill="none" stroke="#9fd8d4" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Leg_L" data-name="Leg L" d="M452 592 L450 622" fill="none" stroke="#357880" stroke-width="13" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Leg_R" data-name="Leg R" d="M500 592 L504 622" fill="none" stroke="#2e6a72" stroke-width="13" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Shoe_L" data-name="Shoe L" d="M434 623.5 C434 619.358 441.163 616 450 616 C458.837 616 466 619.358 466 623.5 C466 627.642 458.837 631 450 631 C441.163 631 434 627.642 434 623.5 Z" fill="#332a33"/>
+    <path id="Shoe_R" data-name="Shoe R" d="M492 623.5 C492 619.358 499.163 616 508 616 C516.837 616 524 619.358 524 623.5 C524 627.642 516.837 631 508 631 C499.163 631 492 627.642 492 623.5 Z" fill="#332a33"/>
+    <path id="Jimmy_body" data-name="Jimmy body" d="M434 415 L518 415 C527.941 415 536 423.059 536 433 L536 579 C536 588.941 527.941 597 518 597 L434 597 C424.059 597 416 588.941 416 579 L416 433 C416 423.059 424.059 415 434 415 Z" fill="url(#radial-gradient-3)" stroke="#332a33" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Body_highlight" data-name="Body highlight" d="M428 441 C428 433.82 441.431 428 458 428 C474.569 428 488 433.82 488 441 C488 448.18 474.569 454 458 454 C441.431 454 428 448.18 428 441 Z" fill="#ffffff" opacity="0.2"/>
+    <path id="Body_shadow" data-name="Body shadow" d="M500 570 C490 584 470 590 452 586 C470 592 500 590 514 574 Z" fill="#24555c" opacity="0.45"/>
+    <path id="Plug" d="M452 378 L500 378 C503.314 378 506 380.686 506 384 L506 414 C506 417.314 503.314 420 500 420 L452 420 C448.686 420 446 417.314 446 414 L446 384 C446 380.686 448.686 378 452 378 Z" fill="url(#linear-gradient-3)" stroke="#332a33" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Contact_1" data-name="Contact 1" d="M456 388 L470 388 L470 398 L456 398 Z" fill="#3e4a52"/>
+    <path id="Contact_2" data-name="Contact 2" d="M482 388 L496 388 L496 398 L482 398 Z" fill="#3e4a52"/>
+    <path id="Plug_seam" data-name="Plug seam" d="M452 415 L500 415" fill="none" stroke="#5a666e" stroke-width="4" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Eye_L" data-name="Eye L" d="M446 488.5 C446 482.701 449.806 478 454.5 478 C459.194 478 463 482.701 463 488.5 C463 494.299 459.194 499 454.5 499 C449.806 499 446 494.299 446 488.5 Z" fill="#332a33"/>
+    <path id="Eye_R" data-name="Eye R" d="M492 488.5 C492 482.701 495.806 478 500.5 478 C505.194 478 509 482.701 509 488.5 C509 494.299 505.194 499 500.5 499 C495.806 499 492 494.299 492 488.5 Z" fill="#332a33"/>
+    <path id="Glint_L" data-name="Glint L" d="M450 484.5 C450 483.119 451.119 482 452.5 482 C453.881 482 455 483.119 455 484.5 C455 485.881 453.881 487 452.5 487 C451.119 487 450 485.881 450 484.5 Z" fill="#ffffff" opacity="0.9"/>
+    <path id="Glint_R" data-name="Glint R" d="M496 484.5 C496 483.119 497.119 482 498.5 482 C499.881 482 501 483.119 501 484.5 C501 485.881 499.881 487 498.5 487 C497.119 487 496 485.881 496 484.5 Z" fill="#ffffff" opacity="0.9"/>
+    <path id="Cheek_L" data-name="Cheek L" d="M428 515.5 C428 511.358 433.82 508 441 508 C448.18 508 454 511.358 454 515.5 C454 519.642 448.18 523 441 523 C433.82 523 428 519.642 428 515.5 Z" fill="#e89a8c" opacity="0.5"/>
+    <path id="Cheek_R" data-name="Cheek R" d="M502 515.5 C502 511.358 507.82 508 515 508 C522.18 508 528 511.358 528 515.5 C528 519.642 522.18 523 515 523 C507.82 523 502 519.642 502 515.5 Z" fill="#e89a8c" opacity="0.5"/>
+    <path id="Smirk" d="M462 532 C476 542 496 542 510 530" fill="none" stroke="#332a33" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="USB_glyph" data-name="USB glyph" d="M476 584 L476 556 M476 568 L468 562 M476 562 L484 556" fill="none" stroke="#24555c" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="USB_dot" data-name="USB dot" d="M472 554 C472 551.791 473.791 550 476 550 C478.209 550 480 551.791 480 554 C480 556.209 478.209 558 476 558 C473.791 558 472 556.209 472 554 Z" fill="#24555c" opacity="0.7"/>
+    <path id="Arm_press" data-name="Arm press" d="M534 500 C560 520 580 540 600 556" fill="none" stroke="#54a8a9" stroke-width="13" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Finger_press" data-name="Finger press" d="M594 556.5 C594 551.806 598.477 548 604 548 C609.523 548 614 551.806 614 556.5 C614 561.194 609.523 565 604 565 C598.477 565 594 561.194 594 556.5 Z" fill="#7fd0ce" stroke="#332a33" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Arm_up" data-name="Arm up" d="M418 494 C398 478 390 458 394 438" fill="none" stroke="#54a8a9" stroke-width="13" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Thumb_hand" data-name="Thumb hand" d="M384 434 C384 428.477 388.925 424 395 424 C401.075 424 406 428.477 406 434 C406 439.523 401.075 444 395 444 C388.925 444 384 439.523 384 434 Z" fill="#7fd0ce" stroke="#332a33" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Thumb" d="M388 424 L392 410" fill="none" stroke="#7fd0ce" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 930)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="60" fill="#d0eee9" text-anchor="middle"><tspan x="0" y="0">JIGGLER JIMMY</tspan></text>
+    <text transform="matrix(1 0 0 1 500 968)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="23" fill="#8fc0bc" letter-spacing="4.6" text-anchor="middle"><tspan x="0" y="0">USB MOUSE MOVER · ALWAYS ACTIVE</tspan></text>
+  </g>
+</svg>
