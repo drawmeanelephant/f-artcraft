@@ -11,9 +11,12 @@ permissions:
   pages: write
   id-token: write
 
+# Queue, never cancel mid-flight: each ref gets one running + one pending
+# (newest) run. Plate merges coalesce; the newest queued run deploys the
+# rolled-up state. Cancelling in-flight starves deploys under merge storms.
 concurrency:
   group: "pages-${{ github.ref }}"
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   docs-repro:
@@ -49,12 +52,6 @@ jobs:
 
   deploy:
     if: github.ref == 'refs/heads/main'
-    # Deploys queue instead of cancelling: a merge storm only ever leaves
-    # one in-flight + one pending (newest wins the pending slot), so the
-    # site always converges on latest main instead of starving.
-    concurrency:
-      group: pages-deploy
-      cancel-in-progress: false
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
