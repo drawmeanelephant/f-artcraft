@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#140d06"/>
+      <stop offset="1" stop-color="#070402"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c9ae7c"/>
+      <stop offset="0.5" stop-color="#8a6e44"/>
+      <stop offset="1" stop-color="#3c2c18"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="710" cy="380" r="150" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8d8a8" stop-opacity="0.28"/>
+      <stop offset="0.6" stop-color="#e8d8a8" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#e8d8a8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="709" cy="379" r="75" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f0e2b4"/>
+      <stop offset="0.8" stop-color="#e0cd9c"/>
+      <stop offset="1" stop-color="#b89c62"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="730" x2="0" y2="890" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#241a10"/>
+      <stop offset="0.5" stop-color="#120c08"/>
+      <stop offset="1" stop-color="#0a0604"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="380" y1="420" x2="620" y2="700" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b9925a"/>
+      <stop offset="0.5" stop-color="#8e6a3c"/>
+      <stop offset="1" stop-color="#5c4022"/>
+    </linearGradient>
+  </defs>
+  <title>Smilodon — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo" data-name="Plate halo" d="M64 460 C64 219.204 259.204 24 500 24 C740.796 24 936 219.204 936 460 C936 700.796 740.796 896 500 896 C259.204 896 64 700.796 64 460 Z" fill="#8a6e44" opacity="0.12"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#2a1e10" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#e4d4ae" stroke-width="3" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Sun_halo" data-name="Sun halo" d="M560 380 C560 297.157 627.157 230 710 230 C792.843 230 860 297.157 860 380 C860 462.843 792.843 530 710 530 C627.157 530 560 462.843 560 380 Z" fill="url(#radial-gradient-2)"/>
+    <path id="Sun" d="M634 379 C634 337.579 667.579 304 709 304 C750.421 304 784 337.579 784 379 C784 420.421 750.421 454 709 454 C667.579 454 634 420.421 634 379 Z" fill="url(#radial-gradient-3)"/>
+    <path id="Dust_1" data-name="Dust 1" d="M220 242 C220 240.895 220.895 240 222 240 C223.105 240 224 240.895 224 242 C224 243.105 223.105 244 222 244 C220.895 244 220 243.105 220 242 Z" fill="#e4d4ae" opacity="0.3"/>
+    <path id="Dust_2" data-name="Dust 2" d="M330 172.5 C330 171.119 331.119 170 332.5 170 C333.881 170 335 171.119 335 172.5 C335 173.881 333.881 175 332.5 175 C331.119 175 330 173.881 330 172.5 Z" fill="#e4d4ae" opacity="0.3"/>
+    <path id="Dust_3" data-name="Dust 3" d="M470 302 C470 300.895 470.895 300 472 300 C473.105 300 474 300.895 474 302 C474 303.105 473.105 304 472 304 C470.895 304 470 303.105 470 302 Z" fill="#e4d4ae" opacity="0.3"/>
+    <path id="Dust_4" data-name="Dust 4" d="M180 402.5 C180 401.119 181.119 400 182.5 400 C183.881 400 185 401.119 185 402.5 C185 403.881 183.881 405 182.5 405 C181.119 405 180 403.881 180 402.5 Z" fill="#e4d4ae" opacity="0.3"/>
+    <path id="Dust_5" data-name="Dust 5" d="M820 382 C820 380.895 820.895 380 822 380 C823.105 380 824 380.895 824 382 C824 383.105 823.105 384 822 384 C820.895 384 820 383.105 820 382 Z" fill="#e4d4ae" opacity="0.3"/>
+    <path id="Dust_6" data-name="Dust 6" d="M720 172.5 C720 171.119 721.119 170 722.5 170 C723.881 170 725 171.119 725 172.5 C725 173.881 723.881 175 722.5 175 C721.119 175 720 173.881 720 172.5 Z" fill="#e4d4ae" opacity="0.3"/>
+    <path id="Dust_7" data-name="Dust 7" d="M600 142 C600 140.895 600.895 140 602 140 C603.105 140 604 140.895 604 142 C604 143.105 603.105 144 602 144 C600.895 144 600 143.105 600 142 Z" fill="#e4d4ae" opacity="0.3"/>
+    <path id="Dust_8" data-name="Dust 8" d="M150 562 C150 560.895 150.895 560 152 560 C153.105 560 154 560.895 154 562 C154 563.105 153.105 564 152 564 C150.895 564 150 563.105 150 562 Z" fill="#e4d4ae" opacity="0.3"/>
+    <path id="Dust_9" data-name="Dust 9" d="M850 562.5 C850 561.119 851.119 560 852.5 560 C853.881 560 855 561.119 855 562.5 C855 563.881 853.881 565 852.5 565 C851.119 565 850 563.881 850 562.5 Z" fill="#e4d4ae" opacity="0.3"/>
+    <path id="Dust_10" data-name="Dust 10" d="M390 121.5 C390 120.672 390.672 120 391.5 120 C392.328 120 393 120.672 393 121.5 C393 122.328 392.328 123 391.5 123 C390.672 123 390 122.328 390 121.5 Z" fill="#e4d4ae" opacity="0.3"/>
+    <path id="Dust_11" data-name="Dust 11" d="M770 472 C770 470.895 770.895 470 772 470 C773.105 470 774 470.895 774 472 C774 473.105 773.105 474 772 474 C770.895 474 770 473.105 770 472 Z" fill="#e4d4ae" opacity="0.3"/>
+    <path id="Dust_12" data-name="Dust 12" d="M260 642 C260 640.895 260.895 640 262 640 C263.105 640 264 640.895 264 642 C264 643.105 263.105 644 262 644 C260.895 644 260 643.105 260 642 Z" fill="#e4d4ae" opacity="0.3"/>
+    <path id="Far_ridge" data-name="Far ridge" d="M130 648 C260 628 400 636 520 632 C640 628 760 624 868 640 L868 668 L130 668 Z" fill="#4a361c" opacity="0.55"/>
+    <path id="Mammoth_1" data-name="Mammoth 1" d="M668 636 C654 610 672 598 690 600 C706 602 714 616 712 628 L708 636 L702 636 L701 628 L686 628 L685 636 L679 636 L678 628 L664 628 L663 636 L657 636 Z M654 614 C648 620 646 628 650 634 L654 632 C651 626 652 620 656 617 Z" fill="#4a361c" opacity="0.7"/>
+    <path id="Mammoth_2" data-name="Mammoth 2" d="M740 636.72 C728.52 615.4 743.28 605.56 758.04 607.2 C771.16 608.84 777.72 620.32 776.08 630.16 L772.8 636.72 L767.88 636.72 L767.06 630.16 L754.76 630.16 L753.94 636.72 L749.02 636.72 L748.2 630.16 L736.72 630.16 L735.9 636.72 L730.98 636.72 Z M728.52 618.68 C723.6 623.6 721.96 630.16 725.24 635.08 L728.52 633.44 C726.06 628.52 726.88 623.6 730.16 621.14 Z" fill="#4a361c" opacity="0.7"/>
+    <path id="Mammoth_3" data-name="Mammoth 3" d="M800 637.36 C790.76 620.2 802.64 612.28 814.52 613.6 C825.08 614.92 830.36 624.16 829.04 632.08 L826.4 637.36 L822.44 637.36 L821.78 632.08 L811.88 632.08 L811.22 637.36 L807.26 637.36 L806.6 632.08 L797.36 632.08 L796.7 637.36 L792.74 637.36 Z M790.76 622.84 C786.8 626.8 785.48 632.08 788.12 636.04 L790.76 634.72 C788.78 630.76 789.44 626.8 792.08 624.82 Z" fill="#4a361c" opacity="0.7"/>
+    <path id="Crack_1" data-name="Crack 1" d="M170 690 L250 706" fill="none" stroke="#3a2a14" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Crack_2" data-name="Crack 2" d="M430 678 L500 690" fill="none" stroke="#3a2a14" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Crack_3" data-name="Crack 3" d="M590 692 L660 682" fill="none" stroke="#3a2a14" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Crack_4" data-name="Crack 4" d="M760 676 L830 688" fill="none" stroke="#3a2a14" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Crack_5" data-name="Crack 5" d="M320 700 L360 714" fill="none" stroke="#3a2a14" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Tar_pool" data-name="Tar pool" d="M183.4 736 C300 720 420 744 560 738 C660 734 760 730 816.6 736 C736.837 827.503 621.387 880.021 500 880.021 C378.613 880.021 263.163 827.503 183.4 736 Z" fill="url(#linear-gradient-2)"/>
+    <path id="Tar_crest" data-name="Tar crest" d="M191 736 C300 720 420 744 560 738 C660 734 760 730 809 736" fill="none" stroke="#c9ae7c" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Tar_sheen_1" data-name="Tar sheen 1" d="M235 775 C235 772.239 277.533 770 330 770 C382.467 770 425 772.239 425 775 C425 777.761 382.467 780 330 780 C277.533 780 235 777.761 235 775 Z" fill="#e8c890" opacity="0.13"/>
+    <path id="Tar_sheen_2" data-name="Tar sheen 2" d="M440 799 C440 796.239 493.726 794 560 794 C626.274 794 680 796.239 680 799 C680 801.761 626.274 804 560 804 C493.726 804 440 801.761 440 799 Z" fill="#e8c890" opacity="0.13"/>
+    <path id="Tar_sheen_3" data-name="Tar sheen 3" d="M655 763 C655 760.239 684.101 758 720 758 C755.899 758 785 760.239 785 763 C785 765.761 755.899 768 720 768 C684.101 768 655 765.761 655 763 Z" fill="#e8c890" opacity="0.13"/>
+    <path id="Tar_bubble" data-name="Tar bubble" d="M596 767 C596 764.239 599.582 762 604 762 C608.418 762 612 764.239 612 767 C612 769.761 608.418 772 604 772 C599.582 772 596 769.761 596 767 Z" fill="none" stroke="#c9ae7c" stroke-width="3" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Rib_1" data-name="Rib 1" d="M210 746 C206 722 212 698 226 684" fill="none" stroke="#d8c9a4" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Rib_2" data-name="Rib 2" d="M232 748 C228 722 234 698 248 684" fill="none" stroke="#d8c9a4" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.64"/>
+    <path id="Rib_3" data-name="Rib 3" d="M254 750 C250 722 256 698 270 684" fill="none" stroke="#d8c9a4" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.58"/>
+    <path id="Rib_4" data-name="Rib 4" d="M276 752 C272 722 278 698 292 684" fill="none" stroke="#d8c9a4" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.52"/>
+    <path id="Rib_5" data-name="Rib 5" d="M298 754 C294 722 300 698 314 684" fill="none" stroke="#d8c9a4" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.46"/>
+    <path id="Ribcage_spine" data-name="Ribcage spine" d="M186 752 C226 744 286 742 330 748" fill="none" stroke="#d8c9a4" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Long_bone" data-name="Long bone" d="M706 764 L792 742 L798 752 L712 774 Z" fill="#d8c9a4" opacity="0.55"/>
+    <path id="Bone_end_1" data-name="Bone end 1" d="M706 765 C706 761.134 709.582 758 714 758 C718.418 758 722 761.134 722 765 C722 768.866 718.418 772 714 772 C709.582 772 706 768.866 706 765 Z" fill="#d8c9a4" opacity="0.55"/>
+    <path id="Bone_end_2" data-name="Bone end 2" d="M794 753 C794 749.134 797.582 746 802 746 C806.418 746 810 749.134 810 753 C810 756.866 806.418 760 802 760 C797.582 760 794 756.866 794 753 Z" fill="#d8c9a4" opacity="0.55"/>
+    <path id="Cat_shadow" data-name="Cat shadow" d="M330 731 C330 724.925 424.02 720 540 720 C655.98 720 750 724.925 750 731 C750 737.075 655.98 742 540 742 C424.02 742 330 737.075 330 731 Z" fill="#100a06" opacity="0.4"/>
+    <path id="Foreleg_far" data-name="Foreleg far" d="M433.1 562.9 L438.6 592.4 C442.267 612.133 445.6 631.833 448.6 651.5 C451.533 671.167 453.833 689.267 455.5 705.8 L458 730.6 L490 729.4 L491 679 L491.9 618 L490.9 557.1 Z" fill="#5c4022" stroke="#2e1a0c" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Forepaw_far" data-name="Forepaw far" d="M496 736 C498 722 482 716 464 717 C446 718 438 728 440 736 Z" fill="#4a3018" stroke="#2e1a0c" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Forepaw_far_claw_1" data-name="Forepaw far claw 1" d="M444 732 C438.667 734 435.667 737.333 435 742" fill="none" stroke="#e8dcc8" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Forepaw_far_claw_2" data-name="Forepaw far claw 2" d="M453 732 C447.667 734 444.667 737.333 444 742" fill="none" stroke="#e8dcc8" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Forepaw_far_claw_3" data-name="Forepaw far claw 3" d="M462 732 C456.667 734 453.667 737.333 453 742" fill="none" stroke="#e8dcc8" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Hindleg_far" data-name="Hindleg far" d="M525.4 575.1 L533.3 604.3 C538.567 623.7 543.167 642.167 547.1 659.7 C551.033 677.233 552.533 692.967 551.6 706.9 L550.1 727.8 L581.9 732.2 L591 686 L590.8 626.6 L586.6 564.9 Z" fill="#5c4022" stroke="#2e1a0c" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Hindpaw_far" data-name="Hindpaw far" d="M582 736 C584 722 568 716 550 717 C532 718 524 728 526 736 Z" fill="#4a3018" stroke="#2e1a0c" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Hindpaw_far_claw_1" data-name="Hindpaw far claw 1" d="M530 732 C524.667 734 521.667 737.333 521 742" fill="none" stroke="#e8dcc8" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Hindpaw_far_claw_2" data-name="Hindpaw far claw 2" d="M539 732 C533.667 734 530.667 737.333 530 742" fill="none" stroke="#e8dcc8" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Hindpaw_far_claw_3" data-name="Hindpaw far claw 3" d="M548 732 C542.667 734 539.667 737.333 539 742" fill="none" stroke="#e8dcc8" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Bobtail" d="M682 486 C696 490 704 502 702 516 C700 528 690 534 682 530 C676 522 676 504 678 490 Z" fill="#8e6a3c" stroke="#2e1a0c" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Body" d="M392 452 C376 466 368 486 370 508 C372 536 380 560 398 576 C424 592 470 598 528 596 C580 594 630 584 656 566 C676 552 686 530 682 504 C678 478 660 458 630 446 C580 430 524 416 478 412 C444 410 416 414 398 426 C394 434 392 444 392 452 Z" fill="url(#linear-gradient-3)" stroke="#2e1a0c" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Withers_mass" data-name="Withers mass" d="M404 471 C404 440.624 437.579 416 479 416 C520.421 416 554 440.624 554 471 C554 501.376 520.421 526 479 526 C437.579 526 404 501.376 404 471 Z" fill="#d8b87e" opacity="0.22"/>
+    <path id="Belly_shade" data-name="Belly shade" d="M398 556 C460 580 560 586 640 566 C596 592 480 598 430 582 C412 576 400 568 398 556 Z" fill="#4a3018" opacity="0.42"/>
+    <path id="Flank_bar_1" data-name="Flank bar 1" d="M500 460 C506 474 506 486 502 500" fill="none" stroke="#5c4022" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Flank_bar_2" data-name="Flank bar 2" d="M538 468 C544 482 544 494 540 506" fill="none" stroke="#5c4022" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Flank_bar_3" data-name="Flank bar 3" d="M574 480 C580 494 580 506 576 512" fill="none" stroke="#5c4022" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Foreleg_near" data-name="Foreleg near" d="M376.4 534.9 L374.9 562.8 C373.967 581.4 372.667 600.7 371 620.7 C369.4 640.633 367.5 657.833 365.3 672.3 C363.1 686.767 360.2 699.633 356.6 710.9 L351.2 727.9 L380.8 740.1 L398 706 L415.4 661.4 L434.5 601.3 L447.6 545.1 Z" fill="url(#linear-gradient-3)" stroke="#2e1a0c" stroke-width="4.5" stroke-miterlimit="10"/>
+    <path id="Forepaw_near" data-name="Forepaw near" d="M384 738 C386 724 370 718 352 719 C334 720 326 730 328 738 Z" fill="#8e6a3c" stroke="#2e1a0c" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Forepaw_near_claw_1" data-name="Forepaw near claw 1" d="M332 734 C326.667 736 323.667 739.333 323 744" fill="none" stroke="#e8dcc8" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Forepaw_near_claw_2" data-name="Forepaw near claw 2" d="M341 734 C335.667 736 332.667 739.333 332 744" fill="none" stroke="#e8dcc8" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Forepaw_near_claw_3" data-name="Forepaw near claw 3" d="M350 734 C344.667 736 341.667 739.333 341 744" fill="none" stroke="#e8dcc8" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Hindleg_near" data-name="Hindleg near" d="M592 552.8 L603.6 576 C611.4 591.533 619 607.833 626.4 624.9 C633.733 642.033 639.433 658.9 643.5 675.5 C647.5 692.033 652.433 706.567 658.3 719.1 L667.1 737.8 L696.9 726.2 L686.5 691.7 L686.6 641.4 L680.7 580.7 L672 527.2 Z" fill="url(#linear-gradient-3)" stroke="#2e1a0c" stroke-width="4.5" stroke-miterlimit="10"/>
+    <path id="Hindpaw_near" data-name="Hindpaw near" d="M708 738 C710 724 694 718 676 719 C658 720 650 730 652 738 Z" fill="#8e6a3c" stroke="#2e1a0c" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Hindpaw_near_claw_1" data-name="Hindpaw near claw 1" d="M656 734 C650.667 736 647.667 739.333 647 744" fill="none" stroke="#e8dcc8" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Hindpaw_near_claw_2" data-name="Hindpaw near claw 2" d="M665 734 C659.667 736 656.667 739.333 656 744" fill="none" stroke="#e8dcc8" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Hindpaw_near_claw_3" data-name="Hindpaw near claw 3" d="M674 734 C668.667 736 665.667 739.333 665 744" fill="none" stroke="#e8dcc8" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Haunch" d="M600 470 C656 458 700 496 700 540 C700 576 684 600 664 614 C630 586 604 534 600 470 Z" fill="url(#linear-gradient-3)"/>
+    <path id="Haunch_edge" data-name="Haunch edge" d="M664 614 C684 600 700 576 700 540" fill="none" stroke="#2e1a0c" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Head" d="M236 500 C232 512 232 524 240 534 C252 546 268 554 288 558 C314 564 344 560 362 546 C382 532 392 512 392 488 C392 462 384 442 368 430 C348 420 324 422 304 432 C282 440 266 454 254 468 C248 476 240 486 236 500 Z" fill="url(#linear-gradient-3)" stroke="#2e1a0c" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Neck_mass" data-name="Neck mass" d="M340 440 C380 432 416 438 438 458 C452 484 452 524 442 560 C426 580 396 584 368 570 C348 548 338 492 340 440 Z" fill="url(#linear-gradient-3)"/>
+    <path id="Jowl_mass" data-name="Jowl mass" d="M282 523 C282 506.984 297.67 494 317 494 C336.33 494 352 506.984 352 523 C352 539.016 336.33 552 317 552 C297.67 552 282 539.016 282 523 Z" fill="#d8b87e" opacity="0.2"/>
+    <path id="Ear" d="M342 432 C344 410 358 396 376 398 C386 408 384 426 372 436 C360 440 348 440 342 432 Z" fill="#8e6a3c" stroke="#2e1a0c" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Ear_inner" data-name="Ear inner" d="M352 426 C356 416 366 410 374 412" fill="none" stroke="#4a3018" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Nose" d="M230 496 C226 506 228 516 236 522 C244 526 254 522 258 514 C258 504 250 496 240 494 Z" fill="#1e1008"/>
+    <path id="Brow_ridge" data-name="Brow ridge" d="M276 448 C300 438 332 436 354 446" fill="none" stroke="#5c4022" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Mouth" d="M246 540 C270 550 300 552 324 546" fill="none" stroke="#1e1008" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Eye" d="M290 470 C300 464 312 464 320 470 C312 478 300 478 290 470 Z" fill="#1e1008"/>
+    <path id="Eye_glint" data-name="Eye glint" d="M302 469.25 C302 468.007 303.007 467 304.25 467 C305.493 467 306.5 468.007 306.5 469.25 C306.5 470.493 305.493 471.5 304.25 471.5 C303.007 471.5 302 470.493 302 469.25 Z" fill="#f0e2b4" opacity="0.85"/>
+    <path id="Whisker_1" data-name="Whisker 1" d="M246 516 C216 510 188 508 166 514" fill="none" stroke="#e4d4ae" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Whisker_2" data-name="Whisker 2" d="M246 524 C216 518 188 516 166 522" fill="none" stroke="#e4d4ae" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Whisker_3" data-name="Whisker 3" d="M246 532 C216 526 188 524 166 530" fill="none" stroke="#e4d4ae" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Saber_far" data-name="Saber far" d="M316 534 C320 572 328 614 340 644 C344 656 354 652 354 640 C346 602 342 564 344 532 C336 526 324 526 316 534 Z" fill="#c9b88e" stroke="#2e1a0c" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Saber_near" data-name="Saber near" d="M288 524 C280 558 278 614 290 672 C293 688 304 688 306 674 C300 630 300 580 308 536 C302 526 294 522 288 524 Z" fill="#ede2c0" stroke="#2e1a0c" stroke-width="4.5" stroke-miterlimit="10"/>
+    <path id="Saber_sheen" data-name="Saber sheen" d="M295 540 C292 584 294 630 301 664" fill="none" stroke="#fff6dc" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Saber_root" data-name="Saber root" d="M284 516 C294 508 310 508 318 518 C316 528 306 534 294 532 C286 528 282 522 284 516 Z" fill="url(#linear-gradient-3)" stroke="#2e1a0c" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Plate_rim" data-name="Plate rim" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="none" stroke="#140c06" stroke-width="6" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 962)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="58" fill="#e4d4ae" text-anchor="middle"><tspan x="0" y="0">SMILODON</tspan></text>
+  </g>
+</svg>
