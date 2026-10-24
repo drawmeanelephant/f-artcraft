@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1a120a"/>
+      <stop offset="1" stop-color="#080503"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5e4622"/>
+      <stop offset="0.55" stop-color="#382812"/>
+      <stop offset="1" stop-color="#170e05"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="500" cy="295" r="230" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffc878" stop-opacity="0.16"/>
+      <stop offset="0.55" stop-color="#c88a3c" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#c88a3c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="104" x2="0" y2="212" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a6a3a" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#8a6a3a" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#8a6a3a" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0" y1="752" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3e3018" stop-opacity="0.5"/>
+      <stop offset="0.5" stop-color="#241a0c" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#0f0904" stop-opacity="0.9"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-3" cx="502" cy="726" r="285" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#040302" stop-opacity="0.7"/>
+      <stop offset="0.6" stop-color="#040302" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#040302" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-4" x1="0" y1="642.7" x2="0" y2="667.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bf8b49"/>
+      <stop offset="1" stop-color="#b38043"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0" y1="443.1" x2="0" y2="651.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#946632"/>
+      <stop offset="1" stop-color="#875c2c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0" y1="443.1" x2="0" y2="658.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6f481f"/>
+      <stop offset="1" stop-color="#623e18"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="0" y1="728.4" x2="0" y2="753.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bf8b49"/>
+      <stop offset="1" stop-color="#b38043"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="0" y1="528.9" x2="0" y2="737.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#946632"/>
+      <stop offset="1" stop-color="#875c2c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="0" y1="528.9" x2="0" y2="744.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6f481f"/>
+      <stop offset="1" stop-color="#623e18"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x1="0" y1="577.2" x2="0" y2="654.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ae7c40"/>
+      <stop offset="1" stop-color="#a1723a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-11" x1="0" y1="586.4" x2="0" y2="682.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6e471e"/>
+      <stop offset="1" stop-color="#613d18"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-12" x1="0" y1="645" x2="0" y2="682.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a5e2d"/>
+      <stop offset="1" stop-color="#7d5426"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-13" x1="0" y1="663" x2="0" y2="739.9" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ae7c40"/>
+      <stop offset="1" stop-color="#a1723a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-14" x1="0" y1="672.2" x2="0" y2="768.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6e471e"/>
+      <stop offset="1" stop-color="#613d18"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-15" x1="0" y1="730.7" x2="0" y2="768.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a5e2d"/>
+      <stop offset="1" stop-color="#7d5426"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-16" x1="0" y1="607.2" x2="0" y2="700.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89956"/>
+      <stop offset="1" stop-color="#bb8e4f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-17" x1="0" y1="618.3" x2="0" y2="727.9" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9f743e"/>
+      <stop offset="1" stop-color="#926936"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-18" x1="0" y1="689" x2="0" y2="727.9" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#80582b"/>
+      <stop offset="1" stop-color="#734d23"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-19" x1="0" y1="694.5" x2="0" y2="719.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bf8b49"/>
+      <stop offset="1" stop-color="#b38043"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-20" x1="0" y1="494.9" x2="0" y2="703.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#946632"/>
+      <stop offset="1" stop-color="#875c2c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-21" x1="0" y1="494.9" x2="0" y2="710.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6f481f"/>
+      <stop offset="1" stop-color="#623e18"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-22" x1="0" y1="780.3" x2="0" y2="805.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bf8b49"/>
+      <stop offset="1" stop-color="#b38043"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-23" x1="0" y1="580.7" x2="0" y2="789.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#946632"/>
+      <stop offset="1" stop-color="#875c2c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-24" x1="0" y1="580.7" x2="0" y2="796.2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6f481f"/>
+      <stop offset="1" stop-color="#623e18"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-25" x1="0" y1="427.1" x2="0" y2="526.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b07e41"/>
+      <stop offset="1" stop-color="#a3743b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-26" x1="0" y1="440.9" x2="0" y2="575.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a5f2d"/>
+      <stop offset="1" stop-color="#7e5427"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-27" x1="0" y1="512.9" x2="0" y2="575.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6e471e"/>
+      <stop offset="1" stop-color="#613d18"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-28" x1="0" y1="438.2" x2="0" y2="539.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6e471e"/>
+      <stop offset="1" stop-color="#613d18"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-29" x1="0" y1="428.6" x2="0" y2="490" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b07e41"/>
+      <stop offset="1" stop-color="#a3743b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-30" x1="0" y1="480.4" x2="0" y2="539.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a5f2d"/>
+      <stop offset="1" stop-color="#7e5427"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-31" x1="0" y1="525.9" x2="0" y2="626.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6e471e"/>
+      <stop offset="1" stop-color="#613d18"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-32" x1="0" y1="516.3" x2="0" y2="577.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b07e41"/>
+      <stop offset="1" stop-color="#a3743b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-33" x1="0" y1="568.2" x2="0" y2="626.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a5f2d"/>
+      <stop offset="1" stop-color="#7e5427"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-34" x1="0" y1="479.6" x2="0" y2="579.2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b07e41"/>
+      <stop offset="1" stop-color="#a3743b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-35" x1="0" y1="493.4" x2="0" y2="628.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a5f2d"/>
+      <stop offset="1" stop-color="#7e5427"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-36" x1="0" y1="565.4" x2="0" y2="628.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6e471e"/>
+      <stop offset="1" stop-color="#613d18"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-37" x1="0" y1="383.3" x2="0" y2="573.9" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e4c084"/>
+      <stop offset="1" stop-color="#dbb77c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-38" x1="0" y1="466.2" x2="0" y2="598.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b8935d"/>
+      <stop offset="1" stop-color="#ab8651"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-39" x1="0" y1="491" x2="0" y2="598.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#936e3d"/>
+      <stop offset="1" stop-color="#876131"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-4" cx="616.45" cy="520.75" r="41.85" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0a0603" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#0a0603" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="608.2" cy="492.2" r="47.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e89a48"/>
+      <stop offset="0.55" stop-color="#c06a1e"/>
+      <stop offset="1" stop-color="#6e320c"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-40" x1="608.2" y1="446.7" x2="608.2" y2="463.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a7a3a"/>
+      <stop offset="1" stop-color="#4a3e18"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-6" cx="410.45" cy="432.25" r="32.75" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0a0603" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#0a0603" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-41" x1="0" y1="366.7" x2="0" y2="428.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#80603f"/>
+      <stop offset="1" stop-color="#745637"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-42" x1="0" y1="415.7" x2="0" y2="450.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#af895c"/>
+      <stop offset="1" stop-color="#a47f54"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-43" x1="0" y1="366.7" x2="0" y2="437.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#684c30"/>
+      <stop offset="1" stop-color="#5d4229"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-7" cx="404.25" cy="380.75" r="23.65" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#14100a"/>
+      <stop offset="0.8" stop-color="#241c12"/>
+      <stop offset="1" stop-color="#4e3520"/>
+    </radialGradient>
+  </defs>
+  <title>Farmhouse Table — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo" data-name="Plate halo" d="M62 460 C62 218.099 258.099 22 500 22 C741.901 22 938 218.099 938 460 C938 701.901 741.901 898 500 898 C258.099 898 62 701.901 62 460 Z" fill="#c89a50" opacity="0.1"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#120d06" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#e0c48e" stroke-width="3" stroke-miterlimit="10" opacity="0.24"/>
+    <path id="Field_glow" data-name="Field glow" d="M270 295 C270 203.873 372.975 130 500 130 C627.025 130 730 203.873 730 295 C730 386.127 627.025 460 500 460 C372.975 460 270 386.127 270 295 Z" fill="url(#radial-gradient-2)"/>
+    <path id="Sheaf_cord" data-name="Sheaf cord" d="M646 104 L649 104 L648.2 212 L646.8 212 Z" fill="url(#linear-gradient-2)"/>
+    <path id="Sheaf_knot" data-name="Sheaf knot" d="M640 213 C640 210.239 643.358 208 647.5 208 C651.642 208 655 210.239 655 213 C655 215.761 651.642 218 647.5 218 C643.358 218 640 215.761 640 213 Z" fill="#7a5622" stroke="#241610" stroke-width="1.2" stroke-miterlimit="10"/>
+    <path id="Sheaf_stem_1" data-name="Sheaf stem 1" d="M647.5 214 C642.3 228.667 630.967 255.3 613.5 293.9" fill="none" stroke="#b8923e" stroke-width="2.8" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Sheaf_head_1" data-name="Sheaf head 1" d="M613.5 293.9 L609 303.9" fill="none" stroke="#cba84e" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Sheaf_awn_10" data-name="Sheaf awn 10" d="M609 303.9 L610.2 310.8" fill="none" stroke="#cba84e" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Sheaf_awn_11" data-name="Sheaf awn 11" d="M609 303.9 L603 307.6" fill="none" stroke="#cba84e" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Sheaf_stem_2" data-name="Sheaf stem 2" d="M647.5 214 C644.7 228.667 638.7 253.433 629.5 288.3" fill="none" stroke="#b8923e" stroke-width="2.8" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Sheaf_head_2" data-name="Sheaf head 2" d="M629.5 288.3 L626.7 298.9" fill="none" stroke="#cba84e" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Sheaf_awn_20" data-name="Sheaf awn 20" d="M626.7 298.9 L629 305.5" fill="none" stroke="#cba84e" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Sheaf_awn_21" data-name="Sheaf awn 21" d="M626.7 298.9 L621.4 303.5" fill="none" stroke="#cba84e" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Sheaf_stem_3" data-name="Sheaf stem 3" d="M647.5 214 C647.5 228.667 647.5 251.333 647.5 282" fill="none" stroke="#b8923e" stroke-width="2.8" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Sheaf_head_3" data-name="Sheaf head 3" d="M647.5 282 L647.5 293" fill="none" stroke="#cba84e" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Sheaf_awn_30" data-name="Sheaf awn 30" d="M647.5 293 L651.5 298.8" fill="none" stroke="#cba84e" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Sheaf_awn_31" data-name="Sheaf awn 31" d="M647.5 293 L643.5 298.8" fill="none" stroke="#cba84e" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Sheaf_stem_4" data-name="Sheaf stem 4" d="M647.5 214 C650.3 228.667 656.3 253.433 665.5 288.3" fill="none" stroke="#b8923e" stroke-width="2.8" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Sheaf_head_4" data-name="Sheaf head 4" d="M665.5 288.3 L668.3 298.9" fill="none" stroke="#cba84e" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Sheaf_awn_40" data-name="Sheaf awn 40" d="M668.3 298.9 L673.6 303.5" fill="none" stroke="#cba84e" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Sheaf_awn_41" data-name="Sheaf awn 41" d="M668.3 298.9 L666 305.5" fill="none" stroke="#cba84e" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Sheaf_stem_5" data-name="Sheaf stem 5" d="M647.5 214 C652.7 228.667 664.033 255.3 681.5 293.9" fill="none" stroke="#b8923e" stroke-width="2.8" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Sheaf_head_5" data-name="Sheaf head 5" d="M681.5 293.9 L686 303.9" fill="none" stroke="#cba84e" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Sheaf_awn_50" data-name="Sheaf awn 50" d="M686 303.9 L692 307.6" fill="none" stroke="#cba84e" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Sheaf_awn_51" data-name="Sheaf awn 51" d="M686 303.9 L684.8 310.8" fill="none" stroke="#cba84e" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Floor" d="M198.1 752 L801.9 752 C722.77 670.184 613.822 623.987 500 623.987 C386.178 623.987 277.23 670.184 198.1 752 Z" fill="url(#linear-gradient-3)"/>
+    <path id="Board_seam_1" data-name="Board seam 1" d="M236.7 784 L763.3 784" fill="none" stroke="#5a421e" stroke-width="2" stroke-miterlimit="10" opacity="0.26"/>
+    <path id="Board_seam_2" data-name="Board seam 2" d="M281.1 816 L718.9 816" fill="none" stroke="#5a421e" stroke-width="2" stroke-miterlimit="10" opacity="0.26"/>
+    <path id="Board_seam_3" data-name="Board seam 3" d="M343.2 848 L656.8 848" fill="none" stroke="#5a421e" stroke-width="2" stroke-miterlimit="10" opacity="0.26"/>
+    <path id="Table_shadow" data-name="Table shadow" d="M217 726 C217 708.327 344.599 694 502 694 C659.401 694 787 708.327 787 726 C787 743.673 659.401 758 502 758 C344.599 758 217 743.673 217 726 Z" fill="url(#radial-gradient-3)"/>
+    <path id="Leg_far_L" data-name="Leg far L" d="M338.1 658.6 L359 642.7 L395.3 651.8 L374.3 667.7 Z" fill="url(#linear-gradient-4)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Leg_far_L-2" data-name="Leg far L" d="M395.3 651.8 L359 642.7 L357 443.1 L402.7 454.7 Z" fill="url(#linear-gradient-5)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Leg_far_L-3" data-name="Leg far L" d="M359 642.7 L338.1 658.6 L330.6 463.1 L357 443.1 Z" fill="url(#linear-gradient-6)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Leg_peg_far_L" data-name="Leg peg far L" d="M341.4 481.8 C341.4 480.475 342.475 479.4 343.8 479.4 C345.125 479.4 346.2 480.475 346.2 481.8 C346.2 483.125 345.125 484.2 343.8 484.2 C342.475 484.2 341.4 483.125 341.4 481.8 Z" fill="#2a1808"/>
+    <path id="Leg_far_R" data-name="Leg far R" d="M677 744.3 L697.9 728.4 L734.2 737.6 L713.2 753.5 Z" fill="url(#linear-gradient-7)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Leg_far_R-2" data-name="Leg far R" d="M734.2 737.6 L697.9 728.4 L695.9 528.9 L741.6 540.4 Z" fill="url(#linear-gradient-8)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Leg_far_R-3" data-name="Leg far R" d="M697.9 728.4 L677 744.3 L669.5 548.9 L695.9 528.9 Z" fill="url(#linear-gradient-9)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Leg_peg_far_R" data-name="Leg peg far R" d="M726 579.1 C726 577.775 727.075 576.7 728.4 576.7 C729.725 576.7 730.8 577.775 730.8 579.1 C730.8 580.425 729.725 581.5 728.4 581.5 C727.075 581.5 726 580.425 726 579.1 Z" fill="#2a1808"/>
+    <path id="Stretcher_end_L" data-name="Stretcher end L" d="M306.1 654.1 L269.8 645 L359 577.2 L395.3 586.4 Z" fill="url(#linear-gradient-10)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Stretcher_end_L-2" data-name="Stretcher end L" d="M306.1 682.8 L306.1 654.1 L395.3 586.4 L395.3 615 Z" fill="url(#linear-gradient-11)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Stretcher_end_L-3" data-name="Stretcher end L" d="M269.8 673.6 L269.8 645 L306.1 654.1 L306.1 682.8 Z" fill="url(#linear-gradient-12)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Stretcher_end_R" data-name="Stretcher end R" d="M645 739.9 L608.7 730.7 L697.9 663 L734.2 672.2 Z" fill="url(#linear-gradient-13)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Stretcher_end_R-2" data-name="Stretcher end R" d="M645 768.5 L645 739.9 L734.2 672.2 L734.2 700.8 Z" fill="url(#linear-gradient-14)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Stretcher_end_R-3" data-name="Stretcher end R" d="M608.7 759.3 L608.7 730.7 L645 739.9 L645 768.5 Z" fill="url(#linear-gradient-15)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Stretcher_long" data-name="Stretcher long" d="M656.3 700.1 L333.2 618.3 L347.7 607.2 L670.8 689 Z" fill="url(#linear-gradient-16)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Stretcher_long-2" data-name="Stretcher long" d="M333.2 646.1 L333.2 618.3 L656.3 700.1 L656.3 727.9 Z" fill="url(#linear-gradient-17)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Stretcher_long-3" data-name="Stretcher long" d="M656.3 727.9 L656.3 700.1 L670.8 689 L670.8 716.8 Z" fill="url(#linear-gradient-18)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Leg_near_L" data-name="Leg near L" d="M269.8 710.4 L290.8 694.5 L327 703.7 L306.1 719.6 Z" fill="url(#linear-gradient-19)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Leg_near_L-2" data-name="Leg near L" d="M327 703.7 L290.8 694.5 L288.8 494.9 L334.5 506.5 Z" fill="url(#linear-gradient-20)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Leg_near_L-3" data-name="Leg near L" d="M290.8 694.5 L269.8 710.4 L262.4 515 L288.8 494.9 Z" fill="url(#linear-gradient-21)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Leg_peg_near_L" data-name="Leg peg near L" d="M273.2 533.6 C273.2 532.275 274.275 531.2 275.6 531.2 C276.925 531.2 278 532.275 278 533.6 C278 534.925 276.925 536 275.6 536 C274.275 536 273.2 534.925 273.2 533.6 Z" fill="#2a1808"/>
+    <path id="Leg_near_R" data-name="Leg near R" d="M608.7 796.2 L629.7 780.3 L665.9 789.4 L645 805.3 Z" fill="url(#linear-gradient-22)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Leg_near_R-2" data-name="Leg near R" d="M665.9 789.4 L629.7 780.3 L627.7 580.7 L673.4 592.3 Z" fill="url(#linear-gradient-23)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Leg_near_R-3" data-name="Leg near R" d="M629.7 780.3 L608.7 796.2 L601.3 600.7 L627.7 580.7 Z" fill="url(#linear-gradient-24)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Leg_peg_near_R" data-name="Leg peg near R" d="M657.8 630.9 C657.8 629.575 658.875 628.5 660.2 628.5 C661.525 628.5 662.6 629.575 662.6 630.9 C662.6 632.225 661.525 633.3 660.2 633.3 C658.875 633.3 657.8 632.225 657.8 630.9 Z" fill="#2a1808"/>
+    <path id="Apron_far" data-name="Apron far" d="M696.9 526.7 L358 440.9 L376.2 427.1 L715.1 512.9 Z" fill="url(#linear-gradient-25)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Apron_far-2" data-name="Apron far" d="M358 490 L358 440.9 L696.9 526.7 L696.9 575.8 Z" fill="url(#linear-gradient-26)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Apron_far-3" data-name="Apron far" d="M696.9 575.8 L696.9 526.7 L715.1 512.9 L715.1 562 Z" fill="url(#linear-gradient-27)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Apron_L" data-name="Apron L" d="M313.4 539.1 L313.4 490 L381.7 438.2 L381.7 487.2 Z" fill="url(#linear-gradient-28)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Apron_L-2" data-name="Apron L" d="M313.4 490 L275.6 480.4 L343.8 428.6 L381.7 438.2 Z" fill="url(#linear-gradient-29)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Apron_L-3" data-name="Apron L" d="M275.6 529.5 L275.6 480.4 L313.4 490 L313.4 539.1 Z" fill="url(#linear-gradient-30)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Apron_R" data-name="Apron R" d="M660.2 626.8 L660.2 577.7 L728.4 525.9 L728.4 575 Z" fill="url(#linear-gradient-31)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Apron_R-2" data-name="Apron R" d="M660.2 577.7 L622.3 568.2 L690.6 516.3 L728.4 525.9 Z" fill="url(#linear-gradient-32)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Apron_R-3" data-name="Apron R" d="M622.3 617.2 L622.3 568.2 L660.2 577.7 L660.2 626.8 Z" fill="url(#linear-gradient-33)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Apron_near" data-name="Apron near" d="M627.8 579.2 L288.9 493.4 L307.1 479.6 L646 565.4 Z" fill="url(#linear-gradient-34)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Apron_near-2" data-name="Apron near" d="M288.9 542.5 L288.9 493.4 L627.8 579.2 L627.8 628.3 Z" fill="url(#linear-gradient-35)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Apron_near-3" data-name="Apron near" d="M627.8 628.3 L627.8 579.2 L646 565.4 L646 614.5 Z" fill="url(#linear-gradient-36)" stroke="#241610" stroke-width="1.8" stroke-linejoin="round"/>
+    <path id="Top_slab" data-name="Top slab" d="M660.2 573.9 L234.6 466.2 L343.8 383.3 L769.4 491 Z" fill="url(#linear-gradient-37)" stroke="#241610" stroke-width="2.2" stroke-linejoin="round"/>
+    <path id="Top_slab-2" data-name="Top slab" d="M234.6 490.8 L234.6 466.2 L660.2 573.9 L660.2 598.5 Z" fill="url(#linear-gradient-38)" stroke="#241610" stroke-width="2.2" stroke-linejoin="round"/>
+    <path id="Top_slab-3" data-name="Top slab" d="M660.2 598.5 L660.2 573.9 L769.4 491 L769.4 515.6 Z" fill="url(#linear-gradient-39)" stroke="#241610" stroke-width="2.2" stroke-linejoin="round"/>
+    <path id="Plank_seam_1" data-name="Plank seam 1" d="M268.2 446.7 L681.2 551.2" fill="none" stroke="#4a2c10" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Plank_seam_2" data-name="Plank seam 2" d="M295.5 426 L708.5 530.5" fill="none" stroke="#4a2c10" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Plank_seam_3" data-name="Plank seam 3" d="M322.8 405.2 L735.8 509.8" fill="none" stroke="#4a2c10" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Scrub_1" data-name="Scrub 1" d="M303.4 469.3 L431.8 499.5" fill="none" stroke="#f4dca8" stroke-width="1.8" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Scrub_2" data-name="Scrub 2" d="M506.4 490.8 L666.3 528.9" fill="none" stroke="#f4dca8" stroke-width="1.8" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Scrub_3" data-name="Scrub 3" d="M327.4 419.2 L440 445.4" fill="none" stroke="#f4dca8" stroke-width="1.8" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Scrub_4" data-name="Scrub 4" d="M589.3 459.7 L686.2 481.9" fill="none" stroke="#f4dca8" stroke-width="1.8" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Scrub_5" data-name="Scrub 5" d="M544.1 510 L672.5 540.2" fill="none" stroke="#f4dca8" stroke-width="1.8" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Knot_1" data-name="Knot 1" d="M369.4 461.3 C369.4 459.422 372.87 457.9 377.15 457.9 C381.43 457.9 384.9 459.422 384.9 461.3 C384.9 463.178 381.43 464.7 377.15 464.7 C372.87 464.7 369.4 463.178 369.4 461.3 Z" fill="#4a2c10" stroke="#6e481e" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Knot_2" data-name="Knot 2" d="M607.7 471.8 C607.7 469.922 611.17 468.4 615.45 468.4 C619.73 468.4 623.2 469.922 623.2 471.8 C623.2 473.678 619.73 475.2 615.45 475.2 C611.17 475.2 607.7 473.678 607.7 471.8 Z" fill="#4a2c10" stroke="#6e481e" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Top_peg_1" data-name="Top peg 1" d="M292.8 461.05 C292.8 459.697 295.33 458.6 298.45 458.6 C301.57 458.6 304.1 459.697 304.1 461.05 C304.1 462.403 301.57 463.5 298.45 463.5 C295.33 463.5 292.8 462.403 292.8 461.05 Z" fill="#2a1808" stroke="#0e0703" stroke-width="0.8" stroke-miterlimit="10"/>
+    <path id="Top_peg_2" data-name="Top peg 2" d="M631.7 546.85 C631.7 545.497 634.23 544.4 637.35 544.4 C640.47 544.4 643 545.497 643 546.85 C643 548.203 640.47 549.3 637.35 549.3 C634.23 549.3 631.7 548.203 631.7 546.85 Z" fill="#2a1808" stroke="#0e0703" stroke-width="0.8" stroke-miterlimit="10"/>
+    <path id="Top_peg_3" data-name="Top peg 3" d="M361 409.25 C361 407.897 363.53 406.8 366.65 406.8 C369.77 406.8 372.3 407.897 372.3 409.25 C372.3 410.603 369.77 411.7 366.65 411.7 C363.53 411.7 361 410.603 361 409.25 Z" fill="#2a1808" stroke="#0e0703" stroke-width="0.8" stroke-miterlimit="10"/>
+    <path id="Top_peg_4" data-name="Top peg 4" d="M699.9 495.05 C699.9 493.697 702.43 492.6 705.55 492.6 C708.67 492.6 711.2 493.697 711.2 495.05 C711.2 496.403 708.67 497.5 705.55 497.5 C702.43 497.5 699.9 496.403 699.9 495.05 Z" fill="#2a1808" stroke="#0e0703" stroke-width="0.8" stroke-miterlimit="10"/>
+    <path id="Pumpkin_shadow" data-name="Pumpkin shadow" d="M574.6 520.75 C574.6 510.616 593.337 502.4 616.45 502.4 C639.563 502.4 658.3 510.616 658.3 520.75 C658.3 530.884 639.563 539.1 616.45 539.1 C593.337 539.1 574.6 530.884 574.6 520.75 Z" fill="url(#radial-gradient-4)"/>
+    <path id="Pumpkin_body" data-name="Pumpkin body" d="M560.9 492.2 C560.9 472.594 582.077 456.7 608.2 456.7 C634.323 456.7 655.5 472.594 655.5 492.2 C655.5 511.806 634.323 527.7 608.2 527.7 C582.077 527.7 560.9 511.806 560.9 492.2 Z" fill="url(#radial-gradient-5)" stroke="#241610" stroke-width="1.6" stroke-miterlimit="10"/>
+    <path id="Pumpkin_rib_0L" data-name="Pumpkin rib 0L" d="M602.5 461.7 C593.7 482.033 593.1 501.667 600.7 520.6" fill="none" stroke="#7e3a0e" stroke-width="1.6" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Pumpkin_rib_0R" data-name="Pumpkin rib 0R" d="M613.9 461.7 C622.767 482.033 623.4 501.667 615.8 520.6" fill="none" stroke="#7e3a0e" stroke-width="1.6" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Pumpkin_rib_1L" data-name="Pumpkin rib 1L" d="M602.5 461.7 C584.9 482.033 584.3 501.667 600.7 520.6" fill="none" stroke="#7e3a0e" stroke-width="1.6" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Pumpkin_rib_1R" data-name="Pumpkin rib 1R" d="M613.9 461.7 C631.567 482.033 632.2 501.667 615.8 520.6" fill="none" stroke="#7e3a0e" stroke-width="1.6" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Pumpkin_rib_2L" data-name="Pumpkin rib 2L" d="M602.5 461.7 C576.633 482.033 576.033 501.667 600.7 520.6" fill="none" stroke="#7e3a0e" stroke-width="1.6" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Pumpkin_rib_2R" data-name="Pumpkin rib 2R" d="M613.9 461.7 C639.767 482.033 640.4 501.667 615.8 520.6" fill="none" stroke="#7e3a0e" stroke-width="1.6" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Pumpkin_stem" data-name="Pumpkin stem" d="M605.2 459.5 L609.2 446.7 L615.2 448.7 L612.2 461 Z" fill="url(#linear-gradient-40)" stroke="#241610" stroke-width="1.2" stroke-linejoin="round"/>
+    <path id="Crock_shadow" data-name="Crock shadow" d="M377.7 432.25 C377.7 424.325 392.363 417.9 410.45 417.9 C428.537 417.9 443.2 424.325 443.2 432.25 C443.2 440.175 428.537 446.6 410.45 446.6 C392.363 446.6 377.7 440.175 377.7 432.25 Z" fill="url(#radial-gradient-6)"/>
+    <path id="Crock_body" data-name="Crock body" d="M444 428.5 L393.6 415.7 L395.6 366.7 L436.6 377 Z" fill="url(#linear-gradient-41)" stroke="#241610" stroke-width="1.6" stroke-linejoin="round"/>
+    <path id="Crock_body-2" data-name="Crock body" d="M364.5 437.8 L393.6 415.7 L444 428.5 L414.9 450.6 Z" fill="url(#linear-gradient-42)" stroke="#241610" stroke-width="1.6" stroke-linejoin="round"/>
+    <path id="Crock_body-3" data-name="Crock body" d="M393.6 415.7 L364.5 437.8 L371.9 384.6 L395.6 366.7 Z" fill="url(#linear-gradient-43)" stroke="#241610" stroke-width="1.6" stroke-linejoin="round"/>
+    <path id="Crock_mouth" data-name="Crock mouth" d="M380.6 380.75 C380.6 375.034 391.188 370.4 404.25 370.4 C417.312 370.4 427.9 375.034 427.9 380.75 C427.9 386.466 417.312 391.1 404.25 391.1 C391.188 391.1 380.6 386.466 380.6 380.75 Z" fill="url(#radial-gradient-7)" stroke="#2a2018" stroke-width="1.2" stroke-miterlimit="10"/>
+    <path id="Crock_glaze_line" data-name="Crock glaze line" d="M367 419.6 L414.3 431.5" fill="none" stroke="#3a2a18" stroke-width="2" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Wheat_stem_1" data-name="Wheat stem 1" d="M404.3 379.2 C396.3 341.2 384.433 309.533 368.7 284.2" fill="none" stroke="#c8a44a" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Wheat_head_1" data-name="Wheat head 1" d="M368.7 284.2 L361.3 272.3" fill="none" stroke="#ddbb66" stroke-width="4.4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Wheat_awn_10-1" data-name="Wheat awn 10-1" d="M366.1 280 L360.2 279" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_101" data-name="Wheat awn 101" d="M366.1 280 L367.8 274.3" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_11-1" data-name="Wheat awn 11-1" d="M364.2 277 L358.3 276.1" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_111" data-name="Wheat awn 111" d="M364.2 277 L366 271.3" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_12-1" data-name="Wheat awn 12-1" d="M362.4 274.1 L356.5 273.1" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_121" data-name="Wheat awn 121" d="M362.4 274.1 L364.1 268.3" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_stem_2" data-name="Wheat stem 2" d="M404.3 379.2 C400.033 336 393.9 300 385.9 271.2" fill="none" stroke="#c8a44a" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Wheat_head_2" data-name="Wheat head 2" d="M385.9 271.2 L382.1 257.7" fill="none" stroke="#ddbb66" stroke-width="4.4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Wheat_awn_20-1" data-name="Wheat awn 20-1" d="M384.6 266.5 L379.1 263.9" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_201" data-name="Wheat awn 201" d="M384.6 266.5 L387.8 261.4" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_21-1" data-name="Wheat awn 21-1" d="M383.6 263.1 L378.2 260.5" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_211" data-name="Wheat awn 211" d="M383.6 263.1 L386.9 258.1" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_22-1" data-name="Wheat awn 22-1" d="M382.7 259.7 L377.3 257.1" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_221" data-name="Wheat awn 221" d="M382.7 259.7 L386 254.7" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_stem_3" data-name="Wheat stem 3" d="M404.3 379.2 C404.3 333.6 404.3 295.6 404.3 265.2" fill="none" stroke="#c8a44a" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Wheat_head_3" data-name="Wheat head 3" d="M404.3 265.2 L404.3 251.2" fill="none" stroke="#ddbb66" stroke-width="4.4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Wheat_awn_30-1" data-name="Wheat awn 30-1" d="M404.3 260.3 L399.8 256.3" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_301" data-name="Wheat awn 301" d="M404.3 260.3 L408.8 256.3" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_31-1" data-name="Wheat awn 31-1" d="M404.3 256.8 L399.8 252.8" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_311" data-name="Wheat awn 311" d="M404.3 256.8 L408.8 252.8" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_32-1" data-name="Wheat awn 32-1" d="M404.3 253.3 L399.8 249.3" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_321" data-name="Wheat awn 321" d="M404.3 253.3 L408.8 249.3" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_stem_4" data-name="Wheat stem 4" d="M404.3 379.2 C408.567 336.8 414.833 301.467 423.1 273.2" fill="none" stroke="#c8a44a" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Wheat_head_4" data-name="Wheat head 4" d="M423.1 273.2 L427 259.7" fill="none" stroke="#ddbb66" stroke-width="4.4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Wheat_awn_40-1" data-name="Wheat awn 40-1" d="M424.4 268.5 L421.2 263.4" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_401" data-name="Wheat awn 401" d="M424.4 268.5 L429.9 265.9" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_41-1" data-name="Wheat awn 41-1" d="M425.4 265.1 L422.2 260.1" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_411" data-name="Wheat awn 411" d="M425.4 265.1 L430.9 262.6" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_42-1" data-name="Wheat awn 42-1" d="M426.4 261.8 L423.2 256.7" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_421" data-name="Wheat awn 421" d="M426.4 261.8 L431.8 259.2" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_stem_5" data-name="Wheat stem 5" d="M404.3 379.2 C412.3 342.4 424.3 311.733 440.3 287.2" fill="none" stroke="#c8a44a" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Wheat_head_5" data-name="Wheat head 5" d="M440.3 287.2 L447.9 275.5" fill="none" stroke="#ddbb66" stroke-width="4.4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Wheat_awn_50-1" data-name="Wheat awn 50-1" d="M442.9 283.1 L441.3 277.3" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_501" data-name="Wheat awn 501" d="M442.9 283.1 L448.9 282.2" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_51-1" data-name="Wheat awn 51-1" d="M444.9 280.1 L443.2 274.4" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_511" data-name="Wheat awn 511" d="M444.9 280.1 L450.8 279.3" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_52-1" data-name="Wheat awn 52-1" d="M446.8 277.2 L445.2 271.4" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Wheat_awn_521" data-name="Wheat awn 521" d="M446.8 277.2 L452.7 276.4" fill="none" stroke="#ddbb66" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Loose_stem_1" data-name="Loose stem 1" d="M420.6 491.3 L516.2 522.5" fill="none" stroke="#c8a44a" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Loose_head_1" data-name="Loose head 1" d="M516.2 522.5 L526.7 525.9" fill="none" stroke="#ddbb66" stroke-width="4.6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Loose_awn_1-1" data-name="Loose awn 1-1" d="M526.7 525.9 L531.5 523.3" fill="none" stroke="#ddbb66" stroke-width="1.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Loose_awn_11" data-name="Loose awn 11" d="M526.7 525.9 L529.1 530.8" fill="none" stroke="#ddbb66" stroke-width="1.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Loose_stem_2" data-name="Loose stem 2" d="M451.1 492.1 L557.8 510.9" fill="none" stroke="#c8a44a" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Loose_head_2" data-name="Loose head 2" d="M557.8 510.9 L568.6 512.8" fill="none" stroke="#ddbb66" stroke-width="4.6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Loose_awn_2-1" data-name="Loose awn 2-1" d="M568.6 512.8 L573 509.5" fill="none" stroke="#ddbb66" stroke-width="1.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Loose_awn_21" data-name="Loose awn 21" d="M568.6 512.8 L571.7 517.3" fill="none" stroke="#ddbb66" stroke-width="1.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Top_rim_light" data-name="Top rim light" d="M238.6 466.4 L656.2 572.1" fill="none" stroke="#ffce8a" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.38"/>
+    <text transform="matrix(1 0 0 1 500 934)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="56" fill="#f0e6ce" letter-spacing="3.36" text-anchor="middle"><tspan x="0" y="0">FARMHOUSE TABLE</tspan></text>
+    <text transform="matrix(1 0 0 1 500 970)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="22" fill="#c4b091" letter-spacing="5.72" text-anchor="middle"><tspan x="0" y="0">PINE · OAK PEGS · BEESWAX</tspan></text>
+  </g>
+</svg>
