@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#161f2e"/>
+      <stop offset="1" stop-color="#06090f"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bcc8da"/>
+      <stop offset="0.55" stop-color="#8494b2"/>
+      <stop offset="1" stop-color="#4e5e7c"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="730" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8edf4"/>
+      <stop offset="1" stop-color="#aab6c8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0" y1="280" x2="0" y2="560" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5e6472"/>
+      <stop offset="1" stop-color="#3a3f4a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0" y1="280" x2="0" y2="720" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a9adb8"/>
+      <stop offset="0.55" stop-color="#7e8492"/>
+      <stop offset="1" stop-color="#565c68"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="468.66" cy="545.079" r="75.079" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f0f2f6"/>
+      <stop offset="1" stop-color="#c6ccd8"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="356" cy="478.138" r="36" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f0f2f6"/>
+      <stop offset="1" stop-color="#c6ccd8"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="311.383" cy="446" r="18.617" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3e4450"/>
+      <stop offset="1" stop-color="#14181e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="448" cy="424.721" r="28" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8b23c"/>
+      <stop offset="0.6" stop-color="#b07e20"/>
+      <stop offset="1" stop-color="#6e4a10"/>
+    </radialGradient>
+  </defs>
+  <title>Gray Wolf — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo" data-name="Plate halo" d="M60 460 C60 216.995 256.995 20 500 20 C743.005 20 940 216.995 940 460 C940 703.005 743.005 900 500 900 C256.995 900 60 703.005 60 460 Z" fill="#8494b2" opacity="0.08"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#36445e" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#e8eef6" stroke-width="3" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Dusk_band" data-name="Dusk band" d="M150 610 C220 596 300 594 380 604 C300 616 220 618 150 610 Z" fill="#e8c89a" opacity="0.16"/>
+    <path id="Wind_1" data-name="Wind 1" d="M850 250 C700 232 520 264 380 244 C300 236 230 242 170 254" fill="none" stroke="#f0f4fa" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="Wind_2" data-name="Wind 2" d="M850 300 C700 282 520 314 380 294 C300 286 230 292 170 304" fill="none" stroke="#f0f4fa" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.16"/>
+    <path id="Wind_3" data-name="Wind 3" d="M850 352 C700 334 520 366 380 346 C300 338 230 344 170 356" fill="none" stroke="#f0f4fa" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.14"/>
+    <path id="Wind_4" data-name="Wind 4" d="M850 430 C700 412 520 444 380 424 C300 416 230 422 170 434" fill="none" stroke="#f0f4fa" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.18"/>
+    <path id="Wind_5" data-name="Wind 5" d="M850 505 C700 487 520 519 380 499 C300 491 230 497 170 509" fill="none" stroke="#f0f4fa" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.12"/>
+    <path id="Snow_1" data-name="Snow 1" d="M200 262 C200 260.895 200.895 260 202 260 C203.105 260 204 260.895 204 262 C204 263.105 203.105 264 202 264 C200.895 264 200 263.105 200 262 Z" fill="#ffffff" opacity="0.7"/>
+    <path id="Snow_2" data-name="Snow 2" d="M300 182.5 C300 181.119 301.119 180 302.5 180 C303.881 180 305 181.119 305 182.5 C305 183.881 303.881 185 302.5 185 C301.119 185 300 183.881 300 182.5 Z" fill="#ffffff" opacity="0.7"/>
+    <path id="Snow_3" data-name="Snow 3" d="M420 142 C420 140.895 420.895 140 422 140 C423.105 140 424 140.895 424 142 C424 143.105 423.105 144 422 144 C420.895 144 420 143.105 420 142 Z" fill="#ffffff" opacity="0.7"/>
+    <path id="Snow_4" data-name="Snow 4" d="M620 132.5 C620 131.119 621.119 130 622.5 130 C623.881 130 625 131.119 625 132.5 C625 133.881 623.881 135 622.5 135 C621.119 135 620 133.881 620 132.5 Z" fill="#ffffff" opacity="0.7"/>
+    <path id="Snow_5" data-name="Snow 5" d="M740 202 C740 200.895 740.895 200 742 200 C743.105 200 744 200.895 744 202 C744 203.105 743.105 204 742 204 C740.895 204 740 203.105 740 202 Z" fill="#ffffff" opacity="0.7"/>
+    <path id="Snow_6" data-name="Snow 6" d="M820 302 C820 300.895 820.895 300 822 300 C823.105 300 824 300.895 824 302 C824 303.105 823.105 304 822 304 C820.895 304 820 303.105 820 302 Z" fill="#ffffff" opacity="0.7"/>
+    <path id="Snow_7" data-name="Snow 7" d="M160 382.5 C160 381.119 161.119 380 162.5 380 C163.881 380 165 381.119 165 382.5 C165 383.881 163.881 385 162.5 385 C161.119 385 160 383.881 160 382.5 Z" fill="#ffffff" opacity="0.7"/>
+    <path id="Snow_8" data-name="Snow 8" d="M840 422 C840 420.895 840.895 420 842 420 C843.105 420 844 420.895 844 422 C844 423.105 843.105 424 842 424 C840.895 424 840 423.105 840 422 Z" fill="#ffffff" opacity="0.7"/>
+    <path id="Snow_9" data-name="Snow 9" d="M240 472 C240 470.895 240.895 470 242 470 C243.105 470 244 470.895 244 472 C244 473.105 243.105 474 242 474 C240.895 474 240 473.105 240 472 Z" fill="#ffffff" opacity="0.7"/>
+    <path id="Snow_10" data-name="Snow 10" d="M700 331.5 C700 330.672 700.672 330 701.5 330 C702.328 330 703 330.672 703 331.5 C703 332.328 702.328 333 701.5 333 C700.672 333 700 332.328 700 331.5 Z" fill="#ffffff" opacity="0.7"/>
+    <path id="Snow_11" data-name="Snow 11" d="M330 331.5 C330 330.672 330.672 330 331.5 330 C332.328 330 333 330.672 333 331.5 C333 332.328 332.328 333 331.5 333 C330.672 333 330 332.328 330 331.5 Z" fill="#ffffff" opacity="0.7"/>
+    <path id="Snow_12" data-name="Snow 12" d="M560 211.5 C560 210.672 560.672 210 561.5 210 C562.328 210 563 210.672 563 211.5 C563 212.328 562.328 213 561.5 213 C560.672 213 560 212.328 560 211.5 Z" fill="#ffffff" opacity="0.7"/>
+    <path id="Snow_13" data-name="Snow 13" d="M180 542 C180 540.895 180.895 540 182 540 C183.105 540 184 540.895 184 542 C184 543.105 183.105 544 182 544 C180.895 544 180 543.105 180 542 Z" fill="#ffffff" opacity="0.7"/>
+    <path id="Snow_14" data-name="Snow 14" d="M860 541.5 C860 540.672 860.672 540 861.5 540 C862.328 540 863 540.672 863 541.5 C863 542.328 862.328 543 861.5 543 C860.672 543 860 542.328 860 541.5 Z" fill="#ffffff" opacity="0.7"/>
+    <path id="Snow_15" data-name="Snow 15" d="M400 561.5 C400 560.672 400.672 560 401.5 560 C402.328 560 403 560.672 403 561.5 C403 562.328 402.328 563 401.5 563 C400.672 563 400 562.328 400 561.5 Z" fill="#ffffff" opacity="0.7"/>
+    <path id="Drift" d="M191.5 745 C320 724 440 738 540 732 C640 726 700 736 808.5 745 C728.997 831.058 617.161 879.995 500 879.995 C382.839 879.995 271.003 831.058 191.5 745 Z" fill="url(#linear-gradient-2)"/>
+    <path id="Drift_light" data-name="Drift light" d="M199.5 743 C320 722 440 734 540 728 C640 722 700 732 800.5 743" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Spruce_1" data-name="Spruce 1" d="M738 761 L746 761 L745 740 L805 743 L779.8 728 L791.6 713.8 L771.8 698.8 L778.2 684.5 L763.7 669.5 L764.8 655.2 L755.7 640.2 L751.5 626 L747.7 611 L742 611 L736.3 611 L732.5 626 L728.3 640.2 L719.2 655.2 L720.3 669.5 L705.8 684.5 L712.2 698.8 L692.4 713.8 L704.2 728 L679 743 Z" fill="#2a3448" opacity="0.78"/>
+    <path id="Spruce_1_snowcap" data-name="Spruce 1 snowcap" d="M739 612.5 L742 605 L745 612.5 Z" fill="#e8eef6" opacity="0.7"/>
+    <path id="Spruce_2" data-name="Spruce 2" d="M758 759 L766 759 L765 744.44 L805.7 746.5 L788.2 736.1 L796.4 726.2 L782.6 715.8 L787.1 706 L777.1 695.6 L777.8 685.7 L771.5 675.3 L768.6 665.4 L765.9 655 L762 655 L758.1 655 L755.4 665.4 L752.5 675.3 L746.2 685.7 L746.9 695.6 L736.9 706 L741.4 715.8 L727.6 726.2 L735.8 736.1 L718.3 746.5 Z" fill="#2a3448" opacity="0.66"/>
+    <path id="Spruce_2_snowcap" data-name="Spruce 2 snowcap" d="M759 656.04 L762 649 L765 656.04 Z" fill="#e8eef6" opacity="0.7"/>
+    <path id="Spruce_3" data-name="Spruce 3" d="M682 763 L690 763 L689 751.24 L721.3 752.9 L707.2 744.5 L713.8 736.5 L702.7 728.1 L706.3 720.2 L698.2 711.8 L698.8 703.8 L693.7 695.4 L691.3 687.4 L689.2 679 L686 679 L682.8 679 L680.7 687.4 L678.3 695.4 L673.2 703.8 L673.8 711.8 L665.7 720.2 L669.3 728.1 L658.2 736.5 L664.8 744.5 L650.7 752.9 Z" fill="#2a3448" opacity="0.56"/>
+    <path id="Spruce_3_snowcap" data-name="Spruce 3 snowcap" d="M683 679.84 L686 673 L689 679.84 Z" fill="#e8eef6" opacity="0.7"/>
+    <path id="Spruce_far" data-name="Spruce far" d="M236 757 L244 757 L243 744.68 L277 746.4 L262.2 737.6 L269.1 729.3 L257.5 720.5 L261.3 712.1 L252.8 703.3 L253.4 695 L248 686.2 L245.5 677.8 L243.3 669 L240 669 L236.7 669 L234.5 677.8 L232 686.2 L226.6 695 L227.2 703.3 L218.7 712.1 L222.5 720.5 L210.9 729.3 L217.8 737.6 L203 746.4 Z" fill="#2a3448" opacity="0.46"/>
+    <path id="Spruce_far_snowcap" data-name="Spruce far snowcap" d="M237 669.88 L240 663 L243 669.88 Z" fill="#e8eef6" opacity="0.7"/>
+    <path id="Ear_far" data-name="Ear far" d="M540 372 C544 332 556 296 578 268 C586 288 594 316 598 344 C586 362 562 372 540 372 Z" fill="url(#linear-gradient-3)" stroke="#171c24" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Ear_near" data-name="Ear near" d="M452 376 C460 332 478 292 506 258 C514 250 524 252 530 260 C544 282 550 316 544 350 C542 362 538 372 532 380 Z" fill="url(#linear-gradient-4)" stroke="#171c24" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Wolf" d="M296 452 C314 434 348 422 382 416 C404 404 424 386 444 366 C466 344 498 334 528 338 C556 342 576 360 586 386 C624 418 650 466 656 524 C662 586 648 656 620 710 L606 694 L592 716 L576 694 L560 718 L544 696 L528 718 L512 696 L496 716 L480 694 L466 712 L452 692 L440 706 C428 664 424 610 430 556 C434 528 422 506 402 496 C378 492 348 488 330 484 C312 478 298 466 296 452 Z" fill="url(#linear-gradient-4)" stroke="#171c24" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Ear_inner" data-name="Ear inner" d="M478 344 C482 318 492 296 506 282 C512 296 516 316 512 336 C502 344 488 348 478 344 Z" fill="#3a2e28" opacity="0.7"/>
+    <path id="Ear_rim_light" data-name="Ear rim light" d="M472 336 C476 314 484 294 498 278" fill="none" stroke="#e8eef6" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Saddle" d="M576 396 C616 424 644 470 652 524 C658 580 648 640 626 690 C620 640 612 580 592 530 C578 490 560 448 546 424 Z" fill="url(#linear-gradient-3)" opacity="0.75"/>
+    <path id="Guard_hair_1" data-name="Guard hair 1" d="M610 470 C622 510 628 556 622 600" fill="none" stroke="#32363f" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Guard_hair_2" data-name="Guard hair 2" d="M584 500 C596 540 602 584 598 626" fill="none" stroke="#32363f" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Guard_hair_3" data-name="Guard hair 3" d="M636 520 C642 556 640 592 632 624" fill="none" stroke="#32363f" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Cheek_ruff" data-name="Cheek ruff" d="M404 470 C396 496 398 526 412 548 C402 562 402 584 416 600 C436 620 472 626 500 614 C524 604 538 584 538 560 C538 536 522 514 498 502 C470 488 436 476 404 470 Z" fill="url(#radial-gradient-2)" opacity="0.88"/>
+    <path id="Ruff_fur_1" data-name="Ruff fur 1" d="M404 516 C424 524 444 524 458 516" fill="none" stroke="#9aa2b0" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Ruff_fur_2" data-name="Ruff fur 2" d="M406 552 C428 562 452 564 470 556" fill="none" stroke="#9aa2b0" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Ruff_fur_3" data-name="Ruff fur 3" d="M424 586 C444 596 466 600 486 594" fill="none" stroke="#9aa2b0" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Muzzle_bridge" data-name="Muzzle bridge" d="M310 448 C332 432 362 422 392 420 C408 406 426 392 446 380 C430 398 412 414 400 430 C380 436 354 444 336 456 C326 462 316 458 310 448 Z" fill="url(#linear-gradient-3)" opacity="0.55"/>
+    <path id="Lower_jaw_pale" data-name="Lower jaw pale" d="M320 468 C340 476 368 480 392 482 C380 490 354 490 336 484 C326 480 320 475 320 468 Z" fill="url(#radial-gradient-3)" opacity="0.6"/>
+    <path id="Nose" d="M294 452 C290 440 296 430 308 428 C320 426 330 434 330 446 C330 458 320 466 308 464 C300 462 296 458 294 452 Z" fill="url(#radial-gradient-4)" stroke="#171c24" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Nose_glint" data-name="Nose glint" d="M300 436.5 C300 435.119 301.791 434 304 434 C306.209 434 308 435.119 308 436.5 C308 437.881 306.209 439 304 439 C301.791 439 300 437.881 300 436.5 Z" fill="#ffffff" opacity="0.4"/>
+    <path id="Mouth" d="M318 468 C340 476 364 480 388 482" fill="none" stroke="#171c24" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Lip_corner" data-name="Lip corner" d="M322 460 C328 464 334 466 340 466" fill="none" stroke="#171c24" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Eye" d="M420 428 C432 412 458 408 476 420 C464 438 436 442 420 428 Z" fill="url(#radial-gradient-5)" stroke="#171c24" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Pupil" d="M444 425.5 C444 421.91 446.462 419 449.5 419 C452.538 419 455 421.91 455 425.5 C455 429.09 452.538 432 449.5 432 C446.462 432 444 429.09 444 425.5 Z" fill="#0e0a04"/>
+    <path id="Glint" d="M447 424.5 C447 423.119 448.119 422 449.5 422 C450.881 422 452 423.119 452 424.5 C452 425.881 450.881 427 449.5 427 C448.119 427 447 425.881 447 424.5 Z" fill="#ffffff" opacity="0.9"/>
+    <path id="Upper_lid" data-name="Upper lid" d="M416 426 C430 410 460 406 480 418" fill="none" stroke="#171c24" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Lower_lid_light" data-name="Lower lid light" d="M424 440 C438 446 458 444 472 436" fill="none" stroke="#e8eef6" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Brow" d="M414 412 C434 400 460 398 480 406" fill="none" stroke="#32363f" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Hackle_1" data-name="Hackle 1" d="M436 600 C430 620 430 644 438 662" fill="none" stroke="#3a3f4a" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Hackle_2" data-name="Hackle 2" d="M456 650 C452 668 454 686 462 698" fill="none" stroke="#3a3f4a" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Hackle_3" data-name="Hackle 3" d="M620 600 C626 622 626 648 618 670" fill="none" stroke="#3a3f4a" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Hackle_4" data-name="Hackle 4" d="M596 640 C600 660 598 680 590 694" fill="none" stroke="#3a3f4a" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <text transform="matrix(1 0 0 1 500 942)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="56" fill="#e4eaf2" text-anchor="middle"><tspan x="0" y="0">GRAY WOLF</tspan></text>
+    <text transform="matrix(1 0 0 1 500 976)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="22" fill="#9eacc4" letter-spacing="8.8" text-anchor="middle"><tspan x="0" y="0">CANIS LUPUS</tspan></text>
+  </g>
+</svg>
