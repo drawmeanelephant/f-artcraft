@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#030a0e"/>
+      <stop offset="1" stop-color="#010203"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#12424a"/>
+      <stop offset="0.6" stop-color="#0a262e"/>
+      <stop offset="1" stop-color="#040e14"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="720" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0e2a30"/>
+      <stop offset="1" stop-color="#041014"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="500" cy="671" r="195.792" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#16323a"/>
+      <stop offset="0.6" stop-color="#0c1e24"/>
+      <stop offset="1" stop-color="#050d10"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-3" x1="0" y1="560" x2="0" y2="720" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1e4a52"/>
+      <stop offset="1" stop-color="#0a1e24"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-3" cx="451" cy="375" r="75" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b8f07e"/>
+      <stop offset="0.55" stop-color="#55c460"/>
+      <stop offset="1" stop-color="#177a3e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="549" cy="375" r="75" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b8f07e"/>
+      <stop offset="0.55" stop-color="#55c460"/>
+      <stop offset="1" stop-color="#177a3e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="500" cy="385" r="185" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a8a92"/>
+      <stop offset="0.7" stop-color="#1e565e"/>
+      <stop offset="1" stop-color="#0e3238"/>
+    </radialGradient>
+  </defs>
+  <title>Barreleye — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo_outer" data-name="Plate halo outer" d="M54 460 C54 213.681 253.681 14 500 14 C746.319 14 946 213.681 946 460 C946 706.319 746.319 906 500 906 C253.681 906 54 706.319 54 460 Z" fill="#12424a" opacity="0.1"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#0a2a30" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#2e6a72" stroke-width="3" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Snow_1" data-name="Snow 1" d="M210 303 C210 301.343 211.343 300 213 300 C214.657 300 216 301.343 216 303 C216 304.657 214.657 306 213 306 C211.343 306 210 304.657 210 303 Z" fill="#9ad4dc" opacity="0.45"/>
+    <path id="Snow_2" data-name="Snow 2" d="M770 252.5 C770 251.119 771.119 250 772.5 250 C773.881 250 775 251.119 775 252.5 C775 253.881 773.881 255 772.5 255 C771.119 255 770 253.881 770 252.5 Z" fill="#9ad4dc" opacity="0.45"/>
+    <path id="Snow_3" data-name="Snow 3" d="M180 473.5 C180 471.567 181.567 470 183.5 470 C185.433 470 187 471.567 187 473.5 C187 475.433 185.433 477 183.5 477 C181.567 477 180 475.433 180 473.5 Z" fill="#9ad4dc" opacity="0.45"/>
+    <path id="Snow_4" data-name="Snow 4" d="M830 453 C830 451.343 831.343 450 833 450 C834.657 450 836 451.343 836 453 C836 454.657 834.657 456 833 456 C831.343 456 830 454.657 830 453 Z" fill="#9ad4dc" opacity="0.45"/>
+    <path id="Snow_5" data-name="Snow 5" d="M250 692.5 C250 691.119 251.119 690 252.5 690 C253.881 690 255 691.119 255 692.5 C255 693.881 253.881 695 252.5 695 C251.119 695 250 693.881 250 692.5 Z" fill="#9ad4dc" opacity="0.45"/>
+    <path id="Snow_6" data-name="Snow 6" d="M760 713 C760 711.343 761.343 710 763 710 C764.657 710 766 711.343 766 713 C766 714.657 764.657 716 763 716 C761.343 716 760 714.657 760 713 Z" fill="#9ad4dc" opacity="0.45"/>
+    <path id="Snow_7" data-name="Snow 7" d="M160 562 C160 560.895 160.895 560 162 560 C163.105 560 164 560.895 164 562 C164 563.105 163.105 564 162 564 C160.895 564 160 563.105 160 562 Z" fill="#9ad4dc" opacity="0.45"/>
+    <path id="Snow_8" data-name="Snow 8" d="M845 582.5 C845 581.119 846.119 580 847.5 580 C848.881 580 850 581.119 850 582.5 C850 583.881 848.881 585 847.5 585 C846.119 585 845 583.881 845 582.5 Z" fill="#9ad4dc" opacity="0.45"/>
+    <path id="Snow_9" data-name="Snow 9" d="M410 112.5 C410 111.119 411.119 110 412.5 110 C413.881 110 415 111.119 415 112.5 C415 113.881 413.881 115 412.5 115 C411.119 115 410 113.881 410 112.5 Z" fill="#9ad4dc" opacity="0.45"/>
+    <path id="Snow_10" data-name="Snow 10" d="M610 107.5 C610 106.119 611.119 105 612.5 105 C613.881 105 615 106.119 615 107.5 C615 108.881 613.881 110 612.5 110 C611.119 110 610 108.881 610 107.5 Z" fill="#9ad4dc" opacity="0.45"/>
+    <path id="Snow_11" data-name="Snow 11" d="M320 162 C320 160.895 320.895 160 322 160 C323.105 160 324 160.895 324 162 C324 163.105 323.105 164 322 164 C320.895 164 320 163.105 320 162 Z" fill="#9ad4dc" opacity="0.45"/>
+    <path id="Snow_12" data-name="Snow 12" d="M700 172.5 C700 171.119 701.119 170 702.5 170 C703.881 170 705 171.119 705 172.5 C705 173.881 703.881 175 702.5 175 C701.119 175 700 173.881 700 172.5 Z" fill="#9ad4dc" opacity="0.45"/>
+    <path id="Snow_13" data-name="Snow 13" d="M340 812 C340 810.895 340.895 810 342 810 C343.105 810 344 810.895 344 812 C344 813.105 343.105 814 342 814 C340.895 814 340 813.105 340 812 Z" fill="#9ad4dc" opacity="0.45"/>
+    <path id="Snow_14" data-name="Snow 14" d="M670 822.5 C670 821.119 671.119 820 672.5 820 C673.881 820 675 821.119 675 822.5 C675 823.881 673.881 825 672.5 825 C671.119 825 670 823.881 670 822.5 Z" fill="#9ad4dc" opacity="0.45"/>
+    <path id="Snow_15" data-name="Snow 15" d="M505 97 C505 95.895 505.895 95 507 95 C508.105 95 509 95.895 509 97 C509 98.105 508.105 99 507 99 C505.895 99 505 98.105 505 97 Z" fill="#9ad4dc" opacity="0.45"/>
+    <path id="Snow_16" data-name="Snow 16" d="M280 392 C280 390.895 280.895 390 282 390 C283.105 390 284 390.895 284 392 C284 393.105 283.105 394 282 394 C280.895 394 280 393.105 280 392 Z" fill="#9ad4dc" opacity="0.45"/>
+    <path id="Snow_17" data-name="Snow 17" d="M735 342 C735 340.895 735.895 340 737 340 C738.105 340 739 340.895 739 342 C739 343.105 738.105 344 737 344 C735.895 344 735 343.105 735 342 Z" fill="#9ad4dc" opacity="0.45"/>
+    <path id="Snow_18" data-name="Snow 18" d="M460 182 C460 180.895 460.895 180 462 180 C463.105 180 464 180.895 464 182 C464 183.105 463.105 184 462 184 C460.895 184 460 183.105 460 182 Z" fill="#9ad4dc" opacity="0.45"/>
+    <path id="Glow_speck_1" data-name="Glow speck 1" d="M300 252.5 C300 251.119 301.119 250 302.5 250 C303.881 250 305 251.119 305 252.5 C305 253.881 303.881 255 302.5 255 C301.119 255 300 253.881 300 252.5 Z" fill="#7ef0c8" opacity="0.6"/>
+    <path id="Glow_speck_2" data-name="Glow speck 2" d="M725 292.5 C725 291.119 726.119 290 727.5 290 C728.881 290 730 291.119 730 292.5 C730 293.881 728.881 295 727.5 295 C726.119 295 725 293.881 725 292.5 Z" fill="#7ef0c8" opacity="0.6"/>
+    <path id="Glow_speck_3" data-name="Glow speck 3" d="M215 612.5 C215 611.119 216.119 610 217.5 610 C218.881 610 220 611.119 220 612.5 C220 613.881 218.881 615 217.5 615 C216.119 615 215 613.881 215 612.5 Z" fill="#7ef0c8" opacity="0.6"/>
+    <path id="Glow_speck_4" data-name="Glow speck 4" d="M790 642.5 C790 641.119 791.119 640 792.5 640 C793.881 640 795 641.119 795 642.5 C795 643.881 793.881 645 792.5 645 C791.119 645 790 643.881 790 642.5 Z" fill="#7ef0c8" opacity="0.6"/>
+    <path id="Glow_speck_5" data-name="Glow speck 5" d="M555 142.5 C555 141.119 556.119 140 557.5 140 C558.881 140 560 141.119 560 142.5 C560 143.881 558.881 145 557.5 145 C556.119 145 555 143.881 555 142.5 Z" fill="#7ef0c8" opacity="0.6"/>
+    <path id="Glow_speck_6" data-name="Glow speck 6" d="M375 747.5 C375 746.119 376.119 745 377.5 745 C378.881 745 380 746.119 380 747.5 C380 748.881 378.881 750 377.5 750 C376.119 750 375 748.881 375 747.5 Z" fill="#7ef0c8" opacity="0.6"/>
+    <path id="Silt_band" data-name="Silt band" d="M194 748 C380 730 620 730 806 748 C726.622 832.431 615.886 880.313 500 880.313 C384.114 880.313 273.378 832.431 194 748 Z" fill="url(#linear-gradient-2)" stroke="#08222a" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Silt_wisp_L" data-name="Silt wisp L" d="M250 764 C263.333 749.333 278.667 737.333 296 728" fill="none" stroke="#1e4a52" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Silt_wisp_R" data-name="Silt wisp R" d="M750 766 C736.667 750 721.333 736.667 704 726" fill="none" stroke="#1e4a52" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Body" d="M500 520 C600 520 668 565 690 640 C705 695 690 745 655 775 C610 810 550 822 500 822 C450 822 390 810 345 775 C310 745 295 695 310 640 C332 565 400 520 500 520 Z" fill="url(#radial-gradient-2)" stroke="#02100f" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Fin_L" data-name="Fin L" d="M318 640 C275 660 250 700 252 745 C290 735 322 705 335 668 Z" fill="url(#linear-gradient-3)" stroke="#02100f" stroke-width="4" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Fin_R" data-name="Fin R" d="M682 640 C725 660 750 700 748 745 C710 735 678 705 665 668 Z" fill="url(#linear-gradient-3)" stroke="#02100f" stroke-width="4" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Flank_sheen" data-name="Flank sheen" d="M360 605 C360 580.147 422.68 560 500 560 C577.32 560 640 580.147 640 605 C640 629.853 577.32 650 500 650 C422.68 650 360 629.853 360 605 Z" fill="#3a8a92" opacity="0.14"/>
+    <path id="Belly_shade" data-name="Belly shade" d="M360 760 C430 790 570 790 640 760 C600 800 540 815 500 815 C460 815 400 800 360 760 Z" fill="#020b0d" opacity="0.4"/>
+    <path id="Mouth" d="M455 600 C480 612 520 612 545 600" fill="none" stroke="#020b0d" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Nare_L" data-name="Nare L" d="M466 575 C466 570.029 469.134 566 473 566 C476.866 566 480 570.029 480 575 C480 579.971 476.866 584 473 584 C469.134 584 466 579.971 466 575 Z" fill="#02100f"/>
+    <path id="Nare_R" data-name="Nare R" d="M520 575 C520 570.029 523.134 566 527 566 C530.866 566 534 570.029 534 575 C534 579.971 530.866 584 527 584 C523.134 584 520 579.971 520 575 Z" fill="#02100f"/>
+    <path id="Skull_interior" data-name="Skull interior" d="M330 390 C330 298.873 406.112 225 500 225 C593.888 225 670 298.873 670 390 C670 481.127 593.888 555 500 555 C406.112 555 330 481.127 330 390 Z" fill="#07191d" opacity="0.85"/>
+    <path id="Interior_glow" data-name="Interior glow" d="M370 390 C370 320.964 428.203 265 500 265 C571.797 265 630 320.964 630 390 C630 459.036 571.797 515 500 515 C428.203 515 370 459.036 370 390 Z" fill="#1e565e" opacity="0.35"/>
+    <path id="Barrel_eye_L" data-name="Barrel eye L" d="M415 375 C415 333.579 431.118 300 451 300 C470.882 300 487 333.579 487 375 C487 416.421 470.882 450 451 450 C431.118 450 415 416.421 415 375 Z" fill="url(#radial-gradient-3)" stroke="#0a3a24" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Barrel_eye_R" data-name="Barrel eye R" d="M513 375 C513 333.579 529.118 300 549 300 C568.882 300 585 333.579 585 375 C585 416.421 568.882 450 549 450 C529.118 450 513 416.421 513 375 Z" fill="url(#radial-gradient-4)" stroke="#0a3a24" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Barrel_rim_L" data-name="Barrel rim L" d="M425 325 C425 315.611 436.641 308 451 308 C465.359 308 477 315.611 477 325 C477 334.389 465.359 342 451 342 C436.641 342 425 334.389 425 325 Z" fill="#0e5a30" stroke="#062418" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Barrel_rim_R" data-name="Barrel rim R" d="M523 325 C523 315.611 534.641 308 549 308 C563.359 308 575 315.611 575 325 C575 334.389 563.359 342 549 342 C534.641 342 523 334.389 523 325 Z" fill="#0e5a30" stroke="#062418" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Retina_L" data-name="Retina L" d="M435 324 C435 318.477 441.716 314 450 314 C458.284 314 465 318.477 465 324 C465 329.523 458.284 334 450 334 C441.716 334 435 329.523 435 324 Z" fill="#bffbc8" opacity="0.85"/>
+    <path id="Retina_R" data-name="Retina R" d="M535 324 C535 318.477 541.716 314 550 314 C558.284 314 565 318.477 565 324 C565 329.523 558.284 334 550 334 C541.716 334 535 329.523 535 324 Z" fill="#bffbc8" opacity="0.85"/>
+    <path id="Eye_base_L" data-name="Eye base L" d="M428 430 C428 421.716 438.297 415 451 415 C463.703 415 474 421.716 474 430 C474 438.284 463.703 445 451 445 C438.297 445 428 438.284 428 430 Z" fill="#8fe86a" opacity="0.3"/>
+    <path id="Eye_base_R" data-name="Eye base R" d="M526 430 C526 421.716 536.297 415 549 415 C561.703 415 572 421.716 572 430 C572 438.284 561.703 445 549 445 C536.297 445 526 438.284 526 430 Z" fill="#8fe86a" opacity="0.3"/>
+    <path id="Dome" d="M315 385 C315 285.589 397.827 205 500 205 C602.173 205 685 285.589 685 385 C685 484.411 602.173 565 500 565 C397.827 565 315 484.411 315 385 Z" fill="url(#radial-gradient-5)" stroke="#7ed8de" stroke-width="5" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Dome_glare_L" data-name="Dome glare L" d="M365 290 C395 245 450 222 505 220" fill="none" stroke="#d8f6f8" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Dome_glare_R" data-name="Dome glare R" d="M622 300 C640 335 645 380 635 420" fill="none" stroke="#beeef2" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Dome_glare_low" data-name="Dome glare low" d="M370 470 C390 505 430 530 480 540" fill="none" stroke="#9ad4dc" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.25"/>
+    <path id="Dome_seam" data-name="Dome seam" d="M340 520 C420 560 580 560 660 520" fill="none" stroke="#4aa8b0" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <text transform="matrix(1 0 0 1 500 962)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="60" fill="#bfe8e8" text-anchor="middle"><tspan x="0" y="0">BARRELEYE</tspan></text>
+  </g>
+</svg>
