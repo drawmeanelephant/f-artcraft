@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#160c18"/>
+      <stop offset="1" stop-color="#070408"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5e3e58"/>
+      <stop offset="0.6" stop-color="#3c2640"/>
+      <stop offset="1" stop-color="#20132a"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="720" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#33203a"/>
+      <stop offset="1" stop-color="#1a0f20"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0" y1="180" x2="0" y2="380" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5e4c44"/>
+      <stop offset="1" stop-color="#3a2c28"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="500" cy="710" r="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6e5a50"/>
+      <stop offset="0.62" stop-color="#4a3a34"/>
+      <stop offset="1" stop-color="#2c221e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="500" cy="496" r="176" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6e5a50"/>
+      <stop offset="0.62" stop-color="#4a3a34"/>
+      <stop offset="1" stop-color="#2c221e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="500" cy="612" r="62" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#54443c"/>
+      <stop offset="1" stop-color="#2e2420"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-4" x1="0" y1="640" x2="0" y2="685" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ede3cc"/>
+      <stop offset="1" stop-color="#b8a67e"/>
+    </linearGradient>
+  </defs>
+  <title>Tufted Deer — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo" data-name="Plate halo" d="M60 460 C60 216.995 256.995 20 500 20 C743.005 20 940 216.995 940 460 C940 703.005 743.005 900 500 900 C256.995 900 60 703.005 60 460 Z" fill="#5e3e58" opacity="0.09"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#2a1830" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#8a6e90" stroke-width="3" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Moon_haze" data-name="Moon haze" d="M180 245 C180 192.533 222.533 150 275 150 C327.467 150 370 192.533 370 245 C370 297.467 327.467 340 275 340 C222.533 340 180 297.467 180 245 Z" fill="#dcc6e4" opacity="0.1"/>
+    <path id="Moon" d="M215 245 C215 211.863 241.863 185 275 185 C308.137 185 335 211.863 335 245 C335 278.137 308.137 305 275 305 C241.863 305 215 278.137 215 245 Z" fill="#e4d4ea" opacity="0.7"/>
+    <path id="Moon_bite" data-name="Moon bite" d="M252 220 C252 191.281 275.281 168 304 168 C332.719 168 356 191.281 356 220 C356 248.719 332.719 272 304 272 C275.281 272 252 248.719 252 220 Z" fill="#4a2e50" opacity="0.88"/>
+    <path id="Mote_1" data-name="Mote 1" d="M200 323 C200 321.343 201.343 320 203 320 C204.657 320 206 321.343 206 323 C206 324.657 204.657 326 203 326 C201.343 326 200 324.657 200 323 Z" fill="#cba8d4" opacity="0.4"/>
+    <path id="Mote_2" data-name="Mote 2" d="M760 243 C760 241.343 761.343 240 763 240 C764.657 240 766 241.343 766 243 C766 244.657 764.657 246 763 246 C761.343 246 760 244.657 760 243 Z" fill="#cba8d4" opacity="0.4"/>
+    <path id="Mote_3" data-name="Mote 3" d="M170 473.5 C170 471.567 171.567 470 173.5 470 C175.433 470 177 471.567 177 473.5 C177 475.433 175.433 477 173.5 477 C171.567 477 170 475.433 170 473.5 Z" fill="#cba8d4" opacity="0.4"/>
+    <path id="Mote_4" data-name="Mote 4" d="M830 443 C830 441.343 831.343 440 833 440 C834.657 440 836 441.343 836 443 C836 444.657 834.657 446 833 446 C831.343 446 830 444.657 830 443 Z" fill="#cba8d4" opacity="0.4"/>
+    <path id="Mote_5" data-name="Mote 5" d="M240 692.5 C240 691.119 241.119 690 242.5 690 C243.881 690 245 691.119 245 692.5 C245 693.881 243.881 695 242.5 695 C241.119 695 240 693.881 240 692.5 Z" fill="#cba8d4" opacity="0.4"/>
+    <path id="Mote_6" data-name="Mote 6" d="M750 713 C750 711.343 751.343 710 753 710 C754.657 710 756 711.343 756 713 C756 714.657 754.657 716 753 716 C751.343 716 750 714.657 750 713 Z" fill="#cba8d4" opacity="0.4"/>
+    <path id="Mote_7" data-name="Mote 7" d="M150 562.5 C150 561.119 151.119 560 152.5 560 C153.881 560 155 561.119 155 562.5 C155 563.881 153.881 565 152.5 565 C151.119 565 150 563.881 150 562.5 Z" fill="#cba8d4" opacity="0.4"/>
+    <path id="Mote_8" data-name="Mote 8" d="M855 562.5 C855 561.119 856.119 560 857.5 560 C858.881 560 860 561.119 860 562.5 C860 563.881 858.881 565 857.5 565 C856.119 565 855 563.881 855 562.5 Z" fill="#cba8d4" opacity="0.4"/>
+    <path id="Mote_9" data-name="Mote 9" d="M400 112.5 C400 111.119 401.119 110 402.5 110 C403.881 110 405 111.119 405 112.5 C405 113.881 403.881 115 402.5 115 C401.119 115 400 113.881 400 112.5 Z" fill="#cba8d4" opacity="0.4"/>
+    <path id="Mote_10" data-name="Mote 10" d="M605 108 C605 106.343 606.343 105 608 105 C609.657 105 611 106.343 611 108 C611 109.657 609.657 111 608 111 C606.343 111 605 109.657 605 108 Z" fill="#cba8d4" opacity="0.4"/>
+    <path id="Mote_11" data-name="Mote 11" d="M690 162.5 C690 161.119 691.119 160 692.5 160 C693.881 160 695 161.119 695 162.5 C695 163.881 693.881 165 692.5 165 C691.119 165 690 163.881 690 162.5 Z" fill="#cba8d4" opacity="0.4"/>
+    <path id="Mote_12" data-name="Mote 12" d="M335 807.5 C335 806.119 336.119 805 337.5 805 C338.881 805 340 806.119 340 807.5 C340 808.881 338.881 810 337.5 810 C336.119 810 335 808.881 335 807.5 Z" fill="#cba8d4" opacity="0.4"/>
+    <path id="Mote_13" data-name="Mote 13" d="M665 817.5 C665 816.119 666.119 815 667.5 815 C668.881 815 670 816.119 670 817.5 C670 818.881 668.881 820 667.5 820 C666.119 820 665 818.881 665 817.5 Z" fill="#cba8d4" opacity="0.4"/>
+    <path id="Cloud_veil_1" data-name="Cloud veil 1" d="M600 200 C680 185 760 190 820 205" fill="none" stroke="#8a6e90" stroke-width="9" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Cloud_veil_2" data-name="Cloud veil 2" d="M620 240 C690 228 760 232 810 244" fill="none" stroke="#8a6e90" stroke-width="9" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Bracken_band" data-name="Bracken band" d="M194 748 C380 730 620 730 806 748 C726.622 832.431 615.886 880.313 500 880.313 C384.114 880.313 273.378 832.431 194 748 Z" fill="url(#linear-gradient-2)" stroke="#241428" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Twig_1" data-name="Twig 1" d="M250 764 C258 741.333 266.667 722.667 276 708" fill="none" stroke="#4a3250" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Twig_2" data-name="Twig 2" d="M310 770 C315.333 752.667 322.667 737.333 332 724" fill="none" stroke="#4a3250" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Twig_3" data-name="Twig 3" d="M694 768 C688.667 748 681.333 730.667 672 716" fill="none" stroke="#4a3250" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Twig_4" data-name="Twig 4" d="M742 762 C736.667 743.333 729.333 727.333 720 714" fill="none" stroke="#4a3250" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Twig_5" data-name="Twig 5" d="M400 774 C404 758 410 744 418 732" fill="none" stroke="#4a3250" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Twig_6" data-name="Twig 6" d="M600 774 C597.333 756.667 592.667 742 586 730" fill="none" stroke="#4a3250" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Ear_L" data-name="Ear L" d="M402 360 C340 348 272 320 242 272 C228 250 238 230 262 232 C322 238 385 295 412 342 Z" fill="url(#linear-gradient-3)" stroke="#1a0f16" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Ear_R" data-name="Ear R" d="M598 360 C660 348 728 320 758 272 C772 250 762 230 738 232 C678 238 615 295 588 342 Z" fill="url(#linear-gradient-3)" stroke="#1a0f16" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Ear_L_inner" data-name="Ear L inner" d="M392 348 C344 334 296 310 272 282 C304 290 358 318 398 340 Z" fill="#7a5560" opacity="0.45"/>
+    <path id="Ear_R_inner" data-name="Ear R inner" d="M608 348 C656 334 704 310 728 282 C696 290 642 318 602 340 Z" fill="#7a5560" opacity="0.45"/>
+    <path id="Neck" d="M445 610 C470 645 530 645 555 610 C575 690 585 745 575 795 C545 815 455 815 425 795 C415 745 425 690 445 610 Z" fill="url(#radial-gradient-2)" opacity="0.45"/>
+    <path id="Head" d="M500 320 C565 320 615 362 626 425 C636 485 622 552 588 608 C565 645 532 668 505 672 L495 672 C468 668 435 645 412 608 C378 552 364 485 374 425 C385 362 435 320 500 320 Z" fill="url(#radial-gradient-3)" stroke="#1a0f16" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Brow_light" data-name="Brow light" d="M420 380 C420 363.431 455.817 350 500 350 C544.183 350 580 363.431 580 380 C580 396.569 544.183 410 500 410 C455.817 410 420 396.569 420 380 Z" fill="#ffffff" opacity="0.1"/>
+    <path id="Muzzle_shade" data-name="Muzzle shade" d="M438 560 C455 640 478 662 500 664 C522 662 545 640 562 560 C540 600 520 616 500 618 C480 616 460 600 438 560 Z" fill="url(#radial-gradient-4)" opacity="0.6"/>
+    <path id="Tuft_main" data-name="Tuft main" d="M415 335 C450 295 520 282 572 302 C614 320 634 362 622 410 C614 440 600 464 580 482 C584 458 578 434 564 414 C560 442 550 464 534 478 C536 450 528 422 512 400 C500 424 484 436 466 440 C474 412 468 382 450 360 C436 348 424 340 415 335 Z" fill="#241a1e" stroke="#1a0f16" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Tuft_lock_L" data-name="Tuft lock L" d="M430 340 C418 372 424 410 446 434 C420 418 405 388 412 352 Z" fill="#241a1e" stroke="#1a0f16" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Tuft_sheen" data-name="Tuft sheen" d="M450 342 C470 320 510 310 545 318" fill="none" stroke="#4a3a44" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Eye_L" data-name="Eye L" d="M398 491 C398 479.402 406.059 470 416 470 C425.941 470 434 479.402 434 491 C434 502.598 425.941 512 416 512 C406.059 512 398 502.598 398 491 Z" fill="#140d10"/>
+    <path id="Eye_R" data-name="Eye R" d="M566 491 C566 479.402 574.059 470 584 470 C593.941 470 602 479.402 602 491 C602 502.598 593.941 512 584 512 C574.059 512 566 502.598 566 491 Z" fill="#140d10"/>
+    <path id="Eye_ring_L" data-name="Eye ring L" d="M394 491 C394 477.193 403.85 466 416 466 C428.15 466 438 477.193 438 491 C438 504.807 428.15 516 416 516 C403.85 516 394 504.807 394 491 Z" fill="none" stroke="#6e5064" stroke-width="2" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Eye_ring_R" data-name="Eye ring R" d="M562 491 C562 477.193 571.85 466 584 466 C596.15 466 606 477.193 606 491 C606 504.807 596.15 516 584 516 C571.85 516 562 504.807 562 491 Z" fill="none" stroke="#6e5064" stroke-width="2" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Glint_L" data-name="Glint L" d="M406 482.5 C406 480.015 408.015 478 410.5 478 C412.985 478 415 480.015 415 482.5 C415 484.985 412.985 487 410.5 487 C408.015 487 406 484.985 406 482.5 Z" fill="#f0e6f2" opacity="0.9"/>
+    <path id="Glint_R" data-name="Glint R" d="M574 482.5 C574 480.015 576.015 478 578.5 478 C580.985 478 583 480.015 583 482.5 C583 484.985 580.985 487 578.5 487 C576.015 487 574 484.985 574 482.5 Z" fill="#f0e6f2" opacity="0.9"/>
+    <path id="Lid_L" data-name="Lid L" d="M390 462 C406 452 428 452 442 462" fill="none" stroke="#2a1e18" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Lid_R" data-name="Lid R" d="M558 462 C574 452 596 452 610 462" fill="none" stroke="#2a1e18" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Nose" d="M482 622 C482 610 518 610 518 622 C518 636 508 644 500 644 C492 644 482 636 482 622 Z" fill="#161014"/>
+    <path id="Mouth" d="M500 644 C500 652 500 656 500 660 M500 660 C488 668 472 668 464 662 M500 660 C512 668 528 668 536 662" fill="none" stroke="#161014" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Fang_L" data-name="Fang L" d="M452 652 L470 652 L463 682 C458 674 454 664 452 652 Z" fill="url(#linear-gradient-4)" stroke="#1a0f16" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Fang_R" data-name="Fang R" d="M548 652 L530 652 L537 682 C542 674 546 664 548 652 Z" fill="url(#linear-gradient-4)" stroke="#1a0f16" stroke-width="3" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 962)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="60" fill="#dcc6dc" text-anchor="middle"><tspan x="0" y="0">TUFTED DEER</tspan></text>
+  </g>
+</svg>
