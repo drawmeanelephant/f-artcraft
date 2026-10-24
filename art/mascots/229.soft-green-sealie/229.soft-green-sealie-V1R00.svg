@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="500" x2="1000" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#101c1e"/>
+      <stop offset="1" stop-color="#070d10"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c4d4c8"/>
+      <stop offset="0.7" stop-color="#86a094"/>
+      <stop offset="1" stop-color="#46545c"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="240" y1="600" x2="740" y2="600" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#37444e"/>
+      <stop offset="1" stop-color="#222c36"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="621" cy="330" r="125" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bce4b4"/>
+      <stop offset="0.7" stop-color="#7ebe8a"/>
+      <stop offset="1" stop-color="#4e8a62"/>
+    </radialGradient>
+  </defs>
+  <title>Soft Green Sealie — Mascot Portrait</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#4e6058" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#deeae0" stroke-width="3" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Haze_1" data-name="Haze 1" d="M250 242 C250 224.327 294.772 210 350 210 C405.228 210 450 224.327 450 242 C450 259.673 405.228 274 350 274 C294.772 274 250 259.673 250 242 Z" fill="#deeee4" opacity="0.13"/>
+    <path id="Haze_2" data-name="Haze 2" d="M580 198.4 C580 177.192 633.726 160 700 160 C766.274 160 820 177.192 820 198.4 C820 219.608 766.274 236.8 700 236.8 C633.726 236.8 580 219.608 580 198.4 Z" fill="#deeee4" opacity="0.13"/>
+    <path id="Haze_3" data-name="Haze 3" d="M330 342.4 C330 330.029 361.34 320 400 320 C438.66 320 470 330.029 470 342.4 C470 354.771 438.66 364.8 400 364.8 C361.34 364.8 330 354.771 330 342.4 Z" fill="#deeee4" opacity="0.13"/>
+    <path id="Pane_shadow" data-name="Pane shadow" d="M270 795 C270 787.82 377.452 782 510 782 C642.548 782 750 787.82 750 795 C750 802.18 642.548 808 510 808 C377.452 808 270 802.18 270 795 Z" fill="#2e3a38" opacity="0.5"/>
+    <path id="Pane" d="M266 410 L714 410 C728.359 410 740 421.641 740 436 L740 764 C740 778.359 728.359 790 714 790 L266 790 C251.641 790 240 778.359 240 764 L240 436 C240 421.641 251.641 410 266 410 Z" fill="url(#linear-gradient-2)" stroke="#22302c" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Bezel_light" data-name="Bezel light" d="M262 424 C400 414 600 414 718 424" fill="none" stroke="#7e94a0" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Win_dot_1" data-name="Win dot 1" d="M272 445 C272 441.134 275.134 438 279 438 C282.866 438 286 441.134 286 445 C286 448.866 282.866 452 279 452 C275.134 452 272 448.866 272 445 Z" fill="#d88a8a" stroke="#22302c" stroke-width="3" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Win_dot_2" data-name="Win dot 2" d="M296 445 C296 441.134 299.134 438 303 438 C306.866 438 310 441.134 310 445 C310 448.866 306.866 452 303 452 C299.134 452 296 448.866 296 445 Z" fill="#d8c48a" stroke="#22302c" stroke-width="3" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Win_dot_3" data-name="Win dot 3" d="M320 445 C320 441.134 323.134 438 327 438 C330.866 438 334 441.134 334 445 C334 448.866 330.866 452 327 452 C323.134 452 320 448.866 320 445 Z" fill="#8fd8a0" stroke="#22302c" stroke-width="3" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Title_rule" data-name="Title rule" d="M359 438 L525 438 C528.866 438 532 441.134 532 445 L532 445 C532 448.866 528.866 452 525 452 L359 452 C355.134 452 352 448.866 352 445 L352 445 C352 441.134 355.134 438 359 438 Z" fill="#5a6e78" opacity="0.8"/>
+    <path id="Bar_1" data-name="Bar 1" d="M294 618 L312 618 C315.314 618 318 620.686 318 624 L318 672 C318 675.314 315.314 678 312 678 L294 678 C290.686 678 288 675.314 288 672 L288 624 C288 620.686 290.686 618 294 618 Z" fill="#8fd8a0" stroke="#22302c" stroke-width="3" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Bar_2" data-name="Bar 2" d="M336 590 L354 590 C357.314 590 360 592.686 360 596 L360 672 C360 675.314 357.314 678 354 678 L336 678 C332.686 678 330 675.314 330 672 L330 596 C330 592.686 332.686 590 336 590 Z" fill="#8fd8a0" stroke="#22302c" stroke-width="3" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Bar_3" data-name="Bar 3" d="M378 604 L396 604 C399.314 604 402 606.686 402 610 L402 672 C402 675.314 399.314 678 396 678 L378 678 C374.686 678 372 675.314 372 672 L372 610 C372 606.686 374.686 604 378 604 Z" fill="#8fd8a0" stroke="#22302c" stroke-width="3" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Bar_4" data-name="Bar 4" d="M420 574 L438 574 C441.314 574 444 576.686 444 580 L444 672 C444 675.314 441.314 678 438 678 L420 678 C416.686 678 414 675.314 414 672 L414 580 C414 576.686 416.686 574 420 574 Z" fill="#8fd8a0" stroke="#22302c" stroke-width="3" stroke-miterlimit="10" opacity="0.85"/>
+    <path id="Gauge_arc" data-name="Gauge arc" d="M470 640 C470 596.922 504.922 562 548 562 C591.078 562 626 596.922 626 640" fill="none" stroke="#5a6e78" stroke-width="12" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gauge_green" data-name="Gauge green" d="M470 640 C478.087 598.258 518.116 570.682 560 578" fill="none" stroke="#8fd8a0" stroke-width="12" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Needle" d="M548 640 L586 596" fill="none" stroke="#d8e4dc" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Needle_hub" data-name="Needle hub" d="M540 640 C540 635.582 543.582 632 548 632 C552.418 632 556 635.582 556 640 C556 644.418 552.418 648 548 648 C543.582 648 540 644.418 540 640 Z" fill="#d8e4dc" stroke="#22302c" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Sparkline" d="M272 724 C310 712 340 730 372 720 C404 710 430 726 462 718 C494 710 520 726 552 716 C584 708 614 722 646 714 C672 708 696 716 712 712" fill="none" stroke="#8fd8a0" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Baseline" d="M272 748 L712 748" fill="none" stroke="#5a6e78" stroke-width="3" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Sealie_glow" data-name="Sealie glow" d="M470 320 C470 237.157 543.873 170 635 170 C726.127 170 800 237.157 800 320 C800 402.843 726.127 470 635 470 C543.873 470 470 402.843 470 320 Z" fill="#8fd8a0" opacity="0.18"/>
+    <path id="Sealie_shadow" data-name="Sealie shadow" d="M520 440 C520 433.373 573.726 428 640 428 C706.274 428 760 433.373 760 440 C760 446.627 706.274 452 640 452 C573.726 452 520 446.627 520 440 Z" fill="#1e2a2e" opacity="0.45"/>
+    <path id="Body" d="M496 330 C496 263.726 551.964 210 621 210 C690.036 210 746 263.726 746 330 C746 396.274 690.036 450 621 450 C551.964 450 496 396.274 496 330 Z" fill="url(#radial-gradient-2)" stroke="#22302c" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Belly_light" data-name="Belly light" d="M540 360 C560 410 620 436 680 424 C660 444 620 452 580 444 C548 438 532 408 540 360 Z" fill="#dcead2" opacity="0.5"/>
+    <path id="Flipper_L" data-name="Flipper L" d="M500 424 C480 432 464 446 458 462 C474 466 496 462 510 450 Z" fill="#5e9470" stroke="#22302c" stroke-width="5" stroke-linejoin="round"/>
+    <path id="Flipper_R" data-name="Flipper R" d="M736 414 C758 418 774 430 782 446 C768 452 746 450 732 438 Z" fill="#5e9470" stroke="#22302c" stroke-width="5" stroke-linejoin="round"/>
+    <path id="Arm_flipper" data-name="Arm flipper" d="M528 430 C514 458 512 488 520 514 C530 522 546 520 552 508 C548 482 550 456 558 434 Z" fill="#6faa80" stroke="#22302c" stroke-width="5" stroke-linejoin="round"/>
+    <path id="Eyes" d="M572 318 C580 326 594 326 602 318 M648 318 C656 326 670 326 678 318" fill="none" stroke="#22302c" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Smile" d="M604 352 C616 364 638 364 648 352" fill="none" stroke="#22302c" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Muzzle" d="M592 346 C604 376 646 380 660 350 C652 378 600 380 592 346 Z" fill="#dcead2" opacity="0.45"/>
+    <path id="Freckle_1" data-name="Freckle 1" d="M566 338.5 C566 337.119 567.119 336 568.5 336 C569.881 336 571 337.119 571 338.5 C571 339.881 569.881 341 568.5 341 C567.119 341 566 339.881 566 338.5 Z" fill="#2e4438" opacity="0.7"/>
+    <path id="Freckle_2" data-name="Freckle 2" d="M560 350.5 C560 349.119 561.119 348 562.5 348 C563.881 348 565 349.119 565 350.5 C565 351.881 563.881 353 562.5 353 C561.119 353 560 351.881 560 350.5 Z" fill="#2e4438" opacity="0.7"/>
+    <path id="Freckle_3" data-name="Freckle 3" d="M572 358.5 C572 357.119 573.119 356 574.5 356 C575.881 356 577 357.119 577 358.5 C577 359.881 575.881 361 574.5 361 C573.119 361 572 359.881 572 358.5 Z" fill="#2e4438" opacity="0.7"/>
+    <path id="Freckle_4" data-name="Freckle 4" d="M688 338.5 C688 337.119 689.119 336 690.5 336 C691.881 336 693 337.119 693 338.5 C693 339.881 691.881 341 690.5 341 C689.119 341 688 339.881 688 338.5 Z" fill="#2e4438" opacity="0.7"/>
+    <path id="Freckle_5" data-name="Freckle 5" d="M694 350.5 C694 349.119 695.119 348 696.5 348 C697.881 348 699 349.119 699 350.5 C699 351.881 697.881 353 696.5 353 C695.119 353 694 351.881 694 350.5 Z" fill="#2e4438" opacity="0.7"/>
+    <path id="Freckle_6" data-name="Freckle 6" d="M682 358.5 C682 357.119 683.119 356 684.5 356 C685.881 356 687 357.119 687 358.5 C687 359.881 685.881 361 684.5 361 C683.119 361 682 359.881 682 358.5 Z" fill="#2e4438" opacity="0.7"/>
+    <path id="Blush_L" data-name="Blush L" d="M548 345 C548 341.134 553.82 338 561 338 C568.18 338 574 341.134 574 345 C574 348.866 568.18 352 561 352 C553.82 352 548 348.866 548 345 Z" fill="#d8989a" opacity="0.35"/>
+    <path id="Blush_R" data-name="Blush R" d="M680 345 C680 341.134 685.82 338 693 338 C700.18 338 706 341.134 706 345 C706 348.866 700.18 352 693 352 C685.82 352 680 348.866 680 345 Z" fill="#d8989a" opacity="0.35"/>
+    <text transform="matrix(1 0 0 1 500 930)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="56" fill="#dde8dc" text-anchor="middle"><tspan x="0" y="0">SOFT GREEN SEALIE</tspan></text>
+    <text transform="matrix(1 0 0 1 500 968)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="23" fill="#a0b8a8" text-anchor="middle"><tspan x="0" y="0">L I V E   S U R F A C E   R E A S S U R A N C E</tspan></text>
+  </g>
+</svg>
