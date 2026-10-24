@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0e160c"/>
+      <stop offset="1" stop-color="#030502"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d6d8a8"/>
+      <stop offset="0.55" stop-color="#93a468"/>
+      <stop offset="1" stop-color="#46562e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a9440"/>
+      <stop offset="1" stop-color="#56601e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0" y1="764" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#42492a"/>
+      <stop offset="1" stop-color="#181c0c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0" y1="220" x2="0" y2="860" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c86428"/>
+      <stop offset="0.5" stop-color="#96400f"/>
+      <stop offset="1" stop-color="#5e2406"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="398.862" cy="550.081" r="129.348" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4a3424"/>
+      <stop offset="1" stop-color="#241812"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="601.138" cy="550.081" r="129.348" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4a3424"/>
+      <stop offset="1" stop-color="#241812"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="500" cy="478" r="172" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7a563c"/>
+      <stop offset="0.7" stop-color="#5e3e2a"/>
+      <stop offset="1" stop-color="#402a1a"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="462" cy="426.153" r="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a2410"/>
+      <stop offset="1" stop-color="#120a04"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-6" cx="538" cy="426.153" r="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a2410"/>
+      <stop offset="1" stop-color="#120a04"/>
+    </radialGradient>
+  </defs>
+  <title>Orangutan — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo" data-name="Plate halo" d="M60 460 C60 216.995 256.995 20 500 20 C743.005 20 940 216.995 940 460 C940 703.005 743.005 900 500 900 C256.995 900 60 703.005 60 460 Z" fill="#93a468" opacity="0.08"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#36441f" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#e2e4bc" stroke-width="3" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Shaft_1" data-name="Shaft 1" d="M640 110 L520 430" fill="none" stroke="#eae6b4" stroke-width="70" stroke-linecap="round" stroke-miterlimit="10" opacity="0.09"/>
+    <path id="Shaft_2" data-name="Shaft 2" d="M760 180 L660 420" fill="none" stroke="#eae6b4" stroke-width="45" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Liana_L" data-name="Liana L" d="M300 98 C296 130 310 170 296 240 C288 282 292 318 304 350" fill="none" stroke="#2e4420" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Liana_R" data-name="Liana R" d="M690 94 C700 130 686 160 696 220 C702 262 696 300 684 330" fill="none" stroke="#2e4420" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Leaf_L1" data-name="Leaf L1" d="M296 180 C291.634 217.933 261.756 238.196 225.501 235.945 C231.545 200.127 258.067 175.634 296 180 Z" fill="#3c5228" stroke="#160c04" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Leaf_L1_rib" data-name="Leaf L1 rib" d="M296 180 L226 236" fill="none" stroke="#5e7840" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Leaf_L2" data-name="Leaf L2" d="M302 250 C334.453 249.526 354.805 272.492 356.878 303.298 C326.024 302.126 302.474 282.453 302 250 Z" fill="#2c3e1e" stroke="#160c04" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Leaf_L2_rib" data-name="Leaf L2 rib" d="M302 250 L357 303" fill="none" stroke="#5e7840" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Leaf_R1" data-name="Leaf R1" d="M694 160 C729.784 154.056 756.111 176.036 763.547 209.734 C729.255 213.591 699.944 195.784 694 160 Z" fill="#3c5228" stroke="#160c04" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Leaf_R1_rib" data-name="Leaf R1 rib" d="M694 160 L764 210" fill="none" stroke="#5e7840" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Leaf_R2" data-name="Leaf R2" d="M690 235 C688.028 265.483 664.966 282.868 635.908 282.519 C639.305 253.658 659.517 233.028 690 235 Z" fill="#2c3e1e" stroke="#160c04" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Leaf_R2_rib" data-name="Leaf R2 rib" d="M690 235 L636 283" fill="none" stroke="#5e7840" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Leaf_T1" data-name="Leaf T1" d="M500 60 C509.796 100.844 486.566 133.051 448.254 144.4 C440.99 105.109 459.156 69.796 500 60 Z" fill="#3c5228" stroke="#160c04" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Leaf_T1_rib" data-name="Leaf T1 rib" d="M500 60 L448 144" fill="none" stroke="#5e7840" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Leaf_T2" data-name="Leaf T2" d="M560 54 C594.24 56.931 613.254 83.278 612.182 115.952 C579.8 111.456 557.069 88.24 560 54 Z" fill="#2c3e1e" stroke="#160c04" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Leaf_T2_rib" data-name="Leaf T2 rib" d="M560 54 L612 116" fill="none" stroke="#5e7840" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Durian_stem" data-name="Durian stem" d="M236 150 C234 185 236 215 238 240" fill="none" stroke="#3a2e14" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Durian" d="M196 240 C188 280 194 318 214 338 C234 358 264 356 280 334 C294 314 296 278 284 254 C270 230 240 224 220 232 C208 236 200 238 196 240 Z" fill="url(#linear-gradient-2)" stroke="#160c04" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Spike_1" data-name="Spike 1" d="M200 258 L186 250" fill="none" stroke="#464e14" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Spike_2" data-name="Spike 2" d="M196 286 L180 286" fill="none" stroke="#464e14" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Spike_3" data-name="Spike 3" d="M206 316 L194 326" fill="none" stroke="#464e14" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Spike_4" data-name="Spike 4" d="M228 340 L224 355" fill="none" stroke="#464e14" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Spike_5" data-name="Spike 5" d="M256 344 L260 358" fill="none" stroke="#464e14" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Spike_6" data-name="Spike 6" d="M278 326 L290 336" fill="none" stroke="#464e14" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Spike_7" data-name="Spike 7" d="M288 296 L303 298" fill="none" stroke="#464e14" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Spike_8" data-name="Spike 8" d="M282 264 L295 256" fill="none" stroke="#464e14" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Spike_9" data-name="Spike 9" d="M260 240 L266 227" fill="none" stroke="#464e14" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Spike_10" data-name="Spike 10" d="M228 238 L222 225" fill="none" stroke="#464e14" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Durian_light" data-name="Durian light" d="M222 275 C222 265.611 227.373 258 234 258 C240.627 258 246 265.611 246 275 C246 284.389 240.627 292 234 292 C227.373 292 222 284.389 222 275 Z" fill="#c8cc78" opacity="0.4"/>
+    <path id="Floor" d="M210.2 764 C300 750 430 760 560 754 C650 750 730 758 789.8 764 C627.555 918.667 372.445 918.667 210.2 764 Z" fill="url(#linear-gradient-3)"/>
+    <path id="Floor_light" data-name="Floor light" d="M218.2 762 C300 748 430 756 560 750 C650 746 730 754 781.8 762" fill="none" stroke="#dce0b0" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Litter_leaf_1" data-name="Litter leaf 1" d="M280 798.8 C280 795.044 287.611 792 297 792 C306.389 792 314 795.044 314 798.8 C314 802.556 306.389 805.6 297 805.6 C287.611 805.6 280 802.556 280 798.8 Z" fill="#5a6634" opacity="0.7"/>
+    <path id="Litter_leaf_2" data-name="Litter leaf 2" d="M350 817.2 C350 814.328 355.82 812 363 812 C370.18 812 376 814.328 376 817.2 C376 820.072 370.18 822.4 363 822.4 C355.82 822.4 350 820.072 350 817.2 Z" fill="#4a5628" opacity="0.7"/>
+    <path id="Litter_leaf_3" data-name="Litter leaf 3" d="M700 805.6 C700 802.507 706.268 800 714 800 C721.732 800 728 802.507 728 805.6 C728 808.693 721.732 811.2 714 811.2 C706.268 811.2 700 808.693 700 805.6 Z" fill="#5a6634" opacity="0.7"/>
+    <path id="Mane" d="M318 330 C330 280 380 240 450 228 C520 216 600 232 656 272 C700 304 726 350 728 404 C760 440 778 490 776 548 C774 620 742 690 690 736 C740 752 743 778 747 800 C599.74 907.077 400.26 907.077 253 800 C257 778 260 752 310 736 C258 690 226 620 224 548 C222 490 240 440 272 404 C274 376 292 348 318 330 Z" fill="url(#linear-gradient-4)" stroke="#160c04" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Mane_edge_1" data-name="Mane edge 1" d="M262 430 L236 426" fill="none" stroke="#6e2e0a" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Mane_edge_2" data-name="Mane edge 2" d="M252 470 L224 472" fill="none" stroke="#6e2e0a" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Mane_edge_3" data-name="Mane edge 3" d="M248 514 L220 522" fill="none" stroke="#6e2e0a" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Mane_edge_4" data-name="Mane edge 4" d="M254 560 L230 572" fill="none" stroke="#6e2e0a" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Mane_edge_5" data-name="Mane edge 5" d="M266 610 L246 626" fill="none" stroke="#6e2e0a" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Mane_edge_6" data-name="Mane edge 6" d="M286 656 L272 676" fill="none" stroke="#6e2e0a" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Mane_edge_7" data-name="Mane edge 7" d="M738 430 L764 426" fill="none" stroke="#6e2e0a" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Mane_edge_8" data-name="Mane edge 8" d="M748 470 L776 472" fill="none" stroke="#6e2e0a" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Mane_edge_9" data-name="Mane edge 9" d="M752 514 L780 522" fill="none" stroke="#6e2e0a" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Mane_edge_10" data-name="Mane edge 10" d="M746 560 L770 572" fill="none" stroke="#6e2e0a" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Mane_edge_11" data-name="Mane edge 11" d="M734 610 L754 626" fill="none" stroke="#6e2e0a" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Mane_edge_12" data-name="Mane edge 12" d="M714 656 L728 676" fill="none" stroke="#6e2e0a" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Mane_edge_13" data-name="Mane edge 13" d="M340 300 L322 286" fill="none" stroke="#6e2e0a" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Mane_edge_14" data-name="Mane edge 14" d="M390 268 L378 250" fill="none" stroke="#6e2e0a" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Mane_edge_15" data-name="Mane edge 15" d="M610 268 L622 250" fill="none" stroke="#6e2e0a" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Mane_edge_16" data-name="Mane edge 16" d="M660 300 L678 286" fill="none" stroke="#6e2e0a" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Mane_hair_1" data-name="Mane hair 1" d="M300 420 C292 470 292 530 304 580" fill="none" stroke="#6e2e0a" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Mane_hair_2" data-name="Mane hair 2" d="M284 460 C276 520 280 580 296 630" fill="none" stroke="#6e2e0a" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Mane_hair_3" data-name="Mane hair 3" d="M330 380 C320 440 322 500 336 556" fill="none" stroke="#6e2e0a" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Mane_hair_4" data-name="Mane hair 4" d="M700 420 C708 470 708 530 696 580" fill="none" stroke="#6e2e0a" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Mane_hair_5" data-name="Mane hair 5" d="M716 460 C724 520 720 580 704 630" fill="none" stroke="#6e2e0a" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Mane_hair_6" data-name="Mane hair 6" d="M670 380 C680 440 678 500 664 556" fill="none" stroke="#6e2e0a" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Mane_hair_7" data-name="Mane hair 7" d="M420 266 C400 300 388 340 386 384" fill="none" stroke="#6e2e0a" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Mane_hair_8" data-name="Mane hair 8" d="M580 266 C600 300 612 340 614 384" fill="none" stroke="#6e2e0a" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Mane_light" data-name="Mane light" d="M360 300 C400 262 470 244 540 250 C600 256 650 280 678 318 C640 292 590 274 534 270 C478 266 412 278 360 300 Z" fill="#e08a44" opacity="0.55"/>
+    <path id="Flange_L" data-name="Flange L" d="M352 430 C330 470 322 520 330 570 C338 622 368 660 410 676 C436 684 458 678 468 658 C474 640 470 614 458 592 C442 562 434 528 436 494 C438 462 430 440 410 428 C390 418 366 418 352 430 Z" fill="url(#radial-gradient-2)"/>
+    <path id="Flange_R" data-name="Flange R" d="M648 430 C670 470 678 520 670 570 C662 622 632 660 590 676 C564 684 542 678 532 658 C526 640 530 614 542 592 C558 562 566 528 564 494 C562 462 570 440 590 428 C610 418 634 418 648 430 Z" fill="url(#radial-gradient-3)"/>
+    <path id="Flange_sheen_L" data-name="Flange sheen L" d="M350 470 C342 510 346 556 360 596 C344 560 338 514 344 474 Z" fill="#6a4e34" opacity="0.45"/>
+    <path id="Flange_sheen_R" data-name="Flange sheen R" d="M650 470 C658 510 654 556 640 596 C656 560 662 514 656 474 Z" fill="#6a4e34" opacity="0.45"/>
+    <path id="Face" d="M420 340 C440 318 470 306 500 306 C530 306 560 318 580 340 C600 364 612 398 610 434 C626 456 634 486 632 518 C630 562 612 602 578 626 C556 642 526 650 500 650 C474 650 444 642 422 626 C388 602 370 562 368 518 C366 486 374 456 390 434 C388 398 400 364 420 340 Z" fill="url(#radial-gradient-4)"/>
+    <path id="Brow" d="M420 400 C444 384 474 376 500 376 C526 376 556 384 580 400 C560 394 530 390 500 390 C470 390 440 394 420 400 Z" fill="#2a1a10" opacity="0.8"/>
+    <path id="Brow_ridge" data-name="Brow ridge" d="M430 384 C452 372 478 366 500 366 C522 366 548 372 570 384" fill="none" stroke="#160c04" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Eye_L" data-name="Eye L" d="M442 428 C452 416 470 414 482 422 C476 436 456 440 442 428 Z" fill="url(#radial-gradient-5)" stroke="#160c04" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Eye_R" data-name="Eye R" d="M518 422 C530 414 548 416 558 428 C544 440 524 436 518 422 Z" fill="url(#radial-gradient-6)" stroke="#160c04" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Glint_L" data-name="Glint L" d="M458 424.5 C458 423.119 459.119 422 460.5 422 C461.881 422 463 423.119 463 424.5 C463 425.881 461.881 427 460.5 427 C459.119 427 458 425.881 458 424.5 Z" fill="#ffffff" opacity="0.8"/>
+    <path id="Glint_R" data-name="Glint R" d="M536 424.5 C536 423.119 537.119 422 538.5 422 C539.881 422 541 423.119 541 424.5 C541 425.881 539.881 427 538.5 427 C537.119 427 536 425.881 536 424.5 Z" fill="#ffffff" opacity="0.8"/>
+    <path id="Lids" d="M438 424 C450 410 472 408 486 418 M514 418 C528 408 550 410 562 424" fill="none" stroke="#160c04" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Nose_bridge" data-name="Nose bridge" d="M462 470 C474 458 490 452 500 454 C510 452 526 458 538 470 C548 484 550 502 542 516 C532 530 514 536 500 536 C486 536 468 530 458 516 C450 502 452 484 462 470 Z" fill="#4a3020" opacity="0.85"/>
+    <path id="Nostril_L" data-name="Nostril L" d="M458 510 C448 518 438 532 440 546 C444 558 458 562 468 556 C476 548 476 534 468 524 C464 518 460 514 458 510 Z" fill="#1c1008"/>
+    <path id="Nostril_R" data-name="Nostril R" d="M542 510 C552 518 562 532 560 546 C556 558 542 562 532 556 C524 548 524 534 532 524 C536 518 540 514 542 510 Z" fill="#1c1008"/>
+    <path id="Septum" d="M470 522 C478 514 490 510 500 510 C510 510 522 514 530 522" fill="none" stroke="#241608" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Muzzle" d="M430 556 C450 546 478 544 500 548 C522 544 550 546 570 556 C584 570 586 594 576 612 C560 634 530 644 500 644 C470 644 440 634 424 612 C414 594 416 570 430 556 Z" fill="#6e4c34" opacity="0.9"/>
+    <path id="Mouth" d="M434 586 C460 598 480 602 500 602 C520 602 540 598 566 586" fill="none" stroke="#160c04" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Lower_lip" data-name="Lower lip" d="M446 600 C470 610 530 610 554 600" fill="none" stroke="#8a5e40" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Chin" d="M470 634 C470 627.373 483.431 622 500 622 C516.569 622 530 627.373 530 634 C530 640.627 516.569 646 500 646 C483.431 646 470 640.627 470 634 Z" fill="#5e3e28" opacity="0.6"/>
+    <path id="Beard_1" data-name="Beard 1" d="M452 648 C448 670 440 692 436 712" fill="none" stroke="#6e2e0a" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Beard_2" data-name="Beard 2" d="M486 648 C482 670 476 692 472 712" fill="none" stroke="#6e2e0a" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Beard_3" data-name="Beard 3" d="M514 648 C510 670 512 692 508 712" fill="none" stroke="#6e2e0a" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Beard_4" data-name="Beard 4" d="M548 648 C544 670 548 692 544 712" fill="none" stroke="#6e2e0a" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Plate_rim" data-name="Plate rim" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="none" stroke="#0c1206" stroke-width="6" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 962)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="60" fill="#dde2b8" text-anchor="middle"><tspan x="0" y="0">ORANGUTAN</tspan></text>
+  </g>
+</svg>
