@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#171014"/>
+      <stop offset="1" stop-color="#050408"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="390" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8e2a1e" stop-opacity="0.11"/>
+      <stop offset="1" stop-color="#8e2a1e" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="40" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a1418"/>
+      <stop offset="1" stop-color="#0c0507"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="0.58" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.66"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-3" x1="86" y1="46" x2="914" y2="874" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f0c078"/>
+      <stop offset="0.5" stop-color="#b9853a"/>
+      <stop offset="1" stop-color="#e8be76"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-3" cx="500" cy="350" r="380" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c25a32" stop-opacity="0.2"/>
+      <stop offset="0.55" stop-color="#8e2a1e" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#8e2a1e" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="282" cy="210" r="65.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffc97e" stop-opacity="0.12"/>
+      <stop offset="0.55" stop-color="#e8663a" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#e8663a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="282" cy="210" r="16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff3d0" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#ffc46b" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-6" cx="772" cy="356" r="46.2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffc97e" stop-opacity="0.12"/>
+      <stop offset="0.55" stop-color="#e8663a" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#e8663a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-7" cx="772" cy="356" r="16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff3d0" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#ffc46b" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-8" cx="196" cy="330" r="33.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffc97e" stop-opacity="0.12"/>
+      <stop offset="0.55" stop-color="#e8663a" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#e8663a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-9" cx="196" cy="330" r="16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff3d0" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#ffc46b" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-4" x1="0" y1="90" x2="0" y2="102" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9a6a24"/>
+      <stop offset="0.45" stop-color="#e8c074"/>
+      <stop offset="0.62" stop-color="#fbe6b4"/>
+      <stop offset="1" stop-color="#e8c074"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-10" cx="366" cy="307.8" r="149.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffb874" stop-opacity="0.2"/>
+      <stop offset="0.5" stop-color="#d9433b" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#d9433b" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-5" x1="366" y1="216" x2="366" y2="396" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e85a42"/>
+      <stop offset="0.45" stop-color="#c9372c"/>
+      <stop offset="1" stop-color="#7a1718"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-11" cx="354.75" cy="297" r="55.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd9b4" stop-opacity="0.3"/>
+      <stop offset="0.6" stop-color="#ff9e72" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#ff9e72" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-6" x1="0" y1="216" x2="0" y2="396" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9a6a24"/>
+      <stop offset="0.45" stop-color="#e8c074"/>
+      <stop offset="0.62" stop-color="#fbe6b4"/>
+      <stop offset="1" stop-color="#e8c074"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="0" y1="206" x2="0" y2="218" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9a6a24"/>
+      <stop offset="0.45" stop-color="#e8c074"/>
+      <stop offset="0.62" stop-color="#fbe6b4"/>
+      <stop offset="1" stop-color="#e8c074"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="0" y1="394" x2="0" y2="406" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9a6a24"/>
+      <stop offset="0.45" stop-color="#e8c074"/>
+      <stop offset="0.62" stop-color="#fbe6b4"/>
+      <stop offset="1" stop-color="#e8c074"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-12" cx="366" cy="306" r="48.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffcf96" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#c25a32" stop-opacity="0.04"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-9" x1="0" y1="408" x2="0" y2="421" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9a6a24"/>
+      <stop offset="0.45" stop-color="#e8c074"/>
+      <stop offset="0.62" stop-color="#fbe6b4"/>
+      <stop offset="1" stop-color="#e8c074"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-13" cx="634" cy="331.84" r="152.72" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffb874" stop-opacity="0.2"/>
+      <stop offset="0.5" stop-color="#d9433b" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#d9433b" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-10" x1="634" y1="238" x2="634" y2="422" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e85a42"/>
+      <stop offset="0.45" stop-color="#c9372c"/>
+      <stop offset="1" stop-color="#7a1718"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-14" cx="622.45" cy="320.8" r="57.04" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd9b4" stop-opacity="0.3"/>
+      <stop offset="0.6" stop-color="#ff9e72" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#ff9e72" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-11" x1="0" y1="238" x2="0" y2="422" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9a6a24"/>
+      <stop offset="0.45" stop-color="#e8c074"/>
+      <stop offset="0.62" stop-color="#fbe6b4"/>
+      <stop offset="1" stop-color="#e8c074"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-12" x1="0" y1="228" x2="0" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9a6a24"/>
+      <stop offset="0.45" stop-color="#e8c074"/>
+      <stop offset="0.62" stop-color="#fbe6b4"/>
+      <stop offset="1" stop-color="#e8c074"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-13" x1="0" y1="420" x2="0" y2="432" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9a6a24"/>
+      <stop offset="0.45" stop-color="#e8c074"/>
+      <stop offset="0.62" stop-color="#fbe6b4"/>
+      <stop offset="1" stop-color="#e8c074"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-15" cx="634" cy="330" r="49.68" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffcf96" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#c25a32" stop-opacity="0.04"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-14" x1="0" y1="434" x2="0" y2="447" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9a6a24"/>
+      <stop offset="0.45" stop-color="#e8c074"/>
+      <stop offset="0.62" stop-color="#fbe6b4"/>
+      <stop offset="1" stop-color="#e8c074"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-15" x1="218" y1="742" x2="298" y2="446" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7a4536"/>
+      <stop offset="0.55" stop-color="#3a1c18"/>
+      <stop offset="1" stop-color="#24100f"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-16" cx="500" cy="570" r="215" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff9a5a" stop-opacity="0.26"/>
+      <stop offset="0.55" stop-color="#d9433b" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#d9433b" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-16" x1="362" y1="432" x2="638" y2="708" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f07a5a"/>
+      <stop offset="0.28" stop-color="#d9433b"/>
+      <stop offset="0.72" stop-color="#a8282a"/>
+      <stop offset="1" stop-color="#6e1418"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-17" x1="500" y1="432" x2="638" y2="570" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffc0a0" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ffc0a0" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-18" x1="530" y1="601" x2="766" y2="771" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ee5945"/>
+      <stop offset="0.45" stop-color="#c0332c"/>
+      <stop offset="1" stop-color="#7a1718"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-19" x1="648" y1="601" x2="648" y2="677" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f99073"/>
+      <stop offset="1" stop-color="#c4402f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-20" x1="648" y1="706" x2="648" y2="734" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fbe6b4"/>
+      <stop offset="0.5" stop-color="#d8a24e"/>
+      <stop offset="1" stop-color="#8e5a1e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-21" x1="0" y1="655" x2="0" y2="699" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9a6a24"/>
+      <stop offset="0.45" stop-color="#e8c074"/>
+      <stop offset="0.62" stop-color="#fbe6b4"/>
+      <stop offset="1" stop-color="#e8c074"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-17" cx="542" cy="745" r="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000" stop-opacity="0.45"/>
+      <stop offset="0.6" stop-color="#000000" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-22" x1="0" y1="765" x2="0" y2="815" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9a6a24"/>
+      <stop offset="0.45" stop-color="#e8c074"/>
+      <stop offset="0.62" stop-color="#fbe6b4"/>
+      <stop offset="1" stop-color="#e8c074"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-23" x1="0" y1="785" x2="0" y2="827" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9a6a24"/>
+      <stop offset="0.45" stop-color="#e8c074"/>
+      <stop offset="0.62" stop-color="#fbe6b4"/>
+      <stop offset="1" stop-color="#e8c074"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-24" x1="0" y1="759" x2="0" y2="793" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9a6a24"/>
+      <stop offset="0.45" stop-color="#e8c074"/>
+      <stop offset="0.62" stop-color="#fbe6b4"/>
+      <stop offset="1" stop-color="#e8c074"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-25" x1="0" y1="804" x2="0" y2="836" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9a6a24"/>
+      <stop offset="0.45" stop-color="#e8c074"/>
+      <stop offset="0.62" stop-color="#fbe6b4"/>
+      <stop offset="1" stop-color="#e8c074"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-18" cx="322" cy="420" r="7.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd98e" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#ffd98e" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-19" cx="700" cy="470" r="6.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd98e" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#ffd98e" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-20" cx="412" cy="336" r="6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd98e" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#ffd98e" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-21" cx="586" cy="214" r="5.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd98e" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#ffd98e" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-22" cx="246" cy="400" r="5.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd98e" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#ffd98e" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-23" cx="742" cy="600" r="6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd98e" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#ffd98e" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-24" cx="356" cy="800" r="5.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd98e" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#ffd98e" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-25" cx="250" cy="560" r="4.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd98e" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#ffd98e" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-26" cx="770" cy="520" r="4.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd98e" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#ffd98e" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-27" cx="196" cy="500" r="4.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd98e" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#ffd98e" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-26" x1="714" y1="148" x2="764" y2="284" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b23a30"/>
+      <stop offset="1" stop-color="#7e1f1b"/>
+    </linearGradient>
+  </defs>
+  <title>Spring Festival — Festival Seal</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Backdrop_glow" data-name="Backdrop glow" d="M110 460 C110 244.609 284.609 70 500 70 C715.391 70 890 244.609 890 460 C890 675.391 715.391 850 500 850 C284.609 850 110 675.391 110 460 Z" fill="url(#radial-gradient-1)"/>
+    <path id="Plate_shadow" data-name="Plate shadow" d="M72 460 C72 223.622 263.622 32 500 32 C736.378 32 928 223.622 928 460 C928 696.378 736.378 888 500 888 C263.622 888 72 696.378 72 460 Z" fill="#000000" opacity="0.28"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#linear-gradient-2)" stroke="#5a2a12" stroke-width="10" stroke-miterlimit="10"/>
+    <path id="Plate_rim" data-name="Plate rim" d="M86 460 C86 231.354 271.354 46 500 46 C728.646 46 914 231.354 914 460 C914 688.646 728.646 874 500 874 C271.354 874 86 688.646 86 460 Z" fill="none" stroke="#d8a24e" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M110 460 C110 244.609 284.609 70 500 70 C715.391 70 890 244.609 890 460 C890 675.391 715.391 850 500 850 C284.609 850 110 675.391 110 460 Z" fill="none" stroke="#d8a24e" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Vignette" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-2)"/>
+    <path id="Rim_relight" data-name="Rim relight" d="M86 460 C86 231.354 271.354 46 500 46 C728.646 46 914 231.354 914 460 C914 688.646 728.646 874 500 874 C271.354 874 86 688.646 86 460 Z" fill="none" stroke="url(#linear-gradient-3)" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Warm_aura" data-name="Warm aura" d="M120 350 C120 167.746 290.132 20 500 20 C709.868 20 880 167.746 880 350 C880 532.254 709.868 680 500 680 C290.132 680 120 532.254 120 350 Z" fill="url(#radial-gradient-3)"/>
+    <path id="Tick_1" data-name="Tick 1" d="M500 82 L500 64" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_2" data-name="Tick 2" d="M597.8 94.9 L602.5 77.5" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_3" data-name="Tick 3" d="M689 132.6 L698 117.1" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_4" data-name="Tick 4" d="M767.3 192.7 L780 180" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_5" data-name="Tick 5" d="M827.4 271 L842.9 262" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_6" data-name="Tick 6" d="M865.1 362.2 L882.5 357.5" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_7" data-name="Tick 7" d="M878 460 L896 460" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_8" data-name="Tick 8" d="M865.1 557.8 L882.5 562.5" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_9" data-name="Tick 9" d="M827.4 649 L842.9 658" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_10" data-name="Tick 10" d="M767.3 727.3 L780 740" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_11" data-name="Tick 11" d="M689 787.4 L698 802.9" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_12" data-name="Tick 12" d="M597.8 825.1 L602.5 842.5" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_13" data-name="Tick 13" d="M500 838 L500 856" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_14" data-name="Tick 14" d="M402.2 825.1 L397.5 842.5" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_15" data-name="Tick 15" d="M311 787.4 L302 802.9" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_16" data-name="Tick 16" d="M232.7 727.3 L220 740" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_17" data-name="Tick 17" d="M172.6 649 L157.1 658" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_18" data-name="Tick 18" d="M134.9 557.8 L117.5 562.5" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_19" data-name="Tick 19" d="M122 460 L104 460" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_20" data-name="Tick 20" d="M134.9 362.2 L117.5 357.5" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_21" data-name="Tick 21" d="M172.6 271 L157.1 262" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_22" data-name="Tick 22" d="M232.7 192.7 L220 180" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_23" data-name="Tick 23" d="M311 132.6 L302 117.1" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_24" data-name="Tick 24" d="M402.2 94.9 L397.5 77.5" fill="none" stroke="#c79a46" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Ring_diamond_-135" data-name="Ring diamond -135" d="M217.9 170.9 L224.9 177.9 L217.9 184.9 L210.9 177.9 Z" fill="#e8c074" opacity="0.7"/>
+    <path id="Ring_diamond_-45" data-name="Ring diamond -45" d="M782.1 170.9 L789.1 177.9 L782.1 184.9 L775.1 177.9 Z" fill="#e8c074" opacity="0.7"/>
+    <path id="Ring_diamond_45" data-name="Ring diamond 45" d="M782.1 735.1 L789.1 742.1 L782.1 749.1 L775.1 742.1 Z" fill="#e8c074" opacity="0.7"/>
+    <path id="Ring_diamond_135" data-name="Ring diamond 135" d="M217.9 735.1 L224.9 742.1 L217.9 749.1 L210.9 742.1 Z" fill="#e8c074" opacity="0.7"/>
+    <path id="Firework_TL_glow" data-name="Firework TL glow" d="M216.9 210 C216.9 174.046 246.046 144.9 282 144.9 C317.954 144.9 347.1 174.046 347.1 210 C347.1 245.954 317.954 275.1 282 275.1 C246.046 275.1 216.9 245.954 216.9 210 Z" fill="url(#radial-gradient-4)"/>
+    <path id="Firework_TL_trail_1" data-name="Firework TL trail 1" d="M290.7 209.4 C303.167 214 315.433 215.567 327.5 214.1" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.52"/>
+    <path id="Firework_TL_trail_tip_1" data-name="Firework TL trail tip 1" d="M309.4 216.3 C315.4 215.567 321.433 214.833 327.5 214.1" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Firework_TL_tip_1" data-name="Firework TL tip 1" d="M324.859 214.112 C324.859 212.676 326.023 211.512 327.459 211.512 C328.895 211.512 330.059 212.676 330.059 214.112 C330.059 215.548 328.895 216.712 327.459 216.712 C326.023 216.712 324.859 215.548 324.859 214.112 Z" fill="#fbe6b4" opacity="0.72"/>
+    <path id="Firework_TL_trail_2" data-name="Firework TL trail 2" d="M289.1 214.9 C301.633 232.033 316.567 245.7 333.9 255.9" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.52"/>
+    <path id="Firework_TL_trail_tip_2" data-name="Firework TL trail tip 2" d="M307.9 240.6 C316.567 245.733 325.233 250.833 333.9 255.9" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Firework_TL_tip_2" data-name="Firework TL tip 2" d="M331.272 255.936 C331.272 254.5 332.437 253.336 333.872 253.336 C335.308 253.336 336.472 254.5 336.472 255.936 C336.472 257.372 335.308 258.536 333.872 258.536 C332.437 258.536 331.272 257.372 331.272 255.936 Z" fill="#fbe6b4" opacity="0.72"/>
+    <path id="Firework_TL_trail_3" data-name="Firework TL trail 3" d="M285.6 217.9 C287.867 232.5 292.833 245.867 300.5 258" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.52"/>
+    <path id="Firework_TL_trail_tip_3" data-name="Firework TL trail tip 3" d="M289 239.8 C292.8 245.867 296.633 251.933 300.5 258" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Firework_TL_tip_3" data-name="Firework TL tip 3" d="M297.907 257.999 C297.907 256.563 299.072 255.399 300.507 255.399 C301.943 255.399 303.107 256.563 303.107 257.999 C303.107 259.435 301.943 260.599 300.507 260.599 C299.072 260.599 297.907 259.435 297.907 257.999 Z" fill="#fbe6b4" opacity="0.72"/>
+    <path id="Firework_TL_trail_4" data-name="Firework TL trail 4" d="M280.3 218.5 C274.967 232.567 272.6 247.2 273.2 262.4" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.52"/>
+    <path id="Firework_TL_trail_tip_4" data-name="Firework TL trail tip 4" d="M272.3 239.6 C272.567 247.2 272.867 254.8 273.2 262.4" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Firework_TL_tip_4" data-name="Firework TL tip 4" d="M270.585 262.439 C270.585 261.003 271.749 259.839 273.185 259.839 C274.621 259.839 275.785 261.003 275.785 262.439 C275.785 263.875 274.621 265.039 273.185 265.039 C271.749 265.039 270.585 263.875 270.585 262.439 Z" fill="#fbe6b4" opacity="0.72"/>
+    <path id="Firework_TL_trail_5" data-name="Firework TL trail 5" d="M276.2 216.4 C265.2 226.267 256.567 238.233 250.3 252.3" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.52"/>
+    <path id="Firework_TL_trail_tip_5" data-name="Firework TL trail tip 5" d="M259.7 231.2 C256.567 238.2 253.433 245.233 250.3 252.3" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Firework_TL_tip_5" data-name="Firework TL tip 5" d="M247.7 252.308 C247.7 250.872 248.864 249.708 250.3 249.708 C251.736 249.708 252.9 250.872 252.9 252.308 C252.9 253.744 251.736 254.908 250.3 254.908 C248.864 254.908 247.7 253.744 247.7 252.308 Z" fill="#fbe6b4" opacity="0.72"/>
+    <path id="Firework_TL_trail_6" data-name="Firework TL trail 6" d="M273.6 212.3 C256.067 216.167 239.567 223.933 224.1 235.6" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.52"/>
+    <path id="Firework_TL_trail_tip_6" data-name="Firework TL trail tip 6" d="M247.3 218.1 C239.567 223.967 231.833 229.8 224.1 235.6" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Firework_TL_tip_6" data-name="Firework TL tip 6" d="M221.48 235.57 C221.48 234.134 222.644 232.97 224.08 232.97 C225.516 232.97 226.68 234.134 226.68 235.57 C226.68 237.006 225.516 238.17 224.08 238.17 C222.644 238.17 221.48 237.006 221.48 235.57 Z" fill="#fbe6b4" opacity="0.72"/>
+    <path id="Firework_TL_trail_7" data-name="Firework TL trail 7" d="M273.5 208 C257.167 203.333 239.9 202.667 221.7 206" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.52"/>
+    <path id="Firework_TL_trail_tip_7" data-name="Firework TL trail tip 7" d="M249 201 C239.867 202.667 230.767 204.333 221.7 206" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Firework_TL_tip_7" data-name="Firework TL tip 7" d="M219.05 205.973 C219.05 204.537 220.214 203.373 221.65 203.373 C223.086 203.373 224.25 204.537 224.25 205.973 C224.25 207.409 223.086 208.573 221.65 208.573 C220.214 208.573 219.05 207.409 219.05 205.973 Z" fill="#fbe6b4" opacity="0.72"/>
+    <path id="Firework_TL_trail_8" data-name="Firework TL trail 8" d="M276.5 203.3 C268.3 190.233 256.9 179.8 242.3 172" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.52"/>
+    <path id="Firework_TL_trail_tip_8" data-name="Firework TL trail tip 8" d="M264.2 183.7 C256.867 179.767 249.567 175.867 242.3 172" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Firework_TL_tip_8" data-name="Firework TL tip 8" d="M239.658 171.979 C239.658 170.543 240.822 169.379 242.258 169.379 C243.694 169.379 244.858 170.543 244.858 171.979 C244.858 173.415 243.694 174.579 242.258 174.579 C240.822 174.579 239.658 173.415 239.658 171.979 Z" fill="#fbe6b4" opacity="0.72"/>
+    <path id="Firework_TL_trail_9" data-name="Firework TL trail 9" d="M281 201.4 C283.133 186.4 281.133 171.833 275 157.7" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.52"/>
+    <path id="Firework_TL_trail_tip_9" data-name="Firework TL trail tip 9" d="M284.2 178.9 C281.133 171.833 278.067 164.767 275 157.7" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Firework_TL_tip_9" data-name="Firework TL tip 9" d="M272.389 157.74 C272.389 156.304 273.553 155.14 274.989 155.14 C276.425 155.14 277.589 156.304 277.589 157.74 C277.589 159.176 276.425 160.34 274.989 160.34 C273.553 160.34 272.389 159.176 272.389 157.74 Z" fill="#fbe6b4" opacity="0.72"/>
+    <path id="Firework_TL_trail_10" data-name="Firework TL trail 10" d="M285.7 202.1 C296.3 191.833 303.367 179.933 306.9 166.4" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.52"/>
+    <path id="Firework_TL_trail_tip_10" data-name="Firework TL trail tip 10" d="M301.6 186.7 C303.4 179.9 305.167 173.133 306.9 166.4" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Firework_TL_tip_10" data-name="Firework TL tip 10" d="M304.333 166.354 C304.333 164.918 305.497 163.754 306.933 163.754 C308.369 163.754 309.533 164.918 309.533 166.354 C309.533 167.79 308.369 168.954 306.933 168.954 C305.497 168.954 304.333 167.79 304.333 166.354 Z" fill="#fbe6b4" opacity="0.72"/>
+    <path id="Firework_TL_trail_11" data-name="Firework TL trail 11" d="M289.2 205.2 C306.267 202 321 195.4 333.4 185.4" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.52"/>
+    <path id="Firework_TL_trail_tip_11" data-name="Firework TL trail tip 11" d="M314.8 200.4 C321 195.4 327.2 190.4 333.4 185.4" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Firework_TL_tip_11" data-name="Firework TL tip 11" d="M330.841 185.412 C330.841 183.976 332.005 182.812 333.441 182.812 C334.877 182.812 336.041 183.976 336.041 185.412 C336.041 186.848 334.877 188.012 333.441 188.012 C332.005 188.012 330.841 186.848 330.841 185.412 Z" fill="#fbe6b4" opacity="0.72"/>
+    <path id="Firework_TL_ember_1" data-name="Firework TL ember 1" d="M205.813 268.012 C205.813 267.238 206.439 266.612 207.213 266.612 C207.986 266.612 208.613 267.238 208.613 268.012 C208.613 268.785 207.986 269.412 207.213 269.412 C206.439 269.412 205.813 268.785 205.813 268.012 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_TL_ember_2" data-name="Firework TL ember 2" d="M216.9 280.249 C216.9 279.476 217.526 278.849 218.3 278.849 C219.073 278.849 219.7 279.476 219.7 280.249 C219.7 281.023 219.073 281.649 218.3 281.649 C217.526 281.649 216.9 281.023 216.9 280.249 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_TL_ember_3" data-name="Firework TL ember 3" d="M305.807 291.408 C305.807 290.635 306.434 290.008 307.207 290.008 C307.98 290.008 308.607 290.635 308.607 291.408 C308.607 292.182 307.98 292.808 307.207 292.808 C306.434 292.808 305.807 292.182 305.807 291.408 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_TL_ember_4" data-name="Firework TL ember 4" d="M227.533 288.676 C227.533 287.903 228.159 287.276 228.933 287.276 C229.706 287.276 230.333 287.903 230.333 288.676 C230.333 289.449 229.706 290.076 228.933 290.076 C228.159 290.076 227.533 289.449 227.533 288.676 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_TL_ember_5" data-name="Firework TL ember 5" d="M211.952 275.309 C211.952 274.536 212.579 273.909 213.352 273.909 C214.125 273.909 214.752 274.536 214.752 275.309 C214.752 276.082 214.125 276.709 213.352 276.709 C212.579 276.709 211.952 276.082 211.952 275.309 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_TL_ember_6" data-name="Firework TL ember 6" d="M198.979 257.826 C198.979 257.053 199.606 256.426 200.379 256.426 C201.153 256.426 201.779 257.053 201.779 257.826 C201.779 258.599 201.153 259.226 200.379 259.226 C199.606 259.226 198.979 258.599 198.979 257.826 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_TL_ember_7" data-name="Firework TL ember 7" d="M252.772 299.872 C252.772 299.099 253.399 298.472 254.172 298.472 C254.945 298.472 255.572 299.099 255.572 299.872 C255.572 300.645 254.945 301.272 254.172 301.272 C253.399 301.272 252.772 300.645 252.772 299.872 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_TL_ember_8" data-name="Firework TL ember 8" d="M304.157 292.397 C304.157 291.624 304.784 290.997 305.557 290.997 C306.33 290.997 306.957 291.624 306.957 292.397 C306.957 293.17 306.33 293.797 305.557 293.797 C304.784 293.797 304.157 293.17 304.157 292.397 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_TL_ember_9" data-name="Firework TL ember 9" d="M295.521 296.658 C295.521 295.885 296.147 295.258 296.921 295.258 C297.694 295.258 298.321 295.885 298.321 296.658 C298.321 297.431 297.694 298.058 296.921 298.058 C296.147 298.058 295.521 297.431 295.521 296.658 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_TL_core_halo" data-name="Firework TL core halo" d="M266 210 C266 201.163 273.163 194 282 194 C290.837 194 298 201.163 298 210 C298 218.837 290.837 226 282 226 C273.163 226 266 218.837 266 210 Z" fill="url(#radial-gradient-5)"/>
+    <path id="Firework_TL_core" data-name="Firework TL core" d="M277 210 C277 207.239 279.239 205 282 205 C284.761 205 287 207.239 287 210 C287 212.761 284.761 215 282 215 C279.239 215 277 212.761 277 210 Z" fill="#fff8e0" opacity="0.9"/>
+    <path id="Firework_R_glow" data-name="Firework R glow" d="M725.8 356 C725.8 330.484 746.484 309.8 772 309.8 C797.516 309.8 818.2 330.484 818.2 356 C818.2 381.516 797.516 402.2 772 402.2 C746.484 402.2 725.8 381.516 725.8 356 Z" fill="url(#radial-gradient-6)"/>
+    <path id="Firework_R_trail_1" data-name="Firework R trail 1" d="M778.2 356.2 C790.067 361.733 802.033 364.467 814.1 364.4" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.44"/>
+    <path id="Firework_R_trail_tip_1" data-name="Firework R trail tip 1" d="M796 364.5 C802 364.5 808.033 364.467 814.1 364.4" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Firework_R_tip_1" data-name="Firework R tip 1" d="M811.476 364.383 C811.476 362.947 812.64 361.783 814.076 361.783 C815.512 361.783 816.676 362.947 816.676 364.383 C816.676 365.819 815.512 366.983 814.076 366.983 C812.64 366.983 811.476 365.819 811.476 364.383 Z" fill="#fbe6b4" opacity="0.64"/>
+    <path id="Firework_R_trail_2" data-name="Firework R trail 2" d="M776.8 359.9 C784.067 371.433 793.067 380.833 803.8 388.1" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.44"/>
+    <path id="Firework_R_trail_tip_2" data-name="Firework R trail tip 2" d="M787.7 377.2 C793.033 380.867 798.4 384.5 803.8 388.1" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Firework_R_tip_2" data-name="Firework R tip 2" d="M801.152 388.128 C801.152 386.692 802.316 385.528 803.752 385.528 C805.188 385.528 806.352 386.692 806.352 388.128 C806.352 389.564 805.188 390.728 803.752 390.728 C802.316 390.728 801.152 389.564 801.152 388.128 Z" fill="#fbe6b4" opacity="0.64"/>
+    <path id="Firework_R_trail_3" data-name="Firework R trail 3" d="M773.1 362.1 C772.433 375.967 774.4 389.4 779 402.4" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.44"/>
+    <path id="Firework_R_trail_tip_3" data-name="Firework R trail tip 3" d="M772.1 382.9 C774.367 389.433 776.667 395.933 779 402.4" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Firework_R_tip_3" data-name="Firework R tip 3" d="M776.437 402.392 C776.437 400.956 777.601 399.792 779.037 399.792 C780.473 399.792 781.637 400.956 781.637 402.392 C781.637 403.828 780.473 404.992 779.037 404.992 C777.601 404.992 776.437 403.828 776.437 402.392 Z" fill="#fbe6b4" opacity="0.64"/>
+    <path id="Firework_R_trail_4" data-name="Firework R trail 4" d="M768.8 361.3 C762.067 369.767 757.233 379.467 754.3 390.4" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.44"/>
+    <path id="Firework_R_trail_tip_4" data-name="Firework R trail tip 4" d="M758.7 374 C757.233 379.467 755.767 384.933 754.3 390.4" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Firework_R_tip_4" data-name="Firework R tip 4" d="M751.705 390.371 C751.705 388.935 752.869 387.771 754.305 387.771 C755.741 387.771 756.905 388.935 756.905 390.371 C756.905 391.807 755.741 392.971 754.305 392.971 C752.869 392.971 751.705 391.807 751.705 390.371 Z" fill="#fbe6b4" opacity="0.64"/>
+    <path id="Firework_R_trail_5" data-name="Firework R trail 5" d="M766.2 358.1 C754.2 361.833 743.133 368.167 733 377.1" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.44"/>
+    <path id="Firework_R_trail_tip_5" data-name="Firework R trail tip 5" d="M748.2 363.7 C743.133 368.167 738.067 372.633 733 377.1" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Firework_R_tip_5" data-name="Firework R tip 5" d="M730.408 377.092 C730.408 375.656 731.572 374.492 733.008 374.492 C734.444 374.492 735.608 375.656 735.608 377.092 C735.608 378.528 734.444 379.692 733.008 379.692 C731.572 379.692 730.408 378.528 730.408 377.092 Z" fill="#fbe6b4" opacity="0.64"/>
+    <path id="Firework_R_trail_6" data-name="Firework R trail 6" d="M766.3 353.6 C757.367 349.067 747.4 346.9 736.4 347.1" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.44"/>
+    <path id="Firework_R_trail_tip_6" data-name="Firework R trail tip 6" d="M752.9 346.8 C747.367 346.867 741.867 346.967 736.4 347.1" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Firework_R_tip_6" data-name="Firework R tip 6" d="M733.809 347.051 C733.809 345.615 734.973 344.451 736.409 344.451 C737.845 344.451 739.009 345.615 739.009 347.051 C739.009 348.487 737.845 349.651 736.409 349.651 C734.973 349.651 733.809 348.487 733.809 347.051 Z" fill="#fbe6b4" opacity="0.64"/>
+    <path id="Firework_R_trail_7" data-name="Firework R trail 7" d="M768.9 350.6 C765.3 340.8 759.2 332.4 750.6 325.4" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.44"/>
+    <path id="Firework_R_trail_tip_7" data-name="Firework R trail tip 7" d="M763.5 335.9 C759.233 332.367 754.933 328.867 750.6 325.4" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Firework_R_tip_7" data-name="Firework R tip 7" d="M748.027 325.405 C748.027 323.969 749.191 322.805 750.627 322.805 C752.063 322.805 753.227 323.969 753.227 325.405 C753.227 326.841 752.063 328.005 750.627 328.005 C749.191 328.005 748.027 326.841 748.027 325.405 Z" fill="#fbe6b4" opacity="0.64"/>
+    <path id="Firework_R_trail_8" data-name="Firework R trail 8" d="M773.4 350 C778.4 341.8 780.833 333 780.7 323.6" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.44"/>
+    <path id="Firework_R_trail_tip_8" data-name="Firework R trail tip 8" d="M780.9 337.7 C780.833 332.967 780.767 328.267 780.7 323.6" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Firework_R_tip_8" data-name="Firework R tip 8" d="M778.148 323.6 C778.148 322.164 779.313 321 780.748 321 C782.184 321 783.348 322.164 783.348 323.6 C783.348 325.036 782.184 326.2 780.748 326.2 C779.313 326.2 778.148 325.036 778.148 323.6 Z" fill="#fbe6b4" opacity="0.64"/>
+    <path id="Firework_R_trail_9" data-name="Firework R trail 9" d="M776.6 351.9 C786.4 348.5 794.467 343.233 800.8 336.1" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.44"/>
+    <path id="Firework_R_trail_tip_9" data-name="Firework R trail tip 9" d="M791.3 346.8 C794.5 343.2 797.667 339.633 800.8 336.1" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Firework_R_tip_9" data-name="Firework R tip 9" d="M798.229 336.053 C798.229 334.618 799.393 333.453 800.829 333.453 C802.265 333.453 803.429 334.618 803.429 336.053 C803.429 337.489 802.265 338.653 800.829 338.653 C799.393 338.653 798.229 337.489 798.229 336.053 Z" fill="#fbe6b4" opacity="0.64"/>
+    <path id="Firework_R_ember_1" data-name="Firework R ember 1" d="M804.164 398.868 C804.164 398.094 804.79 397.468 805.564 397.468 C806.337 397.468 806.964 398.094 806.964 398.868 C806.964 399.641 806.337 400.268 805.564 400.268 C804.79 400.268 804.164 399.641 804.164 398.868 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_R_ember_2" data-name="Firework R ember 2" d="M749.431 419.419 C749.431 418.645 750.058 418.019 750.831 418.019 C751.604 418.019 752.231 418.645 752.231 419.419 C752.231 420.192 751.604 420.819 750.831 420.819 C750.058 420.819 749.431 420.192 749.431 419.419 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_R_ember_3" data-name="Firework R ember 3" d="M813.555 376.765 C813.555 375.992 814.182 375.365 814.955 375.365 C815.728 375.365 816.355 375.992 816.355 376.765 C816.355 377.538 815.728 378.165 814.955 378.165 C814.182 378.165 813.555 377.538 813.555 376.765 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_R_ember_4" data-name="Firework R ember 4" d="M779.913 418.003 C779.913 417.23 780.54 416.603 781.313 416.603 C782.086 416.603 782.713 417.23 782.713 418.003 C782.713 418.776 782.086 419.403 781.313 419.403 C780.54 419.403 779.913 418.776 779.913 418.003 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_R_ember_5" data-name="Firework R ember 5" d="M724.201 404.723 C724.201 403.95 724.828 403.323 725.601 403.323 C726.375 403.323 727.001 403.95 727.001 404.723 C727.001 405.496 726.375 406.123 725.601 406.123 C724.828 406.123 724.201 405.496 724.201 404.723 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_R_ember_6" data-name="Firework R ember 6" d="M799.938 404.185 C799.938 403.411 800.565 402.785 801.338 402.785 C802.112 402.785 802.738 403.411 802.738 404.185 C802.738 404.958 802.112 405.585 801.338 405.585 C800.565 405.585 799.938 404.958 799.938 404.185 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_R_ember_7" data-name="Firework R ember 7" d="M802.553 401.055 C802.553 400.282 803.18 399.655 803.953 399.655 C804.726 399.655 805.353 400.282 805.353 401.055 C805.353 401.828 804.726 402.455 803.953 402.455 C803.18 402.455 802.553 401.828 802.553 401.055 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_R_ember_8" data-name="Firework R ember 8" d="M784.919 415.784 C784.919 415.011 785.546 414.384 786.319 414.384 C787.093 414.384 787.719 415.011 787.719 415.784 C787.719 416.557 787.093 417.184 786.319 417.184 C785.546 417.184 784.919 416.557 784.919 415.784 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_R_ember_9" data-name="Firework R ember 9" d="M750.851 419.78 C750.851 419.007 751.478 418.38 752.251 418.38 C753.024 418.38 753.651 419.007 753.651 419.78 C753.651 420.553 753.024 421.18 752.251 421.18 C751.478 421.18 750.851 420.553 750.851 419.78 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_R_core_halo" data-name="Firework R core halo" d="M756 356 C756 347.163 763.163 340 772 340 C780.837 340 788 347.163 788 356 C788 364.837 780.837 372 772 372 C763.163 372 756 364.837 756 356 Z" fill="url(#radial-gradient-7)"/>
+    <path id="Firework_R_core" data-name="Firework R core" d="M767 356 C767 353.239 769.239 351 772 351 C774.761 351 777 353.239 777 356 C777 358.761 774.761 361 772 361 C769.239 361 767 358.761 767 356 Z" fill="#fff8e0" opacity="0.9"/>
+    <path id="Firework_L_glow" data-name="Firework L glow" d="M162.4 330 C162.4 311.443 177.443 296.4 196 296.4 C214.557 296.4 229.6 311.443 229.6 330 C229.6 348.557 214.557 363.6 196 363.6 C177.443 363.6 162.4 348.557 162.4 330 Z" fill="url(#radial-gradient-8)"/>
+    <path id="Firework_L_trail_1" data-name="Firework L trail 1" d="M200.5 329.7 C206.9 332.167 213.233 333.067 219.5 332.4" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.36"/>
+    <path id="Firework_L_trail_tip_1" data-name="Firework L trail tip 1" d="M210.1 333.4 C213.233 333.067 216.367 332.733 219.5 332.4" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.14"/>
+    <path id="Firework_L_tip_1" data-name="Firework L tip 1" d="M216.88 332.385 C216.88 330.949 218.044 329.785 219.48 329.785 C220.916 329.785 222.08 330.949 222.08 332.385 C222.08 333.821 220.916 334.985 219.48 334.985 C218.044 334.985 216.88 333.821 216.88 332.385 Z" fill="#fbe6b4" opacity="0.56"/>
+    <path id="Firework_L_trail_2" data-name="Firework L trail 2" d="M198.9 333.4 C203.3 343.333 209.3 351.867 216.9 359" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.36"/>
+    <path id="Firework_L_trail_tip_2" data-name="Firework L trail tip 2" d="M205.5 348.3 C209.3 351.833 213.1 355.4 216.9 359" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.14"/>
+    <path id="Firework_L_tip_2" data-name="Firework L tip 2" d="M214.314 359.008 C214.314 357.572 215.478 356.408 216.914 356.408 C218.35 356.408 219.514 357.572 219.514 359.008 C219.514 360.443 218.35 361.608 216.914 361.608 C215.478 361.608 214.314 360.443 214.314 359.008 Z" fill="#fbe6b4" opacity="0.56"/>
+    <path id="Firework_L_trail_3" data-name="Firework L trail 3" d="M196 334.5 C194.267 343.1 194.3 351.733 196.1 360.4" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.36"/>
+    <path id="Firework_L_trail_tip_3" data-name="Firework L trail tip 3" d="M193.4 347.4 C194.267 351.733 195.167 356.067 196.1 360.4" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.14"/>
+    <path id="Firework_L_tip_3" data-name="Firework L tip 3" d="M193.473 360.401 C193.473 358.965 194.637 357.801 196.073 357.801 C197.509 357.801 198.673 358.965 198.673 360.401 C198.673 361.837 197.509 363.001 196.073 363.001 C194.637 363.001 193.473 361.837 193.473 360.401 Z" fill="#fbe6b4" opacity="0.56"/>
+    <path id="Firework_L_trail_4" data-name="Firework L trail 4" d="M192.8 333.2 C186.6 338.333 181.633 344.667 177.9 352.2" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.36"/>
+    <path id="Firework_L_trail_tip_4" data-name="Firework L trail tip 4" d="M183.5 340.9 C181.633 344.7 179.767 348.467 177.9 352.2" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.14"/>
+    <path id="Firework_L_tip_4" data-name="Firework L tip 4" d="M175.275 352.226 C175.275 350.79 176.439 349.626 177.875 349.626 C179.311 349.626 180.475 350.79 180.475 352.226 C180.475 353.662 179.311 354.826 177.875 354.826 C176.439 354.826 175.275 353.662 175.275 352.226 Z" fill="#fbe6b4" opacity="0.56"/>
+    <path id="Firework_L_trail_5" data-name="Firework L trail 5" d="M191.5 329.8 C184.233 329.2 176.867 330.367 169.4 333.3" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.36"/>
+    <path id="Firework_L_trail_tip_5" data-name="Firework L trail tip 5" d="M180.6 328.9 C176.867 330.367 173.133 331.833 169.4 333.3" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.14"/>
+    <path id="Firework_L_tip_5" data-name="Firework L tip 5" d="M166.826 333.29 C166.826 331.854 167.99 330.69 169.426 330.69 C170.861 330.69 172.026 331.854 172.026 333.29 C172.026 334.726 170.861 335.89 169.426 335.89 C167.99 335.89 166.826 334.726 166.826 333.29 Z" fill="#fbe6b4" opacity="0.56"/>
+    <path id="Firework_L_trail_6" data-name="Firework L trail 6" d="M192.9 326.8 C189.367 321.933 184.6 318.267 178.6 315.8" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.36"/>
+    <path id="Firework_L_trail_tip_6" data-name="Firework L trail tip 6" d="M187.6 319.5 C184.6 318.3 181.6 317.067 178.6 315.8" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.14"/>
+    <path id="Firework_L_tip_6" data-name="Firework L tip 6" d="M175.95 315.792 C175.95 314.356 177.114 313.192 178.55 313.192 C179.986 313.192 181.15 314.356 181.15 315.792 C181.15 317.228 179.986 318.392 178.55 318.392 C177.114 318.392 175.95 317.228 175.95 315.792 Z" fill="#fbe6b4" opacity="0.56"/>
+    <path id="Firework_L_trail_7" data-name="Firework L trail 7" d="M195.7 325.5 C197.1 318.233 196.5 311.133 193.9 304.2" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.36"/>
+    <path id="Firework_L_trail_tip_7" data-name="Firework L trail tip 7" d="M197.8 314.6 C196.467 311.133 195.167 307.667 193.9 304.2" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.14"/>
+    <path id="Firework_L_tip_7" data-name="Firework L tip 7" d="M191.25 304.19 C191.25 302.754 192.414 301.59 193.85 301.59 C195.286 301.59 196.45 302.754 196.45 304.19 C196.45 305.626 195.286 306.79 193.85 306.79 C192.414 306.79 191.25 305.626 191.25 304.19 Z" fill="#fbe6b4" opacity="0.56"/>
+    <path id="Firework_L_trail_8" data-name="Firework L trail 8" d="M198.9 326.6 C206.1 323.067 211.767 318.233 215.9 312.1" fill="none" stroke="#e8c074" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.36"/>
+    <path id="Firework_L_trail_tip_8" data-name="Firework L trail tip 8" d="M209.7 321.3 C211.767 318.233 213.833 315.167 215.9 312.1" fill="none" stroke="#f2705a" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.14"/>
+    <path id="Firework_L_tip_8" data-name="Firework L tip 8" d="M213.303 312.071 C213.303 310.636 214.467 309.471 215.903 309.471 C217.339 309.471 218.503 310.636 218.503 312.071 C218.503 313.507 217.339 314.671 215.903 314.671 C214.467 314.671 213.303 313.507 213.303 312.071 Z" fill="#fbe6b4" opacity="0.56"/>
+    <path id="Firework_L_ember_1" data-name="Firework L ember 1" d="M172.086 373.432 C172.086 372.659 172.713 372.032 173.486 372.032 C174.26 372.032 174.886 372.659 174.886 373.432 C174.886 374.205 174.26 374.832 173.486 374.832 C172.713 374.832 172.086 374.205 172.086 373.432 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_L_ember_2" data-name="Firework L ember 2" d="M222.476 355.227 C222.476 354.453 223.103 353.827 223.876 353.827 C224.649 353.827 225.276 354.453 225.276 355.227 C225.276 356 224.649 356.627 223.876 356.627 C223.103 356.627 222.476 356 222.476 355.227 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_L_ember_3" data-name="Firework L ember 3" d="M212.402 368.504 C212.402 367.73 213.029 367.104 213.802 367.104 C214.576 367.104 215.202 367.73 215.202 368.504 C215.202 369.277 214.576 369.904 213.802 369.904 C213.029 369.904 212.402 369.277 212.402 368.504 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_L_ember_4" data-name="Firework L ember 4" d="M189.54 377.392 C189.54 376.619 190.167 375.992 190.94 375.992 C191.713 375.992 192.34 376.619 192.34 377.392 C192.34 378.165 191.713 378.792 190.94 378.792 C190.167 378.792 189.54 378.165 189.54 377.392 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_L_ember_5" data-name="Firework L ember 5" d="M221.114 357.842 C221.114 357.068 221.74 356.442 222.514 356.442 C223.287 356.442 223.914 357.068 223.914 357.842 C223.914 358.615 223.287 359.242 222.514 359.242 C221.74 359.242 221.114 358.615 221.114 357.842 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_L_ember_6" data-name="Firework L ember 6" d="M153.822 356.857 C153.822 356.084 154.449 355.457 155.222 355.457 C155.995 355.457 156.622 356.084 156.622 356.857 C156.622 357.63 155.995 358.257 155.222 358.257 C154.449 358.257 153.822 357.63 153.822 356.857 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_L_ember_7" data-name="Firework L ember 7" d="M166.265 369.954 C166.265 369.18 166.892 368.554 167.665 368.554 C168.438 368.554 169.065 369.18 169.065 369.954 C169.065 370.727 168.438 371.354 167.665 371.354 C166.892 371.354 166.265 370.727 166.265 369.954 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_L_ember_8" data-name="Firework L ember 8" d="M221.588 356.98 C221.588 356.207 222.215 355.58 222.988 355.58 C223.762 355.58 224.388 356.207 224.388 356.98 C224.388 357.753 223.762 358.38 222.988 358.38 C222.215 358.38 221.588 357.753 221.588 356.98 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_L_ember_9" data-name="Firework L ember 9" d="M184.381 377.133 C184.381 376.36 185.008 375.733 185.781 375.733 C186.554 375.733 187.181 376.36 187.181 377.133 C187.181 377.906 186.554 378.533 185.781 378.533 C185.008 378.533 184.381 377.906 184.381 377.133 Z" fill="#ffd08a" opacity="0.4"/>
+    <path id="Firework_L_core_halo" data-name="Firework L core halo" d="M180 330 C180 321.163 187.163 314 196 314 C204.837 314 212 321.163 212 330 C212 338.837 204.837 346 196 346 C187.163 346 180 338.837 180 330 Z" fill="url(#radial-gradient-9)"/>
+    <path id="Firework_L_core" data-name="Firework L core" d="M191 330 C191 327.239 193.239 325 196 325 C198.761 325 201 327.239 201 330 C201 332.761 198.761 335 196 335 C193.239 335 191 332.761 191 330 Z" fill="#fff8e0" opacity="0.9"/>
+    <path id="Cloud_BL" data-name="Cloud BL" d="M230 716 C208 698 226 670 252 674 C260 648 296 644 306 670 C324 654 352 666 352 692 C376 694 382 726 358 730 C330 738 290 734 270 734 C266 748 238 744 230 716 Z" fill="#e8b06a" opacity="0.07"/>
+    <path id="Cloud_BL_curl" data-name="Cloud BL curl" d="M276.1 701.3 C276.1 701.2 276 700.8 276.1 700.6 C276.1 700.3 276.2 700.1 276.3 699.8 C276.5 699.5 276.7 699.3 276.9 699.1 C277.1 698.8 277.4 698.6 277.7 698.5 C278.1 698.3 278.4 698.2 278.8 698.2 C279.2 698.1 279.6 698.1 280 698.2 C280.5 698.3 280.9 698.5 281.3 698.7 C281.7 698.9 282.1 699.2 282.4 699.6 C282.8 699.9 283.1 700.4 283.3 700.8 C283.5 701.3 283.7 701.9 283.8 702.4 C283.9 703 283.9 703.6 283.8 704.2 C283.7 704.8 283.5 705.4 283.3 706 C283 706.5 282.6 707.1 282.2 707.6 C281.7 708.1 281.2 708.5 280.5 708.9 C279.9 709.3 279.2 709.5 278.5 709.7 C277.8 709.9 277 710 276.2 709.9 C275.5 709.9 274.6 709.7 273.9 709.4 C273.1 709.2 272.3 708.7 271.7 708.2 C271 707.7 270.4 707.1 269.8 706.4 C269.3 705.7 268.9 704.8 268.6 704 C268.3 703.1 268 702.1 268 701.2 C268 700.2 268 699.2 268.3 698.3 C268.5 697.3 268.9 696.3 269.4 695.4 C270 694.6 270.6 693.7 271.4 693 C272.2 692.3 273.1 691.6 274.1 691.1 C275.1 690.6 276.2 690.3 277.3 690.1 C278.4 689.9 279.6 689.9 280.8 690 C282 690.1 283.2 690.5 284.3 690.9 C285.4 691.4 286.5 692.1 287.4 692.9 C288.4 693.7 289.2 694.7 289.9 695.7 C290.6 696.8 291.2 698 291.6 699.3 C292 700.6 292.2 701.9 292.2 703.3 C292.2 704.6 292 706.1 291.6 707.4 C291.2 708.7 290.1 710.6 289.8 711.2" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.27"/>
+    <path id="Cloud_BR" data-name="Cloud BR" d="M686.6 639.1 C668.6 624.4 683.3 601.4 704.6 604.7 C711.2 583.4 740.7 580.1 748.9 601.4 C763.7 588.3 786.6 598.1 786.6 619.4 C806.3 621.1 811.2 647.3 791.6 650.6 C768.6 657.2 735.8 653.9 719.4 653.9 C716.1 665.4 693.2 662.1 686.6 639.1 Z" fill="#e8b06a" opacity="0.06"/>
+    <path id="Cloud_BR_curl" data-name="Cloud BR curl" d="M724.4 627.1 C724.4 627 724.4 626.7 724.4 626.5 C724.4 626.3 724.5 626 724.6 625.8 C724.7 625.6 724.9 625.4 725 625.2 C725.2 625 725.5 624.9 725.7 624.8 C726 624.6 726.3 624.5 726.6 624.5 C726.9 624.5 727.3 624.5 727.6 624.5 C728 624.6 728.3 624.7 728.7 624.9 C729 625.1 729.3 625.4 729.6 625.6 C729.9 625.9 730.1 626.3 730.3 626.7 C730.5 627.1 730.7 627.5 730.7 628 C730.8 628.4 730.8 628.9 730.7 629.4 C730.7 629.9 730.5 630.4 730.3 630.9 C730.1 631.4 729.7 631.8 729.4 632.2 C729 632.6 728.5 633 728 633.3 C727.5 633.6 727 633.8 726.4 634 C725.8 634.1 725.1 634.2 724.5 634.1 C723.9 634.1 723.2 634 722.6 633.7 C722 633.5 721.3 633.2 720.8 632.8 C720.2 632.3 719.7 631.8 719.3 631.2 C718.8 630.6 718.5 630 718.2 629.3 C718 628.5 717.8 627.8 717.8 627 C717.7 626.2 717.8 625.4 718 624.6 C718.2 623.8 718.5 623 718.9 622.3 C719.4 621.5 719.9 620.8 720.6 620.2 C721.2 619.6 722 619.1 722.8 618.7 C723.6 618.3 724.5 618 725.4 617.9 C726.3 617.7 727.3 617.7 728.3 617.8 C729.2 617.9 730.2 618.2 731.1 618.6 C732 619 732.9 619.5 733.7 620.2 C734.4 620.8 735.2 621.6 735.7 622.5 C736.3 623.4 736.8 624.4 737.1 625.4 C737.4 626.5 737.6 627.6 737.6 628.7 C737.6 629.8 737.4 631 737.1 632.1 C736.8 633.1 735.9 634.7 735.7 635.2" fill="none" stroke="#ffffff" stroke-width="1.804" stroke-linecap="round" stroke-miterlimit="10" opacity="0.26"/>
+    <path id="Cloud_B" data-name="Cloud B" d="M599.8 830.6 C585.3 818.7 597.2 800.2 614.3 802.8 C619.6 785.7 643.4 783 650 800.2 C661.8 789.6 680.3 797.6 680.3 814.7 C696.2 816 700.1 837.2 684.3 839.8 C665.8 845.1 639.4 842.4 626.2 842.4 C623.6 851.7 605.1 849 599.8 830.6 Z" fill="#e8b06a" opacity="0.05"/>
+    <path id="Cloud_B_curl" data-name="Cloud B curl" d="M630.2 820.9 C630.2 820.8 630.2 820.6 630.2 820.4 C630.2 820.2 630.3 820 630.4 819.9 C630.5 819.7 630.6 819.5 630.7 819.4 C630.9 819.2 631.1 819.1 631.3 819 C631.5 818.9 631.8 818.8 632 818.8 C632.3 818.8 632.6 818.8 632.8 818.8 C633.1 818.9 633.4 819 633.7 819.1 C633.9 819.3 634.2 819.5 634.4 819.7 C634.6 820 634.8 820.2 635 820.6 C635.1 820.9 635.3 821.2 635.3 821.6 C635.4 822 635.4 822.4 635.3 822.8 C635.3 823.1 635.1 823.6 635 823.9 C634.8 824.3 634.5 824.7 634.2 825 C633.9 825.3 633.6 825.6 633.2 825.9 C632.8 826.1 632.3 826.3 631.8 826.4 C631.3 826.5 630.8 826.6 630.3 826.5 C629.8 826.5 629.3 826.4 628.8 826.2 C628.3 826 627.8 825.8 627.3 825.4 C626.9 825.1 626.4 824.7 626.1 824.2 C625.7 823.7 625.4 823.2 625.2 822.6 C625 822 624.9 821.4 624.9 820.8 C624.9 820.2 624.9 819.5 625.1 818.9 C625.2 818.2 625.5 817.6 625.8 817 C626.2 816.4 626.6 815.8 627.1 815.4 C627.6 814.9 628.3 814.5 628.9 814.1 C629.6 813.8 630.3 813.6 631 813.5 C631.8 813.3 632.6 813.3 633.3 813.4 C634.1 813.5 634.9 813.7 635.6 814 C636.3 814.3 637.1 814.8 637.7 815.3 C638.3 815.8 638.9 816.5 639.4 817.2 C639.8 817.9 640.2 818.7 640.4 819.5 C640.7 820.4 640.8 821.3 640.8 822.2 C640.8 823.1 640.7 824 640.5 824.9 C640.2 825.7 639.5 827 639.3 827.4" fill="none" stroke="#ffffff" stroke-width="1.452" stroke-linecap="round" stroke-miterlimit="10" opacity="0.25"/>
+    <path id="Cord" d="M330 96 C443.333 120 556.667 120 670 96" fill="none" stroke="#4a0e10" stroke-width="7.4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Cord_silk" data-name="Cord silk" d="M330 96 C443.333 120 556.667 120 670 96" fill="none" stroke="#b8342c" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Cord_light" data-name="Cord light" d="M330 95 C443.333 119 556.667 119 670 95" fill="none" stroke="#f2907a" stroke-width="1.1" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Cord_knot_330" data-name="Cord knot 330" d="M324 96 C324 92.686 326.686 90 330 90 C333.314 90 336 92.686 336 96 C336 99.314 333.314 102 330 102 C326.686 102 324 99.314 324 96 Z" fill="url(#linear-gradient-4)" stroke="#1d1216" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Cord_tail_330" data-name="Cord tail 330" d="M330 102 L330 118" fill="none" stroke="#b8342c" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Cord_tail_bead_330" data-name="Cord tail bead 330" d="M326 120 C326 117.791 327.791 116 330 116 C332.209 116 334 117.791 334 120 C334 122.209 332.209 124 330 124 C327.791 124 326 122.209 326 120 Z" fill="#e8c074" stroke="#1d1216" stroke-miterlimit="10"/>
+    <path id="Cord_knot_670" data-name="Cord knot 670" d="M664 96 C664 92.686 666.686 90 670 90 C673.314 90 676 92.686 676 96 C676 99.314 673.314 102 670 102 C666.686 102 664 99.314 664 96 Z" fill="url(#linear-gradient-4)" stroke="#1d1216" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Cord_tail_670" data-name="Cord tail 670" d="M670 102 L670 118" fill="none" stroke="#b8342c" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Cord_tail_bead_670" data-name="Cord tail bead 670" d="M666 120 C666 117.791 667.791 116 670 116 C672.209 116 674 117.791 674 120 C674 122.209 672.209 124 670 124 C667.791 124 666 122.209 666 120 Z" fill="#e8c074" stroke="#1d1216" stroke-miterlimit="10"/>
+    <path id="Lantern_L_cord" data-name="Lantern L cord" d="M366 116 C366 141.333 366 163.333 366 182" fill="none" stroke="#4a0e10" stroke-width="6.4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Lantern_L_cord_silk" data-name="Lantern L cord silk" d="M366 116 C366 141.333 366 163.333 366 182" fill="none" stroke="#b8342c" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Lantern_L_cord_light" data-name="Lantern L cord light" d="M366 115 C366 140.333 366 162.333 366 181" fill="none" stroke="#f2907a" stroke-width="1.1" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Lantern_L_glow" data-name="Lantern L glow" d="M223.5 307.8 C223.5 225.289 287.299 158.4 366 158.4 C444.701 158.4 508.5 225.289 508.5 307.8 C508.5 390.311 444.701 457.2 366 457.2 C287.299 457.2 223.5 390.311 223.5 307.8 Z" fill="url(#radial-gradient-10)"/>
+    <path id="Lantern_L" data-name="Lantern L" d="M291 306 C291 256.294 324.579 216 366 216 C407.421 216 441 256.294 441 306 C441 355.706 407.421 396 366 396 C324.579 396 291 355.706 291 306 Z" fill="url(#linear-gradient-5)" stroke="#1d1216" stroke-width="4.5" stroke-miterlimit="10"/>
+    <path id="Lantern_L_sheen" data-name="Lantern L sheen" d="M316.5 297 C316.5 266.183 333.625 241.2 354.75 241.2 C375.875 241.2 393 266.183 393 297 C393 327.817 375.875 352.8 354.75 352.8 C333.625 352.8 316.5 327.817 316.5 297 Z" fill="url(#radial-gradient-11)"/>
+    <path id="Lantern_L_bottom_shade" data-name="Lantern L bottom shade" d="M297 327.6 C312 376.2 420 376.2 435 327.6 C411 387 321 387 297 327.6 Z" fill="#4a0a0c" opacity="0.3"/>
+    <path id="Lantern_L_rib_-0.72" data-name="Lantern L rib -0.72" d="M312 244.5 C310.333 285.5 310.333 326.5 312 367.5" fill="none" stroke="#f6b07a" stroke-width="1.7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Lantern_L_rib_-0.54" data-name="Lantern L rib -0.54" d="M325.5 231.4 C322.767 281.133 322.767 330.867 325.5 380.6" fill="none" stroke="#f6b07a" stroke-width="1.7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Lantern_L_rib_-0.36" data-name="Lantern L rib -0.36" d="M339 223.3 C335.133 278.433 335.133 333.567 339 388.7" fill="none" stroke="#f6b07a" stroke-width="1.7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Lantern_L_rib_-0.18" data-name="Lantern L rib -0.18" d="M352.5 218.8 C347.567 276.933 347.567 335.067 352.5 393.2" fill="none" stroke="#f6b07a" stroke-width="1.7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Lantern_L_rib_0.0" data-name="Lantern L rib 0.0" d="M366 217.3 C372 276.433 372 335.533 366 394.6" fill="none" stroke="#f6b07a" stroke-width="1.7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Lantern_L_rib_0.18" data-name="Lantern L rib 0.18" d="M379.5 218.8 C384.433 276.933 384.433 335.067 379.5 393.2" fill="none" stroke="#f6b07a" stroke-width="1.7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Lantern_L_rib_0.36" data-name="Lantern L rib 0.36" d="M393 223.3 C396.867 278.433 396.867 333.567 393 388.7" fill="none" stroke="#f6b07a" stroke-width="1.7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Lantern_L_rib_0.54" data-name="Lantern L rib 0.54" d="M406.5 231.4 C409.233 281.133 409.233 330.867 406.5 380.6" fill="none" stroke="#f6b07a" stroke-width="1.7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Lantern_L_rib_0.72" data-name="Lantern L rib 0.72" d="M420 244.5 C421.667 285.5 421.667 326.5 420 367.5" fill="none" stroke="#f6b07a" stroke-width="1.7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Lantern_L_collar_-0.4" data-name="Lantern L collar -0.4" d="M298.5 230 C343.5 238.667 388.5 238.667 433.5 230" fill="none" stroke="url(#linear-gradient-6)" stroke-width="4.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Lantern_L_collar_0.4" data-name="Lantern L collar 0.4" d="M298.5 374 C343.5 382.667 388.5 382.667 433.5 374" fill="none" stroke="url(#linear-gradient-6)" stroke-width="4.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Lantern_L_cap_top" data-name="Lantern L cap top" d="M322.5 206 L409.5 206 C411.157 206 412.5 207.343 412.5 209 L412.5 215 C412.5 216.657 411.157 218 409.5 218 L322.5 218 C320.843 218 319.5 216.657 319.5 215 L319.5 209 C319.5 207.343 320.843 206 322.5 206 Z" fill="url(#linear-gradient-7)" stroke="#1d1216" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Lantern_L_cap_lip_top" data-name="Lantern L cap lip top" d="M335 216 L397 216 C398.105 216 399 216.895 399 218 L399 218 C399 219.105 398.105 220 397 220 L335 220 C333.895 220 333 219.105 333 218 L333 218 C333 216.895 333.895 216 335 216 Z" fill="#fbe6b4" opacity="0.55"/>
+    <path id="Lantern_L_cap_bottom" data-name="Lantern L cap bottom" d="M322.5 394 L409.5 394 C411.157 394 412.5 395.343 412.5 397 L412.5 403 C412.5 404.657 411.157 406 409.5 406 L322.5 406 C320.843 406 319.5 404.657 319.5 403 L319.5 397 C319.5 395.343 320.843 394 322.5 394 Z" fill="url(#linear-gradient-8)" stroke="#1d1216" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Lantern_L_cap_lip_bottom" data-name="Lantern L cap lip bottom" d="M335 404 L397 404 C398.105 404 399 404.895 399 406 L399 406 C399 407.105 398.105 408 397 408 L335 408 C333.895 408 333 407.105 333 406 L333 406 C333 404.895 333.895 404 335 404 Z" fill="#fbe6b4" opacity="0.55"/>
+    <path id="Lantern_L_loop" data-name="Lantern L loop" d="M366 206 C359 182 382 176 387 194" fill="none" stroke="#1d1216" stroke-width="3.4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Lantern_L_loop_glint" data-name="Lantern L loop glint" d="M366 206 C359 182 382 176 387 194" fill="none" stroke="#e8c074" stroke-width="1.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Lantern_L_panel" data-name="Lantern L panel" d="M327 306 C327 279.159 344.461 257.4 366 257.4 C387.539 257.4 405 279.159 405 306 C405 332.841 387.539 354.6 366 354.6 C344.461 354.6 327 332.841 327 306 Z" fill="url(#radial-gradient-12)"/>
+    <text transform="matrix(1 0 0 1 366 323)" x="0" y="0" xml:space="preserve" font-family="&apos;Noto Sans CJK SC&apos;, sans-serif" font-size="50.25" fill="#fbe6b4" text-anchor="middle"><tspan x="0" y="0">春</tspan></text>
+    <path id="Lantern_L_tassel_knot" data-name="Lantern L tassel knot" d="M362 408 L370 408 C371.657 408 373 409.343 373 411 L373 418 C373 419.657 371.657 421 370 421 L362 421 C360.343 421 359 419.657 359 418 L359 411 C359 409.343 360.343 408 362 408 Z" fill="url(#linear-gradient-9)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10"/>
+    <path id="Lantern_L_tassel_ring" data-name="Lantern L tassel ring" d="M357 423.5 C357 421.015 361.029 419 366 419 C370.971 419 375 421.015 375 423.5 C375 425.985 370.971 428 366 428 C361.029 428 357 425.985 357 423.5 Z" fill="none" stroke="#e8c074" stroke-width="2" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Lantern_L_tassel_1" data-name="Lantern L tassel 1" d="M359.4 426 C348.9 442 337.5 476.9 337.5 490.9" fill="none" stroke="#c0392e" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Lantern_L_tassel_2" data-name="Lantern L tassel 2" d="M361.4 426 C354.3 442 346.5 470.3 346.5 484.3" fill="none" stroke="#c0392e" stroke-width="3.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Lantern_L_tassel_3" data-name="Lantern L tassel 3" d="M363.6 426 C359.7 442 355.5 463.7 355.5 477.7" fill="none" stroke="#c0392e" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Lantern_L_tassel_4" data-name="Lantern L tassel 4" d="M366 426 C366 442 366 456 366 470" fill="none" stroke="#c0392e" stroke-width="3.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Lantern_L_tassel_5" data-name="Lantern L tassel 5" d="M368.4 426 C372.3 442 376.5 463.7 376.5 477.7" fill="none" stroke="#c0392e" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Lantern_L_tassel_6" data-name="Lantern L tassel 6" d="M370.6 426 C377.7 442 385.5 470.3 385.5 484.3" fill="none" stroke="#c0392e" stroke-width="3.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Lantern_L_tassel_7" data-name="Lantern L tassel 7" d="M372.6 426 C383.1 442 394.5 476.9 394.5 490.9" fill="none" stroke="#c0392e" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Lantern_L_tassel_core" data-name="Lantern L tassel core" d="M366 426 L366 478" fill="none" stroke="#f2a08c" stroke-width="1.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Lantern_R_cord" data-name="Lantern R cord" d="M634 112 C634 146 634 176.667 634 204" fill="none" stroke="#4a0e10" stroke-width="6.4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Lantern_R_cord_silk" data-name="Lantern R cord silk" d="M634 112 C634 146 634 176.667 634 204" fill="none" stroke="#b8342c" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Lantern_R_cord_light" data-name="Lantern R cord light" d="M634 111 C634 145 634 175.667 634 203" fill="none" stroke="#f2907a" stroke-width="1.1" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Lantern_R_glow" data-name="Lantern R glow" d="M487.7 331.84 C487.7 247.495 553.201 179.12 634 179.12 C714.799 179.12 780.3 247.495 780.3 331.84 C780.3 416.185 714.799 484.56 634 484.56 C553.201 484.56 487.7 416.185 487.7 331.84 Z" fill="url(#radial-gradient-13)"/>
+    <path id="Lantern_R" data-name="Lantern R" d="M557 330 C557 279.19 591.474 238 634 238 C676.526 238 711 279.19 711 330 C711 380.81 676.526 422 634 422 C591.474 422 557 380.81 557 330 Z" fill="url(#linear-gradient-10)" stroke="#1d1216" stroke-width="4.5" stroke-miterlimit="10"/>
+    <path id="Lantern_R_sheen" data-name="Lantern R sheen" d="M583.18 320.8 C583.18 289.298 600.762 263.76 622.45 263.76 C644.138 263.76 661.72 289.298 661.72 320.8 C661.72 352.302 644.138 377.84 622.45 377.84 C600.762 377.84 583.18 352.302 583.18 320.8 Z" fill="url(#radial-gradient-14)"/>
+    <path id="Lantern_R_bottom_shade" data-name="Lantern R bottom shade" d="M563.2 352.1 C578.6 401.8 689.4 401.8 704.8 352.1 C680.2 412.8 587.8 412.8 563.2 352.1 Z" fill="#4a0a0c" opacity="0.3"/>
+    <path id="Lantern_R_rib_-0.72" data-name="Lantern R rib -0.72" d="M578.6 267.1 C576.867 309.033 576.867 350.967 578.6 392.9" fill="none" stroke="#f6b07a" stroke-width="1.7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Lantern_R_rib_-0.54" data-name="Lantern R rib -0.54" d="M592.4 253.7 C589.6 304.567 589.6 355.433 592.4 406.3" fill="none" stroke="#f6b07a" stroke-width="1.7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Lantern_R_rib_-0.36" data-name="Lantern R rib -0.36" d="M606.3 245.5 C602.367 301.833 602.367 358.167 606.3 414.5" fill="none" stroke="#f6b07a" stroke-width="1.7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Lantern_R_rib_-0.18" data-name="Lantern R rib -0.18" d="M620.1 240.9 C615.1 300.3 615.1 359.7 620.1 419.1" fill="none" stroke="#f6b07a" stroke-width="1.7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Lantern_R_rib_0.0" data-name="Lantern R rib 0.0" d="M634 239.4 C640.133 299.8 640.133 360.2 634 420.6" fill="none" stroke="#f6b07a" stroke-width="1.7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Lantern_R_rib_0.18" data-name="Lantern R rib 0.18" d="M647.9 240.9 C652.9 300.3 652.9 359.7 647.9 419.1" fill="none" stroke="#f6b07a" stroke-width="1.7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Lantern_R_rib_0.36" data-name="Lantern R rib 0.36" d="M661.7 245.5 C665.633 301.833 665.633 358.167 661.7 414.5" fill="none" stroke="#f6b07a" stroke-width="1.7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Lantern_R_rib_0.54" data-name="Lantern R rib 0.54" d="M675.6 253.7 C678.4 304.567 678.4 355.433 675.6 406.3" fill="none" stroke="#f6b07a" stroke-width="1.7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Lantern_R_rib_0.72" data-name="Lantern R rib 0.72" d="M689.4 267.1 C691.133 309.033 691.133 350.967 689.4 392.9" fill="none" stroke="#f6b07a" stroke-width="1.7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Lantern_R_collar_-0.4" data-name="Lantern R collar -0.4" d="M564.7 252.4 C610.9 261.067 657.1 261.067 703.3 252.4" fill="none" stroke="url(#linear-gradient-11)" stroke-width="4.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Lantern_R_collar_0.4" data-name="Lantern R collar 0.4" d="M564.7 399.6 C610.9 408.267 657.1 408.267 703.3 399.6" fill="none" stroke="url(#linear-gradient-11)" stroke-width="4.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Lantern_R_cap_top" data-name="Lantern R cap top" d="M589.26 228 L678.74 228 C680.397 228 681.74 229.343 681.74 231 L681.74 237 C681.74 238.657 680.397 240 678.74 240 L589.26 240 C587.603 240 586.26 238.657 586.26 237 L586.26 231 C586.26 229.343 587.603 228 589.26 228 Z" fill="url(#linear-gradient-12)" stroke="#1d1216" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Lantern_R_cap_lip_top" data-name="Lantern R cap lip top" d="M602.12 238 L665.88 238 C666.985 238 667.88 238.895 667.88 240 L667.88 240 C667.88 241.105 666.985 242 665.88 242 L602.12 242 C601.015 242 600.12 241.105 600.12 240 L600.12 240 C600.12 238.895 601.015 238 602.12 238 Z" fill="#fbe6b4" opacity="0.55"/>
+    <path id="Lantern_R_cap_bottom" data-name="Lantern R cap bottom" d="M589.26 420 L678.74 420 C680.397 420 681.74 421.343 681.74 423 L681.74 429 C681.74 430.657 680.397 432 678.74 432 L589.26 432 C587.603 432 586.26 430.657 586.26 429 L586.26 423 C586.26 421.343 587.603 420 589.26 420 Z" fill="url(#linear-gradient-13)" stroke="#1d1216" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Lantern_R_cap_lip_bottom" data-name="Lantern R cap lip bottom" d="M602.12 430 L665.88 430 C666.985 430 667.88 430.895 667.88 432 L667.88 432 C667.88 433.105 666.985 434 665.88 434 L602.12 434 C601.015 434 600.12 433.105 600.12 432 L600.12 432 C600.12 430.895 601.015 430 602.12 430 Z" fill="#fbe6b4" opacity="0.55"/>
+    <path id="Lantern_R_loop" data-name="Lantern R loop" d="M634 228 C627 204 650 198 655 216" fill="none" stroke="#1d1216" stroke-width="3.4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Lantern_R_loop_glint" data-name="Lantern R loop glint" d="M634 228 C627 204 650 198 655 216" fill="none" stroke="#e8c074" stroke-width="1.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Lantern_R_panel" data-name="Lantern R panel" d="M593.96 330 C593.96 302.562 611.887 280.32 634 280.32 C656.113 280.32 674.04 302.562 674.04 330 C674.04 357.438 656.113 379.68 634 379.68 C611.887 379.68 593.96 357.438 593.96 330 Z" fill="url(#radial-gradient-15)"/>
+    <text transform="matrix(1 0 0 1 634 347)" x="0" y="0" xml:space="preserve" font-family="&apos;Noto Sans CJK SC&apos;, sans-serif" font-size="51.59" fill="#fbe6b4" text-anchor="middle"><tspan x="0" y="0">節</tspan></text>
+    <path id="Lantern_R_tassel_knot" data-name="Lantern R tassel knot" d="M630 434 L638 434 C639.657 434 641 435.343 641 437 L641 444 C641 445.657 639.657 447 638 447 L630 447 C628.343 447 627 445.657 627 444 L627 437 C627 435.343 628.343 434 630 434 Z" fill="url(#linear-gradient-14)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10"/>
+    <path id="Lantern_R_tassel_ring" data-name="Lantern R tassel ring" d="M625 449.5 C625 447.015 629.029 445 634 445 C638.971 445 643 447.015 643 449.5 C643 451.985 638.971 454 634 454 C629.029 454 625 451.985 625 449.5 Z" fill="none" stroke="#e8c074" stroke-width="2" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Lantern_R_tassel_1" data-name="Lantern R tassel 1" d="M627.4 452 C616.9 468 605.5 502.9 605.5 516.9" fill="none" stroke="#c0392e" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Lantern_R_tassel_2" data-name="Lantern R tassel 2" d="M629.5 452 C622.3 468 614.5 496.3 614.5 510.3" fill="none" stroke="#c0392e" stroke-width="3.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Lantern_R_tassel_3" data-name="Lantern R tassel 3" d="M631.5 452 C627.7 468 623.5 489.7 623.5 503.7" fill="none" stroke="#c0392e" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Lantern_R_tassel_4" data-name="Lantern R tassel 4" d="M634 452 C634 468 634 482 634 496" fill="none" stroke="#c0392e" stroke-width="3.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Lantern_R_tassel_5" data-name="Lantern R tassel 5" d="M636.5 452 C640.3 468 644.5 489.7 644.5 503.7" fill="none" stroke="#c0392e" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Lantern_R_tassel_6" data-name="Lantern R tassel 6" d="M638.5 452 C645.7 468 653.5 496.3 653.5 510.3" fill="none" stroke="#c0392e" stroke-width="3.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Lantern_R_tassel_7" data-name="Lantern R tassel 7" d="M640.6 452 C651.1 468 662.5 502.9 662.5 516.9" fill="none" stroke="#c0392e" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Lantern_R_tassel_core" data-name="Lantern R tassel core" d="M634 452 L634 504" fill="none" stroke="#f2a08c" stroke-width="1.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Plum_branch" data-name="Plum branch" d="M225.3 746.3 L250.2 700.3 L228.2 646.7 L261.4 592.9 L244.5 536.5 L271.2 490 L300 447.5 C300.828 446.395 300.605 444.828 299.5 444 C298.395 443.172 296.828 443.395 296 444.5 L264.8 486 L235.5 535.5 L250.6 591.1 L215.8 645.3 L235.8 699.7 L210.7 737.7 Z" fill="url(#linear-gradient-15)" stroke="#160a0b" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Plum_branch_light" data-name="Plum branch light" d="M218 742 C222.2 735 242.3 716 243 700 C243.7 684 219.8 664 222 646 C224.2 628 253 610.3 256 592 C259 573.7 238 553.3 240 536 C242 518.7 258.3 503 268 488 C277.7 473 293 453 298 446" fill="none" stroke="#b07850" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Twig_1" data-name="Twig 1" d="M243 700 C260.667 686 275.667 677.333 288 674" fill="none" stroke="#4a2420" stroke-width="4.4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Twig_light_1" data-name="Twig light 1" d="M243 700 C260.667 686 275.667 677.333 288 674" fill="none" stroke="#a06e50" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Twig_2" data-name="Twig 2" d="M222 646 C212 630.667 199.333 620.667 184 616" fill="none" stroke="#4a2420" stroke-width="4.4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Twig_light_2" data-name="Twig light 2" d="M222 646 C212 630.667 199.333 620.667 184 616" fill="none" stroke="#a06e50" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Twig_3" data-name="Twig 3" d="M256 592 C272 578 285.333 569.333 296 566" fill="none" stroke="#4a2420" stroke-width="4.4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Twig_light_3" data-name="Twig light 3" d="M256 592 C272 578 285.333 569.333 296 566" fill="none" stroke="#a06e50" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Twig_4" data-name="Twig 4" d="M240 536 C230 522 217.333 513.333 202 510" fill="none" stroke="#4a2420" stroke-width="4.4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Twig_light_4" data-name="Twig light 4" d="M240 536 C230 522 217.333 513.333 202 510" fill="none" stroke="#a06e50" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Twig_5" data-name="Twig 5" d="M268 488 C282.667 476 294.667 469.333 304 468" fill="none" stroke="#4a2420" stroke-width="4.4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Twig_light_5" data-name="Twig light 5" d="M268 488 C282.667 476 294.667 469.333 304 468" fill="none" stroke="#a06e50" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Twig_6" data-name="Twig 6" d="M232 716 C225.333 704.667 216 698.667 204 698" fill="none" stroke="#4a2420" stroke-width="4.4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Twig_light_6" data-name="Twig light 6" d="M232 716 C225.333 704.667 216 698.667 204 698" fill="none" stroke="#a06e50" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Twig_7" data-name="Twig 7" d="M240 742 C253.333 748 264 759.333 272 776" fill="none" stroke="#4a2420" stroke-width="4.4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Twig_light_7" data-name="Twig light 7" d="M240 742 C253.333 748 264 759.333 272 776" fill="none" stroke="#a06e50" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Twig_8" data-name="Twig 8" d="M300 430 C312.667 419.333 322.667 414 330 414" fill="none" stroke="#4a2420" stroke-width="4.4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Twig_light_8" data-name="Twig light 8" d="M300 430 C312.667 419.333 322.667 414 330 414" fill="none" stroke="#a06e50" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Plum_blossom_1_petal_1" data-name="Plum blossom 1 petal 1" d="M277.4 658.35 C277.4 653.738 282.123 650 287.95 650 C293.777 650 298.5 653.738 298.5 658.35 C298.5 662.962 293.777 666.7 287.95 666.7 C282.123 666.7 277.4 662.962 277.4 658.35 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_1_petal_2" data-name="Plum blossom 1 petal 2" d="M297.69 657.716 C302.076 656.291 307.091 659.628 308.891 665.17 C310.692 670.711 308.596 676.359 304.21 677.784 C299.824 679.209 294.809 675.872 293.009 670.33 C291.208 664.789 293.304 659.141 297.69 657.716 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_1_petal_3" data-name="Plum blossom 1 petal 3" d="M304.585 676.849 C307.296 680.58 305.672 686.38 300.958 689.805 C296.244 693.23 290.225 692.982 287.515 689.251 C284.804 685.52 286.428 679.72 291.142 676.295 C295.856 672.87 301.875 673.118 304.585 676.849 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_1_petal_4" data-name="Plum blossom 1 petal 4" d="M288.485 689.251 C285.775 692.982 279.756 693.23 275.042 689.805 C270.328 686.38 268.704 680.58 271.415 676.849 C274.125 673.118 280.144 672.87 284.858 676.295 C289.572 679.72 291.196 685.52 288.485 689.251 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_1_petal_5" data-name="Plum blossom 1 petal 5" d="M271.79 677.784 C267.404 676.359 265.308 670.711 267.109 665.17 C268.909 659.628 273.924 656.291 278.31 657.716 C282.696 659.141 284.792 664.789 282.991 670.33 C281.191 675.872 276.176 679.209 271.79 677.784 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_1_core" data-name="Plum blossom 1 core" d="M283.6 672 C283.6 669.57 285.57 667.6 288 667.6 C290.43 667.6 292.4 669.57 292.4 672 C292.4 674.43 290.43 676.4 288 676.4 C285.57 676.4 283.6 674.43 283.6 672 Z" fill="#c2455a"/>
+    <path id="Plum_blossom_1_stamen_1" data-name="Plum blossom 1 stamen 1" d="M289.621 667.016 C289.621 665.912 290.516 665.016 291.621 665.016 C292.725 665.016 293.621 665.912 293.621 667.016 C293.621 668.121 292.725 669.016 291.621 669.016 C290.516 669.016 289.621 668.121 289.621 667.016 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_1_stamen_2" data-name="Plum blossom 1 stamen 2" d="M291.859 673.904 C291.859 672.799 292.754 671.904 293.859 671.904 C294.963 671.904 295.859 672.799 295.859 673.904 C295.859 675.008 294.963 675.904 293.859 675.904 C292.754 675.904 291.859 675.008 291.859 673.904 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_1_stamen_3" data-name="Plum blossom 1 stamen 3" d="M286 678.16 C286 677.055 286.895 676.16 288 676.16 C289.105 676.16 290 677.055 290 678.16 C290 679.265 289.105 680.16 288 680.16 C286.895 680.16 286 679.265 286 678.16 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_1_stamen_4" data-name="Plum blossom 1 stamen 4" d="M280.141 673.904 C280.141 672.799 281.037 671.904 282.141 671.904 C283.246 671.904 284.141 672.799 284.141 673.904 C284.141 675.008 283.246 675.904 282.141 675.904 C281.037 675.904 280.141 675.008 280.141 673.904 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_1_stamen_5" data-name="Plum blossom 1 stamen 5" d="M282.379 667.016 C282.379 665.912 283.275 665.016 284.379 665.016 C285.484 665.016 286.379 665.912 286.379 667.016 C286.379 668.121 285.484 669.016 284.379 669.016 C283.275 669.016 282.379 668.121 282.379 667.016 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_2_petal_1" data-name="Plum blossom 2 petal 1" d="M182.019 599.25 C184.007 595.806 189.148 595.052 193.5 597.565 C197.852 600.078 199.769 604.906 197.781 608.35 C195.793 611.794 190.652 612.548 186.3 610.035 C181.948 607.522 180.031 602.694 182.019 599.25 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_2_petal_2" data-name="Plum blossom 2 petal 2" d="M197.392 607.499 C201.282 608.326 203.588 612.981 202.543 617.897 C201.498 622.813 197.498 626.128 193.608 625.301 C189.718 624.474 187.412 619.819 188.457 614.903 C189.502 609.987 193.502 606.672 197.392 607.499 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_2_petal_3" data-name="Plum blossom 2 petal 3" d="M194.25 624.749 C194.666 628.703 190.951 632.335 185.953 632.861 C180.954 633.386 176.566 630.606 176.15 626.651 C175.734 622.697 179.449 619.065 184.447 618.539 C189.446 618.014 193.834 620.794 194.25 624.749 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_2_petal_4" data-name="Plum blossom 2 petal 4" d="M176.901 627.113 C173.269 628.731 168.667 626.32 166.622 621.729 C164.578 617.137 165.866 612.104 169.499 610.487 C173.131 608.869 177.733 611.28 179.778 615.871 C181.822 620.463 180.534 625.496 176.901 627.113 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_2_petal_5" data-name="Plum blossom 2 petal 5" d="M169.337 611.289 C166.677 608.334 167.547 603.212 171.282 599.849 C175.017 596.486 180.202 596.156 182.863 599.111 C185.523 602.066 184.653 607.188 180.918 610.551 C177.183 613.914 171.998 614.244 169.337 611.289 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_2_core" data-name="Plum blossom 2 core" d="M180.2 614 C180.2 611.901 181.901 610.2 184 610.2 C186.099 610.2 187.8 611.901 187.8 614 C187.8 616.099 186.099 617.8 184 617.8 C181.901 617.8 180.2 616.099 180.2 614 Z" fill="#c2455a"/>
+    <path id="Plum_blossom_2_stamen_1" data-name="Plum blossom 2 stamen 1" d="M186.86 611.836 C186.86 610.732 187.755 609.836 188.86 609.836 C189.965 609.836 190.86 610.732 190.86 611.836 C190.86 612.941 189.965 613.836 188.86 613.836 C187.755 613.836 186.86 612.941 186.86 611.836 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_2_stamen_2" data-name="Plum blossom 2 stamen 2" d="M185.56 617.954 C185.56 616.849 186.455 615.954 187.56 615.954 C188.664 615.954 189.56 616.849 189.56 617.954 C189.56 619.058 188.664 619.954 187.56 619.954 C186.455 619.954 185.56 619.058 185.56 617.954 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_2_stamen_3" data-name="Plum blossom 2 stamen 3" d="M179.34 618.607 C179.34 617.503 180.235 616.607 181.34 616.607 C182.445 616.607 183.34 617.503 183.34 618.607 C183.34 619.712 182.445 620.607 181.34 620.607 C180.235 620.607 179.34 619.712 179.34 618.607 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_2_stamen_4" data-name="Plum blossom 2 stamen 4" d="M176.796 612.894 C176.796 611.789 177.692 610.894 178.796 610.894 C179.901 610.894 180.796 611.789 180.796 612.894 C180.796 613.998 179.901 614.894 178.796 614.894 C177.692 614.894 176.796 613.998 176.796 612.894 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_2_stamen_5" data-name="Plum blossom 2 stamen 5" d="M181.444 608.709 C181.444 607.605 182.339 606.709 183.444 606.709 C184.548 606.709 185.444 607.605 185.444 608.709 C185.444 609.814 184.548 610.709 183.444 610.709 C182.339 610.709 181.444 609.814 181.444 608.709 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_3_petal_1" data-name="Plum blossom 3 petal 1" d="M311.408 559.722 C314.963 561.016 316.521 565.704 314.887 570.193 C313.253 574.682 309.047 577.272 305.492 575.978 C301.937 574.684 300.379 569.996 302.013 565.507 C303.647 561.018 307.853 558.428 311.408 559.722 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_3_petal_2" data-name="Plum blossom 3 petal 2" d="M306.295 575.452 C306.163 579.233 302.185 582.163 297.411 581.996 C292.637 581.829 288.873 578.629 289.005 574.848 C289.137 571.067 293.115 568.137 297.889 568.304 C302.663 568.471 306.427 571.671 306.295 575.452 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_3_petal_3" data-name="Plum blossom 3 petal 3" d="M289.634 575.365 C285.998 576.408 281.982 573.53 280.665 568.938 C279.349 564.346 281.229 559.778 284.866 558.735 C288.502 557.692 292.518 560.57 293.835 565.162 C295.151 569.754 293.271 574.322 289.634 575.365 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_3_petal_4" data-name="Plum blossom 3 petal 4" d="M284.579 559.587 C282.463 556.451 283.959 551.743 287.92 549.071 C291.88 546.4 296.806 546.777 298.921 549.913 C301.037 553.049 299.541 557.757 295.58 560.429 C291.62 563.1 286.694 562.723 284.579 559.587 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_3_petal_5" data-name="Plum blossom 3 petal 5" d="M298.034 549.925 C300.363 546.943 305.303 546.911 309.067 549.852 C312.832 552.793 313.995 557.594 311.666 560.575 C309.337 563.557 304.397 563.589 300.633 560.648 C296.868 557.707 295.705 552.906 298.034 549.925 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_3_core" data-name="Plum blossom 3 core" d="M294.4 564 C294.4 562.012 296.012 560.4 298 560.4 C299.988 560.4 301.6 562.012 301.6 564 C301.6 565.988 299.988 567.6 298 567.6 C296.012 567.6 294.4 565.988 294.4 564 Z" fill="#c2455a"/>
+    <path id="Plum_blossom_3_stamen_1" data-name="Plum blossom 3 stamen 1" d="M298.818 568.178 C298.818 567.074 299.714 566.178 300.818 566.178 C301.923 566.178 302.818 567.074 302.818 568.178 C302.818 569.283 301.923 570.178 300.818 570.178 C299.714 570.178 298.818 569.283 298.818 568.178 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_3_stamen_2" data-name="Plum blossom 3 stamen 2" d="M292.897 567.972 C292.897 566.867 293.792 565.972 294.897 565.972 C296.002 565.972 296.897 566.867 296.897 567.972 C296.897 569.076 296.002 569.972 294.897 569.972 C293.792 569.972 292.897 569.076 292.897 567.972 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_3_stamen_3" data-name="Plum blossom 3 stamen 3" d="M291.264 562.276 C291.264 561.172 292.159 560.276 293.264 560.276 C294.369 560.276 295.264 561.172 295.264 562.276 C295.264 563.381 294.369 564.276 293.264 564.276 C292.159 564.276 291.264 563.381 291.264 562.276 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_3_stamen_4" data-name="Plum blossom 3 stamen 4" d="M296.176 558.963 C296.176 557.859 297.071 556.963 298.176 556.963 C299.28 556.963 300.176 557.859 300.176 558.963 C300.176 560.068 299.28 560.963 298.176 560.963 C297.071 560.963 296.176 560.068 296.176 558.963 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_3_stamen_5" data-name="Plum blossom 3 stamen 5" d="M300.845 562.611 C300.845 561.506 301.74 560.611 302.845 560.611 C303.949 560.611 304.845 561.506 304.845 562.611 C304.845 563.715 303.949 564.611 302.845 564.611 C301.74 564.611 300.845 563.715 300.845 562.611 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_4_petal_1" data-name="Plum blossom 4 petal 1" d="M189.022 500.508 C187.728 496.953 190.318 492.747 194.807 491.113 C199.296 489.479 203.984 491.037 205.278 494.592 C206.572 498.147 203.982 502.353 199.493 503.987 C195.004 505.621 190.316 504.063 189.022 500.508 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_4_petal_2" data-name="Plum blossom 4 petal 2" d="M204.525 494.334 C207.506 492.005 212.307 493.168 215.248 496.933 C218.189 500.697 218.157 505.637 215.175 507.966 C212.194 510.295 207.393 509.132 204.452 505.367 C201.511 501.603 201.543 496.663 204.525 494.334 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_4_petal_3" data-name="Plum blossom 4 petal 3" d="M215.087 507.079 C218.223 509.194 218.6 514.12 215.929 518.08 C213.257 522.041 208.549 523.537 205.413 521.421 C202.277 519.306 201.9 514.38 204.571 510.42 C207.243 506.459 211.951 504.963 215.087 507.079 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_4_petal_4" data-name="Plum blossom 4 petal 4" d="M206.265 521.134 C205.222 524.771 200.654 526.651 196.062 525.335 C191.47 524.018 188.592 520.002 189.635 516.366 C190.678 512.729 195.246 510.849 199.838 512.165 C204.43 513.482 207.308 517.498 206.265 521.134 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_4_petal_5" data-name="Plum blossom 4 petal 5" d="M190.152 516.995 C186.371 517.127 183.171 513.363 183.004 508.589 C182.837 503.815 185.767 499.837 189.548 499.705 C193.329 499.573 196.529 503.337 196.696 508.111 C196.863 512.885 193.933 516.863 190.152 516.995 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_4_core" data-name="Plum blossom 4 core" d="M197.4 508 C197.4 506.012 199.012 504.4 201 504.4 C202.988 504.4 204.6 506.012 204.6 508 C204.6 509.988 202.988 511.6 201 511.6 C199.012 511.6 197.4 509.988 197.4 508 Z" fill="#c2455a"/>
+    <path id="Plum_blossom_4_stamen_1" data-name="Plum blossom 4 stamen 1" d="M200.389 503.155 C200.389 502.051 201.285 501.155 202.389 501.155 C203.494 501.155 204.389 502.051 204.389 503.155 C204.389 504.26 203.494 505.155 202.389 505.155 C201.285 505.155 200.389 504.26 200.389 503.155 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_4_stamen_2" data-name="Plum blossom 4 stamen 2" d="M204.037 507.824 C204.037 506.72 204.932 505.824 206.037 505.824 C207.141 505.824 208.037 506.72 208.037 507.824 C208.037 508.929 207.141 509.824 206.037 509.824 C204.932 509.824 204.037 508.929 204.037 507.824 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_4_stamen_3" data-name="Plum blossom 4 stamen 3" d="M200.724 512.736 C200.724 511.631 201.619 510.736 202.724 510.736 C203.828 510.736 204.724 511.631 204.724 512.736 C204.724 513.841 203.828 514.736 202.724 514.736 C201.619 514.736 200.724 513.841 200.724 512.736 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_4_stamen_4" data-name="Plum blossom 4 stamen 4" d="M195.028 511.103 C195.028 509.998 195.924 509.103 197.028 509.103 C198.133 509.103 199.028 509.998 199.028 511.103 C199.028 512.208 198.133 513.103 197.028 513.103 C195.924 513.103 195.028 512.208 195.028 511.103 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_4_stamen_5" data-name="Plum blossom 4 stamen 5" d="M194.822 505.182 C194.822 504.077 195.717 503.182 196.822 503.182 C197.926 503.182 198.822 504.077 198.822 505.182 C198.822 506.286 197.926 507.182 196.822 507.182 C195.717 507.182 194.822 506.286 194.822 505.182 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_5_petal_1" data-name="Plum blossom 5 petal 1" d="M317.668 470.75 C319.353 473.668 317.733 477.756 314.05 479.883 C310.367 482.009 306.016 481.368 304.332 478.45 C302.647 475.532 304.267 471.444 307.95 469.317 C311.633 467.191 315.984 467.832 317.668 470.75 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_5_petal_2" data-name="Plum blossom 5 petal 2" d="M305.122 478.552 C302.868 481.056 298.479 480.779 295.318 477.933 C292.158 475.088 291.424 470.751 293.678 468.248 C295.932 465.744 300.321 466.021 303.482 468.867 C306.642 471.712 307.376 476.049 305.122 478.552 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_5_petal_3" data-name="Plum blossom 5 petal 3" d="M293.868 469.034 C290.79 467.664 289.698 463.404 291.427 459.519 C293.157 455.634 297.054 453.595 300.132 454.966 C303.21 456.336 304.302 460.596 302.573 464.481 C300.843 468.366 296.946 470.405 293.868 469.034 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_5_petal_4" data-name="Plum blossom 5 petal 4" d="M299.442 455.395 C299.794 452.045 303.508 449.689 307.738 450.133 C311.967 450.578 315.11 453.654 314.758 457.005 C314.406 460.355 310.692 462.711 306.462 462.267 C302.233 461.822 299.09 458.746 299.442 455.395 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_5_petal_5" data-name="Plum blossom 5 petal 5" d="M314.099 456.468 C317.394 455.768 320.783 458.572 321.667 462.732 C322.551 466.891 320.596 470.831 317.301 471.532 C314.006 472.232 310.617 469.428 309.733 465.268 C308.849 461.109 310.804 457.169 314.099 456.468 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_5_core" data-name="Plum blossom 5 core" d="M302.8 466 C302.8 464.233 304.233 462.8 306 462.8 C307.767 462.8 309.2 464.233 309.2 466 C309.2 467.767 307.767 469.2 306 469.2 C304.233 469.2 302.8 467.767 302.8 466 Z" fill="#c2455a"/>
+    <path id="Plum_blossom_5_stamen_1" data-name="Plum blossom 5 stamen 1" d="M303.532 470.455 C303.532 469.351 304.427 468.455 305.532 468.455 C306.636 468.455 307.532 469.351 307.532 470.455 C307.532 471.56 306.636 472.455 305.532 472.455 C304.427 472.455 303.532 471.56 303.532 470.455 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_5_stamen_2" data-name="Plum blossom 5 stamen 2" d="M299.618 466.931 C299.618 465.827 300.513 464.931 301.618 464.931 C302.722 464.931 303.618 465.827 303.618 466.931 C303.618 468.036 302.722 468.931 301.618 468.931 C300.513 468.931 299.618 468.036 299.618 466.931 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_5_stamen_3" data-name="Plum blossom 5 stamen 3" d="M301.76 462.12 C301.76 461.016 302.655 460.12 303.76 460.12 C304.865 460.12 305.76 461.016 305.76 462.12 C305.76 463.225 304.865 464.12 303.76 464.12 C302.655 464.12 301.76 463.225 301.76 462.12 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_5_stamen_4" data-name="Plum blossom 5 stamen 4" d="M306.998 462.671 C306.998 461.566 307.893 460.671 308.998 460.671 C310.102 460.671 310.998 461.566 310.998 462.671 C310.998 463.775 310.102 464.671 308.998 464.671 C307.893 464.671 306.998 463.775 306.998 462.671 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_5_stamen_5" data-name="Plum blossom 5 stamen 5" d="M308.093 467.822 C308.093 466.718 308.988 465.822 310.093 465.822 C311.197 465.822 312.093 466.718 312.093 467.822 C312.093 468.927 311.197 469.822 310.093 469.822 C308.988 469.822 308.093 468.927 308.093 467.822 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_6_petal_1" data-name="Plum blossom 6 petal 1" d="M235.575 703.27 C237.751 702.014 240.803 703.225 242.39 705.975 C243.978 708.725 243.501 711.973 241.325 713.23 C239.149 714.486 236.097 713.275 234.51 710.525 C232.922 707.775 233.399 704.527 235.575 703.27 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_6_petal_2" data-name="Plum blossom 6 petal 2" d="M241.398 712.677 C243.265 714.358 243.056 717.635 240.931 719.995 C238.806 722.355 235.57 722.905 233.702 721.223 C231.835 719.542 232.044 716.265 234.169 713.905 C236.294 711.545 239.53 710.995 241.398 712.677 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_6_petal_3" data-name="Plum blossom 6 petal 3" d="M234.203 721.089 C233.181 723.384 230 724.198 227.099 722.907 C224.198 721.615 222.675 718.707 223.697 716.411 C224.719 714.116 227.9 713.302 230.801 714.593 C233.702 715.885 235.225 718.793 234.203 721.089 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_6_petal_4" data-name="Plum blossom 6 petal 4" d="M223.949 716.969 C221.45 716.706 219.693 713.933 220.025 710.774 C220.357 707.616 222.652 705.269 225.151 705.531 C227.65 705.794 229.407 708.567 229.075 711.726 C228.743 714.884 226.448 717.231 223.949 716.969 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_6_petal_5" data-name="Plum blossom 6 petal 5" d="M224.826 705.945 C224.303 703.488 226.398 700.96 229.504 700.299 C232.61 699.639 235.552 701.097 236.074 703.555 C236.597 706.012 234.502 708.54 231.396 709.201 C228.29 709.861 225.348 708.403 224.826 705.945 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_6_core" data-name="Plum blossom 6 core" d="M229.6 712 C229.6 710.675 230.675 709.6 232 709.6 C233.325 709.6 234.4 710.675 234.4 712 C234.4 713.325 233.325 714.4 232 714.4 C230.675 714.4 229.6 713.325 229.6 712 Z" fill="#c2455a"/>
+    <path id="Plum_blossom_6_stamen_1" data-name="Plum blossom 6 stamen 1" d="M233.342 712.351 C233.342 711.247 234.237 710.351 235.342 710.351 C236.446 710.351 237.342 711.247 237.342 712.351 C237.342 713.456 236.446 714.351 235.342 714.351 C234.237 714.351 233.342 713.456 233.342 712.351 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_6_stamen_2" data-name="Plum blossom 6 stamen 2" d="M230.699 715.287 C230.699 714.182 231.594 713.287 232.699 713.287 C233.803 713.287 234.699 714.182 234.699 715.287 C234.699 716.391 233.803 717.287 232.699 717.287 C231.594 717.287 230.699 716.391 230.699 715.287 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_6_stamen_3" data-name="Plum blossom 6 stamen 3" d="M227.09 713.68 C227.09 712.575 227.986 711.68 229.09 711.68 C230.195 711.68 231.09 712.575 231.09 713.68 C231.09 714.785 230.195 715.68 229.09 715.68 C227.986 715.68 227.09 714.785 227.09 713.68 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_6_stamen_4" data-name="Plum blossom 6 stamen 4" d="M227.503 709.752 C227.503 708.647 228.398 707.752 229.503 707.752 C230.608 707.752 231.503 708.647 231.503 709.752 C231.503 710.856 230.608 711.752 229.503 711.752 C228.398 711.752 227.503 710.856 227.503 709.752 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_6_stamen_5" data-name="Plum blossom 6 stamen 5" d="M231.367 708.93 C231.367 707.826 232.262 706.93 233.367 706.93 C234.471 706.93 235.367 707.826 235.367 708.93 C235.367 710.035 234.471 710.93 233.367 710.93 C232.262 710.93 231.367 710.035 231.367 708.93 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_7_petal_1" data-name="Plum blossom 7 petal 1" d="M264.019 611.62 C263.617 613.905 260.953 615.344 258.071 614.836 C255.188 614.328 253.178 612.064 253.581 609.78 C253.983 607.495 256.647 606.056 259.529 606.564 C262.412 607.072 264.422 609.336 264.019 611.62 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_7_petal_2" data-name="Plum blossom 7 petal 2" d="M254.038 610.248 C251.741 610.571 249.548 608.483 249.141 605.585 C248.733 602.686 250.265 600.074 252.562 599.752 C254.859 599.429 257.052 601.517 257.459 604.415 C257.867 607.314 256.335 609.926 254.038 610.248 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_7_petal_3" data-name="Plum blossom 7 petal 3" d="M252.236 600.223 C251.22 598.139 252.528 595.408 255.159 594.125 C257.79 592.842 260.747 593.492 261.764 595.577 C262.78 597.661 261.472 600.392 258.841 601.675 C256.21 602.958 253.253 602.308 252.236 600.223 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_7_petal_4" data-name="Plum blossom 7 petal 4" d="M261.218 595.487 C262.887 593.876 265.888 594.277 267.921 596.382 C269.955 598.488 270.25 601.501 268.582 603.113 C266.913 604.724 263.912 604.323 261.879 602.218 C259.845 600.112 259.55 597.099 261.218 595.487 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_7_petal_5" data-name="Plum blossom 7 petal 5" d="M268.488 602.52 C270.536 603.609 271.083 606.587 269.708 609.172 C268.334 611.756 265.56 612.969 263.512 611.88 C261.464 610.791 260.917 607.813 262.292 605.228 C263.666 602.644 266.44 601.431 268.488 602.52 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_7_core" data-name="Plum blossom 7 core" d="M257.8 604 C257.8 602.785 258.785 601.8 260 601.8 C261.215 601.8 262.2 602.785 262.2 604 C262.2 605.215 261.215 606.2 260 606.2 C258.785 606.2 257.8 605.215 257.8 604 Z" fill="#c2455a"/>
+    <path id="Plum_blossom_7_stamen_1" data-name="Plum blossom 7 stamen 1" d="M255.784 606.14 C255.784 605.035 256.68 604.14 257.784 604.14 C258.889 604.14 259.784 605.035 259.784 606.14 C259.784 607.244 258.889 608.14 257.784 608.14 C256.68 608.14 255.784 607.244 255.784 606.14 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_7_stamen_2" data-name="Plum blossom 7 stamen 2" d="M255.281 602.554 C255.281 601.449 256.176 600.554 257.281 600.554 C258.385 600.554 259.281 601.449 259.281 602.554 C259.281 603.659 258.385 604.554 257.281 604.554 C256.176 604.554 255.281 603.659 255.281 602.554 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_7_stamen_3" data-name="Plum blossom 7 stamen 3" d="M258.535 600.967 C258.535 599.862 259.43 598.967 260.535 598.967 C261.639 598.967 262.535 599.862 262.535 600.967 C262.535 602.071 261.639 602.967 260.535 602.967 C259.43 602.967 258.535 602.071 258.535 600.967 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_7_stamen_4" data-name="Plum blossom 7 stamen 4" d="M261.05 603.571 C261.05 602.467 261.945 601.571 263.05 601.571 C264.155 601.571 265.05 602.467 265.05 603.571 C265.05 604.676 264.155 605.571 263.05 605.571 C261.945 605.571 261.05 604.676 261.05 603.571 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_7_stamen_5" data-name="Plum blossom 7 stamen 5" d="M259.35 606.768 C259.35 605.664 260.246 604.768 261.35 604.768 C262.455 604.768 263.35 605.664 263.35 606.768 C263.35 607.873 262.455 608.768 261.35 608.768 C260.246 608.768 259.35 607.873 259.35 606.768 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_8_petal_1" data-name="Plum blossom 8 petal 1" d="M281.663 770.902 C284.546 771.41 286.362 774.776 285.719 778.42 C285.077 782.064 282.219 784.606 279.337 784.098 C276.454 783.59 274.638 780.224 275.281 776.58 C275.923 772.936 278.781 770.394 281.663 770.902 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_8_petal_2" data-name="Plum blossom 8 petal 2" d="M279.835 783.668 C280.242 786.566 277.602 789.333 273.938 789.848 C270.273 790.363 266.973 788.431 266.565 785.532 C266.158 782.634 268.798 779.867 272.462 779.352 C276.127 778.837 279.427 780.769 279.835 783.668 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_8_petal_3" data-name="Plum blossom 8 petal 3" d="M267.137 785.822 C264.506 787.105 261.058 785.449 259.436 782.123 C257.814 778.798 258.632 775.061 261.263 773.778 C263.894 772.495 267.342 774.151 268.964 777.477 C270.586 780.802 269.768 784.539 267.137 785.822 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_8_petal_4" data-name="Plum blossom 8 petal 4" d="M261.18 774.354 C259.147 772.249 259.657 768.458 262.318 765.887 C264.98 763.317 268.786 762.94 270.82 765.046 C272.853 767.151 272.343 770.942 269.682 773.513 C267.02 776.083 263.214 776.46 261.18 774.354 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_8_petal_5" data-name="Plum blossom 8 petal 5" d="M270.184 765.155 C271.558 762.57 275.321 761.883 278.588 763.62 C281.855 765.358 283.39 768.861 282.016 771.445 C280.642 774.03 276.879 774.717 273.612 772.98 C270.345 771.242 268.81 767.739 270.184 765.155 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_8_core" data-name="Plum blossom 8 core" d="M269.2 776 C269.2 774.454 270.454 773.2 272 773.2 C273.546 773.2 274.8 774.454 274.8 776 C274.8 777.546 273.546 778.8 272 778.8 C270.454 778.8 269.2 777.546 269.2 776 Z" fill="#c2455a"/>
+    <path id="Plum_blossom_8_stamen_1" data-name="Plum blossom 8 stamen 1" d="M272.723 778.82 C272.723 777.715 273.618 776.82 274.723 776.82 C275.828 776.82 276.723 777.715 276.723 778.82 C276.723 779.924 275.828 780.82 274.723 780.82 C273.618 780.82 272.723 779.924 272.723 778.82 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_8_stamen_2" data-name="Plum blossom 8 stamen 2" d="M268.16 779.461 C268.16 778.357 269.055 777.461 270.16 777.461 C271.264 777.461 272.16 778.357 272.16 779.461 C272.16 780.566 271.264 781.461 270.16 781.461 C269.055 781.461 268.16 780.566 268.16 779.461 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_8_stamen_3" data-name="Plum blossom 8 stamen 3" d="M266.14 775.319 C266.14 774.215 267.035 773.319 268.14 773.319 C269.244 773.319 270.14 774.215 270.14 775.319 C270.14 776.424 269.244 777.319 268.14 777.319 C267.035 777.319 266.14 776.424 266.14 775.319 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_8_stamen_4" data-name="Plum blossom 8 stamen 4" d="M269.454 772.118 C269.454 771.014 270.35 770.118 271.454 770.118 C272.559 770.118 273.454 771.014 273.454 772.118 C273.454 773.223 272.559 774.118 271.454 774.118 C270.35 774.118 269.454 773.223 269.454 772.118 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_8_stamen_5" data-name="Plum blossom 8 stamen 5" d="M273.523 774.282 C273.523 773.177 274.419 772.282 275.523 772.282 C276.628 772.282 277.523 773.177 277.523 774.282 C277.523 775.386 276.628 776.282 275.523 776.282 C274.419 776.282 273.523 775.386 273.523 774.282 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_9_petal_1" data-name="Plum blossom 9 petal 1" d="M335.412 405.377 C337.981 404.442 341.021 406.313 342.201 409.557 C343.382 412.801 342.257 416.188 339.688 417.123 C337.119 418.058 334.079 416.187 332.899 412.943 C331.718 409.699 332.843 406.312 335.412 405.377 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_9_petal_2" data-name="Plum blossom 9 petal 2" d="M339.875 416.502 C341.558 418.656 340.718 422.126 337.998 424.251 C335.277 426.376 331.708 426.352 330.025 424.198 C328.342 422.044 329.182 418.574 331.902 416.449 C334.623 414.324 338.192 414.348 339.875 416.502 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_9_petal_3" data-name="Plum blossom 9 petal 3" d="M330.731 424.145 C329.203 426.411 325.644 426.684 322.782 424.754 C319.92 422.824 318.84 419.421 320.369 417.155 C321.897 414.889 325.456 414.616 328.318 416.546 C331.18 418.476 332.26 421.879 330.731 424.145 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_9_petal_4" data-name="Plum blossom 9 petal 4" d="M320.527 417.758 C317.899 417.004 316.54 413.704 317.492 410.386 C318.443 407.068 321.345 404.989 323.973 405.742 C326.601 406.496 327.96 409.796 327.008 413.114 C326.057 416.432 323.155 418.511 320.527 417.758 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_9_petal_5" data-name="Plum blossom 9 petal 5" d="M323.504 406.168 C323.408 403.436 326.128 401.123 329.577 401.003 C333.027 400.883 335.901 403 335.996 405.732 C336.092 408.464 333.372 410.777 329.923 410.897 C326.473 411.017 323.599 408.9 323.504 406.168 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_9_core" data-name="Plum blossom 9 core" d="M327.4 414 C327.4 412.564 328.564 411.4 330 411.4 C331.436 411.4 332.6 412.564 332.6 414 C332.6 415.436 331.436 416.6 330 416.6 C328.564 416.6 327.4 415.436 327.4 414 Z" fill="#c2455a"/>
+    <path id="Plum_blossom_9_stamen_1" data-name="Plum blossom 9 stamen 1" d="M331.499 415.003 C331.499 413.899 332.394 413.003 333.499 413.003 C334.604 413.003 335.499 413.899 335.499 415.003 C335.499 416.108 334.604 417.003 333.499 417.003 C332.394 417.003 331.499 416.108 331.499 415.003 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_9_stamen_2" data-name="Plum blossom 9 stamen 2" d="M328.127 417.638 C328.127 416.533 329.022 415.638 330.127 415.638 C331.232 415.638 332.127 416.533 332.127 417.638 C332.127 418.742 331.232 419.638 330.127 419.638 C329.022 419.638 328.127 418.742 328.127 417.638 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_9_stamen_3" data-name="Plum blossom 9 stamen 3" d="M324.58 415.245 C324.58 414.14 325.475 413.245 326.58 413.245 C327.684 413.245 328.58 414.14 328.58 415.245 C328.58 416.35 327.684 417.245 326.58 417.245 C325.475 417.245 324.58 416.35 324.58 415.245 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_9_stamen_4" data-name="Plum blossom 9 stamen 4" d="M325.759 411.132 C325.759 410.027 326.654 409.132 327.759 409.132 C328.864 409.132 329.759 410.027 329.759 411.132 C329.759 412.236 328.864 413.132 327.759 413.132 C326.654 413.132 325.759 412.236 325.759 411.132 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_9_stamen_5" data-name="Plum blossom 9 stamen 5" d="M330.035 410.982 C330.035 409.878 330.931 408.982 332.035 408.982 C333.14 408.982 334.035 409.878 334.035 410.982 C334.035 412.087 333.14 412.982 332.035 412.982 C330.931 412.982 330.035 412.087 330.035 410.982 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_10_petal_1" data-name="Plum blossom 10 petal 1" d="M213.794 697.006 C215.278 698.49 214.962 701.212 213.087 703.087 C211.212 704.962 208.49 705.278 207.006 703.794 C205.522 702.31 205.838 699.588 207.713 697.713 C209.588 695.838 212.31 695.522 213.794 697.006 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_10_petal_2" data-name="Plum blossom 10 petal 2" d="M207.477 703.679 C206.524 705.549 203.837 706.089 201.475 704.886 C199.113 703.682 197.97 701.191 198.923 699.321 C199.876 697.451 202.563 696.911 204.925 698.114 C207.287 699.318 208.43 701.809 207.477 703.679 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_10_petal_3" data-name="Plum blossom 10 petal 3" d="M199.149 699.741 C197.076 699.413 195.732 697.024 196.147 694.406 C196.561 691.787 198.578 689.931 200.651 690.259 C202.724 690.587 204.068 692.976 203.653 695.594 C203.239 698.213 201.222 700.069 199.149 699.741 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_10_petal_4" data-name="Plum blossom 10 petal 4" d="M200.259 690.651 C199.931 688.578 201.787 686.561 204.406 686.147 C207.024 685.732 209.413 687.076 209.741 689.149 C210.069 691.222 208.213 693.239 205.594 693.653 C202.976 694.068 200.587 692.724 200.259 690.651 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_10_petal_5" data-name="Plum blossom 10 petal 5" d="M209.321 688.923 C211.191 687.97 213.682 689.113 214.886 691.475 C216.089 693.837 215.549 696.524 213.679 697.477 C211.809 698.43 209.318 697.287 208.114 694.925 C206.911 692.563 207.451 689.876 209.321 688.923 Z" fill="#f6c6d0" opacity="0.94"/>
+    <path id="Plum_blossom_10_core" data-name="Plum blossom 10 core" d="M204 696 C204 694.895 204.895 694 206 694 C207.105 694 208 694.895 208 696 C208 697.105 207.105 698 206 698 C204.895 698 204 697.105 204 696 Z" fill="#c2455a"/>
+    <path id="Plum_blossom_10_stamen_1" data-name="Plum blossom 10 stamen 1" d="M204.438 698.766 C204.438 697.661 205.333 696.766 206.438 696.766 C207.543 696.766 208.438 697.661 208.438 698.766 C208.438 699.87 207.543 700.766 206.438 700.766 C205.333 700.766 204.438 699.87 204.438 698.766 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_10_stamen_2" data-name="Plum blossom 10 stamen 2" d="M201.505 697.271 C201.505 696.167 202.401 695.271 203.505 695.271 C204.61 695.271 205.505 696.167 205.505 697.271 C205.505 698.376 204.61 699.271 203.505 699.271 C202.401 699.271 201.505 698.376 201.505 697.271 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_10_stamen_3" data-name="Plum blossom 10 stamen 3" d="M202.02 694.02 C202.02 692.916 202.916 692.02 204.02 692.02 C205.125 692.02 206.02 692.916 206.02 694.02 C206.02 695.125 205.125 696.02 204.02 696.02 C202.916 696.02 202.02 695.125 202.02 694.02 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_10_stamen_4" data-name="Plum blossom 10 stamen 4" d="M205.271 693.505 C205.271 692.401 206.167 691.505 207.271 691.505 C208.376 691.505 209.271 692.401 209.271 693.505 C209.271 694.61 208.376 695.505 207.271 695.505 C206.167 695.505 205.271 694.61 205.271 693.505 Z" fill="#f8e3a8"/>
+    <path id="Plum_blossom_10_stamen_5" data-name="Plum blossom 10 stamen 5" d="M206.766 696.438 C206.766 695.333 207.661 694.438 208.766 694.438 C209.87 694.438 210.766 695.333 210.766 696.438 C210.766 697.543 209.87 698.438 208.766 698.438 C207.661 698.438 206.766 697.543 206.766 696.438 Z" fill="#f8e3a8"/>
+    <path id="Bud_1" data-name="Bud 1" d="M207.349 691.243 C205.733 686.806 206.507 682.451 209.076 681.516 C211.645 680.581 215.036 683.42 216.651 687.857 C218.267 692.294 217.493 696.649 214.924 697.584 C212.355 698.519 208.964 695.68 207.349 691.243 Z" fill="#b8455c" stroke="#5e1a24" stroke-width="1.2" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Bud_2" data-name="Bud 2" d="M270.189 467.4 C272.288 463.765 275.696 461.803 277.8 463.018 C279.904 464.233 279.909 468.165 277.811 471.8 C275.712 475.435 272.304 477.397 270.2 476.182 C268.096 474.967 268.091 471.035 270.189 467.4 Z" fill="#b8455c" stroke="#5e1a24" stroke-width="1.2" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Bud_3" data-name="Bud 3" d="M244.683 626.032 C248.134 624.776 251.522 625.378 252.249 627.376 C252.976 629.374 250.768 632.012 247.317 633.268 C243.866 634.524 240.478 633.922 239.751 631.924 C239.024 629.926 241.232 627.288 244.683 626.032 Z" fill="#b8455c" stroke="#5e1a24" stroke-width="1.2" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Bud_4" data-name="Bud 4" d="M295.75 688.461 C296.836 684.407 299.62 681.63 301.967 682.259 C304.314 682.888 305.336 686.684 304.25 690.739 C303.164 694.793 300.38 697.57 298.033 696.941 C295.686 696.312 294.664 692.516 295.75 688.461 Z" fill="#b8455c" stroke="#5e1a24" stroke-width="1.2" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Fu_glow" data-name="Fu glow" d="M285 570 C285 451.259 381.259 355 500 355 C618.741 355 715 451.259 715 570 C715 688.741 618.741 785 500 785 C381.259 785 285 688.741 285 570 Z" fill="url(#radial-gradient-16)"/>
+    <path id="Fu_paper" data-name="Fu paper" d="M500 432 C550 482 588 520 638 570 C588 620 550 658 500 708 C450 658 412 620 362 570 C412 520 450 482 500 432 Z" fill="url(#linear-gradient-16)" stroke="#1d1216" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Fu_paper_sheen" data-name="Fu paper sheen" d="M500 442 L612 560 L490 508 Z" fill="url(#linear-gradient-17)"/>
+    <path id="Fu_border_0.885" data-name="Fu border 0.885" d="M500 447.9 L622.1 570 L500 692.1 L377.9 570 Z" fill="none" stroke="#e8c074" stroke-width="2.6" stroke-miterlimit="10" opacity="0.88"/>
+    <path id="Fu_border_0.8" data-name="Fu border 0.8" d="M500 459.6 L610.4 570 L500 680.4 L389.6 570 Z" fill="none" stroke="#e8c074" stroke-width="1.3" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Fu_stud_-90" data-name="Fu stud -90" d="M500 433.6 L506 439.6 L500 445.6 L494 439.6 Z" fill="#fbe6b4" opacity="0.8"/>
+    <path id="Fu_stud_0" data-name="Fu stud 0" d="M630.4 564 L636.4 570 L630.4 576 L624.4 570 Z" fill="#fbe6b4" opacity="0.8"/>
+    <path id="Fu_stud_90" data-name="Fu stud 90" d="M500 694.4 L506 700.4 L500 706.4 L494 700.4 Z" fill="#fbe6b4" opacity="0.8"/>
+    <path id="Fu_stud_180" data-name="Fu stud 180" d="M369.6 564 L375.6 570 L369.6 576 L363.6 570 Z" fill="#fbe6b4" opacity="0.8"/>
+    <text transform="matrix(1 0 0 1 505 632)" x="0" y="0" xml:space="preserve" font-family="&apos;Noto Sans CJK SC&apos;, sans-serif" font-size="152" fill="#5a0f12" text-anchor="middle"><tspan x="0" y="0">福</tspan></text>
+    <text transform="matrix(1 0 0 1 500 627)" x="0" y="0" xml:space="preserve" font-family="&apos;Noto Sans CJK SC&apos;, sans-serif" font-size="152" fill="#fbe6b4" text-anchor="middle"><tspan x="0" y="0">福</tspan></text>
+    <path id="Envelope_shadow" data-name="Envelope shadow" d="M572.07 622.831 L678.803 596.219 C680.946 595.685 683.117 596.989 683.652 599.133 L722.843 756.321 C723.378 758.464 722.073 760.635 719.93 761.169 L613.197 787.781 C611.054 788.315 608.883 787.011 608.348 784.867 L569.157 627.679 C568.622 625.536 569.927 623.365 572.07 622.831 Z" fill="#000000" opacity="0.38"/>
+    <path id="Envelope" d="M570.2 617.8 L684.7 589.3 L725.8 754.2 L611.3 782.7 Z" fill="url(#linear-gradient-18)" stroke="#1d1216" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Envelope_flap" data-name="Envelope flap" d="M570.2 617.8 L684.7 589.3 L645.8 677.3 Z" fill="url(#linear-gradient-19)" stroke="#6e1418" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Envelope_flap_edge" data-name="Envelope flap edge" d="M570.2 617.8 L684.7 589.3 L645.8 677.3" fill="none" stroke="#ffc3a8" stroke-width="1.2" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Envelope_gold_band" data-name="Envelope gold band" d="M601.4 718.2 L704.3 692.6 L711 719.8 L608.2 745.4 Z" fill="url(#linear-gradient-20)" stroke="#6e4a1a" stroke-width="1.6" stroke-miterlimit="10"/>
+    <path id="Envelope_band_stud_1" data-name="Envelope band stud 1" d="M621.8 721.4 L629.1 725.8 L624.7 733 L617.4 728.7 Z" fill="#7a1718" opacity="0.55"/>
+    <path id="Envelope_band_stud_2" data-name="Envelope band stud 2" d="M644.1 715.8 L651.4 720.2 L647 727.5 L639.7 723.1 Z" fill="#7a1718" opacity="0.55"/>
+    <path id="Envelope_band_stud_3" data-name="Envelope band stud 3" d="M665.4 710.5 L672.7 714.9 L668.4 722.2 L661.1 717.8 Z" fill="#7a1718" opacity="0.55"/>
+    <path id="Envelope_band_stud_4" data-name="Envelope band stud 4" d="M687.8 704.9 L695 709.3 L690.7 716.6 L683.4 712.2 Z" fill="#7a1718" opacity="0.55"/>
+    <path id="Envelope_coin" data-name="Envelope coin" d="M629 677 C629 664.85 638.85 655 651 655 C663.15 655 673 664.85 673 677 C673 689.15 663.15 699 651 699 C638.85 699 629 689.15 629 677 Z" fill="url(#linear-gradient-21)" stroke="#1d1216" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Envelope_coin_inner" data-name="Envelope coin inner" d="M632.96 677 C632.96 667.037 641.037 658.96 651 658.96 C660.963 658.96 669.04 667.037 669.04 677 C669.04 686.963 660.963 695.04 651 695.04 C641.037 695.04 632.96 686.963 632.96 677 Z" fill="none" stroke="#1d1216" stroke-width="1.4" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Envelope_coin_hole" data-name="Envelope coin hole" d="M643.52 669.52 L658.48 669.52 L658.48 684.48 L643.52 684.48 Z" fill="#241512" stroke="#1d1216" stroke-width="2" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 651 685)" x="0" y="0" xml:space="preserve" font-family="&apos;Noto Sans CJK SC&apos;, sans-serif" font-size="22" fill="#7a1718" text-anchor="middle"><tspan x="0" y="0">福</tspan></text>
+    <path id="Ground_shadow" data-name="Ground shadow" d="M352 745 C352 720.147 437.066 700 542 700 C646.934 700 732 720.147 732 745 C732 769.853 646.934 790 542 790 C437.066 790 352 769.853 352 745 Z" fill="url(#radial-gradient-17)"/>
+    <path id="Coin_shadow_1" data-name="Coin shadow 1" d="M573.5 810 C573.5 806.548 584.133 803.75 597.25 803.75 C610.367 803.75 621 806.548 621 810 C621 813.452 610.367 816.25 597.25 816.25 C584.133 816.25 573.5 813.452 573.5 810 Z" fill="#000000" opacity="0.3"/>
+    <path id="Coin_1" data-name="Coin 1" d="M571 790 C571 776.193 582.193 765 596 765 C609.807 765 621 776.193 621 790 C621 803.807 609.807 815 596 815 C582.193 815 571 803.807 571 790 Z" fill="url(#linear-gradient-22)" stroke="#1d1216" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Coin_1_inner" data-name="Coin 1 inner" d="M575.5 790 C575.5 778.678 584.678 769.5 596 769.5 C607.322 769.5 616.5 778.678 616.5 790 C616.5 801.322 607.322 810.5 596 810.5 C584.678 810.5 575.5 801.322 575.5 790 Z" fill="none" stroke="#1d1216" stroke-width="1.4" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Coin_1_hole" data-name="Coin 1 hole" d="M587.5 781.5 L604.5 781.5 L604.5 798.5 L587.5 798.5 Z" fill="#241512" stroke="#1d1216" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Coin_shadow_2" data-name="Coin shadow 2" d="M631.1 822.8 C631.1 819.901 640.032 817.55 651.05 817.55 C662.068 817.55 671 819.901 671 822.8 C671 825.699 662.068 828.05 651.05 828.05 C640.032 828.05 631.1 825.699 631.1 822.8 Z" fill="#000000" opacity="0.3"/>
+    <path id="Coin_2" data-name="Coin 2" d="M629 806 C629 794.402 638.402 785 650 785 C661.598 785 671 794.402 671 806 C671 817.598 661.598 827 650 827 C638.402 827 629 817.598 629 806 Z" fill="url(#linear-gradient-23)" stroke="#1d1216" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Coin_2_inner" data-name="Coin 2 inner" d="M632.78 806 C632.78 796.49 640.49 788.78 650 788.78 C659.51 788.78 667.22 796.49 667.22 806 C667.22 815.51 659.51 823.22 650 823.22 C640.49 823.22 632.78 815.51 632.78 806 Z" fill="none" stroke="#1d1216" stroke-width="1.4" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Coin_2_hole" data-name="Coin 2 hole" d="M642.86 798.86 L657.14 798.86 L657.14 813.14 L642.86 813.14 Z" fill="#241512" stroke="#1d1216" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Coin_shadow_3" data-name="Coin shadow 3" d="M690.7 789.6 C690.7 787.253 697.931 785.35 706.85 785.35 C715.769 785.35 723 787.253 723 789.6 C723 791.947 715.769 793.85 706.85 793.85 C697.931 793.85 690.7 791.947 690.7 789.6 Z" fill="#000000" opacity="0.3"/>
+    <path id="Coin_3" data-name="Coin 3" d="M689 776 C689 766.611 696.611 759 706 759 C715.389 759 723 766.611 723 776 C723 785.389 715.389 793 706 793 C696.611 793 689 785.389 689 776 Z" fill="url(#linear-gradient-24)" stroke="#1d1216" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Coin_3_inner" data-name="Coin 3 inner" d="M692.06 776 C692.06 768.301 698.301 762.06 706 762.06 C713.699 762.06 719.94 768.301 719.94 776 C719.94 783.699 713.699 789.94 706 789.94 C698.301 789.94 692.06 783.699 692.06 776 Z" fill="none" stroke="#1d1216" stroke-width="1.4" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Coin_3_hole" data-name="Coin 3 hole" d="M700.22 770.22 L711.78 770.22 L711.78 781.78 L700.22 781.78 Z" fill="#241512" stroke="#1d1216" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Coin_shadow_4" data-name="Coin shadow 4" d="M551.6 832.8 C551.6 830.591 558.405 828.8 566.8 828.8 C575.195 828.8 582 830.591 582 832.8 C582 835.009 575.195 836.8 566.8 836.8 C558.405 836.8 551.6 835.009 551.6 832.8 Z" fill="#000000" opacity="0.3"/>
+    <path id="Coin_4" data-name="Coin 4" d="M550 820 C550 811.163 557.163 804 566 804 C574.837 804 582 811.163 582 820 C582 828.837 574.837 836 566 836 C557.163 836 550 828.837 550 820 Z" fill="url(#linear-gradient-25)" stroke="#1d1216" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Coin_4_inner" data-name="Coin 4 inner" d="M552.88 820 C552.88 812.754 558.754 806.88 566 806.88 C573.246 806.88 579.12 812.754 579.12 820 C579.12 827.246 573.246 833.12 566 833.12 C558.754 833.12 552.88 827.246 552.88 820 Z" fill="none" stroke="#1d1216" stroke-width="1.4" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Coin_4_hole" data-name="Coin 4 hole" d="M560.56 814.56 L571.44 814.56 L571.44 825.44 L560.56 825.44 Z" fill="#241512" stroke="#1d1216" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Spark_halo_1" data-name="Spark halo 1" d="M314.2 420 C314.2 415.692 317.692 412.2 322 412.2 C326.308 412.2 329.8 415.692 329.8 420 C329.8 424.308 326.308 427.8 322 427.8 C317.692 427.8 314.2 424.308 314.2 420 Z" fill="url(#radial-gradient-18)"/>
+    <path id="Spark_1" data-name="Spark 1" d="M320.7 420 C320.7 419.282 321.282 418.7 322 418.7 C322.718 418.7 323.3 419.282 323.3 420 C323.3 420.718 322.718 421.3 322 421.3 C321.282 421.3 320.7 420.718 320.7 420 Z" fill="#fbe6b4"/>
+    <path id="Spark_halo_2" data-name="Spark halo 2" d="M693.4 470 C693.4 466.355 696.355 463.4 700 463.4 C703.645 463.4 706.6 466.355 706.6 470 C706.6 473.645 703.645 476.6 700 476.6 C696.355 476.6 693.4 473.645 693.4 470 Z" fill="url(#radial-gradient-19)"/>
+    <path id="Spark_2" data-name="Spark 2" d="M698.9 470 C698.9 469.392 699.392 468.9 700 468.9 C700.608 468.9 701.1 469.392 701.1 470 C701.1 470.608 700.608 471.1 700 471.1 C699.392 471.1 698.9 470.608 698.9 470 Z" fill="#fbe6b4"/>
+    <path id="Spark_halo_3" data-name="Spark halo 3" d="M406 336 C406 332.686 408.686 330 412 330 C415.314 330 418 332.686 418 336 C418 339.314 415.314 342 412 342 C408.686 342 406 339.314 406 336 Z" fill="url(#radial-gradient-20)"/>
+    <path id="Spark_3" data-name="Spark 3" d="M411 336 C411 335.448 411.448 335 412 335 C412.552 335 413 335.448 413 336 C413 336.552 412.552 337 412 337 C411.448 337 411 336.552 411 336 Z" fill="#fbe6b4"/>
+    <path id="Spark_halo_4" data-name="Spark halo 4" d="M580.6 214 C580.6 211.018 583.018 208.6 586 208.6 C588.982 208.6 591.4 211.018 591.4 214 C591.4 216.982 588.982 219.4 586 219.4 C583.018 219.4 580.6 216.982 580.6 214 Z" fill="url(#radial-gradient-21)"/>
+    <path id="Spark_4" data-name="Spark 4" d="M585.1 214 C585.1 213.503 585.503 213.1 586 213.1 C586.497 213.1 586.9 213.503 586.9 214 C586.9 214.497 586.497 214.9 586 214.9 C585.503 214.9 585.1 214.497 585.1 214 Z" fill="#fbe6b4"/>
+    <path id="Spark_halo_5" data-name="Spark halo 5" d="M240.6 400 C240.6 397.018 243.018 394.6 246 394.6 C248.982 394.6 251.4 397.018 251.4 400 C251.4 402.982 248.982 405.4 246 405.4 C243.018 405.4 240.6 402.982 240.6 400 Z" fill="url(#radial-gradient-22)"/>
+    <path id="Spark_5" data-name="Spark 5" d="M245.1 400 C245.1 399.503 245.503 399.1 246 399.1 C246.497 399.1 246.9 399.503 246.9 400 C246.9 400.497 246.497 400.9 246 400.9 C245.503 400.9 245.1 400.497 245.1 400 Z" fill="#fbe6b4"/>
+    <path id="Spark_halo_6" data-name="Spark halo 6" d="M736 600 C736 596.686 738.686 594 742 594 C745.314 594 748 596.686 748 600 C748 603.314 745.314 606 742 606 C738.686 606 736 603.314 736 600 Z" fill="url(#radial-gradient-23)"/>
+    <path id="Spark_6" data-name="Spark 6" d="M741 600 C741 599.448 741.448 599 742 599 C742.552 599 743 599.448 743 600 C743 600.552 742.552 601 742 601 C741.448 601 741 600.552 741 600 Z" fill="#fbe6b4"/>
+    <path id="Spark_halo_7" data-name="Spark halo 7" d="M350.6 800 C350.6 797.018 353.018 794.6 356 794.6 C358.982 794.6 361.4 797.018 361.4 800 C361.4 802.982 358.982 805.4 356 805.4 C353.018 805.4 350.6 802.982 350.6 800 Z" fill="url(#radial-gradient-24)"/>
+    <path id="Spark_7" data-name="Spark 7" d="M355.1 800 C355.1 799.503 355.503 799.1 356 799.1 C356.497 799.1 356.9 799.503 356.9 800 C356.9 800.497 356.497 800.9 356 800.9 C355.503 800.9 355.1 800.497 355.1 800 Z" fill="#fbe6b4"/>
+    <path id="Spark_halo_8" data-name="Spark halo 8" d="M245.2 560 C245.2 557.349 247.349 555.2 250 555.2 C252.651 555.2 254.8 557.349 254.8 560 C254.8 562.651 252.651 564.8 250 564.8 C247.349 564.8 245.2 562.651 245.2 560 Z" fill="url(#radial-gradient-25)"/>
+    <path id="Spark_8" data-name="Spark 8" d="M249.2 560 C249.2 559.558 249.558 559.2 250 559.2 C250.442 559.2 250.8 559.558 250.8 560 C250.8 560.442 250.442 560.8 250 560.8 C249.558 560.8 249.2 560.442 249.2 560 Z" fill="#fbe6b4"/>
+    <path id="Spark_halo_9" data-name="Spark halo 9" d="M765.2 520 C765.2 517.349 767.349 515.2 770 515.2 C772.651 515.2 774.8 517.349 774.8 520 C774.8 522.651 772.651 524.8 770 524.8 C767.349 524.8 765.2 522.651 765.2 520 Z" fill="url(#radial-gradient-26)"/>
+    <path id="Spark_9" data-name="Spark 9" d="M769.2 520 C769.2 519.558 769.558 519.2 770 519.2 C770.442 519.2 770.8 519.558 770.8 520 C770.8 520.442 770.442 520.8 770 520.8 C769.558 520.8 769.2 520.442 769.2 520 Z" fill="#fbe6b4"/>
+    <path id="Spark_halo_10" data-name="Spark halo 10" d="M191.5 500 C191.5 497.515 193.515 495.5 196 495.5 C198.485 495.5 200.5 497.515 200.5 500 C200.5 502.485 198.485 504.5 196 504.5 C193.515 504.5 191.5 502.485 191.5 500 Z" fill="url(#radial-gradient-27)"/>
+    <path id="Spark_10" data-name="Spark 10" d="M195.25 500 C195.25 499.586 195.586 499.25 196 499.25 C196.414 499.25 196.75 499.586 196.75 500 C196.75 500.414 196.414 500.75 196 500.75 C195.586 500.75 195.25 500.414 195.25 500 Z" fill="#fbe6b4"/>
+    <path id="Petal_1" data-name="Petal 1" d="M351.843 763.804 C350.583 761.101 353.213 757.207 357.718 755.106 C362.223 753.005 366.896 753.494 368.157 756.196 C369.417 758.899 366.787 762.793 362.282 764.894 C357.777 766.995 353.104 766.506 351.843 763.804 Z" fill="#f2b4c2" opacity="0.5"/>
+    <path id="Petal_2" data-name="Petal 2" d="M293.872 806.858 C295.576 804.827 299.701 805.483 303.085 808.323 C306.47 811.163 307.832 815.112 306.128 817.142 C304.424 819.173 300.299 818.517 296.915 815.677 C293.53 812.837 292.168 808.888 293.872 806.858 Z" fill="#f2b4c2" opacity="0.5"/>
+    <path id="Petal_3" data-name="Petal 3" d="M401.606 673.422 C403.786 672.629 406.624 674.931 407.947 678.564 C409.269 682.196 408.574 685.784 406.394 686.578 C404.214 687.371 401.376 685.069 400.053 681.436 C398.731 677.804 399.426 674.216 401.606 673.422 Z" fill="#f2b4c2" opacity="0.5"/>
+    <path id="Petal_4" data-name="Petal 4" d="M323.239 464.188 C323.839 461.948 327.353 460.943 331.087 461.943 C334.821 462.944 337.362 465.571 336.761 467.812 C336.161 470.052 332.647 471.057 328.913 470.057 C325.179 469.056 322.638 466.429 323.239 464.188 Z" fill="#f2b4c2" opacity="0.5"/>
+    <path id="Petal_5" data-name="Petal 5" d="M245.985 771.734 C244.085 770.404 244.342 766.758 246.56 763.591 C248.777 760.424 252.115 758.935 254.015 760.266 C255.915 761.596 255.658 765.242 253.44 768.409 C251.223 771.576 247.885 773.065 245.985 771.734 Z" fill="#f2b4c2" opacity="0.5"/>
+    <path id="Petal_6" data-name="Petal 6" d="M460.091 798.958 C460.436 797 463.362 795.879 466.625 796.455 C469.888 797.03 472.254 799.084 471.909 801.042 C471.564 803 468.638 804.121 465.375 803.545 C462.112 802.97 459.746 800.916 460.091 798.958 Z" fill="#f2b4c2" opacity="0.5"/>
+    <path id="Chop_shadow" data-name="Chop shadow" d="M721 152 L763 152 C765.209 152 767 153.791 767 156 L767 284 C767 286.209 765.209 288 763 288 L721 288 C718.791 288 717 286.209 717 284 L717 156 C717 153.791 718.791 152 721 152 Z" fill="#000000" opacity="0.3"/>
+    <path id="Chop" d="M718 148 L760 148 C762.209 148 764 149.791 764 152 L764 280 C764 282.209 762.209 284 760 284 L718 284 C715.791 284 714 282.209 714 280 L714 152 C714 149.791 715.791 148 718 148 Z" fill="url(#linear-gradient-26)" stroke="#5e1412" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Chop_inner" data-name="Chop inner" d="M720 152 L758 152 C759.105 152 760 152.895 760 154 L760 278 C760 279.105 759.105 280 758 280 L720 280 C718.895 280 718 279.105 718 278 L718 154 C718 152.895 718.895 152 720 152 Z" fill="none" stroke="#fbe6b4" stroke-width="1.5" stroke-miterlimit="10" opacity="0.7"/>
+    <text transform="matrix(1 0 0 1 739 203.68)" x="0" y="0" xml:space="preserve" font-family="&apos;Noto Sans CJK SC&apos;, sans-serif" font-size="27" fill="#fbe6b4" text-anchor="middle"><tspan x="0" y="0">春</tspan></text>
+    <text transform="matrix(1 0 0 1 739 259.68)" x="0" y="0" xml:space="preserve" font-family="&apos;Noto Sans CJK SC&apos;, sans-serif" font-size="27" fill="#fbe6b4" text-anchor="middle"><tspan x="0" y="0">节</tspan></text>
+    <text transform="matrix(1 0 0 1 500 934)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="52" fill="#f6e8cc" letter-spacing="3.224" text-anchor="middle"><tspan x="0" y="0">SPRING FESTIVAL</tspan></text>
+    <text transform="matrix(1 0 0 1 500 970)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="20" fill="#d2a45e" letter-spacing="3.8" text-anchor="middle"><tspan x="0" y="0">春節 · LUNAR NEW YEAR · DAY 1</tspan></text>
+  </g>
+</svg>
