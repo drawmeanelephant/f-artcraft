@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="500" x2="1000" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#12151e"/>
+      <stop offset="1" stop-color="#07080c"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#454e60"/>
+      <stop offset="0.7" stop-color="#2a303e"/>
+      <stop offset="1" stop-color="#141822"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="156" y1="789.518" x2="844" y2="789.518" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#262c38"/>
+      <stop offset="1" stop-color="#10131a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="258" y1="410" x2="554" y2="410" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3e444f"/>
+      <stop offset="1" stop-color="#232833"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="276" y1="410" x2="536" y2="410" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e4d6b4"/>
+      <stop offset="1" stop-color="#b8a67e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="792" y1="524" x2="814" y2="524" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eae0c4"/>
+      <stop offset="1" stop-color="#b09b6e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="599.16" y1="570.125" x2="822.974" y2="570.125" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#454e5e"/>
+      <stop offset="0.62" stop-color="#272d3a"/>
+      <stop offset="1" stop-color="#151924"/>
+    </linearGradient>
+  </defs>
+  <title>RC-A11Y — Necropolis Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#8a8060" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#d9dee8" stroke-width="3" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Plate_fleck_1" data-name="Plate fleck 1" d="M193 237 C193 234.791 194.791 233 197 233 C199.209 233 201 234.791 201 237 C201 239.209 199.209 241 197 241 C194.791 241 193 239.209 193 237 Z" fill="#525c70" opacity="0.35"/>
+    <path id="Plate_fleck_2" data-name="Plate fleck 2" d="M801 233.5 C801 231.567 802.567 230 804.5 230 C806.433 230 808 231.567 808 233.5 C808 235.433 806.433 237 804.5 237 C802.567 237 801 235.433 801 233.5 Z" fill="#525c70" opacity="0.35"/>
+    <path id="Plate_fleck_3" data-name="Plate fleck 3" d="M157 528.5 C157 526.015 159.015 524 161.5 524 C163.985 524 166 526.015 166 528.5 C166 530.985 163.985 533 161.5 533 C159.015 533 157 530.985 157 528.5 Z" fill="#525c70" opacity="0.35"/>
+    <path id="Plate_fleck_4" data-name="Plate fleck 4" d="M837 548 C837 545.791 838.791 544 841 544 C843.209 544 845 545.791 845 548 C845 550.209 843.209 552 841 552 C838.791 552 837 550.209 837 548 Z" fill="#525c70" opacity="0.35"/>
+    <path id="Plate_fleck_5" data-name="Plate fleck 5" d="M247 769.5 C247 767.567 248.567 766 250.5 766 C252.433 766 254 767.567 254 769.5 C254 771.433 252.433 773 250.5 773 C248.567 773 247 771.433 247 769.5 Z" fill="#525c70" opacity="0.35"/>
+    <path id="Plate_fleck_6" data-name="Plate fleck 6" d="M753 753.5 C753 751.015 755.015 749 757.5 749 C759.985 749 762 751.015 762 753.5 C762 755.985 759.985 758 757.5 758 C755.015 758 753 755.985 753 753.5 Z" fill="#525c70" opacity="0.35"/>
+    <path id="Plate_fleck_7" data-name="Plate fleck 7" d="M133 396 C133 394.343 134.343 393 136 393 C137.657 393 139 394.343 139 396 C139 397.657 137.657 399 136 399 C134.343 399 133 397.657 133 396 Z" fill="#525c70" opacity="0.35"/>
+    <path id="Plate_fleck_8" data-name="Plate fleck 8" d="M864 394.5 C864 392.567 865.567 391 867.5 391 C869.433 391 871 392.567 871 394.5 C871 396.433 869.433 398 867.5 398 C865.567 398 864 396.433 864 394.5 Z" fill="#525c70" opacity="0.35"/>
+    <path id="Plate_fleck_9" data-name="Plate fleck 9" d="M391 116.5 C391 114.567 392.567 113 394.5 113 C396.433 113 398 114.567 398 116.5 C398 118.433 396.433 120 394.5 120 C392.567 120 391 118.433 391 116.5 Z" fill="#525c70" opacity="0.35"/>
+    <path id="Plate_fleck_10" data-name="Plate fleck 10" d="M613 114 C613 111.791 614.791 110 617 110 C619.209 110 621 111.791 621 114 C621 116.209 619.209 118 617 118 C614.791 118 613 116.209 613 114 Z" fill="#525c70" opacity="0.35"/>
+    <path id="Plate_fleck_11" data-name="Plate fleck 11" d="M333 826 C333 824.343 334.343 823 336 823 C337.657 823 339 824.343 339 826 C339 827.657 337.657 829 336 829 C334.343 829 333 827.657 333 826 Z" fill="#525c70" opacity="0.35"/>
+    <path id="Plate_fleck_12" data-name="Plate fleck 12" d="M665 824.5 C665 822.567 666.567 821 668.5 821 C670.433 821 672 822.567 672 824.5 C672 826.433 670.433 828 668.5 828 C666.567 828 665 826.433 665 824.5 Z" fill="#525c70" opacity="0.35"/>
+    <path id="Floor" d="M156 700 L844 700 C765.397 812.213 637.004 879.035 500 879.035 C362.996 879.035 234.603 812.213 156 700 Z" fill="url(#linear-gradient-2)"/>
+    <path id="Floor_line" data-name="Floor line" d="M156 700 L844 700" fill="none" stroke="#0b0d12" stroke-width="4" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Candle_spill" data-name="Candle spill" d="M520 510 C520 410.589 609.543 330 720 330 C830.457 330 920 410.589 920 510 C920 609.411 830.457 690 720 690 C609.543 690 520 609.411 520 510 Z" fill="#ffce6e" opacity="0.1"/>
+    <path id="Candle_glow" data-name="Candle glow" d="M700 505 C700 458.056 742.533 420 795 420 C847.467 420 890 458.056 890 505 C890 551.944 847.467 590 795 590 C742.533 590 700 551.944 700 505 Z" fill="#ffce6e" opacity="0.18"/>
+    <path id="Chart_cord" data-name="Chart cord" d="M395 208 L283 252 M395 208 L527 252" fill="none" stroke="#6e6452" stroke-width="3" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Cord_nail" data-name="Cord nail" d="M391 206.5 C391 204.015 393.015 202 395.5 202 C397.985 202 400 204.015 400 206.5 C400 208.985 397.985 211 395.5 211 C393.015 211 391 208.985 391 206.5 Z" fill="#8a8060" stroke="#1e222c" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Chart_board" data-name="Chart board" d="M264 240 L548 240 C551.314 240 554 242.686 554 246 L554 574 C554 577.314 551.314 580 548 580 L264 580 C260.686 580 258 577.314 258 574 L258 246 C258 242.686 260.686 240 264 240 Z" fill="url(#linear-gradient-3)" stroke="#1e222c" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Chart_sheet" data-name="Chart sheet" d="M276 258 L536 258 L536 562 L276 562 Z" fill="url(#linear-gradient-4)" stroke="#1e222c" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Sheet_top_shade" data-name="Sheet top shade" d="M276 258 L536 258" fill="none" stroke="#6e6452" stroke-width="3" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Pin_1" data-name="Pin 1" d="M282 268 C282 265.791 283.791 264 286 264 C288.209 264 290 265.791 290 268 C290 270.209 288.209 272 286 272 C283.791 272 282 270.209 282 268 Z" fill="#8a8060" stroke="#1e222c" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Pin_2" data-name="Pin 2" d="M520 268 C520 265.791 521.791 264 524 264 C526.209 264 528 265.791 528 268 C528 270.209 526.209 272 524 272 C521.791 272 520 270.209 520 268 Z" fill="#8a8060" stroke="#1e222c" stroke-width="2" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 395 306)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="40" fill="#322b24" text-anchor="middle"><tspan x="0" y="0">E F P</tspan></text>
+    <text transform="matrix(1 0 0 1 395 352)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="30" fill="#50483b" text-anchor="middle"><tspan x="0" y="0">T O Z L</tspan></text>
+    <text transform="matrix(1 0 0 1 395 392)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="22" fill="#6f6451" text-anchor="middle"><tspan x="0" y="0">P E C F D</tspan></text>
+    <text transform="matrix(1 0 0 1 395 426)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="16" fill="#8b7e66" text-anchor="middle"><tspan x="0" y="0">E D F C Z P</tspan></text>
+    <text transform="matrix(1 0 0 1 395 456)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="12" fill="#a39477" text-anchor="middle"><tspan x="0" y="0">F E L O P Z D</tspan></text>
+    <path id="Pass_1" data-name="Pass 1" d="M498 304 L504 312 L516 296" fill="none" stroke="#3e5a34" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Pass_2" data-name="Pass 2" d="M498 350 L504 358 L516 342" fill="none" stroke="#3e5a34" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Retest_3" data-name="Retest 3" d="M500 394 L516 394" fill="none" stroke="#8a7450" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Buried_4" data-name="Buried 4" d="M500 418 L514 432 M514 418 L500 432" fill="none" stroke="#7a2e24" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Buried_5" data-name="Buried 5" d="M500 450 L514 464 M514 450 L500 464" fill="none" stroke="#7a2e24" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 405 540)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11" fill="#6e6350" text-anchor="middle"><tspan x="0" y="0">CONTRAST TABLE VII — CRYPT ISSUE</tspan></text>
+    <path id="Stand_shadow" data-name="Stand shadow" d="M748 690 C748 685.582 772.624 682 803 682 C833.376 682 858 685.582 858 690 C858 694.418 833.376 698 803 698 C772.624 698 748 694.418 748 690 Z" fill="#05060a" opacity="0.5"/>
+    <path id="Stand_pole" data-name="Stand pole" d="M803 690 L803 560" fill="none" stroke="#4a4438" stroke-width="9" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Stand_foot" data-name="Stand foot" d="M782 692 L824 692 L812 676 L794 676 Z" fill="#4a4438" stroke="#1e222c" stroke-width="4" stroke-linejoin="round"/>
+    <path id="Drip_pan" data-name="Drip pan" d="M786 554 C786 550.686 793.611 548 803 548 C812.389 548 820 550.686 820 554 C820 557.314 812.389 560 803 560 C793.611 560 786 557.314 786 554 Z" fill="#5c5443" stroke="#1e222c" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Candle" d="M796 496 L810 496 C812.209 496 814 497.791 814 500 L814 548 C814 550.209 812.209 552 810 552 L796 552 C793.791 552 792 550.209 792 548 L792 500 C792 497.791 793.791 496 796 496 Z" fill="url(#linear-gradient-5)" stroke="#1e222c" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Flame" d="M803 496 C797 486 799 476 803 468 C807 476 809 486 803 496 Z" fill="#ffe9b0" stroke="#c8842a" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Flame_core" data-name="Flame core" d="M799 488 C799 484.686 800.791 482 803 482 C805.209 482 807 484.686 807 488 C807 491.314 805.209 494 803 494 C800.791 494 799 491.314 799 488 Z" fill="#fff7dc"/>
+    <path id="Figure_shadow" data-name="Figure shadow" d="M560 692 C560 686.477 600.294 682 650 682 C699.706 682 740 686.477 740 692 C740 697.523 699.706 702 650 702 C600.294 702 560 697.523 560 692 Z" fill="#05060a" opacity="0.5"/>
+    <path id="Optometrist_robe" data-name="Optometrist robe" d="M600 695 C596 630 606 570 636 535 C650 518 668 508 684 502 C676 470 692 440 716 434 C740 440 754 470 748 502 C764 508 780 520 792 538 C818 576 826 634 822 695 C780 710 640 710 600 695 Z" fill="url(#linear-gradient-6)" stroke="#1e222c" stroke-width="6" stroke-linejoin="round"/>
+    <path id="Hood_void" data-name="Hood void" d="M716 452 C690 462 682 490 688 514 C700 528 732 528 744 514 C750 490 742 462 716 452 Z" fill="#0d0f16" stroke="#39404e" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Spectacle_L" data-name="Spectacle L" d="M697 496 C697 491.582 700.582 488 705 488 C709.418 488 713 491.582 713 496 C713 500.418 709.418 504 705 504 C700.582 504 697 500.418 697 496 Z" fill="none" stroke="#e8c56a" stroke-width="3" stroke-miterlimit="10" opacity="0.85"/>
+    <path id="Spectacle_R" data-name="Spectacle R" d="M720 496 C720 491.582 723.582 488 728 488 C732.418 488 736 491.582 736 496 C736 500.418 732.418 504 728 504 C723.582 504 720 500.418 720 496 Z" fill="none" stroke="#e8c56a" stroke-width="3" stroke-miterlimit="10" opacity="0.85"/>
+    <path id="Spectacle_bridge" data-name="Spectacle bridge" d="M713 496 L720 496" fill="none" stroke="#e8c56a" stroke-width="3" stroke-miterlimit="10" opacity="0.85"/>
+    <path id="Robe_fold_L" data-name="Robe fold L" d="M660 560 C652 610 650 655 654 690" fill="none" stroke="#101320" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Robe_fold_R" data-name="Robe fold R" d="M760 560 C768 610 770 655 766 690" fill="none" stroke="#101320" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Swatch_arm" data-name="Swatch arm" d="M655 545 C640 528 632 516 626 502" fill="none" stroke="#39404e" stroke-width="30" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Swatch_hand" data-name="Swatch hand" d="M608 497 C608 492.029 613.82 488 621 488 C628.18 488 634 492.029 634 497 C634 501.971 628.18 506 621 506 C613.82 506 608 501.971 608 497 Z" fill="#7a8290" stroke="#1e222c" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Swatch_pass" data-name="Swatch pass" d="M560.9 462.8 L587.8 449.7 L607.1 489.2 L580.2 502.3 Z" fill="#e8e0d0" stroke="#1e222c" stroke-width="2" stroke-linejoin="round"/>
+    <path id="Swatch_marginal" data-name="Swatch marginal" d="M589.5 445.1 L619.4 443 L622.5 486.9 L592.6 489 Z" fill="#8a8276" stroke="#1e222c" stroke-width="2" stroke-linejoin="round"/>
+    <path id="Swatch_buried" data-name="Swatch buried" d="M619.5 448.4 L648.1 457.7 L634.5 499.6 L605.9 490.3 Z" fill="#3e3a44" stroke="#1e222c" stroke-width="2" stroke-linejoin="round"/>
+    <path id="Far_arm" data-name="Far arm" d="M770 560 L795 548" fill="none" stroke="#39404e" stroke-width="24" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Stylus" d="M792 552 L810 540" fill="none" stroke="#8a8060" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 930)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="58" fill="#dee2ec" text-anchor="middle"><tspan x="0" y="0">RC-A11Y</tspan></text>
+    <text transform="matrix(1 0 0 1 500 968)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="23" fill="#98a2b8" letter-spacing="4.6" text-anchor="middle"><tspan x="0" y="0">CONTRAST AUDIT</tspan></text>
+  </g>
+</svg>
