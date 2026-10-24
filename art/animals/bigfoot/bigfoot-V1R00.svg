@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b120c"/>
+      <stop offset="1" stop-color="#040704"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6e8470"/>
+      <stop offset="0.5" stop-color="#3c5244"/>
+      <stop offset="1" stop-color="#14221a"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="385" cy="245" r="55" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f0f2dc"/>
+      <stop offset="1" stop-color="#c4cca8"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="700" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46584a"/>
+      <stop offset="0.6" stop-color="#2a3a30"/>
+      <stop offset="1" stop-color="#141e18"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="430" y1="280" x2="520" y2="700" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6b4526"/>
+      <stop offset="0.55" stop-color="#4a2e18"/>
+      <stop offset="1" stop-color="#2a180c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="328" y1="352" x2="400" y2="610" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5a3a20"/>
+      <stop offset="1" stop-color="#2e1a0c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="350" y1="256" x2="390" y2="442" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6b4526"/>
+      <stop offset="1" stop-color="#3a2210"/>
+    </linearGradient>
+  </defs>
+  <title>Bigfoot — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo" data-name="Plate halo" d="M64 460 C64 219.204 259.204 24 500 24 C740.796 24 936 219.204 936 460 C936 700.796 740.796 896 500 896 C259.204 896 64 700.796 64 460 Z" fill="#3c5244" opacity="0.12"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#0e1c14" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#c4d4bc" stroke-width="3" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Moon_glow" data-name="Moon glow" d="M240 280 C240 202.68 307.157 140 390 140 C472.843 140 540 202.68 540 280 C540 357.32 472.843 420 390 420 C307.157 420 240 357.32 240 280 Z" fill="#d8e4c8" opacity="0.16"/>
+    <path id="Moon" d="M330 245 C330 214.624 354.624 190 385 190 C415.376 190 440 214.624 440 245 C440 275.376 415.376 300 385 300 C354.624 300 330 275.376 330 245 Z" fill="url(#radial-gradient-2)" opacity="0.9"/>
+    <path id="Moon_shade" data-name="Moon shade" d="M352 236 C352 219.431 365.431 206 382 206 C398.569 206 412 219.431 412 236 C412 252.569 398.569 266 382 266 C365.431 266 352 252.569 352 236 Z" fill="#a8b490" opacity="0.35"/>
+    <path id="Far_pine_1_trunk" data-name="Far pine 1 trunk" d="M175 700 L175 641.2 L185 641.2 L185 700 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_1_tier_1" data-name="Far pine 1 tier 1" d="M134 687.4 C149.333 656.6 164.667 635.6 180 624.4 C195.333 635.6 210.667 656.6 226 687.4 C195.333 676.2 164.667 676.2 134 687.4 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_1_tier_2" data-name="Far pine 1 tier 2" d="M144.12 645.4 C156.08 614.6 168.04 593.6 180 582.4 C191.96 593.6 203.92 614.6 215.88 645.4 C191.96 634.2 168.04 634.2 144.12 645.4 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_1_tier_3" data-name="Far pine 1 tier 3" d="M154.24 603.4 C162.827 572.6 171.413 551.6 180 540.4 C188.587 551.6 197.173 572.6 205.76 603.4 C188.587 592.2 171.413 592.2 154.24 603.4 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_1_tier_4" data-name="Far pine 1 tier 4" d="M164.36 561.4 C169.573 530.6 174.787 509.6 180 498.4 C185.213 509.6 190.427 530.6 195.64 561.4 C185.213 550.2 174.787 550.2 164.36 561.4 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_2_trunk" data-name="Far pine 2 trunk" d="M255 700 L255 646.8 L265 646.8 L265 700 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_2_tier_1" data-name="Far pine 2 tier 1" d="M220 688.6 C233.333 660.733 246.667 641.733 260 631.6 C273.333 641.733 286.667 660.733 300 688.6 C273.333 678.467 246.667 678.467 220 688.6 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_2_tier_2" data-name="Far pine 2 tier 2" d="M228.8 650.6 C239.2 622.733 249.6 603.733 260 593.6 C270.4 603.733 280.8 622.733 291.2 650.6 C270.4 640.467 249.6 640.467 228.8 650.6 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_2_tier_3" data-name="Far pine 2 tier 3" d="M237.6 612.6 C245.067 584.733 252.533 565.733 260 555.6 C267.467 565.733 274.933 584.733 282.4 612.6 C267.467 602.467 252.533 602.467 237.6 612.6 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_2_tier_4" data-name="Far pine 2 tier 4" d="M246.4 574.6 C250.933 546.733 255.467 527.733 260 517.6 C264.533 527.733 269.067 546.733 273.6 574.6 C264.533 564.467 255.467 564.467 246.4 574.6 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_3_trunk" data-name="Far pine 3 trunk" d="M345 700 L345 644 L355 644 L355 700 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_3_tier_1" data-name="Far pine 3 tier 1" d="M306 688 C320.667 658.667 335.333 638.667 350 628 C364.667 638.667 379.333 658.667 394 688 C364.667 677.333 335.333 677.333 306 688 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_3_tier_2" data-name="Far pine 3 tier 2" d="M315.68 648 C327.12 618.667 338.56 598.667 350 588 C361.44 598.667 372.88 618.667 384.32 648 C361.44 637.333 338.56 637.333 315.68 648 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_3_tier_3" data-name="Far pine 3 tier 3" d="M325.36 608 C333.573 578.667 341.787 558.667 350 548 C358.213 558.667 366.427 578.667 374.64 608 C358.213 597.333 341.787 597.333 325.36 608 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_3_tier_4" data-name="Far pine 3 tier 4" d="M335.04 568 C340.027 538.667 345.013 518.667 350 508 C354.987 518.667 359.973 538.667 364.96 568 C354.987 557.333 345.013 557.333 335.04 568 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_4_trunk" data-name="Far pine 4 trunk" d="M615 700 L615 645.4 L625 645.4 L625 700 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_4_tier_1" data-name="Far pine 4 tier 1" d="M578 688.3 C592 659.7 606 640.2 620 629.8 C634 640.2 648 659.7 662 688.3 C634 677.9 606 677.9 578 688.3 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_4_tier_2" data-name="Far pine 4 tier 2" d="M587.24 649.3 C598.16 620.7 609.08 601.2 620 590.8 C630.92 601.2 641.84 620.7 652.76 649.3 C630.92 638.9 609.08 638.9 587.24 649.3 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_4_tier_3" data-name="Far pine 4 tier 3" d="M596.48 610.3 C604.32 581.7 612.16 562.2 620 551.8 C627.84 562.2 635.68 581.7 643.52 610.3 C627.84 599.9 612.16 599.9 596.48 610.3 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_4_tier_4" data-name="Far pine 4 tier 4" d="M605.72 571.3 C610.48 542.7 615.24 523.2 620 512.8 C624.76 523.2 629.52 542.7 634.28 571.3 C624.76 560.9 615.24 560.9 605.72 571.3 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_5_trunk" data-name="Far pine 5 trunk" d="M705 700 L705 639.8 L715 639.8 L715 700 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_5_tier_1" data-name="Far pine 5 tier 1" d="M664 687.1 C679.333 655.567 694.667 634.067 710 622.6 C725.333 634.067 740.667 655.567 756 687.1 C725.333 675.633 694.667 675.633 664 687.1 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_5_tier_2" data-name="Far pine 5 tier 2" d="M674.12 644.1 C686.08 612.567 698.04 591.067 710 579.6 C721.96 591.067 733.92 612.567 745.88 644.1 C721.96 632.633 698.04 632.633 674.12 644.1 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_5_tier_3" data-name="Far pine 5 tier 3" d="M684.24 601.1 C692.827 569.567 701.413 548.067 710 536.6 C718.587 548.067 727.173 569.567 735.76 601.1 C718.587 589.633 701.413 589.633 684.24 601.1 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_5_tier_4" data-name="Far pine 5 tier 4" d="M694.36 558.1 C699.573 526.567 704.787 505.067 710 493.6 C715.213 505.067 720.427 526.567 725.64 558.1 C715.213 546.633 704.787 546.633 694.36 558.1 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_6_trunk" data-name="Far pine 6 trunk" d="M795 700 L795 648.2 L805 648.2 L805 700 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_6_tier_1" data-name="Far pine 6 tier 1" d="M760 688.9 C773.333 661.767 786.667 643.267 800 633.4 C813.333 643.267 826.667 661.767 840 688.9 C813.333 679.033 786.667 679.033 760 688.9 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_6_tier_2" data-name="Far pine 6 tier 2" d="M768.8 651.9 C779.2 624.767 789.6 606.267 800 596.4 C810.4 606.267 820.8 624.767 831.2 651.9 C810.4 642.033 789.6 642.033 768.8 651.9 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_6_tier_3" data-name="Far pine 6 tier 3" d="M777.6 614.9 C785.067 587.767 792.533 569.267 800 559.4 C807.467 569.267 814.933 587.767 822.4 614.9 C807.467 605.033 792.533 605.033 777.6 614.9 Z" fill="#223428" opacity="0.55"/>
+    <path id="Far_pine_6_tier_4" data-name="Far pine 6 tier 4" d="M786.4 577.9 C790.933 550.767 795.467 532.267 800 522.4 C804.533 532.267 809.067 550.767 813.6 577.9 C804.533 568.033 795.467 568.033 786.4 577.9 Z" fill="#223428" opacity="0.55"/>
+    <path id="Mist_1" data-name="Mist 1" d="M160 590 C160 573.431 316.7 560 510 560 C703.3 560 860 573.431 860 590 C860 606.569 703.3 620 510 620 C316.7 620 160 606.569 160 590 Z" fill="#c4d4bc" opacity="0.18"/>
+    <path id="Mist_2" data-name="Mist 2" d="M200 644 C200 630.745 338.792 620 510 620 C681.208 620 820 630.745 820 644 C820 657.255 681.208 668 510 668 C338.792 668 200 657.255 200 644 Z" fill="#c4d4bc" opacity="0.14"/>
+    <path id="Near_pine_1_trunk" data-name="Near pine 1 trunk" d="M163 760 L163 667.6 L173 667.6 L173 760 Z" fill="#16241a" opacity="0.85"/>
+    <path id="Near_pine_1_tier_1" data-name="Near pine 1 tier 1" d="M108 740.2 C128 691.8 148 658.8 168 641.2 C188 658.8 208 691.8 228 740.2 C188 722.6 148 722.6 108 740.2 Z" fill="#16241a" opacity="0.85"/>
+    <path id="Near_pine_1_tier_2" data-name="Near pine 1 tier 2" d="M121.2 674.2 C136.8 625.8 152.4 592.8 168 575.2 C183.6 592.8 199.2 625.8 214.8 674.2 C183.6 656.6 152.4 656.6 121.2 674.2 Z" fill="#16241a" opacity="0.85"/>
+    <path id="Near_pine_1_tier_3" data-name="Near pine 1 tier 3" d="M134.4 608.2 C145.6 559.8 156.8 526.8 168 509.2 C179.2 526.8 190.4 559.8 201.6 608.2 C179.2 590.6 156.8 590.6 134.4 608.2 Z" fill="#16241a" opacity="0.85"/>
+    <path id="Near_pine_1_tier_4" data-name="Near pine 1 tier 4" d="M147.6 542.2 C154.4 493.8 161.2 460.8 168 443.2 C174.8 460.8 181.6 493.8 188.4 542.2 C174.8 524.6 161.2 524.6 147.6 542.2 Z" fill="#16241a" opacity="0.85"/>
+    <path id="Near_pine_2_trunk" data-name="Near pine 2 trunk" d="M825 760 L825 662 L835 662 L835 760 Z" fill="#16241a" opacity="0.85"/>
+    <path id="Near_pine_2_tier_1" data-name="Near pine 2 tier 1" d="M766 739 C787.333 687.667 808.667 652.667 830 634 C851.333 652.667 872.667 687.667 894 739 C851.333 720.333 808.667 720.333 766 739 Z" fill="#16241a" opacity="0.85"/>
+    <path id="Near_pine_2_tier_2" data-name="Near pine 2 tier 2" d="M780.08 669 C796.72 617.667 813.36 582.667 830 564 C846.64 582.667 863.28 617.667 879.92 669 C846.64 650.333 813.36 650.333 780.08 669 Z" fill="#16241a" opacity="0.85"/>
+    <path id="Near_pine_2_tier_3" data-name="Near pine 2 tier 3" d="M794.16 599 C806.107 547.667 818.053 512.667 830 494 C841.947 512.667 853.893 547.667 865.84 599 C841.947 580.333 818.053 580.333 794.16 599 Z" fill="#16241a" opacity="0.85"/>
+    <path id="Near_pine_2_tier_4" data-name="Near pine 2 tier 4" d="M808.24 529 C815.493 477.667 822.747 442.667 830 424 C837.253 442.667 844.507 477.667 851.76 529 C837.253 510.333 822.747 510.333 808.24 529 Z" fill="#16241a" opacity="0.85"/>
+    <path id="Near_pine_3_trunk" data-name="Near pine 3 trunk" d="M235 760 L235 676 L245 676 L245 760 Z" fill="#16241a" opacity="0.85"/>
+    <path id="Near_pine_3_tier_1" data-name="Near pine 3 tier 1" d="M188 742 C205.333 698 222.667 668 240 652 C257.333 668 274.667 698 292 742 C257.333 726 222.667 726 188 742 Z" fill="#16241a" opacity="0.85"/>
+    <path id="Near_pine_3_tier_2" data-name="Near pine 3 tier 2" d="M199.44 682 C212.96 638 226.48 608 240 592 C253.52 608 267.04 638 280.56 682 C253.52 666 226.48 666 199.44 682 Z" fill="#16241a" opacity="0.85"/>
+    <path id="Near_pine_3_tier_3" data-name="Near pine 3 tier 3" d="M210.88 622 C220.587 578 230.293 548 240 532 C249.707 548 259.413 578 269.12 622 C249.707 606 230.293 606 210.88 622 Z" fill="#16241a" opacity="0.85"/>
+    <path id="Near_pine_3_tier_4" data-name="Near pine 3 tier 4" d="M222.32 562 C228.213 518 234.107 488 240 472 C245.893 488 251.787 518 257.68 562 C245.893 546 234.107 546 222.32 562 Z" fill="#16241a" opacity="0.85"/>
+    <path id="Near_pine_4_trunk" data-name="Near pine 4 trunk" d="M757 760 L757 673.2 L767 673.2 L767 760 Z" fill="#16241a" opacity="0.85"/>
+    <path id="Near_pine_4_tier_1" data-name="Near pine 4 tier 1" d="M708 741.4 C726 695.933 744 664.933 762 648.4 C780 664.933 798 695.933 816 741.4 C780 724.867 744 724.867 708 741.4 Z" fill="#16241a" opacity="0.85"/>
+    <path id="Near_pine_4_tier_2" data-name="Near pine 4 tier 2" d="M719.88 679.4 C733.92 633.933 747.96 602.933 762 586.4 C776.04 602.933 790.08 633.933 804.12 679.4 C776.04 662.867 747.96 662.867 719.88 679.4 Z" fill="#16241a" opacity="0.85"/>
+    <path id="Near_pine_4_tier_3" data-name="Near pine 4 tier 3" d="M731.76 617.4 C741.84 571.933 751.92 540.933 762 524.4 C772.08 540.933 782.16 571.933 792.24 617.4 C772.08 600.867 751.92 600.867 731.76 617.4 Z" fill="#16241a" opacity="0.85"/>
+    <path id="Near_pine_4_tier_4" data-name="Near pine 4 tier 4" d="M743.64 555.4 C749.76 509.933 755.88 478.933 762 462.4 C768.12 478.933 774.24 509.933 780.36 555.4 C768.12 538.867 755.88 538.867 743.64 555.4 Z" fill="#16241a" opacity="0.85"/>
+    <path id="Needle_floor" data-name="Needle floor" d="M178.3 730 C300 714 400 738 500 728 C600 718 700 724 821.7 730 C741.898 825.076 624.128 879.983 500 879.983 C375.872 879.983 258.102 825.076 178.3 730 Z" fill="url(#linear-gradient-2)"/>
+    <path id="Floor_crest" data-name="Floor crest" d="M186 730 C300 714 400 738 500 728 C600 718 700 724 814 730" fill="none" stroke="#7c9078" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Needle_1" data-name="Needle 1" d="M237 765 L263 755" fill="none" stroke="#5a7060" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Needle_2" data-name="Needle 2" d="M296 776 L324 784" fill="none" stroke="#5a7060" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Needle_3" data-name="Needle 3" d="M378 769 L402 755" fill="none" stroke="#5a7060" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Needle_4" data-name="Needle 4" d="M456 784 L484 788" fill="none" stroke="#5a7060" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Needle_5" data-name="Needle 5" d="M546 774 L574 766" fill="none" stroke="#5a7060" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Needle_6" data-name="Needle 6" d="M627 786 L653 798" fill="none" stroke="#5a7060" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Needle_7" data-name="Needle 7" d="M707 774 L733 762" fill="none" stroke="#5a7060" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Needle_8" data-name="Needle 8" d="M337 807 L363 817" fill="none" stroke="#5a7060" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Needle_9" data-name="Needle 9" d="M506 822 L534 818" fill="none" stroke="#5a7060" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Needle_10" data-name="Needle 10" d="M646 826 L674 834" fill="none" stroke="#5a7060" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Needle_11" data-name="Needle 11" d="M417 847 L443 837" fill="none" stroke="#5a7060" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Print_1_sole" data-name="Print 1 sole" d="M584.45 776 C584.45 769.704 596.785 764.6 612 764.6 C627.215 764.6 639.55 769.704 639.55 776 C639.55 782.296 627.215 787.4 612 787.4 C596.785 787.4 584.45 782.296 584.45 776 Z" fill="#120a06" opacity="0.58"/>
+    <path id="Print_1_heel" data-name="Print 1 heel" d="M595.246 787.227 C595.246 783.449 603.633 780.387 613.98 780.387 C624.326 780.387 632.714 783.449 632.714 787.227 C632.714 791.004 624.326 794.067 613.98 794.067 C603.633 794.067 595.246 791.004 595.246 787.227 Z" fill="#120a06" opacity="0.5"/>
+    <path id="Print_1_toe_1" data-name="Print 1 toe 1" d="M584.865 763.278 C584.865 761.442 586.991 759.953 589.615 759.953 C592.238 759.953 594.365 761.442 594.365 763.278 C594.365 765.114 592.238 766.603 589.615 766.603 C586.991 766.603 584.865 765.114 584.865 763.278 Z" fill="#120a06" opacity="0.54"/>
+    <path id="Print_1_toe_2" data-name="Print 1 toe 2" d="M598.553 760.982 C598.553 759.402 600.382 758.122 602.638 758.122 C604.894 758.122 606.723 759.402 606.723 760.982 C606.723 762.561 604.894 763.841 602.638 763.841 C600.382 763.841 598.553 762.561 598.553 760.982 Z" fill="#120a06" opacity="0.54"/>
+    <path id="Print_1_toe_3" data-name="Print 1 toe 3" d="M612.241 758.685 C612.241 757.363 613.772 756.291 615.661 756.291 C617.55 756.291 619.081 757.363 619.081 758.685 C619.081 760.007 617.55 761.079 615.661 761.079 C613.772 761.079 612.241 760.007 612.241 758.685 Z" fill="#120a06" opacity="0.54"/>
+    <path id="Print_1_toe_4" data-name="Print 1 toe 4" d="M625.929 756.389 C625.929 755.324 627.162 754.46 628.684 754.46 C630.206 754.46 631.439 755.324 631.439 756.389 C631.439 757.454 630.206 758.317 628.684 758.317 C627.162 758.317 625.929 757.454 625.929 756.389 Z" fill="#120a06" opacity="0.54"/>
+    <path id="Print_2_sole" data-name="Print 2 sole" d="M675.64 762 C675.64 756.433 686.546 751.92 700 751.92 C713.454 751.92 724.36 756.433 724.36 762 C724.36 767.567 713.454 772.08 700 772.08 C686.546 772.08 675.64 767.567 675.64 762 Z" fill="#120a06" opacity="0.48"/>
+    <path id="Print_2_heel" data-name="Print 2 heel" d="M686.214 771.69 C686.214 768.349 693.63 765.642 702.778 765.642 C711.927 765.642 719.343 768.349 719.343 771.69 C719.343 775.03 711.927 777.738 702.778 777.738 C693.63 777.738 686.214 775.03 686.214 771.69 Z" fill="#120a06" opacity="0.4"/>
+    <path id="Print_2_toe_1" data-name="Print 2 toe 1" d="M674.939 752.882 C674.939 751.258 676.82 749.942 679.139 749.942 C681.459 749.942 683.339 751.258 683.339 752.882 C683.339 754.505 681.459 755.822 679.139 755.822 C676.82 755.822 674.939 754.505 674.939 752.882 Z" fill="#120a06" opacity="0.44"/>
+    <path id="Print_2_toe_2" data-name="Print 2 toe 2" d="M686.767 749.659 C686.767 748.262 688.384 747.13 690.379 747.13 C692.374 747.13 693.991 748.262 693.991 749.659 C693.991 751.055 692.374 752.187 690.379 752.187 C688.384 752.187 686.767 751.055 686.767 749.659 Z" fill="#120a06" opacity="0.44"/>
+    <path id="Print_2_toe_3" data-name="Print 2 toe 3" d="M698.595 746.436 C698.595 745.267 699.949 744.319 701.619 744.319 C703.289 744.319 704.643 745.267 704.643 746.436 C704.643 747.605 703.289 748.552 701.619 748.552 C699.949 748.552 698.595 747.605 698.595 746.436 Z" fill="#120a06" opacity="0.44"/>
+    <path id="Print_2_toe_4" data-name="Print 2 toe 4" d="M710.423 743.213 C710.423 742.271 711.513 741.507 712.859 741.507 C714.204 741.507 715.295 742.271 715.295 743.213 C715.295 744.154 714.204 744.918 712.859 744.918 C711.513 744.918 710.423 744.154 710.423 743.213 Z" fill="#120a06" opacity="0.44"/>
+    <path id="Print_3_sole" data-name="Print 3 sole" d="M751.12 744 C751.12 739.228 760.468 735.36 772 735.36 C783.532 735.36 792.88 739.228 792.88 744 C792.88 748.772 783.532 752.64 772 752.64 C760.468 752.64 751.12 748.772 751.12 744 Z" fill="#120a06" opacity="0.4"/>
+    <path id="Print_3_heel" data-name="Print 3 heel" d="M760.757 752.119 C760.757 749.256 767.113 746.935 774.955 746.935 C782.797 746.935 789.153 749.256 789.153 752.119 C789.153 754.982 782.797 757.303 774.955 757.303 C767.113 757.303 760.757 754.982 760.757 752.119 Z" fill="#120a06" opacity="0.32"/>
+    <path id="Print_3_toe_1" data-name="Print 3 toe 1" d="M750.018 737.451 C750.018 736.059 751.63 734.931 753.618 734.931 C755.606 734.931 757.218 736.059 757.218 737.451 C757.218 738.842 755.606 739.971 753.618 739.971 C751.63 739.971 750.018 738.842 750.018 737.451 Z" fill="#120a06" opacity="0.36"/>
+    <path id="Print_3_toe_2" data-name="Print 3 toe 2" d="M759.94 734.023 C759.94 732.826 761.326 731.855 763.036 731.855 C764.746 731.855 766.132 732.826 766.132 734.023 C766.132 735.22 764.746 736.19 763.036 736.19 C761.326 736.19 759.94 735.22 759.94 734.023 Z" fill="#120a06" opacity="0.36"/>
+    <path id="Print_3_toe_3" data-name="Print 3 toe 3" d="M769.862 730.595 C769.862 729.593 771.022 728.78 772.454 728.78 C773.885 728.78 775.046 729.593 775.046 730.595 C775.046 731.597 773.885 732.409 772.454 732.409 C771.022 732.409 769.862 731.597 769.862 730.595 Z" fill="#120a06" opacity="0.36"/>
+    <path id="Print_3_toe_4" data-name="Print 3 toe 4" d="M779.784 727.167 C779.784 726.36 780.719 725.705 781.872 725.705 C783.025 725.705 783.96 726.36 783.96 727.167 C783.96 727.974 783.025 728.629 781.872 728.629 C780.719 728.629 779.784 727.974 779.784 727.167 Z" fill="#120a06" opacity="0.36"/>
+    <path id="Mist_echo" data-name="Mist echo" d="M420 290 C384 296 358 326 350 368 C340 424 352 484 374 538 C388 574 396 612 394 646 C416 662 452 658 474 634 C500 602 510 544 506 486 C502 428 494 368 478 322 C466 292 444 282 420 290 Z" fill="#8ca088" opacity="0.12"/>
+    <path id="Rear_leg" data-name="Rear leg" d="M492 520 C534 540 574 570 600 608 C618 636 626 664 620 688 C614 706 594 710 580 698 C562 682 552 650 538 622 C524 592 506 558 492 520 Z" fill="#2a180c" stroke="#180e08" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Rear_foot" data-name="Rear foot" d="M606 676 C628 674 652 682 662 696 C654 712 630 716 612 708 C602 702 600 688 606 676 Z" fill="#2a180c" stroke="#180e08" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Torso" d="M414 288 C374 296 346 332 338 380 C328 440 342 502 366 554 C382 590 390 622 388 652 C414 668 452 662 476 636 C502 602 512 542 508 482 C504 422 494 362 476 320 C462 292 438 280 414 288 Z" fill="url(#linear-gradient-3)" stroke="#180e08" stroke-width="7" stroke-miterlimit="10"/>
+    <path id="Belly_shade" data-name="Belly shade" d="M364 372 C354 432 366 502 392 552" fill="none" stroke="#241408" stroke-width="18" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Back_sheen" data-name="Back sheen" d="M448 300 C472 340 488 400 494 460" fill="none" stroke="#9c8058" stroke-width="9" stroke-linecap="round" stroke-miterlimit="10" opacity="0.28"/>
+    <path id="Fur_fringe_1" data-name="Fur fringe 1" d="M346 390 C340 394 336.667 398 336 402" fill="none" stroke="#180e08" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Fur_fringe_2" data-name="Fur fringe 2" d="M340 432 C334 436 330.667 440 330 444" fill="none" stroke="#180e08" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Fur_fringe_3" data-name="Fur fringe 3" d="M344 478 C337.333 482 333.333 486 332 490" fill="none" stroke="#180e08" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Fur_fringe_4" data-name="Fur fringe 4" d="M354 524 C347.333 528 343.333 532 342 536" fill="none" stroke="#180e08" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Fur_fringe_5" data-name="Fur fringe 5" d="M368 570 C361.333 574 357.333 578 356 582" fill="none" stroke="#180e08" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Fur_fringe_6" data-name="Fur fringe 6" d="M382 616 C375.333 620 371.333 624 370 628" fill="none" stroke="#180e08" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Fur_fringe_7" data-name="Fur fringe 7" d="M492 390 C492.667 394 496 398 502 402" fill="none" stroke="#180e08" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Fur_fringe_8" data-name="Fur fringe 8" d="M500 436 C500.667 440 504 444 510 448" fill="none" stroke="#180e08" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Fur_fringe_9" data-name="Fur fringe 9" d="M504 484 C504.667 488 508 492 514 496" fill="none" stroke="#180e08" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Fur_fringe_10" data-name="Fur fringe 10" d="M502 536 C502.667 540 506 544 512 548" fill="none" stroke="#180e08" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Arm" d="M380 352 C350 378 332 420 328 468 C324 516 332 560 350 594 C360 614 384 616 394 598 C404 578 400 540 396 508 C392 464 394 414 408 380 C414 360 398 344 380 352 Z" fill="url(#linear-gradient-4)" stroke="#180e08" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Hand" d="M348 592 C342 610 346 628 364 634 C380 640 394 630 394 614 C394 602 384 592 372 590 C362 588 354 588 348 592 Z" fill="#2e1a0c" stroke="#180e08" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Finger_1" data-name="Finger 1" d="M358 630 C359.333 635.333 359 640 357 644" fill="none" stroke="#180e08" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Finger_2" data-name="Finger 2" d="M368 630 C369.333 635.333 369 640 367 644" fill="none" stroke="#180e08" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Finger_3" data-name="Finger 3" d="M378 630 C379.333 635.333 379 640 377 644" fill="none" stroke="#180e08" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Head" d="M402 284 C372 286 348 306 338 336 C328 368 332 400 350 422 C366 442 394 448 418 438 C442 428 458 402 460 370 C462 342 460 316 452 296 C446 272 434 258 416 256 C404 254 396 258 390 266 C382 272 374 282 402 284 Z" fill="url(#linear-gradient-5)" stroke="#180e08" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Peak_fur" data-name="Peak fur" d="M398 272 C408 260 424 256 438 262 M392 284 C402 276 416 272 430 276" fill="none" stroke="#4a2e18" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Face" d="M356 344 C340 352 330 368 330 386 C330 404 340 418 356 424 C368 412 372 390 370 368 C368 356 363 348 356 344 Z" fill="#3a2210" stroke="#180e08" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Brow" d="M336 360 C348 352 362 350 372 356" fill="none" stroke="#180e08" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Eye" d="M342 373 C342 369.134 344.686 366 348 366 C351.314 366 354 369.134 354 373 C354 376.866 351.314 380 348 380 C344.686 380 342 376.866 342 373 Z" fill="#0e0805"/>
+    <path id="Eye_glint" data-name="Eye glint" d="M344 370 C344 368.895 344.895 368 346 368 C347.105 368 348 368.895 348 370 C348 371.105 347.105 372 346 372 C344.895 372 344 371.105 344 370 Z" fill="#d8e4c8" opacity="0.7"/>
+    <path id="Muzzle" d="M332 390 C324 396 320 406 324 416 C330 424 342 426 350 420 C354 410 352 398 344 392 C340 388 336 388 332 390 Z" fill="#2e1a0c" stroke="#180e08" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Nape_fur_1" data-name="Nape fur 1" d="M384 302 C370 316 362 336 360 356" fill="none" stroke="#2a180c" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Nape_fur_2" data-name="Nape fur 2" d="M412 306 C404 326 400 346 402 366" fill="none" stroke="#2a180c" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Nape_fur_3" data-name="Nape fur 3" d="M438 318 C436 340 438 360 444 378" fill="none" stroke="#2a180c" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Front_leg" data-name="Front leg" d="M430 560 C418 602 410 650 412 694 C413 718 422 734 438 738 C456 742 470 730 470 710 C470 676 468 634 462 598 C456 572 444 556 430 560 Z" fill="url(#linear-gradient-3)" stroke="#180e08" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Front_foot" data-name="Front foot" d="M408 710 C394 720 386 736 394 748 C408 758 436 760 456 754 C466 748 466 734 456 726 C442 716 424 710 408 710 Z" fill="#2e1a0c" stroke="#180e08" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Toe_1" data-name="Toe 1" d="M398 752 C402 755.333 406.667 756.333 412 755" fill="none" stroke="#0e0805" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Toe_2" data-name="Toe 2" d="M411 752 C415 755.333 419.667 756.333 425 755" fill="none" stroke="#0e0805" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Toe_3" data-name="Toe 3" d="M424 752 C428 755.333 432.667 756.333 438 755" fill="none" stroke="#0e0805" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Toe_4" data-name="Toe 4" d="M437 752 C441 755.333 445.667 756.333 451 755" fill="none" stroke="#0e0805" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Belly_fringe_1" data-name="Belly fringe 1" d="M410 632 C407.333 642.667 403.333 651.333 398 658" fill="none" stroke="#180e08" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Belly_fringe_2" data-name="Belly fringe 2" d="M432 650 C429.333 660.667 425.333 669.333 420 676" fill="none" stroke="#180e08" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Belly_fringe_3" data-name="Belly fringe 3" d="M456 644 C453.333 654.667 449.333 663.333 444 670" fill="none" stroke="#180e08" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Belly_fringe_4" data-name="Belly fringe 4" d="M480 624 C477.333 634.667 473.333 643.333 468 650" fill="none" stroke="#180e08" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Ground_mist" data-name="Ground mist" d="M280 727 C280 712.088 378.497 700 500 700 C621.503 700 720 712.088 720 727 C720 741.912 621.503 754 500 754 C378.497 754 280 741.912 280 727 Z" fill="#c4d4bc" opacity="0.12"/>
+    <path id="Plate_rim" data-name="Plate rim" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="none" stroke="#0a140e" stroke-width="6" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 962)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="58" fill="#d4e0cc" text-anchor="middle"><tspan x="0" y="0">BIGFOOT</tspan></text>
+  </g>
+</svg>
