@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#111821"/>
+      <stop offset="1" stop-color="#05070a"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="390" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c5570" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#1c5570" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="40" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#103448"/>
+      <stop offset="1" stop-color="#05111a"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="500" cy="460" r="304" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8fd4f2" stop-opacity="0.16"/>
+      <stop offset="0.55" stop-color="#8fd4f2" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#8fd4f2" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-3" x1="874" y1="94" x2="922" y2="142" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b23a30"/>
+      <stop offset="1" stop-color="#7e1f1b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0" y1="680" x2="0" y2="800" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a79eb8"/>
+      <stop offset="1" stop-color="#6c627e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0" y1="520" x2="0" y2="772" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a79eb8"/>
+      <stop offset="0.55" stop-color="#6c627e"/>
+      <stop offset="1" stop-color="#453c56"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0" y1="540" x2="0" y2="764" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2ecf6"/>
+      <stop offset="1" stop-color="#c8bed6"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-3" cx="382" cy="354" r="67.788" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8d2e4"/>
+      <stop offset="0.65" stop-color="#a79eb8"/>
+      <stop offset="1" stop-color="#6c627e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="382" cy="355" r="48.628" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8d2dc"/>
+      <stop offset="0.7" stop-color="#e8a8b8"/>
+      <stop offset="1" stop-color="#c87890"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="618" cy="354" r="67.788" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8d2e4"/>
+      <stop offset="0.65" stop-color="#a79eb8"/>
+      <stop offset="1" stop-color="#6c627e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-6" cx="618" cy="355" r="48.628" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8d2dc"/>
+      <stop offset="0.7" stop-color="#e8a8b8"/>
+      <stop offset="1" stop-color="#c87890"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-7" x1="0" y1="302" x2="0" y2="528" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8d2e4"/>
+      <stop offset="0.5" stop-color="#a79eb8"/>
+      <stop offset="1" stop-color="#6c627e"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-7" cx="500" cy="475" r="66" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f4eef8"/>
+      <stop offset="1" stop-color="#cfc4dc"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-8" x1="0" y1="452" x2="0" y2="490" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f0a8b4"/>
+      <stop offset="1" stop-color="#c87088"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="0" y1="596" x2="0" y2="704" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9a6a24"/>
+      <stop offset="0.45" stop-color="#e8c074"/>
+      <stop offset="0.62" stop-color="#fbe6b4"/>
+      <stop offset="1" stop-color="#e8c074"/>
+    </linearGradient>
+  </defs>
+  <title>Rat — Celestial Seal</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Backdrop_glow" data-name="Backdrop glow" d="M110 460 C110 244.609 284.609 70 500 70 C715.391 70 890 244.609 890 460 C890 675.391 715.391 850 500 850 C284.609 850 110 675.391 110 460 Z" fill="url(#radial-gradient-1)"/>
+    <path id="Star_3" data-name="Star 3" d="M80.6 634 C80.6 633.558 80.958 633.2 81.4 633.2 C81.842 633.2 82.2 633.558 82.2 634 C82.2 634.442 81.842 634.8 81.4 634.8 C80.958 634.8 80.6 634.442 80.6 634 Z" fill="#8fd4f2" opacity="0.46"/>
+    <path id="Star_6" data-name="Star 6" d="M929.5 733.05 C929.5 732.304 930.104 731.7 930.85 731.7 C931.596 731.7 932.2 732.304 932.2 733.05 C932.2 733.796 931.596 734.4 930.85 734.4 C930.104 734.4 929.5 733.796 929.5 733.05 Z" fill="#8fd4f2" opacity="0.39"/>
+    <path id="Star_11" data-name="Star 11" d="M714.7 83.95 C714.7 83.204 715.304 82.6 716.05 82.6 C716.796 82.6 717.4 83.204 717.4 83.95 C717.4 84.696 716.796 85.3 716.05 85.3 C715.304 85.3 714.7 84.696 714.7 83.95 Z" fill="#8fd4f2" opacity="0.46"/>
+    <path id="Star_12" data-name="Star 12" d="M928.6 107.05 C928.6 106.801 928.801 106.6 929.05 106.6 C929.299 106.6 929.5 106.801 929.5 107.05 C929.5 107.299 929.299 107.5 929.05 107.5 C928.801 107.5 928.6 107.299 928.6 107.05 Z" fill="#8fd4f2" opacity="0.53"/>
+    <path id="Star_18" data-name="Star 18" d="M850.5 88.7 C850.5 88.479 850.679 88.3 850.9 88.3 C851.121 88.3 851.3 88.479 851.3 88.7 C851.3 88.921 851.121 89.1 850.9 89.1 C850.679 89.1 850.5 88.921 850.5 88.7 Z" fill="#8fd4f2" opacity="0.35"/>
+    <path id="Star_19" data-name="Star 19" d="M664.5 867.4 C664.5 867.179 664.679 867 664.9 867 C665.121 867 665.3 867.179 665.3 867.4 C665.3 867.621 665.121 867.8 664.9 867.8 C664.679 867.8 664.5 867.621 664.5 867.4 Z" fill="#8fd4f2" opacity="0.46"/>
+    <path id="Star_21" data-name="Star 21" d="M212.5 110.45 C212.5 110.201 212.701 110 212.95 110 C213.199 110 213.4 110.201 213.4 110.45 C213.4 110.699 213.199 110.9 212.95 110.9 C212.701 110.9 212.5 110.699 212.5 110.45 Z" fill="#8fd4f2" opacity="0.64"/>
+    <path id="Star_26" data-name="Star 26" d="M900.8 815.45 C900.8 814.76 901.36 814.2 902.05 814.2 C902.74 814.2 903.3 814.76 903.3 815.45 C903.3 816.14 902.74 816.7 902.05 816.7 C901.36 816.7 900.8 816.14 900.8 815.45 Z" fill="#8fd4f2" opacity="0.67"/>
+    <path id="Star_31" data-name="Star 31" d="M763.1 106.4 C763.1 105.792 763.592 105.3 764.2 105.3 C764.808 105.3 765.3 105.792 765.3 106.4 C765.3 107.008 764.808 107.5 764.2 107.5 C763.592 107.5 763.1 107.008 763.1 106.4 Z" fill="#8fd4f2" opacity="0.34"/>
+    <path id="Star_34" data-name="Star 34" d="M320.6 888.25 C320.6 887.725 321.025 887.3 321.55 887.3 C322.075 887.3 322.5 887.725 322.5 888.25 C322.5 888.775 322.075 889.2 321.55 889.2 C321.025 889.2 320.6 888.775 320.6 888.25 Z" fill="#8fd4f2" opacity="0.43"/>
+    <path id="Star_35" data-name="Star 35" d="M869.7 790.15 C869.7 789.57 870.17 789.1 870.75 789.1 C871.33 789.1 871.8 789.57 871.8 790.15 C871.8 790.73 871.33 791.2 870.75 791.2 C870.17 791.2 869.7 790.73 869.7 790.15 Z" fill="#8fd4f2" opacity="0.3"/>
+    <path id="Star_38" data-name="Star 38" d="M769.4 888.55 C769.4 888.025 769.825 887.6 770.35 887.6 C770.875 887.6 771.3 888.025 771.3 888.55 C771.3 889.075 770.875 889.5 770.35 889.5 C769.825 889.5 769.4 889.075 769.4 888.55 Z" fill="#8fd4f2" opacity="0.55"/>
+    <path id="Star_39" data-name="Star 39" d="M919.6 450.6 C919.6 450.158 919.958 449.8 920.4 449.8 C920.842 449.8 921.2 450.158 921.2 450.6 C921.2 451.042 920.842 451.4 920.4 451.4 C919.958 451.4 919.6 451.042 919.6 450.6 Z" fill="#8fd4f2" opacity="0.58"/>
+    <path id="Star_40" data-name="Star 40" d="M855.5 867.55 C855.5 866.804 856.104 866.2 856.85 866.2 C857.596 866.2 858.2 866.804 858.2 867.55 C858.2 868.296 857.596 868.9 856.85 868.9 C856.104 868.9 855.5 868.296 855.5 867.55 Z" fill="#8fd4f2" opacity="0.57"/>
+    <path id="Plate_shadow" data-name="Plate shadow" d="M72 460 C72 223.622 263.622 32 500 32 C736.378 32 928 223.622 928 460 C928 696.378 736.378 888 500 888 C263.622 888 72 696.378 72 460 Z" fill="#000000" opacity="0.28"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#linear-gradient-2)" stroke="#3a3a2a" stroke-width="10" stroke-miterlimit="10"/>
+    <path id="Plate_rim" data-name="Plate rim" d="M86 460 C86 231.354 271.354 46 500 46 C728.646 46 914 231.354 914 460 C914 688.646 728.646 874 500 874 C271.354 874 86 688.646 86 460 Z" fill="none" stroke="#b9a46a" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M110 460 C110 244.609 284.609 70 500 70 C715.391 70 890 244.609 890 460 C890 675.391 715.391 850 500 850 C284.609 850 110 675.391 110 460 Z" fill="none" stroke="#b9a46a" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Disc_aura" data-name="Disc aura" d="M196 460 C196 292.105 332.105 156 500 156 C667.895 156 804 292.105 804 460 C804 627.895 667.895 764 500 764 C332.105 764 196 627.895 196 460 Z" fill="url(#radial-gradient-2)"/>
+    <path id="Tick_1" data-name="Tick 1" d="M500 84 L500 66" fill="none" stroke="#b9a46a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_2" data-name="Tick 2" d="M688 134.4 L697 118.8" fill="none" stroke="#b9a46a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_3" data-name="Tick 3" d="M825.6 272 L841.2 263" fill="none" stroke="#b9a46a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_4" data-name="Tick 4" d="M876 460 L894 460" fill="none" stroke="#b9a46a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_5" data-name="Tick 5" d="M825.6 648 L841.2 657" fill="none" stroke="#b9a46a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_6" data-name="Tick 6" d="M688 785.6 L697 801.2" fill="none" stroke="#b9a46a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_7" data-name="Tick 7" d="M500 836 L500 854" fill="none" stroke="#b9a46a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_8" data-name="Tick 8" d="M312 785.6 L303 801.2" fill="none" stroke="#b9a46a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_9" data-name="Tick 9" d="M174.4 648 L158.8 657" fill="none" stroke="#b9a46a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_10" data-name="Tick 10" d="M124 460 L106 460" fill="none" stroke="#b9a46a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_11" data-name="Tick 11" d="M174.4 272 L158.8 263" fill="none" stroke="#b9a46a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_12" data-name="Tick 12" d="M312 134.4 L303 118.8" fill="none" stroke="#b9a46a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <text transform="matrix(1 0 0 1 500 67.1)" x="0" y="0" xml:space="preserve" font-family="&apos;Noto Sans CJK SC&apos;, sans-serif" font-size="21" fill="#b9a46a" text-anchor="middle"><tspan x="0" y="0">子</tspan></text>
+    <text transform="matrix(1 0 0 1 700 120.7)" x="0" y="0" xml:space="preserve" font-family="&apos;Noto Sans CJK SC&apos;, sans-serif" font-size="21" fill="#b9a46a" text-anchor="middle"><tspan x="0" y="0">丑</tspan></text>
+    <text transform="matrix(1 0 0 1 846.4 267.1)" x="0" y="0" xml:space="preserve" font-family="&apos;Noto Sans CJK SC&apos;, sans-serif" font-size="21" fill="#b9a46a" text-anchor="middle"><tspan x="0" y="0">寅</tspan></text>
+    <text transform="matrix(1 0 0 1 900 467.1)" x="0" y="0" xml:space="preserve" font-family="&apos;Noto Sans CJK SC&apos;, sans-serif" font-size="21" fill="#b9a46a" text-anchor="middle"><tspan x="0" y="0">卯</tspan></text>
+    <text transform="matrix(1 0 0 1 846.4 667.1)" x="0" y="0" xml:space="preserve" font-family="&apos;Noto Sans CJK SC&apos;, sans-serif" font-size="21" fill="#b9a46a" text-anchor="middle"><tspan x="0" y="0">辰</tspan></text>
+    <text transform="matrix(1 0 0 1 700 813.6)" x="0" y="0" xml:space="preserve" font-family="&apos;Noto Sans CJK SC&apos;, sans-serif" font-size="21" fill="#b9a46a" text-anchor="middle"><tspan x="0" y="0">巳</tspan></text>
+    <text transform="matrix(1 0 0 1 500 867.1)" x="0" y="0" xml:space="preserve" font-family="&apos;Noto Sans CJK SC&apos;, sans-serif" font-size="21" fill="#b9a46a" text-anchor="middle"><tspan x="0" y="0">午</tspan></text>
+    <text transform="matrix(1 0 0 1 300 813.6)" x="0" y="0" xml:space="preserve" font-family="&apos;Noto Sans CJK SC&apos;, sans-serif" font-size="21" fill="#b9a46a" text-anchor="middle"><tspan x="0" y="0">未</tspan></text>
+    <text transform="matrix(1 0 0 1 153.6 667.1)" x="0" y="0" xml:space="preserve" font-family="&apos;Noto Sans CJK SC&apos;, sans-serif" font-size="21" fill="#b9a46a" text-anchor="middle"><tspan x="0" y="0">申</tspan></text>
+    <text transform="matrix(1 0 0 1 100 467.1)" x="0" y="0" xml:space="preserve" font-family="&apos;Noto Sans CJK SC&apos;, sans-serif" font-size="21" fill="#b9a46a" text-anchor="middle"><tspan x="0" y="0">酉</tspan></text>
+    <text transform="matrix(1 0 0 1 153.6 267.1)" x="0" y="0" xml:space="preserve" font-family="&apos;Noto Sans CJK SC&apos;, sans-serif" font-size="21" fill="#b9a46a" text-anchor="middle"><tspan x="0" y="0">戌</tspan></text>
+    <text transform="matrix(1 0 0 1 300 120.7)" x="0" y="0" xml:space="preserve" font-family="&apos;Noto Sans CJK SC&apos;, sans-serif" font-size="21" fill="#b9a46a" text-anchor="middle"><tspan x="0" y="0">亥</tspan></text>
+    <path id="Branch_seal" data-name="Branch seal" d="M877 94 L919 94 C920.657 94 922 95.343 922 97 L922 139 C922 140.657 920.657 142 919 142 L877 142 C875.343 142 874 140.657 874 139 L874 97 C874 95.343 875.343 94 877 94 Z" fill="url(#linear-gradient-3)" stroke="#5e1412" stroke-width="2" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 898 130)" x="0" y="0" xml:space="preserve" font-family="&apos;Noto Sans CJK SC&apos;, sans-serif" font-size="28" fill="#fbe6b4" text-anchor="middle"><tspan x="0" y="0">子</tspan></text>
+    <path id="Cloud_upper_L" data-name="Cloud upper L" d="M195 264.4 C175.2 248.2 191.4 223 214.8 226.6 C222 203.2 254.4 199.6 263.4 223 C279.6 208.6 304.8 219.4 304.8 242.8 C326.4 244.6 331.8 273.4 310.2 277 C285 284.2 249 280.6 231 280.6 C227.4 293.2 202.2 289.6 195 264.4 Z" fill="#e8c074" opacity="0.12"/>
+    <path id="Cloud_upper_L_curl" data-name="Cloud upper L curl" d="M236.5 251.2 C236.5 251.1 236.4 250.8 236.5 250.5 C236.5 250.3 236.6 250 236.7 249.8 C236.8 249.6 237 249.3 237.2 249.2 C237.4 249 237.7 248.8 238 248.6 C238.2 248.5 238.6 248.4 238.9 248.4 C239.3 248.3 239.7 248.3 240 248.4 C240.4 248.5 240.8 248.6 241.2 248.8 C241.5 249 241.9 249.3 242.2 249.6 C242.5 249.9 242.8 250.3 243 250.8 C243.2 251.2 243.4 251.7 243.4 252.2 C243.5 252.7 243.5 253.2 243.4 253.8 C243.3 254.3 243.2 254.9 242.9 255.4 C242.7 255.9 242.4 256.4 241.9 256.8 C241.5 257.3 241 257.7 240.5 258 C239.9 258.3 239.3 258.6 238.7 258.7 C238 258.9 237.3 259 236.6 258.9 C235.9 258.9 235.2 258.7 234.5 258.5 C233.8 258.2 233.1 257.9 232.5 257.4 C231.9 257 231.3 256.4 230.8 255.7 C230.4 255.1 230 254.3 229.7 253.6 C229.4 252.8 229.2 251.9 229.2 251.1 C229.2 250.2 229.2 249.3 229.5 248.4 C229.7 247.6 230 246.7 230.5 245.9 C231 245.1 231.6 244.3 232.3 243.7 C233 243 233.8 242.4 234.7 242 C235.6 241.6 236.6 241.2 237.6 241.1 C238.6 240.9 239.7 240.9 240.7 241 C241.8 241.1 242.8 241.4 243.8 241.9 C244.8 242.3 245.8 242.9 246.7 243.6 C247.5 244.3 248.3 245.2 248.9 246.2 C249.6 247.1 250.1 248.2 250.4 249.4 C250.8 250.5 251 251.7 251 253 C251 254.2 250.8 255.4 250.4 256.6 C250.1 257.8 249.1 259.5 248.8 260.1" fill="none" stroke="#ffffff" stroke-width="1.98" stroke-linecap="round" stroke-miterlimit="10" opacity="0.32"/>
+    <path id="Cloud_upper_R" data-name="Cloud upper R" d="M679 264.4 C659.2 248.2 675.4 223 698.8 226.6 C706 203.2 738.4 199.6 747.4 223 C763.6 208.6 788.8 219.4 788.8 242.8 C810.4 244.6 815.8 273.4 794.2 277 C769 284.2 733 280.6 715 280.6 C711.4 293.2 686.2 289.6 679 264.4 Z" fill="#e8c074" opacity="0.12"/>
+    <path id="Cloud_upper_R_curl" data-name="Cloud upper R curl" d="M720.5 251.2 C720.5 251.1 720.4 250.8 720.5 250.5 C720.5 250.3 720.6 250 720.7 249.8 C720.8 249.6 721 249.3 721.2 249.2 C721.4 249 721.7 248.8 722 248.6 C722.2 248.5 722.6 248.4 722.9 248.4 C723.3 248.3 723.7 248.3 724 248.4 C724.4 248.5 724.8 248.6 725.2 248.8 C725.5 249 725.9 249.3 726.2 249.6 C726.5 249.9 726.8 250.3 727 250.8 C727.2 251.2 727.4 251.7 727.4 252.2 C727.5 252.7 727.5 253.2 727.4 253.8 C727.3 254.3 727.2 254.9 726.9 255.4 C726.7 255.9 726.4 256.4 725.9 256.8 C725.5 257.3 725 257.7 724.5 258 C723.9 258.3 723.3 258.6 722.7 258.7 C722 258.9 721.3 259 720.6 258.9 C719.9 258.9 719.2 258.7 718.5 258.5 C717.8 258.2 717.1 257.9 716.5 257.4 C715.9 257 715.3 256.4 714.8 255.7 C714.4 255.1 714 254.3 713.7 253.6 C713.4 252.8 713.2 251.9 713.2 251.1 C713.2 250.2 713.2 249.3 713.5 248.4 C713.7 247.6 714 246.7 714.5 245.9 C715 245.1 715.6 244.3 716.3 243.7 C717 243 717.8 242.4 718.7 242 C719.6 241.6 720.6 241.2 721.6 241.1 C722.6 240.9 723.7 240.9 724.7 241 C725.8 241.1 726.8 241.4 727.8 241.9 C728.8 242.3 729.8 242.9 730.7 243.6 C731.5 244.3 732.3 245.2 732.9 246.2 C733.6 247.1 734.1 248.2 734.4 249.4 C734.8 250.5 735 251.7 735 253 C735 254.2 734.8 255.4 734.4 256.6 C734.1 257.8 733.1 259.5 732.8 260.1" fill="none" stroke="#ffffff" stroke-width="1.98" stroke-linecap="round" stroke-miterlimit="10" opacity="0.32"/>
+    <path id="Spark_1" data-name="Spark 1" d="M300 563 C300 561.343 301.343 560 303 560 C304.657 560 306 561.343 306 563 C306 564.657 304.657 566 303 566 C301.343 566 300 564.657 300 563 Z" fill="#fbe6b4" opacity="0.45"/>
+    <path id="Spark_2" data-name="Spark 2" d="M700 563 C700 561.343 701.343 560 703 560 C704.657 560 706 561.343 706 563 C706 564.657 704.657 566 703 566 C701.343 566 700 564.657 700 563 Z" fill="#fbe6b4" opacity="0.45"/>
+    <path id="Spark_3" data-name="Spark 3" d="M676 323 C676 321.343 677.343 320 679 320 C680.657 320 682 321.343 682 323 C682 324.657 680.657 326 679 326 C677.343 326 676 324.657 676 323 Z" fill="#fbe6b4" opacity="0.45"/>
+    <path id="Spark_4" data-name="Spark 4" d="M324 323 C324 321.343 325.343 320 327 320 C328.657 320 330 321.343 330 323 C330 324.657 328.657 326 327 326 C325.343 326 324 324.657 324 323 Z" fill="#fbe6b4" opacity="0.45"/>
+    <path id="Tail" d="M640 688 C650 688.3 681.3 687 700 690 C718.7 693 739 697.7 752 706 C765 714.3 774.7 728.7 778 740 C781.3 751.3 777.7 765.3 772 774 C766.3 782.7 753.3 791 744 792 C734.7 793 720.7 782 716 780" fill="none" stroke="#1d1216" stroke-width="26" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Tail_fur" data-name="Tail fur" d="M640 688 C650 688.3 681.3 687 700 690 C718.7 693 739 697.7 752 706 C765 714.3 774.7 728.7 778 740 C781.3 751.3 777.7 765.3 772 774 C766.3 782.7 753.3 791 744 792 C734.7 793 720.7 782 716 780" fill="none" stroke="url(#linear-gradient-4)" stroke-width="19" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Tail_light" data-name="Tail light" d="M640 688 C650 688.3 681.3 687 700 690 C718.7 693 739 697.7 752 706 C765 714.3 774.7 728.7 778 740 C781.3 751.3 773 768.3 772 774" fill="none" stroke="#e8e2f0" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Tail_tip" data-name="Tail tip" d="M706 778 C706 772.477 711.373 768 718 768 C724.627 768 730 772.477 730 778 C730 783.523 724.627 788 718 788 C711.373 788 706 783.523 706 778 Z" fill="#e8a8b8" opacity="0.7"/>
+    <path id="Body_shadow" data-name="Body shadow" d="M328 773 C328 758.088 405.007 746 500 746 C594.993 746 672 758.088 672 773 C672 787.912 594.993 800 500 800 C405.007 800 328 787.912 328 773 Z" fill="#000000" opacity="0.26"/>
+    <path id="Body" d="M318 772 C318 690 336 620 380 574 C416 540 490 520 500 520 C510 520 584 540 620 574 C664 620 682 690 682 772 C560.667 752 439.333 752 318 772 Z" fill="url(#linear-gradient-5)" stroke="#1d1216" stroke-width="7" stroke-miterlimit="10"/>
+    <path id="Foreleg_L" data-name="Foreleg L" d="M358 586 C384 626 392 682 384 724 L332 724 C324 682 332 628 344 592 Z" fill="url(#linear-gradient-5)" stroke="#1d1216" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Foreleg_light_L" data-name="Foreleg light L" d="M368 602 C380 640 378 690 374 714" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Paw_L" data-name="Paw L" d="M328 735 C328 723.402 341.431 714 358 714 C374.569 714 388 723.402 388 735 C388 746.598 374.569 756 358 756 C341.431 756 328 746.598 328 735 Z" fill="#d8d2e4" stroke="#1d1216" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Toe_L1" data-name="Toe L1" d="M344 732 L344 746" fill="none" stroke="#6a5a78" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Toe_L2" data-name="Toe L2" d="M358 732 L358 746" fill="none" stroke="#6a5a78" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Toe_L3" data-name="Toe L3" d="M372 732 L372 746" fill="none" stroke="#6a5a78" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Foreleg_R" data-name="Foreleg R" d="M642 586 C616 626 608 682 616 724 L668 724 C676 682 668 628 656 592 Z" fill="url(#linear-gradient-5)" stroke="#1d1216" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Foreleg_light_R" data-name="Foreleg light R" d="M632 602 C620 640 622 690 626 714" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Paw_R" data-name="Paw R" d="M612 735 C612 723.402 625.431 714 642 714 C658.569 714 672 723.402 672 735 C672 746.598 658.569 756 642 756 C625.431 756 612 746.598 612 735 Z" fill="#d8d2e4" stroke="#1d1216" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Toe_R1" data-name="Toe R1" d="M628 732 L628 746" fill="none" stroke="#6a5a78" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Toe_R2" data-name="Toe R2" d="M642 732 L642 746" fill="none" stroke="#6a5a78" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Toe_R3" data-name="Toe R3" d="M656 732 L656 746" fill="none" stroke="#6a5a78" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Belly" d="M452 548 C440 620 440 700 452 762 L548 762 C560 700 560 620 548 548 C526 538 474 538 452 548 Z" fill="url(#linear-gradient-6)" opacity="0.9"/>
+    <path id="Ear_L" data-name="Ear L" d="M319.901 369.483 C310.816 333.043 331.253 296.571 365.549 288.02 C399.846 279.469 435.013 302.077 444.099 338.517 C453.184 374.957 432.747 411.429 398.451 419.98 C364.154 428.531 328.987 405.923 319.901 369.483 Z" fill="url(#radial-gradient-3)" stroke="#1d1216" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Ear_inner_L" data-name="Ear inner L" d="M341.248 365.161 C334.701 338.903 347.639 313.067 370.146 307.456 C392.653 301.844 416.206 318.581 422.752 344.839 C429.299 371.097 416.361 396.933 393.854 402.544 C371.347 408.156 347.794 391.419 341.248 365.161 Z" fill="url(#radial-gradient-4)" opacity="0.8"/>
+    <path id="Ear_R" data-name="Ear R" d="M555.901 338.517 C564.987 302.077 600.154 279.469 634.451 288.02 C668.747 296.571 689.184 333.043 680.099 369.483 C671.013 405.923 635.846 428.531 601.549 419.98 C567.253 411.429 546.816 374.957 555.901 338.517 Z" fill="url(#radial-gradient-5)" stroke="#1d1216" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Ear_inner_R" data-name="Ear inner R" d="M577.248 344.839 C583.794 318.581 607.347 301.844 629.854 307.456 C652.361 313.067 665.299 338.903 658.752 365.161 C652.206 391.419 628.653 408.156 606.146 402.544 C583.639 396.933 570.701 371.097 577.248 344.839 Z" fill="url(#radial-gradient-6)" opacity="0.8"/>
+    <path id="Head" d="M500 302 C566 302 616 330 628 384 C640 436 620 482 584 504 C556 522 528 528 500 528 C472 528 444 522 416 504 C380 482 360 436 372 384 C384 330 434 302 500 302 Z" fill="url(#linear-gradient-7)" stroke="#1d1216" stroke-width="7" stroke-miterlimit="10"/>
+    <path id="Head_light" data-name="Head light" d="M414 347 C414 332.088 452.504 320 500 320 C547.496 320 586 332.088 586 347 C586 361.912 547.496 374 500 374 C452.504 374 414 361.912 414 347 Z" fill="#ffffff" opacity="0.16"/>
+    <path id="Snout" d="M500 430 C540 430 566 448 566 472 C566 500 540 520 500 520 C460 520 434 500 434 472 C434 448 460 430 500 430 Z" fill="url(#radial-gradient-7)" opacity="0.95"/>
+    <path id="Nose" d="M500 452 C512 452 520 460 520 470 C520 482 512 490 500 490 C488 490 480 482 480 470 C480 460 488 452 500 452 Z" fill="url(#linear-gradient-8)" stroke="#1d1216" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Nose_glint" data-name="Nose glint" d="M488 460.5 C488 459.119 489.791 458 492 458 C494.209 458 496 459.119 496 460.5 C496 461.881 494.209 463 492 463 C489.791 463 488 461.881 488 460.5 Z" fill="#ffffff" opacity="0.6"/>
+    <path id="Philtrum" d="M500 490 L500 502" fill="none" stroke="#1d1216" stroke-width="3.2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Mouth" d="M500 502 C490 508 478 508 468 504 M500 502 C510 508 522 508 532 504" fill="none" stroke="#1d1216" stroke-width="3.2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Tooth_L" data-name="Tooth L" d="M492 504 L497 504 C498.105 504 499 504.895 499 506 L499 516 C499 517.105 498.105 518 497 518 L492 518 C490.895 518 490 517.105 490 516 L490 506 C490 504.895 490.895 504 492 504 Z" fill="#fffdf2" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10"/>
+    <path id="Tooth_R" data-name="Tooth R" d="M503 504 L508 504 C509.105 504 510 504.895 510 506 L510 516 C510 517.105 509.105 518 508 518 L503 518 C501.895 518 501 517.105 501 516 L501 506 C501 504.895 501.895 504 503 504 Z" fill="#fffdf2" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10"/>
+    <path id="Eye_L" data-name="Eye L" d="M425 408 C425 396.954 432.611 388 442 388 C451.389 388 459 396.954 459 408 C459 419.046 451.389 428 442 428 C432.611 428 425 419.046 425 408 Z" fill="#1a1218" stroke="#1d1216" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Eye_glint_L" data-name="Eye glint L" d="M436 401.5 C436 398.462 438.462 396 441.5 396 C444.538 396 447 398.462 447 401.5 C447 404.538 444.538 407 441.5 407 C438.462 407 436 404.538 436 401.5 Z" fill="#ffffff" opacity="0.9"/>
+    <path id="Eye_shine_L" data-name="Eye shine L" d="M416 378 C433.333 366 450.667 366.667 468 380" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Eye_R" data-name="Eye R" d="M541 408 C541 396.954 548.611 388 558 388 C567.389 388 575 396.954 575 408 C575 419.046 567.389 428 558 428 C548.611 428 541 419.046 541 408 Z" fill="#1a1218" stroke="#1d1216" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Eye_glint_R" data-name="Eye glint R" d="M552 401.5 C552 398.462 554.462 396 557.5 396 C560.538 396 563 398.462 563 401.5 C563 404.538 560.538 407 557.5 407 C554.462 407 552 404.538 552 401.5 Z" fill="#ffffff" opacity="0.9"/>
+    <path id="Eye_shine_R" data-name="Eye shine R" d="M532 378 C549.333 366 566.667 366.667 584 380" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Whisker_L1" data-name="Whisker L1" d="M440 470 C378.667 451.333 315.333 443.333 250 446" fill="none" stroke="#f4eef8" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Whisker_R1" data-name="Whisker R1" d="M560 470 C621.333 451.333 684.667 443.333 750 446" fill="none" stroke="#f4eef8" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Whisker_L2" data-name="Whisker L2" d="M440 478 C378.667 475.333 315.333 475.333 250 478" fill="none" stroke="#f4eef8" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Whisker_R2" data-name="Whisker R2" d="M560 478 C621.333 475.333 684.667 475.333 750 478" fill="none" stroke="#f4eef8" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Whisker_L3" data-name="Whisker L3" d="M440 486 C378.667 500.667 315.333 509.333 250 512" fill="none" stroke="#f4eef8" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Whisker_R3" data-name="Whisker R3" d="M560 486 C621.333 500.667 684.667 509.333 750 512" fill="none" stroke="#f4eef8" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Cash_coin" data-name="Cash coin" d="M446 650 C446 620.177 470.177 596 500 596 C529.823 596 554 620.177 554 650 C554 679.823 529.823 704 500 704 C470.177 704 446 679.823 446 650 Z" fill="url(#linear-gradient-9)" stroke="#1d1216" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Cash_coin_inner" data-name="Cash coin inner" d="M455.72 650 C455.72 625.545 475.545 605.72 500 605.72 C524.455 605.72 544.28 625.545 544.28 650 C544.28 674.455 524.455 694.28 500 694.28 C475.545 694.28 455.72 674.455 455.72 650 Z" fill="none" stroke="#1d1216" stroke-width="1.4" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Cash_coin_hole" data-name="Cash coin hole" d="M481.64 631.64 L518.36 631.64 L518.36 668.36 L481.64 668.36 Z" fill="#241512" stroke="#1d1216" stroke-width="2" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 665)" x="0" y="0" xml:space="preserve" font-family="&apos;Noto Sans CJK SC&apos;, sans-serif" font-size="40" fill="#6e4a16" text-anchor="middle"><tspan x="0" y="0">財</tspan></text>
+    <path id="Paw_front_358" data-name="Paw front 358" d="M332 736 C332 726.059 343.641 718 358 718 C372.359 718 384 726.059 384 736 C384 745.941 372.359 754 358 754 C343.641 754 332 745.941 332 736 Z" fill="#d8d2e4" stroke="#1d1216" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Paw_toe_358-0" data-name="Paw toe 358-0" d="M346 734 L346 744" fill="none" stroke="#6a5a78" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Paw_toe_358-1" data-name="Paw toe 358-1" d="M358 734 L358 744" fill="none" stroke="#6a5a78" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Paw_toe_358-2" data-name="Paw toe 358-2" d="M370 734 L370 744" fill="none" stroke="#6a5a78" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Paw_front_642" data-name="Paw front 642" d="M616 736 C616 726.059 627.641 718 642 718 C656.359 718 668 726.059 668 736 C668 745.941 656.359 754 642 754 C627.641 754 616 745.941 616 736 Z" fill="#d8d2e4" stroke="#1d1216" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Paw_toe_642-0" data-name="Paw toe 642-0" d="M630 734 L630 744" fill="none" stroke="#6a5a78" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Paw_toe_642-1" data-name="Paw toe 642-1" d="M642 734 L642 744" fill="none" stroke="#6a5a78" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Paw_toe_642-2" data-name="Paw toe 642-2" d="M654 734 L654 744" fill="none" stroke="#6a5a78" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <text transform="matrix(1 0 0 1 500 934)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="50" fill="#f0e2c4" letter-spacing="4.5" text-anchor="middle"><tspan x="0" y="0">RAT</tspan></text>
+    <text transform="matrix(1 0 0 1 500 970)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="21" fill="#b9a46a" letter-spacing="3.15" text-anchor="middle"><tspan x="0" y="0">鼠 · 2020 · 2032</tspan></text>
+  </g>
+</svg>
