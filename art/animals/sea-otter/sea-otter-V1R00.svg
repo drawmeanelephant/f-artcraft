@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0a1820"/>
+      <stop offset="1" stop-color="#02070b"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a6ccd6"/>
+      <stop offset="0.55" stop-color="#6c98a8"/>
+      <stop offset="1" stop-color="#33586a"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="500" cy="285" r="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8eef2"/>
+      <stop offset="1" stop-color="#d8eef2"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="740" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2e4a58"/>
+      <stop offset="1" stop-color="#16242c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="660" y1="545" x2="810" y2="640" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5e4028"/>
+      <stop offset="1" stop-color="#3a2414"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="500" y1="340" x2="560" y2="640" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a6848"/>
+      <stop offset="0.5" stop-color="#6a4a30"/>
+      <stop offset="1" stop-color="#422a18"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="360" y1="336" x2="365" y2="490" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a6848"/>
+      <stop offset="1" stop-color="#5e3e24"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-3" cx="361.157" cy="446.358" r="61.269" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f0e2c8"/>
+      <stop offset="1" stop-color="#d4be98"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="466" cy="462" r="26" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5e3a66"/>
+      <stop offset="1" stop-color="#33184a"/>
+    </radialGradient>
+  </defs>
+  <title>Sea Otter — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo" data-name="Plate halo" d="M60 460 C60 216.995 256.995 20 500 20 C743.005 20 940 216.995 940 460 C940 703.005 743.005 900 500 900 C256.995 900 60 703.005 60 460 Z" fill="#6c98a8" opacity="0.09"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#22404e" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#d4e8ee" stroke-width="3" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Light_pool" data-name="Light pool" d="M250 285 C250 193.873 361.929 120 500 120 C638.071 120 750 193.873 750 285 C750 376.127 638.071 450 500 450 C361.929 450 250 376.127 250 285 Z" fill="url(#radial-gradient-2)" opacity="0.3"/>
+    <path id="Swell_1" data-name="Swell 1" d="M170 200 C198 206 226.333 206 255 200 C283.667 194 312 194 340 200 C368 206 396.333 206 425 200 C453.667 194 482 194 510 200 C538 206 566.333 206 595 200 C623.667 194 652 194 680 200 C708 206 736.333 206 765 200 C793.667 194 822 194 850 200" fill="none" stroke="#c8e4ec" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="Swell_2" data-name="Swell 2" d="M170 250 C198 257.333 226.333 257.333 255 250 C283.667 242.667 312 242.667 340 250 C368 257.333 396.333 257.333 425 250 C453.667 242.667 482 242.667 510 250 C538 257.333 566.333 257.333 595 250 C623.667 242.667 652 242.667 680 250 C708 257.333 736.333 257.333 765 250 C793.667 242.667 822 242.667 850 250" fill="none" stroke="#c8e4ec" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.17"/>
+    <path id="Swell_3" data-name="Swell 3" d="M170 305 C198 311.667 226.333 311.667 255 305 C283.667 298.333 312 298.333 340 305 C368 311.667 396.333 311.667 425 305 C453.667 298.333 482 298.333 510 305 C538 311.667 566.333 311.667 595 305 C623.667 298.333 652 298.333 680 305 C708 311.667 736.333 311.667 765 305 C793.667 298.333 822 298.333 850 305" fill="none" stroke="#c8e4ec" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.14"/>
+    <path id="Swell_4" data-name="Swell 4" d="M170 356 C198 364 226.333 364 255 356 C283.667 348 312 348 340 356 C368 364 396.333 364 425 356 C453.667 348 482 348 510 356 C538 364 566.333 364 595 356 C623.667 348 652 348 680 356 C708 364 736.333 364 765 356 C793.667 348 822 348 850 356" fill="none" stroke="#c8e4ec" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.11"/>
+    <path id="Sea_floor" data-name="Sea floor" d="M204 758 C340 744 460 750 560 747 C660 744 740 748 796 758 C717.316 836.165 610.909 880.034 500 880.034 C389.091 880.034 282.684 836.165 204 758 Z" fill="url(#linear-gradient-2)"/>
+    <path id="Floor_light" data-name="Floor light" d="M212 756 C340 742 460 748 560 745 C660 742 740 746 788 756" fill="none" stroke="#7ea8b4" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Pebble_1" data-name="Pebble 1" d="M300 787.15 C300 783.201 305.82 780 313 780 C320.18 780 326 783.201 326 787.15 C326 791.099 320.18 794.3 313 794.3 C305.82 794.3 300 791.099 300 787.15 Z" fill="#3e5c68" opacity="0.7"/>
+    <path id="Pebble_2" data-name="Pebble 2" d="M420 801.5 C420 798.462 424.477 796 430 796 C435.523 796 440 798.462 440 801.5 C440 804.538 435.523 807 430 807 C424.477 807 420 804.538 420 801.5 Z" fill="#3e5c68" opacity="0.7"/>
+    <path id="Pebble_3" data-name="Pebble 3" d="M600 794.6 C600 790.955 605.373 788 612 788 C618.627 788 624 790.955 624 794.6 C624 798.245 618.627 801.2 612 801.2 C605.373 801.2 600 798.245 600 794.6 Z" fill="#3e5c68" opacity="0.7"/>
+    <path id="Pebble_4" data-name="Pebble 4" d="M700 804.95 C700 802.216 704.029 800 709 800 C713.971 800 718 802.216 718 804.95 C718 807.684 713.971 809.9 709 809.9 C704.029 809.9 700 807.684 700 804.95 Z" fill="#3e5c68" opacity="0.7"/>
+    <path id="Pebble_5" data-name="Pebble 5" d="M370 815.85 C370 813.724 373.134 812 377 812 C380.866 812 384 813.724 384 815.85 C384 817.976 380.866 819.7 377 819.7 C373.134 819.7 370 817.976 370 815.85 Z" fill="#3e5c68" opacity="0.7"/>
+    <path id="Floor_urchin" data-name="Floor urchin" d="M512 798 C512 791.373 518.716 786 527 786 C535.284 786 542 791.373 542 798 C542 804.627 535.284 810 527 810 C518.716 810 512 804.627 512 798 Z" fill="#38204a" stroke="#140e08" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Urchin_spine_0" data-name="Urchin spine 0" d="M540 798 L549 798" fill="none" stroke="#4a2a50" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Urchin_spine_45" data-name="Urchin spine 45" d="M536 805 L542 811" fill="none" stroke="#4a2a50" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Urchin_spine_90" data-name="Urchin spine 90" d="M527 808 L527 817" fill="none" stroke="#4a2a50" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Urchin_spine_135" data-name="Urchin spine 135" d="M518 805 L512 811" fill="none" stroke="#4a2a50" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Urchin_spine_180" data-name="Urchin spine 180" d="M514 798 L505 798" fill="none" stroke="#4a2a50" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Urchin_spine_225" data-name="Urchin spine 225" d="M518 791 L512 785" fill="none" stroke="#4a2a50" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Urchin_spine_270" data-name="Urchin spine 270" d="M527 788 L527 779" fill="none" stroke="#4a2a50" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Urchin_spine_315" data-name="Urchin spine 315" d="M536 791 L542 785" fill="none" stroke="#4a2a50" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Kelp_L_stipe" data-name="Kelp L stipe" d="M268 770 C245.333 700 236 630 240 560" fill="none" stroke="#5c7a38" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Kelp_L_blade_1" data-name="Kelp L blade 1" d="M256 728 C238.667 720 224 718 212 722 C224 732.667 238.667 734.667 256 728 Z" fill="#7a9e4c" opacity="0.7"/>
+    <path id="Kelp_L_blade_2" data-name="Kelp L blade 2" d="M247 686 C264.333 678 279 676 291 680 C279 690.667 264.333 692.667 247 686 Z" fill="#7a9e4c" opacity="0.7"/>
+    <path id="Kelp_L_blade_3" data-name="Kelp L blade 3" d="M242 644 C224.667 636 210 634 198 638 C210 648.667 224.667 650.667 242 644 Z" fill="#7a9e4c" opacity="0.7"/>
+    <path id="Kelp_L_blade_4" data-name="Kelp L blade 4" d="M239 602 C256.333 594 271 592 283 596 C271 606.667 256.333 608.667 239 602 Z" fill="#7a9e4c" opacity="0.7"/>
+    <path id="Kelp_R_stipe" data-name="Kelp R stipe" d="M778 760 C800.667 703.333 810 646.667 806 590" fill="none" stroke="#5c7a38" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Kelp_R_blade_1" data-name="Kelp R blade 1" d="M790 726 C807.333 718 822 716 834 720 C822 730.667 807.333 732.667 790 726 Z" fill="#7a9e4c" opacity="0.7"/>
+    <path id="Kelp_R_blade_2" data-name="Kelp R blade 2" d="M799 692 C781.667 684 767 682 755 686 C767 696.667 781.667 698.667 799 692 Z" fill="#7a9e4c" opacity="0.7"/>
+    <path id="Kelp_R_blade_3" data-name="Kelp R blade 3" d="M804 658 C821.333 650 836 648 848 652 C836 662.667 821.333 664.667 804 658 Z" fill="#7a9e4c" opacity="0.7"/>
+    <path id="Kelp_R_blade_4" data-name="Kelp R blade 4" d="M807 624 C789.667 616 775 614 763 618 C775 628.667 789.667 630.667 807 624 Z" fill="#7a9e4c" opacity="0.7"/>
+    <path id="Bubble_1" data-name="Bubble 1" d="M780 528 C780 523.582 783.582 520 788 520 C792.418 520 796 523.582 796 528 C796 532.418 792.418 536 788 536 C783.582 536 780 532.418 780 528 Z" fill="#e4f2f6" opacity="0.22"/>
+    <path id="Bubble_2" data-name="Bubble 2" d="M806 467.5 C806 464.462 808.462 462 811.5 462 C814.538 462 817 464.462 817 467.5 C817 470.538 814.538 473 811.5 473 C808.462 473 806 470.538 806 467.5 Z" fill="#e4f2f6" opacity="0.22"/>
+    <path id="Bubble_3" data-name="Bubble 3" d="M770 412 C770 406.477 774.477 402 780 402 C785.523 402 790 406.477 790 412 C790 417.523 785.523 422 780 422 C774.477 422 770 417.523 770 412 Z" fill="#e4f2f6" opacity="0.22"/>
+    <path id="Bubble_4" data-name="Bubble 4" d="M812 346.5 C812 342.91 814.91 340 818.5 340 C822.09 340 825 342.91 825 346.5 C825 350.09 822.09 353 818.5 353 C814.91 353 812 350.09 812 346.5 Z" fill="#e4f2f6" opacity="0.22"/>
+    <path id="Bubble_5" data-name="Bubble 5" d="M790 286.5 C790 284.015 792.015 282 794.5 282 C796.985 282 799 284.015 799 286.5 C799 288.985 796.985 291 794.5 291 C792.015 291 790 288.985 790 286.5 Z" fill="#e4f2f6" opacity="0.22"/>
+    <path id="Bubble_6" data-name="Bubble 6" d="M240 484 C240 481.791 241.791 480 244 480 C246.209 480 248 481.791 248 484 C248 486.209 246.209 488 244 488 C241.791 488 240 486.209 240 484 Z" fill="#e4f2f6" opacity="0.22"/>
+    <path id="Bubble_7" data-name="Bubble 7" d="M214 426 C214 422.686 216.686 420 220 420 C223.314 420 226 422.686 226 426 C226 429.314 223.314 432 220 432 C216.686 432 214 429.314 214 426 Z" fill="#e4f2f6" opacity="0.22"/>
+    <path id="Bubble_8" data-name="Bubble 8" d="M238 359.5 C238 357.567 239.567 356 241.5 356 C243.433 356 245 357.567 245 359.5 C245 361.433 243.433 363 241.5 363 C239.567 363 238 361.433 238 359.5 Z" fill="#e4f2f6" opacity="0.22"/>
+    <path id="Tail" d="M647.5 563.1 L656 568 L664.5 572.7 L672.8 577.4 L681.2 582 L689.4 586.6 L697.7 591 L705.8 595.4 L713.9 599.7 L722 603.9 L730 608.1 L738 612.1 L745.9 616.1 L753.7 620 L761.5 623.9 L769.2 627.6 L776.9 631.3 L784.5 634.9 L792.1 638.4 L799.6 641.8 L807 645.2 L813 634.8 L806.4 630.1 L799.7 625.3 L793 620.4 L786.3 615.5 L779.5 610.5 L772.7 605.4 L765.9 600.3 L758.9 595.1 L752 589.8 L745 584.4 L737.9 579 L730.9 573.5 L723.7 567.9 L716.5 562.3 L709.3 556.5 L702 550.8 L694.7 544.9 L687.3 539 L679.9 533 L672.5 526.9 Z" fill="url(#linear-gradient-3)" stroke="#140e08" stroke-width="4" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Body" d="M345 430 C385 400 460 392 540 405 C610 416 665 445 690 480 C708 505 710 535 695 555 C678 580 630 595 565 598 C495 600 415 588 372 562 C340 542 328 505 335 470 C338 452 340 440 345 430 Z" fill="url(#linear-gradient-4)" stroke="#140e08" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Water_sheen" data-name="Water sheen" d="M370 540 C430 570 540 584 640 566" fill="none" stroke="#c8e4ec" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Flank_light" data-name="Flank light" d="M380 432 C440 408 540 406 620 432" fill="none" stroke="#c8a678" stroke-width="9" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Fur_fleck_1" data-name="Fur fleck 1" d="M420 484.8 C420 482.149 423.582 480 428 480 C432.418 480 436 482.149 436 484.8 C436 487.451 432.418 489.6 428 489.6 C423.582 489.6 420 487.451 420 484.8 Z" fill="#4a3018" opacity="0.3"/>
+    <path id="Fur_fleck_2" data-name="Fur fleck 2" d="M480 473.9 C480 471.746 482.91 470 486.5 470 C490.09 470 493 471.746 493 473.9 C493 476.054 490.09 477.8 486.5 477.8 C482.91 477.8 480 476.054 480 473.9 Z" fill="#4a3018" opacity="0.3"/>
+    <path id="Fur_fleck_3" data-name="Fur fleck 3" d="M540 494.5 C540 492.015 543.358 490 547.5 490 C551.642 490 555 492.015 555 494.5 C555 496.985 551.642 499 547.5 499 C543.358 499 540 496.985 540 494.5 Z" fill="#4a3018" opacity="0.3"/>
+    <path id="Fur_fleck_4" data-name="Fur fleck 4" d="M600 508.6 C600 506.612 602.686 505 606 505 C609.314 505 612 506.612 612 508.6 C612 510.588 609.314 512.2 606 512.2 C602.686 512.2 600 510.588 600 508.6 Z" fill="#4a3018" opacity="0.3"/>
+    <path id="Fur_fleck_5" data-name="Fur fleck 5" d="M455 533.3 C455 531.477 457.462 530 460.5 530 C463.538 530 466 531.477 466 533.3 C466 535.123 463.538 536.6 460.5 536.6 C457.462 536.6 455 535.123 455 533.3 Z" fill="#4a3018" opacity="0.3"/>
+    <path id="Fur_fleck_6" data-name="Fur fleck 6" d="M580 543.9 C580 541.746 582.91 540 586.5 540 C590.09 540 593 541.746 593 543.9 C593 546.054 590.09 547.8 586.5 547.8 C582.91 547.8 580 546.054 580 543.9 Z" fill="#4a3018" opacity="0.3"/>
+    <path id="Fur_fleck_7" data-name="Fur fleck 7" d="M505 553 C505 551.343 507.239 550 510 550 C512.761 550 515 551.343 515 553 C515 554.657 512.761 556 510 556 C507.239 556 505 554.657 505 553 Z" fill="#4a3018" opacity="0.3"/>
+    <path id="Flipper_top" data-name="Flipper top" d="M668 470 C690 440 720 425 748 428 C758 430 758 442 750 450 C735 465 712 475 692 480 Z" fill="#4a3018" stroke="#140e08" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Flipper_low" data-name="Flipper low" d="M676 495 C702 478 732 472 756 480 C764 483 762 493 754 498 C734 508 710 510 692 508 Z" fill="#3e2812" stroke="#140e08" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Flipper_seam_1" data-name="Flipper seam 1" d="M688 462 L724 440" fill="none" stroke="#241408" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Flipper_seam_2" data-name="Flipper seam 2" d="M696 470 L734 452" fill="none" stroke="#241408" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Flipper_seam_3" data-name="Flipper seam 3" d="M700 492 L734 486" fill="none" stroke="#241408" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Flipper_seam_4" data-name="Flipper seam 4" d="M706 500 L738 494" fill="none" stroke="#241408" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Kelp_wrap" data-name="Kelp wrap" d="M505 470 C540 505 545 555 525 600 C518 616 500 618 495 602 C488 578 495 540 488 505 C484 485 492 468 505 470 Z" fill="#6e8c44" stroke="#2e4218" stroke-width="3" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Kelp_wrap_tail" data-name="Kelp wrap tail" d="M522 600 C528 628 522 652 508 668" fill="none" stroke="#5c7a38" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Kelp_wrap_vein" data-name="Kelp wrap vein" d="M508 490 C518 522 520 556 512 590" fill="none" stroke="#9cbc6c" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Ear_L" data-name="Ear L" d="M298 362 C298 354.268 304.716 348 313 348 C321.284 348 328 354.268 328 362 C328 369.732 321.284 376 313 376 C304.716 376 298 369.732 298 362 Z" fill="#5e4028" stroke="#140e08" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Ear_R" data-name="Ear R" d="M392 354 C392 346.268 398.716 340 407 340 C415.284 340 422 346.268 422 354 C422 361.732 415.284 368 407 368 C398.716 368 392 361.732 392 354 Z" fill="#5e4028" stroke="#140e08" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Head" d="M360 336 C405 336 438 362 444 400 C450 436 436 468 404 482 C374 494 330 490 306 470 C282 450 274 416 284 388 C294 360 322 336 360 336 Z" fill="url(#linear-gradient-5)" stroke="#140e08" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Muzzle" d="M352 400 C390 400 418 418 422 446 C425 470 412 486 388 491 C362 496 330 490 314 474 C298 458 296 436 306 420 C316 406 332 400 352 400 Z" fill="url(#radial-gradient-3)"/>
+    <path id="Crown_grizzle" data-name="Crown grizzle" d="M320 348 C345 338 390 340 412 356 C395 352 350 352 328 362 C318 366 314 358 320 348 Z" fill="#d8cdb8" opacity="0.55"/>
+    <path id="Nose" d="M352 420 C360 414 374 414 382 420 C384 430 376 438 367 439 C358 438 350 430 352 420 Z" fill="#201410" stroke="#140e08" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Mouth" d="M367 439 C360 447 352 450 344 447 M367 439 C374 447 382 450 390 447" fill="none" stroke="#140e08" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Eye_L" data-name="Eye L" d="M322 399 C322 395.134 325.358 392 329.5 392 C333.642 392 337 395.134 337 399 C337 402.866 333.642 406 329.5 406 C325.358 406 322 402.866 322 399 Z" fill="#180e06" stroke="#140e08" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Eye_R" data-name="Eye R" d="M398 395 C398 391.134 401.358 388 405.5 388 C409.642 388 413 391.134 413 395 C413 398.866 409.642 402 405.5 402 C401.358 402 398 398.866 398 395 Z" fill="#180e06" stroke="#140e08" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Glint_L" data-name="Glint L" d="M325 396 C325 394.895 325.895 394 327 394 C328.105 394 329 394.895 329 396 C329 397.105 328.105 398 327 398 C325.895 398 325 397.105 325 396 Z" fill="#ffffff" opacity="0.8"/>
+    <path id="Glint_R" data-name="Glint R" d="M401 392 C401 390.895 401.895 390 403 390 C404.105 390 405 390.895 405 392 C405 393.105 404.105 394 403 394 C401.895 394 401 393.105 401 392 Z" fill="#ffffff" opacity="0.8"/>
+    <path id="Whisker_1" data-name="Whisker 1" d="M330 442 C308 428.667 286 424 264 428" fill="none" stroke="#ede0c4" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Whisker_2" data-name="Whisker 2" d="M332 450 C308.667 444.667 285.333 444 262 448" fill="none" stroke="#ede0c4" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Whisker_3" data-name="Whisker 3" d="M334 458 C312.667 454 291.333 458 270 470" fill="none" stroke="#ede0c4" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Whisker_4" data-name="Whisker 4" d="M402 438 C422 422 442 416 462 420" fill="none" stroke="#ede0c4" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Whisker_5" data-name="Whisker 5" d="M400 447 C420 439.667 440 438 460 442" fill="none" stroke="#ede0c4" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Whisker_6" data-name="Whisker 6" d="M398 455 C417.333 451 436.667 453.333 456 462" fill="none" stroke="#ede0c4" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Urchin" d="M440 462 C440 449.85 451.641 440 466 440 C480.359 440 492 449.85 492 462 C492 474.15 480.359 484 466 484 C451.641 484 440 474.15 440 462 Z" fill="url(#radial-gradient-4)" stroke="#140e08" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Urchin_spine_-70" data-name="Urchin spine -70" d="M474 443 L477 434" fill="none" stroke="#4a2a50" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Urchin_spine_-30" data-name="Urchin spine -30" d="M487 452 L496 447" fill="none" stroke="#4a2a50" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Urchin_spine_10" data-name="Urchin spine 10" d="M490 465 L500 467" fill="none" stroke="#4a2a50" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Urchin_spine_50" data-name="Urchin spine 50" d="M481 477 L487 485" fill="none" stroke="#4a2a50" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Urchin_spine_90-2" data-name="Urchin spine 90" d="M466 482 L466 492" fill="none" stroke="#4a2a50" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Urchin_spine_130" data-name="Urchin spine 130" d="M451 477 L445 485" fill="none" stroke="#4a2a50" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Urchin_spine_170" data-name="Urchin spine 170" d="M442 465 L432 467" fill="none" stroke="#4a2a50" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Urchin_spine_210" data-name="Urchin spine 210" d="M445 452 L436 447" fill="none" stroke="#4a2a50" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Urchin_glint" data-name="Urchin glint" d="M448 450 C448 447.791 450.686 446 454 446 C457.314 446 460 447.791 460 450 C460 452.209 457.314 454 454 454 C450.686 454 448 452.209 448 450 Z" fill="#9a7aaa" opacity="0.6"/>
+    <path id="Paw_L" data-name="Paw L" d="M430 428 C418 428 408 438 406 452 C404 468 412 482 426 484 C438 486 448 478 450 466 C452 450 444 430 430 428 Z" fill="#5e4028" stroke="#140e08" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Paw_R" data-name="Paw R" d="M498 424 C510 422 520 432 522 446 C524 462 516 476 502 478 C490 480 480 472 478 460 C476 444 484 426 498 424 Z" fill="#5e4028" stroke="#140e08" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Paw_L_seam" data-name="Paw L seam" d="M414 442 C420 452 428 460 438 464" fill="none" stroke="#2e1a0c" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Paw_R_seam" data-name="Paw R seam" d="M514 436 C508 446 500 454 490 458" fill="none" stroke="#2e1a0c" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Ripple_1" data-name="Ripple 1" d="M185 480 C185 397.157 328.269 330 505 330 C681.731 330 825 397.157 825 480 C825 562.843 681.731 630 505 630 C328.269 630 185 562.843 185 480 Z" fill="none" stroke="#d8eef2" stroke-width="3" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Ripple_2" data-name="Ripple 2" d="M145 480 C145 381.693 306.177 302 505 302 C703.823 302 865 381.693 865 480 C865 578.307 703.823 658 505 658 C306.177 658 145 578.307 145 480 Z" fill="none" stroke="#d8eef2" stroke-width="3" stroke-miterlimit="10" opacity="0.14"/>
+    <path id="Plate_rim" data-name="Plate rim" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="none" stroke="#16262e" stroke-width="6" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 940)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="58" fill="#d8e8ec" text-anchor="middle"><tspan x="0" y="0">SEA OTTER</tspan></text>
+    <text transform="matrix(1 0 0 1 500 975)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="22" fill="#98bcc8" letter-spacing="7.04" text-anchor="middle"><tspan x="0" y="0">ENHYDRA LUTRIS</tspan></text>
+  </g>
+</svg>
