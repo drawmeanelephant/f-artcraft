@@ -23,6 +23,23 @@ without an authorized recovery. Six-hour stale flags are not permission
 to steal a task. See [.github/CLAIMS.md](.github/CLAIMS.md) for commands,
 close-cleanup and safe adoption by already-running workers.
 
+## Task types and model routing
+
+Use one `type:*` label for the deliverable and one explicit `work:*`
+intent when the leaf brief is clear. Preserve `claimed` and existing
+metadata; never infer work intent from a filename or overwrite another
+worker's labels. Mixed or uncertain work stays unclassified until reviewed.
+See [.github/LABELS.md](.github/LABELS.md) for the vocabulary and optional
+`ready`/`claim` filters.
+
+Route models by demonstrated task-family strengths, not price labels.
+Variations require an approved base, bounded changes and proof inspection;
+native-file editability is not evidence of visual quality. Model trials
+are budgeted and capped, with independent review and escalation rather
+than endless retries. See [.github/MODEL-ROUTING.md](.github/MODEL-ROUTING.md).
+Do not launch paid comparisons or claim a model is qualified without
+approved budget and observed results.
+
 ## Prompt contributions (merge-friendly)
 
 Art tasks add one uniquely named `prompts/inbox/<date>-<subject>-<topic>.md`

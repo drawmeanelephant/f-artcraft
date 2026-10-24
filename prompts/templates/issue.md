@@ -2,6 +2,11 @@
 
 Status: draft, not posted.
 
+Labels: `type:<deliverable>` and `work:<intent>` after reading the brief.
+For a variation/refinement, identify the approved base native, permitted
+changes and invariants. Leave mixed/uncertain intent for triage; labels
+are not evidence that a particular model is qualified. See `.github/LABELS.md`.
+
 ## Concept
 
 <One visual idea, pose, palette and the specific thing the drawing must show.>
