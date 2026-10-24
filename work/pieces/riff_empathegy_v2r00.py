@@ -5,7 +5,7 @@ gold seal. 800x1000, riffing on empathegy-brochure-V1R01."""
 import sys, os
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from vc import Draw, NONE
-from v2style import backdrop, glow, vignette, ship
+from tools.v2style import backdrop, glow, vignette, ship
 
 d = Draw()
 d.new_doc("Empathegy V2R00", 800, 1000)

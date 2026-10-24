@@ -1,5 +1,6 @@
 import sys, json, base64
-sys.path.insert(0, "/home/hatch/workspace/vectorcraft/work")
+import os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from mcp_client import MCP
 m = MCP(["--connect", "127.0.0.1:7979"]); m.init()
 r = m.call("render_preview", {"max_side": 1000})

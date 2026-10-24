@@ -5,7 +5,7 @@ import random, os
 import sys, os
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from vc import Draw, NONE
-from v2style import ship
+from tools.v2style import ship
 
 d = Draw()
 d.new_doc("Ember Dusk V1R00", 800, 600)

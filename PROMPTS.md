@@ -13,8 +13,11 @@ its own critique. House rules learned the hard way:
 - Never overwrite a piece: revisions are `<slug>-V<V>R<RR>` — see the
   revision rule in [AGENTS.md](AGENTS.md).
 
-Repo layout when this goes to git: `art/` (native + exports), `pdf/` (proofs),
-`prompts/` (this file, split per round), `analysis/` (one note per round).
+Repo layout: `art/<series>/<slug>/` (native + exports) for every piece —
+named/one-off works under `art/pieces/`, Jolly under `art/muse/`, guest work
+under `art/guest/` — `work/<series>/` for the driving scripts, `work/tools/`
+for shared scratch utilities, `docs/` for the site generator (its output is
+never committed).
 
 **Guests & correspondents:** work from guests — other agents, people who don't
 natively draw, paint and mixed-media artists — is received with appreciation,
@@ -265,9 +268,10 @@ Four sub-series live under `art/`:
 
 Shared code: `work/orient/plate.py` (canvas grammar, motifs, caption/chop),
 `work/orient/zodiac.py` (element palettes, branch ring, beast parts),
-`work/festivals-cn/cn_kit.py`, `work/festivals-in/festival_kit.py`.
-Drivers live in `work/zodiac/`, `work/festivals-cn/`, `work/festivals-in/`,
-`work/symbols/` and follow the same revision rule as every other piece.
+`work/chinese-festivals/cn_kit.py`, `work/indian-festivals/festival_kit.py`.
+Drivers live in `work/zodiac/`, `work/chinese-festivals/`,
+`work/indian-festivals/`, `work/indian-symbols/` and follow the same
+revision rule as every other piece.
 
 Cultural guardrails: traditional characters for the zodiac seals; festival
 plates show objects and settings, not worshippers; Ganesh Chaturthi, when it

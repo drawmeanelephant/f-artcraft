@@ -9,7 +9,8 @@ archive stay revisions of one piece (bunny v1 -> v2, banner v1 -> v2).
 empathegy-brochure: V1R01 is repacked from its surviving members; V1R00 was a
 corrupt zip and is unrecoverable.
 """
-import os, shutil, zipfile, json
+import os, shutil, zipfile, json, sys
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from vc import Draw, ROOT, REPO
 
 ART = os.path.join(ROOT, "art")

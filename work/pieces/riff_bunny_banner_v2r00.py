@@ -5,7 +5,7 @@ stamp glowing like a sign. 1500x500, riffing on bunny-banner-V1R01."""
 import sys, os
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from vc import Draw, NONE
-from v2style import backdrop, glow, vignette, ship
+from tools.v2style import backdrop, glow, vignette, ship
 
 d = Draw()
 d.new_doc("Bunny Banner V2R00", 1500, 500)

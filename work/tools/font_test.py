@@ -1,5 +1,6 @@
 import sys
-sys.path.insert(0, "/home/hatch/workspace/vectorcraft/work")
+import os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from vc import Draw, NONE
 d = Draw()
 d.new_doc("Font Test", 900, 420)

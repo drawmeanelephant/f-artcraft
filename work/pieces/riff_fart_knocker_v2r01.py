@@ -6,7 +6,7 @@ import os
 import sys
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from vc import Draw, NONE
-from v2style import ship
+from tools.v2style import ship
 
 d = Draw()
 ART = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "art")
