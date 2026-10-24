@@ -13,6 +13,9 @@ __pycache__/
 # natives ship with their plate so any checkout can open them in the app —
 # but scratch natives in work/out/ stay ignored.
 *.vectorcraft
+# PNG exports live on the media branch to keep clones small:
+# git checkout media || git worktree add media
+*@2x.png
 *.designcraft
 *.figcraft
 !art/**/*.vectorcraft

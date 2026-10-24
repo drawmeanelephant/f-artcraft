@@ -23,6 +23,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Check out media branch for PNG exports
+        uses: actions/checkout@v4
+        with:
+          ref: media
+          path: media
       - name: Check out dogbed (pinned)
         uses: actions/checkout@v4
         with:
@@ -40,7 +45,7 @@ jobs:
       # only proves the scan + render pipeline still works end to end.
       - name: Regenerate data + site
         run: |
-          python3 docs/gen_data.py
+          python3 docs/gen_data.py --png-root media
           DOGBED=dogbed-src/zig-out/bin/dogbed sh docs/build.sh
 
   deploy:
@@ -51,6 +56,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Check out media branch for PNG exports
+        uses: actions/checkout@v4
+        with:
+          ref: media
+          path: media
       - name: Check out dogbed (pinned)
         uses: actions/checkout@v4
         with:
@@ -70,7 +80,7 @@ jobs:
         run: |
           git fetch origin main
           git reset --hard origin/main
-          python3 docs/gen_data.py
+          python3 docs/gen_data.py --png-root media
           DOGBED=dogbed-src/zig-out/bin/dogbed sh docs/build.sh
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
