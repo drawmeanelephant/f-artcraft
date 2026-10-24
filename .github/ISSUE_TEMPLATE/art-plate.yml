@@ -1,12 +1,26 @@
 name: Art plate
 description: One independently claimable art task
 title: "Field plate: "
+labels: ["type:illustration"]
 body:
   - type: markdown
     attributes:
       value: |
         One subject per issue, not an entire wave. Before drawing, check existing art and PRs, then claim this issue with `python3 work/issue_claim.py claim ISSUE --owner UNIQUE-WORKER-ID`.
         A `claimed` label alone is not proof of ownership. Keep the claim through PR review; release with a handoff note if stopping. See `.github/CLAIMS.md`.
+        Task types and work intent are separate labels; see `.github/LABELS.md`. The work-intent field below does not assign a label automatically.
+  - type: dropdown
+    id: work_intent
+    attributes:
+      label: Work intent
+      options:
+        - Original
+        - Variation
+        - Refinement
+        - Review
+        - Mixed or needs triage
+    validations:
+      required: true
   - type: textarea
     id: brief
     attributes:

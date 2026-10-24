@@ -4,10 +4,10 @@ on:
   issues:
     types: [closed]
   pull_request:
-    paths: ['work/issue_claim.py', 'work/test_issue_claim.py', '.github/CLAIMS.md', '.github/ISSUE_TEMPLATE/art-plate.yml', '.github/workflows/claims.yml']
+    paths: ['work/issue_claim.py', 'work/test_issue_claim.py', 'work/task_labels.py', 'work/test_task_labels.py', '.github/CLAIMS.md', '.github/LABELS.md', '.github/ISSUE_TEMPLATE/art-plate.yml', '.github/workflows/claims.yml']
   push:
     branches: [main]
-    paths: ['work/issue_claim.py', 'work/test_issue_claim.py', '.github/CLAIMS.md', '.github/ISSUE_TEMPLATE/art-plate.yml', '.github/workflows/claims.yml']
+    paths: ['work/issue_claim.py', 'work/test_issue_claim.py', 'work/task_labels.py', 'work/test_task_labels.py', '.github/CLAIMS.md', '.github/LABELS.md', '.github/ISSUE_TEMPLATE/art-plate.yml', '.github/workflows/claims.yml']
   workflow_dispatch:
 
 permissions:
@@ -19,8 +19,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Test claim ownership without network writes
-        run: python3 -m unittest discover -s work -p 'test_issue_claim.py'
+      - name: Test claim ownership and routing without network writes
+        run: |
+          python3 -m unittest discover -s work -p 'test_issue_claim.py'
+          python3 -m unittest discover -s work -p 'test_task_labels.py'
 
   release-closed:
     if: github.event_name == 'issues' && contains(github.event.issue.labels.*.name, 'claimed')

@@ -21,6 +21,21 @@ MARKER = re.compile(r"<!-- f-artcraft-claim-v1 (\{[^\n]*\}) -->")
 TOKEN = re.compile(r"[0-9a-f]{32}")
 OWNER = re.compile(r"[A-Za-z0-9][A-Za-z0-9_.:/-]{0,119}")
 TRUSTED = {"OWNER", "MEMBER", "COLLABORATOR"}
+TASK_TYPES = {
+    "illustration": "Illustration, specimen plate, mascot, wallpaper or brand artwork",
+    "icons": "Icon or cursor family with size, silhouette and consistency constraints",
+    "ui": "Interface component, screen, layout or interaction design",
+    "design-system": "Shared design tokens, styles, component library or design contract",
+    "motion": "Animation, sprite sequence or time-dependent visual asset",
+    "workflow": "Production tooling, documentation or process maintenance",
+    "tracking": "Index or umbrella, not an independently claimable deliverable",
+}
+WORK_KINDS = {
+    "original": "A new design or composition, not an adaptation of an approved base",
+    "variation": "A bounded alternative interpretation of an existing approved design",
+    "refinement": "Improve the same design from its newest native revision",
+    "review": "A standalone proof, critique or verification task, not PR status",
+}
 
 
 class ClaimError(Exception):
@@ -119,6 +134,46 @@ class GitHub:
         if result.returncode:
             raise ClaimError(result.stderr.strip() or "Could not reconcile claimed label")
 
+    def add_labels(self, number, labels):
+        result = subprocess.run(
+            ["gh", "issue", "edit", str(number), "--repo", self.repo,
+             "--add-label", ",".join(labels)],
+            cwd=ROOT, capture_output=True, text=True,
+        )
+        if result.returncode:
+            raise ClaimError(result.stderr.strip() or "Could not add task metadata")
+
+
+def label_names(issue):
+    return {label["name"] for label in issue.get("labels", [])}
+
+
+def metadata_labels(issue, task_type=None, work_kind=None):
+    """Only add missing explicit metadata. Never infer intent or replace labels."""
+    additions = []
+    for prefix, value, choices in (("type:", task_type, TASK_TYPES),
+                                   ("work:", work_kind, WORK_KINDS)):
+        if value is None:
+            continue
+        if value not in choices:
+            raise ClaimError(f"Unknown {prefix} value: {value}")
+        requested = prefix + value
+        existing = {label for label in label_names(issue) if label.startswith(prefix)}
+        if existing and existing != {requested}:
+            raise ClaimError(f"Existing {prefix} metadata conflicts: {sorted(existing)}; review it manually")
+        if not existing:
+            additions.append(requested)
+    return additions
+
+
+def ready_search(task_type=None, work_kind=None):
+    query = '-label:claimed -label:"type:tracking"'
+    if task_type:
+        query += f' label:"type:{task_type}"'
+    if work_kind:
+        query += f' label:"work:{work_kind}"'
+    return query
+
 
 def has_label(issue):
     return any(label["name"] == LABEL for label in issue.get("labels", []))
@@ -144,14 +199,15 @@ def status(api, number, now=None):
     is_open = issue["state"].lower() == "open"
     result = {"issue": number, "state": issue["state"], "url": issue["html_url"],
               "claimed_label": has_label(issue), "claim": claim,
-              "manual_claim": is_open and has_label(issue) and claim is None}
+              "manual_claim": is_open and has_label(issue) and claim is None,
+              "labels": sorted(label_names(issue))}
     result["stale"] = bool(is_open and claim and
                            (now - timestamp(claim["heartbeat_at"])).total_seconds()
                            >= STALE_HOURS * 3600)
     return result
 
 
-def claim_issue(api, number, owner, branch=""):
+def claim_issue(api, number, owner, branch="", task_type=None, work_kind=None):
     if not OWNER.fullmatch(owner):
         raise ClaimError("Use a unique worker/thread ID: letters, digits, . _ : / -")
     if any(char in branch for char in "\n\r`"):
@@ -165,8 +221,10 @@ def claim_issue(api, number, owner, branch=""):
         raise ClaimError("Manual/legacy claimed label present; do not steal it")
     if issue.get("assignees"):
         raise ClaimError("Issue already has an assignee; check with its owner")
-    if re.search(r"field plates,\s*wave", issue["title"], re.I):
+    if ("type:tracking" in label_names(issue) or task_type == "tracking"
+            or re.search(r"field plates,\s*wave", issue["title"], re.I)):
         raise ClaimError("Claim an individual art task, not a wave/tracking issue")
+    metadata_labels(issue, task_type, work_kind)
     token = uuid.uuid4().hex
     api.append(number, {"action": "claim", "owner": owner, "token": token, "branch": branch})
     _, winner = api.snapshot(number)
@@ -175,9 +233,12 @@ def claim_issue(api, number, owner, branch=""):
         if winner:
             sync_label(api, number)
         raise ClaimError("Claim not confirmed or another worker won. Run status; do not start.")
-    _, winner = sync_label(api, number)
+    issue, winner = sync_label(api, number)
     if not winner or winner["token"] != token:
         raise ClaimError("Claim changed before confirmation; do not start")
+    additions = metadata_labels(issue, task_type, work_kind)
+    if additions:
+        api.add_labels(number, additions)
     result = status(api, number)
     if (result["state"].lower() != "open" or not result["claimed_label"]
             or not result["claim"] or result["claim"]["token"] != token):
@@ -213,11 +274,15 @@ def main():
         if name == "claim":
             command.add_argument("--owner", required=True, help="Unique worker/thread ID")
             command.add_argument("--branch", default="")
+            command.add_argument("--type", dest="task_type", choices=TASK_TYPES)
+            command.add_argument("--work", dest="work_kind", choices=WORK_KINDS)
         elif name in {"heartbeat", "release"}:
             command.add_argument("--token", required=True)
             command.add_argument("--note", required=name == "release", default="")
     ready = commands.add_parser("ready")
     ready.add_argument("--limit", type=int, default=20)
+    ready.add_argument("--type", dest="task_type", choices=TASK_TYPES)
+    ready.add_argument("--work", dest="work_kind", choices=WORK_KINDS)
     commands.add_parser("stale")
     args = parser.parse_args()
     try:
@@ -227,11 +292,13 @@ def main():
                 raise ClaimError("--limit must be between 1 and 1000")
             issues = gh("issue", "list", "--repo", args.repo, "--state", "open",
                         "--limit", str(args.limit if args.command == "ready" else 1000),
-                        "--search", "-label:claimed" if args.command == "ready" else "label:claimed",
-                        "--json", "number,title,url,assignees")
+                        "--search", ready_search(args.task_type, args.work_kind)
+                        if args.command == "ready" else "label:claimed",
+                        "--json", "number,title,url,assignees,labels")
             if args.command == "ready":
                 # Candidate list only. claim always checks authoritative ownership again.
                 result = [issue for issue in issues if not issue["assignees"]
+                          and "type:tracking" not in label_names(issue)
                           and not re.search(r"field plates,\s*wave", issue["title"], re.I)]
             else:
                 result = []
@@ -242,7 +309,8 @@ def main():
         elif args.issue < 1:
             raise ClaimError("Issue number must be positive")
         elif args.command == "claim":
-            result = claim_issue(api, args.issue, args.owner, args.branch)
+            result = claim_issue(api, args.issue, args.owner, args.branch,
+                                 args.task_type, args.work_kind)
         elif args.command == "status":
             result = status(api, args.issue)
         else:

@@ -4,7 +4,9 @@ import unittest
 from datetime import datetime, timezone
 from unittest.mock import patch
 
-from issue_claim import ClaimError, active_claim, claim_issue, status, update_claim
+from issue_claim import (
+    ClaimError, active_claim, claim_issue, metadata_labels, ready_search, status, update_claim,
+)
 
 A = "a" * 32
 B = "b" * 32
@@ -34,6 +36,7 @@ class FakeGitHub:
         }
         self.closed_at = None
         self.label_writes = []
+        self.metadata_writes = []
         self.rival_on_claim = False
         self.rival_on_remove = False
 
@@ -60,6 +63,11 @@ class FakeGitHub:
         if present:
             labels.append({"name": "claimed"})
         self.issue["labels"] = labels
+
+    def add_labels(self, number, labels):
+        self.metadata_writes.append(labels)
+        existing = {label["name"] for label in self.issue["labels"]}
+        self.issue["labels"].extend({"name": label} for label in labels if label not in existing)
 
 
 class ClaimLogTests(unittest.TestCase):
@@ -177,11 +185,14 @@ class ClaimLifecycleTests(unittest.TestCase):
                 update_claim(api, 1, A, "heartbeat")
 
     def test_release_preserves_unrelated_labels(self):
-        api = FakeGitHub([comment(1, "claim")], ["claimed", "help wanted"])
+        api = FakeGitHub([comment(1, "claim")],
+                         ["claimed", "help wanted", "type:icons", "work:variation"])
         result = update_claim(api, 1, A, "release", "Preserved partial work on plate/test")
         self.assertIsNone(result["claim"])
         self.assertFalse(result["claimed_label"])
-        self.assertEqual(api.issue["labels"], [{"name": "help wanted"}])
+        self.assertEqual(api.issue["labels"], [
+            {"name": "help wanted"}, {"name": "type:icons"}, {"name": "work:variation"},
+        ])
 
     def test_old_token_cannot_clear_replacement_claim(self):
         api = FakeGitHub(
@@ -214,6 +225,64 @@ class ClaimLifecycleTests(unittest.TestCase):
         with self.assertRaises(ClaimError):
             claim_issue(api, 1, "worker\nwith-markup")
         self.assertEqual(api.comments, [])
+
+    def test_explicit_metadata_is_additive_after_verified_claim(self):
+        api = FakeGitHub(labels=["help wanted"])
+        result = claim_issue(api, 1, "worker/a", task_type="icons", work_kind="variation")
+        self.assertEqual(result["labels"], [
+            "claimed", "help wanted", "type:icons", "work:variation",
+        ])
+        self.assertEqual(api.metadata_writes, [["type:icons", "work:variation"]])
+        self.assertEqual(result["claim"]["owner"], "worker/a")
+
+    def test_conflicting_metadata_is_rejected_before_any_write(self):
+        for labels in (["type:ui"], ["work:original"], ["type:icons", "type:ui"]):
+            with self.subTest(labels=labels):
+                api = FakeGitHub(labels=labels)
+                with self.assertRaisesRegex(ClaimError, "metadata conflicts"):
+                    claim_issue(api, 1, "worker/a", task_type="icons", work_kind="variation")
+                self.assertEqual(api.comments, [])
+                self.assertEqual(api.label_writes, [])
+                self.assertEqual(api.metadata_writes, [])
+
+    def test_existing_matching_metadata_needs_no_duplicate_write(self):
+        api = FakeGitHub(labels=["type:icons", "work:variation"])
+        claim_issue(api, 1, "worker/a", task_type="icons", work_kind="variation")
+        self.assertEqual(api.metadata_writes, [])
+
+    def test_losing_worker_cannot_add_metadata(self):
+        api = FakeGitHub()
+        api.rival_on_claim = True
+        with self.assertRaises(ClaimError):
+            claim_issue(api, 1, "worker/a", task_type="icons", work_kind="variation")
+        self.assertEqual(api.metadata_writes, [])
+
+    def test_legacy_calls_do_not_guess_work_intent(self):
+        api = FakeGitHub()
+        api.issue["title"] = "Wallpaper: fidelity pass and three variants"
+        claim_issue(api, 1, "worker/a")
+        self.assertEqual(api.metadata_writes, [])
+
+    def test_tracking_label_is_not_claimable(self):
+        api = FakeGitHub(labels=["type:tracking"])
+        with self.assertRaisesRegex(ClaimError, "individual art task"):
+            claim_issue(api, 1, "worker/a")
+        self.assertEqual(api.comments, [])
+
+
+class TaskRoutingTests(unittest.TestCase):
+    def test_metadata_accepts_only_known_explicit_values(self):
+        for task_type, work_kind in (("cheap", None), (None, "easy")):
+            with self.subTest(task_type=task_type, work_kind=work_kind):
+                with self.assertRaisesRegex(ClaimError, "Unknown"):
+                    metadata_labels({}, task_type, work_kind)
+
+    def test_ready_search_keeps_ownership_and_type_separate(self):
+        self.assertEqual(
+            ready_search("ui", "refinement"),
+            '-label:claimed -label:"type:tracking" label:"type:ui" label:"work:refinement"',
+        )
+        self.assertEqual(ready_search(), '-label:claimed -label:"type:tracking"')
 
 
 if __name__ == "__main__":
