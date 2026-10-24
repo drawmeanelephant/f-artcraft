@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="500" x2="1000" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22100b"/>
+      <stop offset="1" stop-color="#0c0403"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7a3222"/>
+      <stop offset="0.7" stop-color="#481c12"/>
+      <stop offset="1" stop-color="#240d08"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="500" cy="520" r="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e86a3a" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#e86a3a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="391.466" y1="571" x2="608.534" y2="571" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8985e"/>
+      <stop offset="0.6" stop-color="#c46838"/>
+      <stop offset="1" stop-color="#8a3a22"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-3" cx="499" cy="535" r="99" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff3c8"/>
+      <stop offset="0.45" stop-color="#ffb45e"/>
+      <stop offset="1" stop-color="#d84a22"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="500" cy="648" r="11" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff3c8"/>
+      <stop offset="0.45" stop-color="#ffb45e"/>
+      <stop offset="1" stop-color="#d84a22"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="500" cy="419" r="68" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff3c8"/>
+      <stop offset="0.45" stop-color="#ffb45e"/>
+      <stop offset="1" stop-color="#d84a22"/>
+    </radialGradient>
+  </defs>
+  <title>HAI-0004 Boily McPlaterton — Haiku Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#4a1a0e" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#e8a87a" stroke-width="3" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Heat_bloom" data-name="Heat bloom" d="M250 520 C250 381.929 361.929 270 500 270 C638.071 270 750 381.929 750 520 C750 658.071 638.071 770 500 770 C361.929 770 250 658.071 250 520 Z" fill="url(#radial-gradient-2)"/>
+    <text transform="matrix(1 0 0 1 500 152)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="20" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">Thermal spike is high</tspan></text>
+    <text transform="matrix(1 0 0 1 500 182)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="20" fill="#e8b88a" text-anchor="middle"><tspan x="0" y="0">meaning bends around the heat</tspan></text>
+    <path id="Haze_L" data-name="Haze L" d="M330 555 C330 480.442 350.147 420 375 420 C399.853 420 420 480.442 420 555 C420 629.558 399.853 690 375 690 C350.147 690 330 629.558 330 555 Z" fill="#e86a3a" opacity="0.12"/>
+    <path id="Haze_R" data-name="Haze R" d="M580 555 C580 480.442 600.147 420 625 420 C649.853 420 670 480.442 670 555 C670 629.558 649.853 690 625 690 C600.147 690 580 629.558 580 555 Z" fill="#e86a3a" opacity="0.12"/>
+    <path id="Boily_casing" data-name="Boily casing" d="M412 418 C384 510 388 620 404 732 L596 732 C612 620 616 510 588 418 C529.333 407.333 470.667 407.333 412 418 Z" fill="url(#linear-gradient-2)" stroke="#2a140e" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Casing_sheen" data-name="Casing sheen" d="M430 440 C416 520 418 620 428 710" fill="none" stroke="#ffe0b8" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="Base_shadow" data-name="Base shadow" d="M420 700 L580 700 L596 732 L404 732 Z" fill="#6a2818" opacity="0.5"/>
+    <path id="Split_void" data-name="Split void" d="M486 428 L514 486 L492 544 L522 602 L500 648 L506 596 L478 540 L500 482 L478 430 Z" fill="#1e0803"/>
+    <path id="Split_glow" data-name="Split glow" d="M492 436 L510 488 L490 542 L514 596 L500 634 L502 592 L484 540 L498 486 L484 438 Z" fill="url(#radial-gradient-3)"/>
+    <path id="Split_heart" data-name="Split heart" d="M494 442 L506 488 L490 540 L508 590 L500 622 L498 588 L488 538 L496 488 L488 444 Z" fill="#fff3c8" opacity="0.85"/>
+    <path id="Eye_L" data-name="Eye L" d="M430 479 C430 472.925 433.582 468 438 468 C442.418 468 446 472.925 446 479 C446 485.075 442.418 490 438 490 C433.582 490 430 485.075 430 479 Z" fill="#2a0e06"/>
+    <path id="Eye_R" data-name="Eye R" d="M556 479 C556 472.925 559.582 468 564 468 C568.418 468 572 472.925 572 479 C572 485.075 568.418 490 564 490 C559.582 490 556 485.075 556 479 Z" fill="#2a0e06"/>
+    <path id="Glint_L" data-name="Glint L" d="M434 475 C434 473.895 434.895 473 436 473 C437.105 473 438 473.895 438 475 C438 476.105 437.105 477 436 477 C434.895 477 434 476.105 434 475 Z" fill="#ffffff" opacity="0.8"/>
+    <path id="Glint_R" data-name="Glint R" d="M560 475 C560 473.895 560.895 473 562 473 C563.105 473 564 473.895 564 475 C564 476.105 563.105 477 562 477 C560.895 477 560 476.105 560 475 Z" fill="#ffffff" opacity="0.8"/>
+    <path id="Brow_L" data-name="Brow L" d="M426 454 C434 448 442 447 450 451" fill="none" stroke="#2a0e06" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Brow_R" data-name="Brow R" d="M552 451 C560 447 568 448 576 454" fill="none" stroke="#2a0e06" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Mouth" d="M424 532 C424 523.163 435.641 516 450 516 C464.359 516 476 523.163 476 532 C476 540.837 464.359 548 450 548 C435.641 548 424 540.837 424 532 Z" fill="#2a0e06"/>
+    <path id="Mouth_heat" data-name="Mouth heat" d="M437 535.5 C437 531.91 443.268 529 451 529 C458.732 529 465 531.91 465 535.5 C465 539.09 458.732 542 451 542 C443.268 542 437 539.09 437 535.5 Z" fill="#e86a3a" opacity="0.6"/>
+    <path id="Fan_ring" data-name="Fan ring" d="M448 648 C448 619.281 471.281 596 500 596 C528.719 596 552 619.281 552 648 C552 676.719 528.719 700 500 700 C471.281 700 448 676.719 448 648 Z" fill="#3a1a10" stroke="#2a140e" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Fan_blade_1" data-name="Fan blade 1" d="M500 648 L512 663 L534 659 Z" fill="#c9b68e" opacity="0.85"/>
+    <path id="Fan_blade_2" data-name="Fan blade 2" d="M500 648 L494 666 L507 683 Z" fill="#c9b68e" opacity="0.85"/>
+    <path id="Fan_blade_3" data-name="Fan blade 3" d="M500 648 L481 651 L473 672 Z" fill="#c9b68e" opacity="0.85"/>
+    <path id="Fan_blade_4" data-name="Fan blade 4" d="M500 648 L488 633 L466 637 Z" fill="#c9b68e" opacity="0.85"/>
+    <path id="Fan_blade_5" data-name="Fan blade 5" d="M500 648 L506 630 L493 613 Z" fill="#c9b68e" opacity="0.85"/>
+    <path id="Fan_blade_6" data-name="Fan blade 6" d="M500 648 L519 645 L527 624 Z" fill="#c9b68e" opacity="0.85"/>
+    <path id="Fan_hub" data-name="Fan hub" d="M489 648 C489 641.925 493.925 637 500 637 C506.075 637 511 641.925 511 648 C511 654.075 506.075 659 500 659 C493.925 659 489 654.075 489 648 Z" fill="url(#radial-gradient-4)" stroke="#2a140e" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Spin_arc_1" data-name="Spin arc 1" d="M444 614 C453.738 592.735 474.3 578.476 497.629 576.809 C520.958 575.143 543.339 586.335 556 606" fill="none" stroke="#f2d4b0" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Spin_arc_2" data-name="Spin arc 2" d="M448 694 C460.89 712.644 482.68 723.08 505.286 721.436 C527.893 719.792 547.944 706.313 558 686" fill="none" stroke="#f2d4b0" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Core_vent" data-name="Core vent" d="M432 419 C432 411.82 462.445 406 500 406 C537.555 406 568 411.82 568 419 C568 426.18 537.555 432 500 432 C462.445 432 432 426.18 432 419 Z" fill="url(#radial-gradient-5)" opacity="0.8"/>
+    <path id="Smoke_1" data-name="Smoke 1" d="M462 373 C462 363.611 474.984 356 491 356 C507.016 356 520 363.611 520 373 C520 382.389 507.016 390 491 390 C474.984 390 462 382.389 462 373 Z" fill="#c9b6a4" opacity="0.42"/>
+    <path id="Smoke_2" data-name="Smoke 2" d="M434 340 C434 327.85 451.013 318 472 318 C492.987 318 510 327.85 510 340 C510 352.15 492.987 362 472 362 C451.013 362 434 352.15 434 340 Z" fill="#c9b6a4" opacity="0.34"/>
+    <path id="Smoke_3" data-name="Smoke 3" d="M478 304 C478 289.641 498.595 278 524 278 C549.405 278 570 289.641 570 304 C570 318.359 549.405 330 524 330 C498.595 330 478 318.359 478 304 Z" fill="#c9b6a4" opacity="0.26"/>
+    <path id="Smoke_4" data-name="Smoke 4" d="M446 263 C446 246.984 469.729 234 499 234 C528.271 234 552 246.984 552 263 C552 279.016 528.271 292 499 292 C469.729 292 446 279.016 446 263 Z" fill="#c9b6a4" opacity="0.18"/>
+    <path id="Spark_1" data-name="Spark 1" d="M398 486 L399.8 490.2 L404 492 L399.8 493.8 L398 498 L396.2 493.8 L392 492 L396.2 490.2 Z" fill="#ffd98a" opacity="0.85"/>
+    <path id="Spark_2" data-name="Spark 2" d="M604 527 L605.5 530.5 L609 532 L605.5 533.5 L604 537 L602.5 533.5 L599 532 L602.5 530.5 Z" fill="#ffd98a" opacity="0.85"/>
+    <path id="Spark_3" data-name="Spark 3" d="M402 631 L403.5 634.5 L407 636 L403.5 637.5 L402 641 L400.5 637.5 L397 636 L400.5 634.5 Z" fill="#ffd98a" opacity="0.85"/>
+    <path id="Spark_4" data-name="Spark 4" d="M600 608 L601.8 612.2 L606 614 L601.8 615.8 L600 620 L598.2 615.8 L594 614 L598.2 612.2 Z" fill="#ffd98a" opacity="0.85"/>
+    <path id="Stanza_L1_chip" data-name="Stanza L1 chip" d="M140 292 L320 292 C324.418 292 328 295.582 328 300 L328 354 C328 358.418 324.418 362 320 362 L140 362 C135.582 362 132 358.418 132 354 L132 300 C132 295.582 135.582 292 140 292 Z" fill="#2a0e08" stroke="#e8a87a" stroke-width="1.5" stroke-miterlimit="10" opacity="0.72"/>
+    <text transform="matrix(1 0 0 1 230 313)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">casing softens now</tspan></text>
+    <text transform="matrix(1 0 0 1 230 331)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">rivets weep in warm dark</tspan></text>
+    <text transform="matrix(1 0 0 1 230 349)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">shape forgets itself</tspan></text>
+    <path id="Stanza_L2_chip" data-name="Stanza L2 chip" d="M140 394 L320 394 C324.418 394 328 397.582 328 402 L328 456 C328 460.418 324.418 464 320 464 L140 464 C135.582 464 132 460.418 132 456 L132 402 C132 397.582 135.582 394 140 394 Z" fill="#2a0e08" stroke="#e8a87a" stroke-width="1.5" stroke-miterlimit="10" opacity="0.72"/>
+    <text transform="matrix(1 0 0 1 230 415)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">smoke writes its own verse</tspan></text>
+    <text transform="matrix(1 0 0 1 230 433)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">grey columns rising slow</tspan></text>
+    <text transform="matrix(1 0 0 1 230 451)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">the room reads along</tspan></text>
+    <path id="Stanza_L3_chip" data-name="Stanza L3 chip" d="M140 496 L320 496 C324.418 496 328 499.582 328 504 L328 558 C328 562.418 324.418 566 320 566 L140 566 C135.582 566 132 562.418 132 558 L132 504 C132 499.582 135.582 496 140 496 Z" fill="#2a0e08" stroke="#e8a87a" stroke-width="1.5" stroke-miterlimit="10" opacity="0.72"/>
+    <text transform="matrix(1 0 0 1 230 517)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">the fans are screaming</tspan></text>
+    <text transform="matrix(1 0 0 1 230 535)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">eight thousand rpm</tspan></text>
+    <text transform="matrix(1 0 0 1 230 553)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">no one turns them down</tspan></text>
+    <path id="Stanza_L4_chip" data-name="Stanza L4 chip" d="M140 598 L320 598 C324.418 598 328 601.582 328 606 L328 660 C328 664.418 324.418 668 320 668 L140 668 C135.582 668 132 664.418 132 660 L132 606 C132 601.582 135.582 598 140 598 Z" fill="#2a0e08" stroke="#e8a87a" stroke-width="1.5" stroke-miterlimit="10" opacity="0.72"/>
+    <text transform="matrix(1 0 0 1 230 619)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">thermal paste was never</tspan></text>
+    <text transform="matrix(1 0 0 1 230 637)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">applied in this lifetime</tspan></text>
+    <text transform="matrix(1 0 0 1 230 655)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">the manual wept</tspan></text>
+    <path id="Stanza_R1_chip" data-name="Stanza R1 chip" d="M680 292 L860 292 C864.418 292 868 295.582 868 300 L868 354 C868 358.418 864.418 362 860 362 L680 362 C675.582 362 672 358.418 672 354 L672 300 C672 295.582 675.582 292 680 292 Z" fill="#2a0e08" stroke="#e8a87a" stroke-width="1.5" stroke-miterlimit="10" opacity="0.72"/>
+    <text transform="matrix(1 0 0 1 770 313)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">form 88-b filed</tspan></text>
+    <text transform="matrix(1 0 0 1 770 331)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">in triplicate flames</tspan></text>
+    <text transform="matrix(1 0 0 1 770 349)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">stamped insufficient</tspan></text>
+    <path id="Stanza_R2_chip" data-name="Stanza R2 chip" d="M680 394 L860 394 C864.418 394 868 397.582 868 402 L868 456 C868 460.418 864.418 464 860 464 L680 464 C675.582 464 672 460.418 672 456 L672 402 C672 397.582 675.582 394 680 394 Z" fill="#2a0e08" stroke="#e8a87a" stroke-width="1.5" stroke-miterlimit="10" opacity="0.72"/>
+    <text transform="matrix(1 0 0 1 770 415)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">heat bends the meaning</tspan></text>
+    <text transform="matrix(1 0 0 1 770 433)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">words warp around the core</tspan></text>
+    <text transform="matrix(1 0 0 1 770 451)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">still the verse holds</tspan></text>
+    <path id="Stanza_R3_chip" data-name="Stanza R3 chip" d="M680 496 L860 496 C864.418 496 868 499.582 868 504 L868 558 C868 562.418 864.418 566 860 566 L680 566 C675.582 566 672 562.418 672 558 L672 504 C672 499.582 675.582 496 680 496 Z" fill="#2a0e08" stroke="#e8a87a" stroke-width="1.5" stroke-miterlimit="10" opacity="0.72"/>
+    <text transform="matrix(1 0 0 1 770 517)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">capacitors pop</tspan></text>
+    <text transform="matrix(1 0 0 1 770 535)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">like small fireworks</tspan></text>
+    <text transform="matrix(1 0 0 1 770 553)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">goodnight, motherboard</tspan></text>
+    <path id="Stanza_R4_chip" data-name="Stanza R4 chip" d="M680 598 L860 598 C864.418 598 868 601.582 868 606 L868 660 C868 664.418 864.418 668 860 668 L680 668 C675.582 668 672 664.418 672 660 L672 606 C672 601.582 675.582 598 680 598 Z" fill="#2a0e08" stroke="#e8a87a" stroke-width="1.5" stroke-miterlimit="10" opacity="0.72"/>
+    <text transform="matrix(1 0 0 1 770 619)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">silent thought descends</tspan></text>
+    <text transform="matrix(1 0 0 1 770 637)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">the chassis cools at last</tspan></text>
+    <text transform="matrix(1 0 0 1 770 655)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11.5" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">fans forget to scream</tspan></text>
+    <text transform="matrix(1 0 0 1 500 930)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="56" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">BOILY MCPLATERTON</tspan></text>
+    <text transform="matrix(1 0 0 1 500 968)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="19" fill="#c9906a" letter-spacing="3.42" text-anchor="middle"><tspan x="0" y="0">HAI-0004 BOILY MCPLATERTON</tspan></text>
+  </g>
+</svg>
