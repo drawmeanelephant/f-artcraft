@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0a0d08"/>
+      <stop offset="1" stop-color="#040503"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5e6b4a"/>
+      <stop offset="0.5" stop-color="#333c26"/>
+      <stop offset="1" stop-color="#141a0e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="490" cy="270" r="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bcc898" stop-opacity="0.2"/>
+      <stop offset="0.6" stop-color="#bcc898" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#bcc898" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="300" x2="0" y2="800" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#57503e"/>
+      <stop offset="0.6" stop-color="#332c1e"/>
+      <stop offset="1" stop-color="#181408"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="560" y1="380" x2="520" y2="720" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9ea45c"/>
+      <stop offset="0.5" stop-color="#6e7440"/>
+      <stop offset="1" stop-color="#33381a"/>
+    </linearGradient>
+  </defs>
+  <title>Moray Eel — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo" data-name="Plate halo" d="M64 460 C64 219.204 259.204 24 500 24 C740.796 24 936 219.204 936 460 C936 700.796 740.796 896 500 896 C259.204 896 64 700.796 64 460 Z" fill="#4a5638" opacity="0.1"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#161c0e" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#c4d0a0" stroke-width="3" stroke-miterlimit="10" opacity="0.26"/>
+    <path id="Murk_light" data-name="Murk light" d="M300 270 C300 198.203 385.066 140 490 140 C594.934 140 680 198.203 680 270 C680 341.797 594.934 400 490 400 C385.066 400 300 341.797 300 270 Z" fill="url(#radial-gradient-2)"/>
+    <path id="Mote_1" data-name="Mote 1" d="M362.885 585.725 C362.885 584.897 363.556 584.226 364.384 584.226 C365.212 584.226 365.883 584.897 365.883 585.725 C365.883 586.553 365.212 587.224 364.384 587.224 C363.556 587.224 362.885 586.553 362.885 585.725 Z" fill="#d4dcb8" opacity="0.24"/>
+    <path id="Mote_2" data-name="Mote 2" d="M215.674 309.56 C215.674 308.412 216.606 307.481 217.754 307.481 C218.903 307.481 219.834 308.412 219.834 309.56 C219.834 310.709 218.903 311.64 217.754 311.64 C216.606 311.64 215.674 310.709 215.674 309.56 Z" fill="#d4dcb8" opacity="0.24"/>
+    <path id="Mote_3" data-name="Mote 3" d="M699.781 190.344 C699.781 189.646 700.347 189.08 701.045 189.08 C701.743 189.08 702.309 189.646 702.309 190.344 C702.309 191.043 701.743 191.608 701.045 191.608 C700.347 191.608 699.781 191.043 699.781 190.344 Z" fill="#d4dcb8" opacity="0.19"/>
+    <path id="Mote_4" data-name="Mote 4" d="M312.067 160.334 C312.067 159.279 312.921 158.425 313.976 158.425 C315.03 158.425 315.885 159.279 315.885 160.334 C315.885 161.388 315.03 162.243 313.976 162.243 C312.921 162.243 312.067 161.388 312.067 160.334 Z" fill="#d4dcb8" opacity="0.16"/>
+    <path id="Mote_5" data-name="Mote 5" d="M878.06 428.105 C878.06 427.15 878.833 426.376 879.788 426.376 C880.742 426.376 881.516 427.15 881.516 428.105 C881.516 429.059 880.742 429.833 879.788 429.833 C878.833 429.833 878.06 429.059 878.06 428.105 Z" fill="#d4dcb8" opacity="0.2"/>
+    <path id="Mote_6" data-name="Mote 6" d="M327.616 209.485 C327.616 208.745 328.216 208.145 328.955 208.145 C329.695 208.145 330.295 208.745 330.295 209.485 C330.295 210.224 329.695 210.824 328.955 210.824 C328.216 210.824 327.616 210.224 327.616 209.485 Z" fill="#d4dcb8" opacity="0.3"/>
+    <path id="Mote_7" data-name="Mote 7" d="M848.27 533.808 C848.27 532.421 849.394 531.296 850.781 531.296 C852.168 531.296 853.293 532.421 853.293 533.808 C853.293 535.195 852.168 536.319 850.781 536.319 C849.394 536.319 848.27 535.195 848.27 533.808 Z" fill="#d4dcb8" opacity="0.18"/>
+    <path id="Mote_8" data-name="Mote 8" d="M705.402 561.938 C705.402 560.854 706.281 559.976 707.365 559.976 C708.449 559.976 709.327 560.854 709.327 561.938 C709.327 563.022 708.449 563.901 707.365 563.901 C706.281 563.901 705.402 563.022 705.402 561.938 Z" fill="#d4dcb8" opacity="0.29"/>
+    <path id="Mote_9" data-name="Mote 9" d="M432.093 341.328 C432.093 339.881 433.266 338.708 434.713 338.708 C436.16 338.708 437.333 339.881 437.333 341.328 C437.333 342.775 436.16 343.948 434.713 343.948 C433.266 343.948 432.093 342.775 432.093 341.328 Z" fill="#d4dcb8" opacity="0.17"/>
+    <path id="Mote_10" data-name="Mote 10" d="M702.699 531.63 C702.699 530.426 703.674 529.45 704.878 529.45 C706.082 529.45 707.058 530.426 707.058 531.63 C707.058 532.833 706.082 533.809 704.878 533.809 C703.674 533.809 702.699 532.833 702.699 531.63 Z" fill="#d4dcb8" opacity="0.3"/>
+    <path id="Mote_11" data-name="Mote 11" d="M647.609 790.231 C647.609 788.839 648.738 787.711 650.129 787.711 C651.521 787.711 652.649 788.839 652.649 790.231 C652.649 791.623 651.521 792.751 650.129 792.751 C648.738 792.751 647.609 791.623 647.609 790.231 Z" fill="#d4dcb8" opacity="0.21"/>
+    <path id="Mote_12" data-name="Mote 12" d="M397.117 534.273 C397.117 533.506 397.739 532.883 398.507 532.883 C399.275 532.883 399.898 533.506 399.898 534.273 C399.898 535.041 399.275 535.664 398.507 535.664 C397.739 535.664 397.117 535.041 397.117 534.273 Z" fill="#d4dcb8" opacity="0.12"/>
+    <path id="Mote_13" data-name="Mote 13" d="M358.095 228.707 C358.095 227.69 358.919 226.865 359.937 226.865 C360.954 226.865 361.779 227.69 361.779 228.707 C361.779 229.724 360.954 230.549 359.937 230.549 C358.919 230.549 358.095 229.724 358.095 228.707 Z" fill="#d4dcb8" opacity="0.12"/>
+    <path id="Mote_14" data-name="Mote 14" d="M589.501 515.197 C589.501 513.723 590.695 512.528 592.169 512.528 C593.643 512.528 594.838 513.723 594.838 515.197 C594.838 516.67 593.643 517.865 592.169 517.865 C590.695 517.865 589.501 516.67 589.501 515.197 Z" fill="#d4dcb8" opacity="0.24"/>
+    <path id="Mote_15" data-name="Mote 15" d="M201.337 609.571 C201.337 608.433 202.259 607.511 203.397 607.511 C204.534 607.511 205.456 608.433 205.456 609.571 C205.456 610.708 204.534 611.63 203.397 611.63 C202.259 611.63 201.337 610.708 201.337 609.571 Z" fill="#d4dcb8" opacity="0.12"/>
+    <path id="Mote_16" data-name="Mote 16" d="M375.904 279.254 C375.904 278.448 376.557 277.796 377.362 277.796 C378.167 277.796 378.82 278.448 378.82 279.254 C378.82 280.059 378.167 280.712 377.362 280.712 C376.557 280.712 375.904 280.059 375.904 279.254 Z" fill="#d4dcb8" opacity="0.14"/>
+    <path id="Mote_17" data-name="Mote 17" d="M428.864 140.599 C428.864 139.343 429.882 138.325 431.137 138.325 C432.393 138.325 433.41 139.343 433.41 140.599 C433.41 141.854 432.393 142.872 431.137 142.872 C429.882 142.872 428.864 141.854 428.864 140.599 Z" fill="#d4dcb8" opacity="0.15"/>
+    <path id="Mote_18" data-name="Mote 18" d="M819.551 432.687 C819.551 431.255 820.712 430.095 822.144 430.095 C823.575 430.095 824.736 431.255 824.736 432.687 C824.736 434.119 823.575 435.279 822.144 435.279 C820.712 435.279 819.551 434.119 819.551 432.687 Z" fill="#d4dcb8" opacity="0.25"/>
+    <path id="Mote_19" data-name="Mote 19" d="M311.235 183.79 C311.235 182.595 312.204 181.626 313.399 181.626 C314.594 181.626 315.562 182.595 315.562 183.79 C315.562 184.985 314.594 185.953 313.399 185.953 C312.204 185.953 311.235 184.985 311.235 183.79 Z" fill="#d4dcb8" opacity="0.25"/>
+    <path id="Mote_20" data-name="Mote 20" d="M399.646 387.871 C399.646 386.398 400.841 385.203 402.314 385.203 C403.788 385.203 404.982 386.398 404.982 387.871 C404.982 389.345 403.788 390.539 402.314 390.539 C400.841 390.539 399.646 389.345 399.646 387.871 Z" fill="#d4dcb8" opacity="0.19"/>
+    <path id="Mote_21" data-name="Mote 21" d="M193.203 586.391 C193.203 585.137 194.219 584.121 195.473 584.121 C196.727 584.121 197.743 585.137 197.743 586.391 C197.743 587.645 196.727 588.661 195.473 588.661 C194.219 588.661 193.203 587.645 193.203 586.391 Z" fill="#d4dcb8" opacity="0.25"/>
+    <path id="Mote_22" data-name="Mote 22" d="M524.603 352.388 C524.603 351.144 525.612 350.135 526.856 350.135 C528.1 350.135 529.109 351.144 529.109 352.388 C529.109 353.632 528.1 354.641 526.856 354.641 C525.612 354.641 524.603 353.632 524.603 352.388 Z" fill="#d4dcb8" opacity="0.29"/>
+    <path id="Mote_23" data-name="Mote 23" d="M574.666 769.637 C574.666 768.717 575.411 767.972 576.331 767.972 C577.251 767.972 577.997 768.717 577.997 769.637 C577.997 770.557 577.251 771.303 576.331 771.303 C575.411 771.303 574.666 770.557 574.666 769.637 Z" fill="#d4dcb8" opacity="0.22"/>
+    <path id="Mote_24" data-name="Mote 24" d="M605.695 176.088 C605.695 174.745 606.783 173.656 608.126 173.656 C609.469 173.656 610.558 174.745 610.558 176.088 C610.558 177.43 609.469 178.519 608.126 178.519 C606.783 178.519 605.695 177.43 605.695 176.088 Z" fill="#d4dcb8" opacity="0.21"/>
+    <path id="Mote_25" data-name="Mote 25" d="M500.753 130.61 C500.753 129.742 501.457 129.038 502.325 129.038 C503.193 129.038 503.896 129.742 503.896 130.61 C503.896 131.478 503.193 132.181 502.325 132.181 C501.457 132.181 500.753 131.478 500.753 130.61 Z" fill="#d4dcb8" opacity="0.17"/>
+    <path id="Mote_26" data-name="Mote 26" d="M539.231 638.145 C539.231 637.066 540.106 636.191 541.184 636.191 C542.263 636.191 543.137 637.066 543.137 638.145 C543.137 639.223 542.263 640.098 541.184 640.098 C540.106 640.098 539.231 639.223 539.231 638.145 Z" fill="#d4dcb8" opacity="0.19"/>
+    <path id="Mote_27" data-name="Mote 27" d="M670.283 533.783 C670.283 532.623 671.224 531.683 672.384 531.683 C673.544 531.683 674.484 532.623 674.484 533.783 C674.484 534.943 673.544 535.884 672.384 535.884 C671.224 535.884 670.283 534.943 670.283 533.783 Z" fill="#d4dcb8" opacity="0.16"/>
+    <path id="Mote_28" data-name="Mote 28" d="M363.857 466.092 C363.857 465.083 364.674 464.265 365.683 464.265 C366.692 464.265 367.509 465.083 367.509 466.092 C367.509 467.1 366.692 467.918 365.683 467.918 C364.674 467.918 363.857 467.1 363.857 466.092 Z" fill="#d4dcb8" opacity="0.15"/>
+    <path id="Mote_29" data-name="Mote 29" d="M611.058 228.855 C611.058 227.552 612.115 226.495 613.418 226.495 C614.721 226.495 615.778 227.552 615.778 228.855 C615.778 230.158 614.721 231.215 613.418 231.215 C612.115 231.215 611.058 230.158 611.058 228.855 Z" fill="#d4dcb8" opacity="0.18"/>
+    <path id="Mote_30" data-name="Mote 30" d="M240.328 371.923 C240.328 370.429 241.539 369.217 243.034 369.217 C244.528 369.217 245.74 370.429 245.74 371.923 C245.74 373.418 244.528 374.629 243.034 374.629 C241.539 374.629 240.328 373.418 240.328 371.923 Z" fill="#d4dcb8" opacity="0.2"/>
+    <path id="Mote_31" data-name="Mote 31" d="M526.918 400.17 C526.918 398.992 527.873 398.036 529.052 398.036 C530.231 398.036 531.186 398.992 531.186 400.17 C531.186 401.349 530.231 402.305 529.052 402.305 C527.873 402.305 526.918 401.349 526.918 400.17 Z" fill="#d4dcb8" opacity="0.16"/>
+    <path id="Mote_32" data-name="Mote 32" d="M319.755 249.414 C319.755 248.186 320.751 247.19 321.98 247.19 C323.208 247.19 324.204 248.186 324.204 249.414 C324.204 250.643 323.208 251.639 321.98 251.639 C320.751 251.639 319.755 250.643 319.755 249.414 Z" fill="#d4dcb8" opacity="0.17"/>
+    <path id="Mote_33" data-name="Mote 33" d="M175.133 660.944 C175.133 659.457 176.339 658.252 177.826 658.252 C179.313 658.252 180.518 659.457 180.518 660.944 C180.518 662.431 179.313 663.636 177.826 663.636 C176.339 663.636 175.133 662.431 175.133 660.944 Z" fill="#d4dcb8" opacity="0.13"/>
+    <path id="Mote_34" data-name="Mote 34" d="M201.752 441.732 C201.752 440.75 202.548 439.954 203.53 439.954 C204.512 439.954 205.308 440.75 205.308 441.732 C205.308 442.714 204.512 443.51 203.53 443.51 C202.548 443.51 201.752 442.714 201.752 441.732 Z" fill="#d4dcb8" opacity="0.24"/>
+    <path id="Rock_left" data-name="Rock left" d="M100.6 330 C200 318 268 352 296 400 C318 438 330 470 322 506 C312 548 288 584 264 610 C244 632 218 650 155.3 700 C196.019 574.906 175.774 437.96 100.6 330 Z" fill="url(#linear-gradient-2)" stroke="#12100a" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Rock_right" data-name="Rock right" d="M907.9 360 C800 348 742 380 716 428 C694 468 686 512 696 556 C706 598 730 634 758 660 C786 684 830 700 829.8 720 C799.012 594.376 827.823 461.573 907.9 360 Z" fill="url(#linear-gradient-2)" stroke="#12100a" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Crevice" d="M322 506 C360 480 420 468 470 478 C540 492 620 470 686 500 C694 540 700 600 716 660 C700 690 640 706 560 710 C460 714 360 700 300 660 C284 620 296 550 322 506 Z" fill="#0c0a05" opacity="0.9"/>
+    <path id="Gap_lip_L" data-name="Gap lip L" d="M322 506 C360 480 420 468 470 478" fill="none" stroke="#8e9468" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Gap_lip_R" data-name="Gap lip R" d="M560 492 C610 476 660 482 686 500" fill="none" stroke="#8e9468" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Strata_1" data-name="Strata 1" d="M150 420 C190 412 240 420 288 434" fill="none" stroke="#241e12" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Strata_2" data-name="Strata 2" d="M140 520 C190 508 240 516 282 532" fill="none" stroke="#241e12" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Strata_3" data-name="Strata 3" d="M730 450 C780 440 830 446 872 462" fill="none" stroke="#241e12" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Strata_4" data-name="Strata 4" d="M740 540 C790 532 840 540 878 556" fill="none" stroke="#241e12" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Strata_5" data-name="Strata 5" d="M770 640 C806 632 838 640 860 650" fill="none" stroke="#241e12" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Algae_1" data-name="Algae 1" d="M180 380 C175 370 172 364 170 358" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Algae_2" data-name="Algae 2" d="M180 380 C180 370 180 364 180 358" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Algae_3" data-name="Algae 3" d="M180 380 C185 370 188 364 190 358" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Algae_4" data-name="Algae 4" d="M240 350 C235 340 232 334 230 328" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Algae_5" data-name="Algae 5" d="M240 350 C240 340 240 334 240 328" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Algae_6" data-name="Algae 6" d="M240 350 C245 340 248 334 250 328" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Algae_7" data-name="Algae 7" d="M150 470 C145 460 142 454 140 448" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Algae_8" data-name="Algae 8" d="M150 470 C150 460 150 454 150 448" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Algae_9" data-name="Algae 9" d="M150 470 C155 460 158 454 160 448" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Algae_10" data-name="Algae 10" d="M270 560 C265 550 262 544 260 538" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Algae_11" data-name="Algae 11" d="M270 560 C270 550 270 544 270 538" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Algae_12" data-name="Algae 12" d="M270 560 C275 550 278 544 280 538" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Algae_13" data-name="Algae 13" d="M760 420 C755 410 752 404 750 398" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Algae_14" data-name="Algae 14" d="M760 420 C760 410 760 404 760 398" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Algae_15" data-name="Algae 15" d="M760 420 C765 410 768 404 770 398" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Algae_16" data-name="Algae 16" d="M800 480 C795 470 792 464 790 458" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Algae_17" data-name="Algae 17" d="M800 480 C800 470 800 464 800 458" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Algae_18" data-name="Algae 18" d="M800 480 C805 470 808 464 810 458" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Algae_19" data-name="Algae 19" d="M740 560 C735 550 732 544 730 538" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Algae_20" data-name="Algae 20" d="M740 560 C740 550 740 544 740 538" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Algae_21" data-name="Algae 21" d="M740 560 C745 550 748 544 750 538" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Algae_22" data-name="Algae 22" d="M820 620 C815 610 812 604 810 598" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Algae_23" data-name="Algae 23" d="M820 620 C820 610 820 604 820 598" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Algae_24" data-name="Algae 24" d="M820 620 C825 610 828 604 830 598" fill="none" stroke="#5e6e38" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Pock_1" data-name="Pock 1" d="M201 439.94 C201 436.659 205.029 434 210 434 C214.971 434 219 436.659 219 439.94 C219 443.221 214.971 445.88 210 445.88 C205.029 445.88 201 443.221 201 439.94 Z" fill="#100c06" opacity="0.55"/>
+    <path id="Pock_2" data-name="Pock 2" d="M293 479.953 C293 477.402 296.134 475.333 300 475.333 C303.866 475.333 307 477.402 307 479.953 C307 482.505 303.866 484.573 300 484.573 C296.134 484.573 293 482.505 293 479.953 Z" fill="#100c06" opacity="0.55"/>
+    <path id="Pock_3" data-name="Pock 3" d="M760 469.933 C760 466.288 764.477 463.333 770 463.333 C775.523 463.333 780 466.288 780 469.933 C780 473.578 775.523 476.533 770 476.533 C764.477 476.533 760 473.578 760 469.933 Z" fill="#100c06" opacity="0.55"/>
+    <path id="Pock_4" data-name="Pock 4" d="M722.5 599.95 C722.5 597.216 725.858 595 730 595 C734.142 595 737.5 597.216 737.5 599.95 C737.5 602.684 734.142 604.9 730 604.9 C725.858 604.9 722.5 602.684 722.5 599.95 Z" fill="#100c06" opacity="0.55"/>
+    <path id="Pock_5" data-name="Pock 5" d="M232 619.947 C232 617.031 235.582 614.667 240 614.667 C244.418 614.667 248 617.031 248 619.947 C248 622.863 244.418 625.227 240 625.227 C235.582 625.227 232 622.863 232 619.947 Z" fill="#100c06" opacity="0.55"/>
+    <path id="Sediment" d="M164 712 C330 696 500 714 650 706 C740 700 820 704 836 712 C756.681 817.758 632.198 880 500 880 C367.802 880 243.319 817.758 164 712 Z" fill="#26200f" opacity="0.85"/>
+    <path id="Rubble_1" data-name="Rubble 1" d="M324 750.3 C324 748.477 326.686 747 330 747 C333.314 747 336 748.477 336 750.3 C336 752.123 333.314 753.6 330 753.6 C326.686 753.6 324 752.123 324 750.3 Z" fill="#4a4028" opacity="0.5"/>
+    <path id="Rubble_2" data-name="Rubble 2" d="M475.5 762.225 C475.5 760.858 477.515 759.75 480 759.75 C482.485 759.75 484.5 760.858 484.5 762.225 C484.5 763.592 482.485 764.7 480 764.7 C477.515 764.7 475.5 763.592 475.5 762.225 Z" fill="#4a4028" opacity="0.5"/>
+    <path id="Rubble_3" data-name="Rubble 3" d="M613.5 748.325 C613.5 746.351 616.41 744.75 620 744.75 C623.59 744.75 626.5 746.351 626.5 748.325 C626.5 750.299 623.59 751.9 620 751.9 C616.41 751.9 613.5 750.299 613.5 748.325 Z" fill="#4a4028" opacity="0.5"/>
+    <path id="Rubble_4" data-name="Rubble 4" d="M755 756.25 C755 754.731 757.239 753.5 760 753.5 C762.761 753.5 765 754.731 765 756.25 C765 757.769 762.761 759 760 759 C757.239 759 755 757.769 755 756.25 Z" fill="#4a4028" opacity="0.5"/>
+    <path id="Coil" d="M560 690 C540 660 480 660 470 700 C464 728 500 742 540 738" fill="none" stroke="#4a5228" stroke-width="34" stroke-linecap="round" stroke-miterlimit="10" opacity="0.85"/>
+    <path id="Dorsal_fin" data-name="Dorsal fin" d="M588 646 C600 586 588 530 560 488 C546 466 528 452 508 444" fill="none" stroke="#7e8848" stroke-width="13" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Eel" d="M575 735 C600 660 585 570 550 510 C525 470 495 452 460 445 C430 438 395 422 372 405 C364 398 356 398 354 406 C368 416 390 428 415 438 C428 444 438 450 448 458 C436 470 420 478 400 480 C392 481 388 476 394 470 C412 462 428 456 442 452 C450 470 462 490 470 510 C486 560 500 640 505 735 Z" fill="url(#linear-gradient-3)" stroke="#12100a" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Neck_sheen" data-name="Neck sheen" d="M580 700 C596 630 584 556 552 502 C538 478 520 462 498 452" fill="none" stroke="#c8ce8e" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Mottle_1" data-name="Mottle 1" d="M525 579.9 C525 574.432 531.716 570 540 570 C548.284 570 555 574.432 555 579.9 C555 585.368 548.284 589.8 540 589.8 C531.716 589.8 525 585.368 525 579.9 Z" fill="#3e441e" opacity="0.22"/>
+    <path id="Mottle_2" data-name="Mottle 2" d="M547 499.913 C547 495.175 552.82 491.333 560 491.333 C567.18 491.333 573 495.175 573 499.913 C573 504.652 567.18 508.493 560 508.493 C552.82 508.493 547 504.652 547 499.913 Z" fill="#3e441e" opacity="0.2"/>
+    <path id="Mottle_3" data-name="Mottle 3" d="M488 649.887 C488 643.69 495.611 638.667 505 638.667 C514.389 638.667 522 643.69 522 649.887 C522 656.083 514.389 661.107 505 661.107 C495.611 661.107 488 656.083 488 649.887 Z" fill="#3e441e" opacity="0.2"/>
+    <path id="Mottle_4" data-name="Mottle 4" d="M459 469.927 C459 465.917 463.925 462.667 470 462.667 C476.075 462.667 481 465.917 481 469.927 C481 473.936 476.075 477.187 470 477.187 C463.925 477.187 459 473.936 459 469.927 Z" fill="#3e441e" opacity="0.18"/>
+    <path id="Mouth" d="M362 404 C380 416 410 432 444 454 C432 466 414 474 398 476 C388 470 376 458 368 442 C362 428 360 414 362 404 Z" fill="#2e1014" stroke="#1a0a0c" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Throat_gleam" data-name="Throat gleam" d="M392 442 C392 438.686 396.029 436 401 436 C405.971 436 410 438.686 410 442 C410 445.314 405.971 448 401 448 C396.029 448 392 445.314 392 442 Z" fill="#6e3038" opacity="0.6"/>
+    <path id="Tooth_U1" data-name="Tooth U1" d="M372 412 L375 422 L378 413 Z" fill="#e2dcc2" opacity="0.85"/>
+    <path id="Tooth_U2" data-name="Tooth U2" d="M386 420 L389 430 L392 421 Z" fill="#e2dcc2" opacity="0.85"/>
+    <path id="Tooth_U3" data-name="Tooth U3" d="M400 428 L403 438 L406 429 Z" fill="#e2dcc2" opacity="0.85"/>
+    <path id="Tooth_U4" data-name="Tooth U4" d="M414 436 L417 446 L420 437 Z" fill="#e2dcc2" opacity="0.85"/>
+    <path id="Tooth_U5" data-name="Tooth U5" d="M428 444 L431 454 L434 445 Z" fill="#e2dcc2" opacity="0.85"/>
+    <path id="Tooth_L1" data-name="Tooth L1" d="M402 472 L405 463 L408 472 Z" fill="#e2dcc2" opacity="0.85"/>
+    <path id="Tooth_L2" data-name="Tooth L2" d="M414 466 L417 457 L420 466 Z" fill="#e2dcc2" opacity="0.85"/>
+    <path id="Tooth_L3" data-name="Tooth L3" d="M426 460 L429 451 L432 460 Z" fill="#e2dcc2" opacity="0.85"/>
+    <path id="Tooth_L4" data-name="Tooth L4" d="M438 454 L441 445 L444 454 Z" fill="#e2dcc2" opacity="0.85"/>
+    <path id="Upper_jaw_light" data-name="Upper jaw light" d="M358 404 C376 416 404 432 444 454" fill="none" stroke="#c8ce8e" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Lower_jaw_light" data-name="Lower jaw light" d="M396 476 C412 470 428 462 442 454" fill="none" stroke="#c8ce8e" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Eye" d="M432 414 C432 410.686 435.134 408 439 408 C442.866 408 446 410.686 446 414 C446 417.314 442.866 420 439 420 C435.134 420 432 417.314 432 414 Z" fill="#141006" stroke="#12100a" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Eye_glint" data-name="Eye glint" d="M436 411.75 C436 410.784 436.784 410 437.75 410 C438.716 410 439.5 410.784 439.5 411.75 C439.5 412.716 438.716 413.5 437.75 413.5 C436.784 413.5 436 412.716 436 411.75 Z" fill="#fff6dc" opacity="0.8"/>
+    <path id="Nostril_tube_1" data-name="Nostril tube 1" d="M362 396 C360 390 360 384 364 380" fill="none" stroke="#8e9452" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Nostril_tube_2" data-name="Nostril tube 2" d="M372 398 C372 392 373 386 377 382" fill="none" stroke="#8e9452" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gill_pore" data-name="Gill pore" d="M476 467.5 C476 464.462 478.462 462 481.5 462 C484.538 462 487 464.462 487 467.5 C487 470.538 484.538 473 481.5 473 C478.462 473 476 470.538 476 467.5 Z" fill="#181408" opacity="0.8"/>
+    <path id="Cleaner_body" data-name="Cleaner body" d="M470 428 C486 420 504 420 516 428 C504 436 486 436 470 428 Z" fill="#1c2830" stroke="#0c1216" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Cleaner_tail" data-name="Cleaner tail" d="M516 428 L530 422 L528 432 Z" fill="#1c2830" stroke="#0c1216" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Cleaner_stripe" data-name="Cleaner stripe" d="M474 427 C488 424 504 424 514 428" fill="none" stroke="#c8dce4" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Cleaner_eye" data-name="Cleaner eye" d="M480 427 C480 425.895 480.895 425 482 425 C483.105 425 484 425.895 484 427 C484 428.105 483.105 429 482 429 C480.895 429 480 428.105 480 427 Z" fill="#0c1216"/>
+    <path id="Plate_rim" data-name="Plate rim" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="none" stroke="#0e1208" stroke-width="6" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 962)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="58" fill="#c4d0a0" text-anchor="middle"><tspan x="0" y="0">MORAY EEL</tspan></text>
+  </g>
+</svg>
