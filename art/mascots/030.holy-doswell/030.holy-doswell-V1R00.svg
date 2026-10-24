@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#18100c"/>
+      <stop offset="1" stop-color="#0a0705"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6b5a48"/>
+      <stop offset="0.62" stop-color="#43352a"/>
+      <stop offset="1" stop-color="#241b14"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="150" x2="0" y2="330" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#161d26"/>
+      <stop offset="1" stop-color="#0b0e13"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="597" y1="210" x2="683" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e9ddc2"/>
+      <stop offset="1" stop-color="#c9b992"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="735" y1="232" x2="821" y2="232" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e9ddc2"/>
+      <stop offset="1" stop-color="#c9b992"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="683" y1="268" x2="769" y2="268" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e9ddc2"/>
+      <stop offset="1" stop-color="#c9b992"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="726" cy="272" r="15.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe9a8"/>
+      <stop offset="0.6" stop-color="#f0913a"/>
+      <stop offset="1" stop-color="#d84e14"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-6" x1="0" y1="380" x2="0" y2="770" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a50a8"/>
+      <stop offset="0.55" stop-color="#26346e"/>
+      <stop offset="1" stop-color="#16204a"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-3" cx="500" cy="461" r="52" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a3226"/>
+      <stop offset="1" stop-color="#120e0a"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="477" cy="459" r="6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe9a8"/>
+      <stop offset="0.6" stop-color="#f0913a"/>
+      <stop offset="1" stop-color="#d84e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="523" cy="459" r="6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe9a8"/>
+      <stop offset="0.6" stop-color="#f0913a"/>
+      <stop offset="1" stop-color="#d84e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-6" cx="738" cy="290" r="18.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe9a8"/>
+      <stop offset="0.6" stop-color="#f0913a"/>
+      <stop offset="1" stop-color="#d84e14"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-7" x1="0" y1="660" x2="0" y2="780" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#333b46"/>
+      <stop offset="1" stop-color="#161a20"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="331.9" y1="712" x2="392.1" y2="712" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9aa4ae"/>
+      <stop offset="1" stop-color="#5e6874"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-7" cx="370" cy="734" r="4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe9a8"/>
+      <stop offset="0.6" stop-color="#f0913a"/>
+      <stop offset="1" stop-color="#d84e14"/>
+    </radialGradient>
+  </defs>
+  <title>Holy DOSwell — Mascot Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo" data-name="Plate halo" d="M60 460 C60 216.995 256.995 20 500 20 C743.005 20 940 216.995 940 460 C940 703.005 743.005 900 500 900 C256.995 900 60 703.005 60 460 Z" fill="#8a6a4a" opacity="0.09"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#1a140e" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#c9ae84" stroke-width="3" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Ember_ambience" data-name="Ember ambience" d="M330 700 C330 644.772 406.112 600 500 600 C593.888 600 670 644.772 670 700 C670 755.228 593.888 800 500 800 C406.112 800 330 755.228 330 700 Z" fill="#d8702a" opacity="0.09"/>
+    <path id="Patina_1" data-name="Patina 1" d="M190 435 C190 393.579 241.487 360 305 360 C368.513 360 420 393.579 420 435 C420 476.421 368.513 510 305 510 C241.487 510 190 476.421 190 435 Z" fill="#54432f" opacity="0.22"/>
+    <path id="Patina_2" data-name="Patina 2" d="M620 630 C620 591.34 671.487 560 735 560 C798.513 560 850 591.34 850 630 C850 668.66 798.513 700 735 700 C671.487 700 620 668.66 620 630 Z" fill="#7a6248" opacity="0.15"/>
+    <path id="Fleck_1" data-name="Fleck 1" d="M215 342.5 C215 341.119 216.119 340 217.5 340 C218.881 340 220 341.119 220 342.5 C220 343.881 218.881 345 217.5 345 C216.119 345 215 343.881 215 342.5 Z" fill="#e0cfa8" opacity="0.32"/>
+    <path id="Fleck_2" data-name="Fleck 2" d="M795 338 C795 336.343 796.343 335 798 335 C799.657 335 801 336.343 801 338 C801 339.657 799.657 341 798 341 C796.343 341 795 339.657 795 338 Z" fill="#e0cfa8" opacity="0.32"/>
+    <path id="Fleck_3" data-name="Fleck 3" d="M180 547.5 C180 546.119 181.119 545 182.5 545 C183.881 545 185 546.119 185 547.5 C185 548.881 183.881 550 182.5 550 C181.119 550 180 548.881 180 547.5 Z" fill="#e0cfa8" opacity="0.32"/>
+    <path id="Fleck_4" data-name="Fleck 4" d="M848 562.5 C848 561.119 849.119 560 850.5 560 C851.881 560 853 561.119 853 562.5 C853 563.881 851.881 565 850.5 565 C849.119 565 848 563.881 848 562.5 Z" fill="#e0cfa8" opacity="0.32"/>
+    <path id="Fleck_5" data-name="Fleck 5" d="M260 767.5 C260 766.119 261.119 765 262.5 765 C263.881 765 265 766.119 265 767.5 C265 768.881 263.881 770 262.5 770 C261.119 770 260 768.881 260 767.5 Z" fill="#e0cfa8" opacity="0.32"/>
+    <path id="Fleck_6" data-name="Fleck 6" d="M730 773 C730 771.343 731.343 770 733 770 C734.657 770 736 771.343 736 773 C736 774.657 734.657 776 733 776 C731.343 776 730 774.657 730 773 Z" fill="#e0cfa8" opacity="0.32"/>
+    <path id="Fleck_7" data-name="Fleck 7" d="M155 457.5 C155 456.119 156.119 455 157.5 455 C158.881 455 160 456.119 160 457.5 C160 458.881 158.881 460 157.5 460 C156.119 460 155 458.881 155 457.5 Z" fill="#e0cfa8" opacity="0.32"/>
+    <path id="Fleck_8" data-name="Fleck 8" d="M860 627.5 C860 626.119 861.119 625 862.5 625 C863.881 625 865 626.119 865 627.5 C865 628.881 863.881 630 862.5 630 C861.119 630 860 628.881 860 627.5 Z" fill="#e0cfa8" opacity="0.32"/>
+    <path id="Fleck_9" data-name="Fleck 9" d="M430 127.5 C430 126.119 431.119 125 432.5 125 C433.881 125 435 126.119 435 127.5 C435 128.881 433.881 130 432.5 130 C431.119 130 430 128.881 430 127.5 Z" fill="#e0cfa8" opacity="0.32"/>
+    <path id="Fleck_10" data-name="Fleck 10" d="M600 141 C600 139.343 601.343 138 603 138 C604.657 138 606 139.343 606 141 C606 142.657 604.657 144 603 144 C601.343 144 600 142.657 600 141 Z" fill="#e0cfa8" opacity="0.32"/>
+    <path id="Fleck_11" data-name="Fleck 11" d="M335 162 C335 160.895 335.895 160 337 160 C338.105 160 339 160.895 339 162 C339 163.105 338.105 164 337 164 C335.895 164 335 163.105 335 162 Z" fill="#e0cfa8" opacity="0.32"/>
+    <path id="Fleck_12" data-name="Fleck 12" d="M705 202.5 C705 201.119 706.119 200 707.5 200 C708.881 200 710 201.119 710 202.5 C710 203.881 708.881 205 707.5 205 C706.119 205 705 203.881 705 202.5 Z" fill="#e0cfa8" opacity="0.32"/>
+    <path id="Fleck_13" data-name="Fleck 13" d="M245 652 C245 650.895 245.895 650 247 650 C248.105 650 249 650.895 249 652 C249 653.105 248.105 654 247 654 C245.895 654 245 653.105 245 652 Z" fill="#e0cfa8" opacity="0.32"/>
+    <path id="Fleck_14" data-name="Fleck 14" d="M665 722.5 C665 721.119 666.119 720 667.5 720 C668.881 720 670 721.119 670 722.5 C670 723.881 668.881 725 667.5 725 C666.119 725 665 723.881 665 722.5 Z" fill="#e0cfa8" opacity="0.32"/>
+    <path id="Ghost_arc_TR" data-name="Ghost arc TR" d="M935 150 C928.674 103.164 891.836 66.326 845 60" fill="none" stroke="#6a4a30" stroke-width="14" stroke-linecap="round" stroke-miterlimit="10" opacity="0.1"/>
+    <path id="Ghost_arc_BL" data-name="Ghost arc BL" d="M75 770 C81.98 826.731 128.006 870.665 185 875" fill="none" stroke="#6a4a30" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" opacity="0.08"/>
+    <path id="Console_shadow" data-name="Console shadow" d="M234 158 L770 158 C775.523 158 780 162.477 780 168 L780 326 C780 331.523 775.523 336 770 336 L234 336 C228.477 336 224 331.523 224 326 L224 168 C224 162.477 228.477 158 234 158 Z" fill="#000000" opacity="0.35"/>
+    <path id="Console" d="M226 150 L762 150 C767.523 150 772 154.477 772 160 L772 318 C772 323.523 767.523 328 762 328 L226 328 C220.477 328 216 323.523 216 318 L216 160 C216 154.477 220.477 150 226 150 Z" fill="url(#linear-gradient-2)" stroke="#3d332a" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Console_titlebar" data-name="Console titlebar" d="M226 150 L762 150 C767.523 150 772 154.477 772 160 L772 166 C772 171.523 767.523 176 762 176 L226 176 C220.477 176 216 171.523 216 166 L216 160 C216 154.477 220.477 150 226 150 Z" fill="#242c38"/>
+    <path id="Console_title" data-name="Console title" d="M236 163 L308 163" fill="none" stroke="#7a8694" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Console_close_dot" data-name="Console close dot" d="M744 163 C744 160.239 746.239 158 749 158 C751.761 158 754 160.239 754 163 C754 165.761 751.761 168 749 168 C746.239 168 744 165.761 744 163 Z" fill="#aa4444" opacity="0.85"/>
+    <path id="CGA_00" data-name="CGA 00" d="M248 196 L294 196 C296.209 196 298 197.791 298 200 L298 232 C298 234.209 296.209 236 294 236 L248 236 C245.791 236 244 234.209 244 232 L244 200 C244 197.791 245.791 196 248 196 Z" fill="#1a1a1a" stroke="#05070a" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="CGA_01" data-name="CGA 01" d="M312 196 L358 196 C360.209 196 362 197.791 362 200 L362 232 C362 234.209 360.209 236 358 236 L312 236 C309.791 236 308 234.209 308 232 L308 200 C308 197.791 309.791 196 312 196 Z" fill="#0000aa" stroke="#05070a" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="CGA_02" data-name="CGA 02" d="M376 196 L422 196 C424.209 196 426 197.791 426 200 L426 232 C426 234.209 424.209 236 422 236 L376 236 C373.791 236 372 234.209 372 232 L372 200 C372 197.791 373.791 196 376 196 Z" fill="#00aa00" stroke="#05070a" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="CGA_03" data-name="CGA 03" d="M440 196 L486 196 C488.209 196 490 197.791 490 200 L490 232 C490 234.209 488.209 236 486 236 L440 236 C437.791 236 436 234.209 436 232 L436 200 C436 197.791 437.791 196 440 196 Z" fill="#00aaaa" stroke="#05070a" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="CGA_04" data-name="CGA 04" d="M504 196 L550 196 C552.209 196 554 197.791 554 200 L554 232 C554 234.209 552.209 236 550 236 L504 236 C501.791 236 500 234.209 500 232 L500 200 C500 197.791 501.791 196 504 196 Z" fill="#aa0000" stroke="#05070a" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="CGA_05" data-name="CGA 05" d="M568 196 L614 196 C616.209 196 618 197.791 618 200 L618 232 C618 234.209 616.209 236 614 236 L568 236 C565.791 236 564 234.209 564 232 L564 200 C564 197.791 565.791 196 568 196 Z" fill="#aa00aa" stroke="#05070a" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="CGA_06" data-name="CGA 06" d="M632 196 L678 196 C680.209 196 682 197.791 682 200 L682 232 C682 234.209 680.209 236 678 236 L632 236 C629.791 236 628 234.209 628 232 L628 200 C628 197.791 629.791 196 632 196 Z" fill="#aa5500" stroke="#05070a" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="CGA_07" data-name="CGA 07" d="M696 196 L742 196 C744.209 196 746 197.791 746 200 L746 232 C746 234.209 744.209 236 742 236 L696 236 C693.791 236 692 234.209 692 232 L692 200 C692 197.791 693.791 196 696 196 Z" fill="#aaaaaa" stroke="#05070a" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="CGA_08" data-name="CGA 08" d="M248 248 L294 248 C296.209 248 298 249.791 298 252 L298 284 C298 286.209 296.209 288 294 288 L248 288 C245.791 288 244 286.209 244 284 L244 252 C244 249.791 245.791 248 248 248 Z" fill="#555555" stroke="#05070a" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="CGA_09" data-name="CGA 09" d="M312 248 L358 248 C360.209 248 362 249.791 362 252 L362 284 C362 286.209 360.209 288 358 288 L312 288 C309.791 288 308 286.209 308 284 L308 252 C308 249.791 309.791 248 312 248 Z" fill="#5555ff" stroke="#05070a" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="CGA_10" data-name="CGA 10" d="M376 248 L422 248 C424.209 248 426 249.791 426 252 L426 284 C426 286.209 424.209 288 422 288 L376 288 C373.791 288 372 286.209 372 284 L372 252 C372 249.791 373.791 248 376 248 Z" fill="#55ff55" stroke="#05070a" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="CGA_11" data-name="CGA 11" d="M440 248 L486 248 C488.209 248 490 249.791 490 252 L490 284 C490 286.209 488.209 288 486 288 L440 288 C437.791 288 436 286.209 436 284 L436 252 C436 249.791 437.791 248 440 248 Z" fill="#55ffff" stroke="#05070a" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="CGA_12" data-name="CGA 12" d="M504 248 L550 248 C552.209 248 554 249.791 554 252 L554 284 C554 286.209 552.209 288 550 288 L504 288 C501.791 288 500 286.209 500 284 L500 252 C500 249.791 501.791 248 504 248 Z" fill="#ff5555" stroke="#05070a" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="CGA_13" data-name="CGA 13" d="M568 248 L614 248 C616.209 248 618 249.791 618 252 L618 284 C618 286.209 616.209 288 614 288 L568 288 C565.791 288 564 286.209 564 284 L564 252 C564 249.791 565.791 248 568 248 Z" fill="#ff55ff" stroke="#05070a" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="CGA_14" data-name="CGA 14" d="M632 248 L678 248 C680.209 248 682 249.791 682 252 L682 284 C682 286.209 680.209 288 678 288 L632 288 C629.791 288 628 286.209 628 284 L628 252 C628 249.791 629.791 248 632 248 Z" fill="#ffff55" stroke="#05070a" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="CGA_15" data-name="CGA 15" d="M696 248 L742 248 C744.209 248 746 249.791 746 252 L746 284 C746 286.209 744.209 288 742 288 L696 288 C693.791 288 692 286.209 692 284 L692 252 C692 249.791 693.791 248 696 248 Z" fill="#ffffff" stroke="#05070a" stroke-width="2" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 250 318)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;, sans-serif" font-size="17" fill="#6fdc6f"><tspan x="0" y="0">C:\&gt;_</tspan></text>
+    <path id="Scanline_1" data-name="Scanline 1" d="M232 206 L760 206" fill="none" stroke="#ffffff" stroke-miterlimit="10" opacity="0.04"/>
+    <path id="Scanline_2" data-name="Scanline 2" d="M232 252 L760 252" fill="none" stroke="#ffffff" stroke-miterlimit="10" opacity="0.04"/>
+    <path id="Scanline_3" data-name="Scanline 3" d="M232 300 L760 300" fill="none" stroke="#ffffff" stroke-miterlimit="10" opacity="0.04"/>
+    <path id="SYS_card_640" data-name="SYS card 640" d="M603 181 L677 181 C680.314 181 683 183.686 683 187 L683 233 C683 236.314 680.314 239 677 239 L603 239 C599.686 239 597 236.314 597 233 L597 187 C597 183.686 599.686 181 603 181 Z" fill="url(#linear-gradient-3)" stroke="#6a5a40" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="SYS_card_header_640" data-name="SYS card header 640" d="M606 187 L674 187 C675.657 187 677 188.343 677 190 L677 196 C677 197.657 675.657 199 674 199 L606 199 C604.343 199 603 197.657 603 196 L603 190 C603 188.343 604.343 187 606 187 Z" fill="#8a7a56" opacity="0.7"/>
+    <text transform="matrix(1 0 0 1 640 228)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="15" fill="#5a4c34" text-anchor="middle"><tspan x="0" y="0">.SYS</tspan></text>
+    <path id="SYS_card_778" data-name="SYS card 778" d="M741 203 L815 203 C818.314 203 821 205.686 821 209 L821 255 C821 258.314 818.314 261 815 261 L741 261 C737.686 261 735 258.314 735 255 L735 209 C735 205.686 737.686 203 741 203 Z" fill="url(#linear-gradient-4)" stroke="#6a5a40" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="SYS_card_header_778" data-name="SYS card header 778" d="M744 209 L812 209 C813.657 209 815 210.343 815 212 L815 218 C815 219.657 813.657 221 812 221 L744 221 C742.343 221 741 219.657 741 218 L741 212 C741 210.343 742.343 209 744 209 Z" fill="#8a7a56" opacity="0.7"/>
+    <text transform="matrix(1 0 0 1 778 250)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="15" fill="#5a4c34" text-anchor="middle"><tspan x="0" y="0">.SYS</tspan></text>
+    <path id="SYS_card_726" data-name="SYS card 726" d="M689 239 L763 239 C766.314 239 769 241.686 769 245 L769 291 C769 294.314 766.314 297 763 297 L689 297 C685.686 297 683 294.314 683 291 L683 245 C683 241.686 685.686 239 689 239 Z" fill="url(#linear-gradient-5)" stroke="#6a5a40" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="SYS_card_header_726" data-name="SYS card header 726" d="M692 245 L760 245 C761.657 245 763 246.343 763 248 L763 254 C763 255.657 761.657 257 760 257 L692 257 C690.343 257 689 255.657 689 254 L689 248 C689 246.343 690.343 245 692 245 Z" fill="#8a7a56" opacity="0.7"/>
+    <text transform="matrix(1 0 0 1 726 286)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="15" fill="#5a4c34" text-anchor="middle"><tspan x="0" y="0">.SYS</tspan></text>
+    <path id="Brand_glow" data-name="Brand glow" d="M700 272 C700 260.954 711.641 252 726 252 C740.359 252 752 260.954 752 272 C752 283.046 740.359 292 726 292 C711.641 292 700 283.046 700 272 Z" fill="#f6b84e" opacity="0.3"/>
+    <path id="Brand_mark" data-name="Brand mark" d="M726 256.4 L741.6 272 L726 287.6 L710.4 272 Z" fill="url(#radial-gradient-2)" stroke="#8a4a10" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Sleeve_L" data-name="Sleeve L" d="M452 520 C420 560 402 620 404 668 C414 682 434 684 446 674 C446 628 458 580 474 548 Z" fill="url(#linear-gradient-6)" stroke="#241c16" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Hand_L" data-name="Hand L" d="M404 671 C404 663.82 410.716 658 419 658 C427.284 658 434 663.82 434 671 C434 678.18 427.284 684 419 684 C410.716 684 404 678.18 404 671 Z" fill="#c9a888" stroke="#241c16" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Robe" d="M500 430 C552 432 586 470 596 540 C604 600 612 680 606 742 C560 768 440 768 396 742 C390 680 398 600 406 540 C416 470 448 432 500 430 Z" fill="url(#linear-gradient-6)" stroke="#241c16" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Robe_shade" data-name="Robe shade" d="M560 460 C590 510 606 620 602 736 C580 750 552 758 528 760 C556 700 566 560 560 460 Z" fill="#101838" opacity="0.45"/>
+    <path id="Hem_shade" data-name="Hem shade" d="M398 712 C450 732 550 732 604 712 L606 742 C560 768 440 768 396 742 Z" fill="#0e1430" opacity="0.4"/>
+    <path id="Robe_trim" data-name="Robe trim" d="M500 468 C498 560 498 660 500 748" fill="none" stroke="#c89a3c" stroke-width="6" stroke-miterlimit="10" opacity="0.85"/>
+    <path id="Trim_bars" data-name="Trim bars" d="M470 520 L530 520 M462 600 L538 600 M456 684 L544 684" fill="none" stroke="#c89a3c" stroke-width="3" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Sleeve_R" data-name="Sleeve R" d="M548 470 C596 440 636 412 664 376 C678 376 690 390 690 404 C662 448 622 488 580 512 C564 500 552 486 548 470 Z" fill="url(#linear-gradient-6)" stroke="#241c16" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Hand_R" data-name="Hand R" d="M658 386 C658 378.268 665.163 372 674 372 C682.837 372 690 378.268 690 386 C690 393.732 682.837 400 674 400 C665.163 400 658 393.732 658 386 Z" fill="#c9a888" stroke="#241c16" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Hood" d="M500 368 C556 368 588 408 586 458 C584 496 548 520 500 520 C452 520 416 496 414 458 C412 408 444 368 500 368 Z" fill="url(#linear-gradient-6)" stroke="#241c16" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Hood_rim_light" data-name="Hood rim light" d="M500 368 C556 368 588 408 586 458 C570 444 540 436 500 436 C460 436 430 444 414 458 C412 408 444 368 500 368 Z" fill="#5468c0" opacity="0.55"/>
+    <path id="Face_shadow" data-name="Face shadow" d="M448 461 C448 439.461 471.281 422 500 422 C528.719 422 552 439.461 552 461 C552 482.539 528.719 500 500 500 C471.281 500 448 482.539 448 461 Z" fill="url(#radial-gradient-3)"/>
+    <path id="Eye_glow_L" data-name="Eye glow L" d="M466 459 C466 452.925 470.925 448 477 448 C483.075 448 488 452.925 488 459 C488 465.075 483.075 470 477 470 C470.925 470 466 465.075 466 459 Z" fill="#f6b84e" opacity="0.3"/>
+    <path id="Eye_glow_R" data-name="Eye glow R" d="M512 459 C512 452.925 516.925 448 523 448 C529.075 448 534 452.925 534 459 C534 465.075 529.075 470 523 470 C516.925 470 512 465.075 512 459 Z" fill="#f6b84e" opacity="0.3"/>
+    <path id="Eye_L" data-name="Eye L" d="M471 459 C471 455.686 473.686 453 477 453 C480.314 453 483 455.686 483 459 C483 462.314 480.314 465 477 465 C473.686 465 471 462.314 471 459 Z" fill="url(#radial-gradient-4)"/>
+    <path id="Eye_R" data-name="Eye R" d="M517 459 C517 455.686 519.686 453 523 453 C526.314 453 529 455.686 529 459 C529 462.314 526.314 465 523 465 C519.686 465 517 462.314 517 459 Z" fill="url(#radial-gradient-5)"/>
+    <path id="Iron_rod" data-name="Iron rod" d="M668 388 L730 296" fill="none" stroke="#3a3230" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Iron_rod_sheen" data-name="Iron rod sheen" d="M668 388 L696 348" fill="none" stroke="#6a5c50" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Iron_tip_glow" data-name="Iron tip glow" d="M712 294 C712 279.641 723.641 268 738 268 C752.359 268 764 279.641 764 294 C764 308.359 752.359 320 738 320 C723.641 320 712 308.359 712 294 Z" fill="#f6a83c" opacity="0.28"/>
+    <path id="Iron_tip" data-name="Iron tip" d="M738 271.6 L756.4 290 L738 308.4 L719.6 290 Z" fill="url(#radial-gradient-6)" stroke="#8a4a10" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Heat_wisp_1" data-name="Heat wisp 1" d="M728 252 C736 240 744 244 750 232" fill="none" stroke="#f6c35c" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Heat_wisp_2" data-name="Heat wisp 2" d="M748 258 C756 246 764 250 770 238" fill="none" stroke="#f6c35c" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Relic_aura" data-name="Relic aura" d="M290 738 C290 701.549 321.34 672 360 672 C398.66 672 430 701.549 430 738 C430 774.451 398.66 804 360 804 C321.34 804 290 774.451 290 738 Z" fill="#c89a3c" opacity="0.1"/>
+    <path id="Floppy_body" data-name="Floppy body" d="M303.8 697.1 L398.9 683.8 L412.2 778.9 L317.1 792.2 Z" fill="url(#linear-gradient-7)" stroke="#241c16" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Floppy_shutter" data-name="Floppy shutter" d="M331.9 699.1 L387.4 691.3 L392.1 724.9 L336.6 732.7 Z" fill="url(#linear-gradient-8)" stroke="#241c16" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Shutter_window" data-name="Shutter window" d="M367.3 702.1 L381.1 700.2 L384.7 725.9 L370.9 727.8 Z" fill="#14181e"/>
+    <path id="Floppy_label" data-name="Floppy label" d="M327.1 752.3 L372.7 745.9 L376.9 775.7 L331.3 782.1 Z" fill="#c9bc9c" stroke="#6a5a40" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Scorch" d="M344 748 C356 724 380 710 402 712 C400 738 384 760 358 766 C350 762 344 756 344 748 Z" fill="#100c08" opacity="0.85"/>
+    <path id="Scorch_ember_1" data-name="Scorch ember 1" d="M366 734 C366 731.791 367.791 730 370 730 C372.209 730 374 731.791 374 734 C374 736.209 372.209 738 370 738 C367.791 738 366 736.209 366 734 Z" fill="url(#radial-gradient-7)" opacity="0.8"/>
+    <path id="Scorch_ember_2" data-name="Scorch ember 2" d="M384 745 C384 743.343 385.343 742 387 742 C388.657 742 390 743.343 390 745 C390 746.657 388.657 748 387 748 C385.343 748 384 746.657 384 745 Z" fill="#f0913a" opacity="0.7"/>
+    <path id="Relic_smoke" data-name="Relic smoke" d="M352 700 C344 678 356 664 348 644" fill="none" stroke="#b8b0a0" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <text transform="matrix(1 0 0 1 500 930)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="56" fill="#e8d9b8" text-anchor="middle"><tspan x="0" y="0">HOLY DOSWELL</tspan></text>
+    <text transform="matrix(1 0 0 1 500 968)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="23" fill="#b89a6a" letter-spacing="3.91" text-anchor="middle"><tspan x="0" y="0">DIVINE SEGMENTATION PROPHET</tspan></text>
+  </g>
+</svg>
