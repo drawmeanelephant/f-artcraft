@@ -27,8 +27,12 @@ its own critique. House rules learned the hard way:
 - Never overwrite a piece: revisions are `<slug>-V<V>R<RR>` — see the
   revision rule in [AGENTS.md](AGENTS.md).
 
-`art/` holds native files and public exports; PDF proofs stay local in
-`work/out/`. Editable prompts live in `prompts/`; per-task findings go in
+Repo layout: `art/<series>/<slug>/` holds native files and public exports
+for every piece — named/one-off works under `art/pieces/`, Jolly under
+`art/muse/`, guest work under `art/guest/`. Driving scripts live in
+`work/<series>/`, shared scratch utilities in `work/tools/`, and the site
+generator in `docs/` (its output is never committed). PDF proofs stay local
+in `work/out/`. Editable prompts live in `prompts/`; per-task findings go in
 `prompts/inbox/` and consolidated findings in `prompts/analysis/`.
 `PROMPTS.md` is a periodically compiled reading copy, not an art-branch log.
 See the [workshop guide](prompts/README.md).
@@ -273,7 +277,7 @@ line says what the piece is for. Historical roster:
 
 <!-- Source: prompts/series/40-orient.md -->
 
-## The Orient series — zodiac, festivals, symbols
+## The Orient series — zodiac, holidays, symbols
 
 A second standing series, sharing the field-plate grammar (1000×1000, disc
 centre 500,460 r420, name baseline 934, second line 970) but with its own
@@ -281,7 +285,7 @@ dressings. Every plate carries a small vermilion seal chop at the top right,
 outside the disc; that chop is a deliberate exception to the rim rule, like
 the name block.
 
-Four sub-series live under `art/`. These are the original shipped rosters,
+Three sub-series live under `art/`. These are historical rosters,
 not a per-branch queue:
 
 - **`zodiac/` — Celestial Seals.** The twelve animals, one bust per seal,
@@ -291,22 +295,34 @@ not a per-branch queue:
   second line is the animal character and its current/next years.
   Shipped: rat · ox · tiger · rabbit · dragon · snake · horse · goat ·
   monkey · rooster · dog · pig.
-- **`chinese-festivals/` — Festival Seals.** One emblem per festival, warm
-  ink and a festival-specific palette, with the date line in the second
-  line. Shipped: spring-festival · lantern-festival · dragon-boat ·
-  qingming · qixi · mid-autumn. (Roster complete.)
-- **`indian-festivals/` — Festival Seals.** Diya, rangoli, torana and
-  marigold vocabulary; no deities in scene, no flags. Shipped: diwali ·
-  holi · navratri · ganesh-chaturthi · raksha-bandhan · onam. (Roster
-  complete.)
+- **`holidays/` — Festival Seals.** One emblem per holiday, warm ink and a
+  holiday-specific palette, with the date line in the second line. Chinese
+  and Indian festival rosters now live here alongside a wider calendar
+  of religious, government and food holidays. Shared rules: objects and
+  settings, not worshippers; no national flags, maps or political symbols.
+  - Chinese holidays: spring-festival · lantern-festival · dragon-boat ·
+    qingming · qixi · mid-autumn. (Original roster shipped.)
+  - Indian holidays: diwali · holi · navratri · ganesh-chaturthi ·
+    raksha-bandhan · onam. (Original roster shipped.) Diya, rangoli,
+    torana and marigold vocabulary; no deities in scene, no flags.
 - **`indian-symbols/` — Yantra plates.** One symbol per plate on a deep
   field, gold geometry: om · mandala · lotus · peacock · kalash · rangoli.
 
+The wider holiday calendar joins the same folder, one emblem per holiday,
+same plate grammar. Planned roster retained from the holiday migration;
+the issue tracker, not this snapshot, holds the live claimable list:
+
+- Religious: christmas · easter · eid-al-fitr · eid-al-adha · hanukkah ·
+  purim · passover · vesak · nowruz · obon · songkran · dia-de-los-muertos
+- Government: bastille-day · guy-fawkes-night · juneteenth · canada-day ·
+  golden-week · remembrance-day
+- Food: pancake-day · oktoberfest · la-tomatina · thanksgiving
+
 Shared code: `work/orient/plate.py` (canvas grammar, motifs, caption/chop),
 `work/orient/zodiac.py` (element palettes, branch ring, beast parts),
-`work/festivals-cn/cn_kit.py`, `work/festivals-in/festival_kit.py`.
-Drivers live in `work/zodiac/`, `work/festivals-cn/`, `work/festivals-in/`,
-`work/symbols/` and follow the same revision rule as every other piece.
+`work/holidays/cn_kit.py`, `work/holidays/festival_kit.py`.
+Drivers live in `work/zodiac/`, `work/holidays/`, `work/indian-symbols/`
+and follow the same revision rule as every other piece.
 
 Cultural guardrails: traditional characters for the zodiac seals; festival
 plates show objects and settings, not worshippers; Ganesh Chaturthi, when it
@@ -363,6 +379,90 @@ guidance. Fine gills and teeth must remain legible in the @2x proof.
 
 Starter draft: [Field plate: Earthstar](prompts/issues/earthstar.md).
 All candidates are proposals; recheck the tree and issues before claiming.
+
+---
+
+<!-- Source: prompts/themes/americas-and-islands.md -->
+
+## Regional gap batch — Americas and non-Asian islands
+
+Requested focus: Central America, South America and islands outside Asia,
+complementing the separate Asian-culture work. This is a first batch,
+not a claim to represent every country or island tradition.
+
+The existing collection already includes capybara, tapir, quetzal, harpy
+eagle, maned wolf, aye-aye, fossa, kiwi and other regional wildlife. Do not
+reissue those under regional labels. Furniture needs a broader vocabulary
+than the original sixteen mostly European-derived types; regional
+construction, not decorative stereotypes, is the point.
+
+### Wildlife — twelve independent plates
+
+| Focus | Subject / brief | GitHub issue |
+| --- | --- | --- |
+| Central America | [Jaguar](prompts/issues/jaguar.md) | [#1030](https://github.com/drawmeanelephant/f-artcraft/issues/1030), existing |
+| Central America | [Keel-billed toucan](prompts/issues/keel-billed-toucan.md) | [#1126](https://github.com/drawmeanelephant/f-artcraft/issues/1126) |
+| Central America | [White-nosed coati](prompts/issues/white-nosed-coati.md) | [#1125](https://github.com/drawmeanelephant/f-artcraft/issues/1125) |
+| Central America | [Red-eyed tree frog](prompts/issues/red-eyed-tree-frog.md) | [#1044](https://github.com/drawmeanelephant/f-artcraft/issues/1044), existing |
+| South America | [Giant anteater](prompts/issues/giant-anteater.md) | [#1129](https://github.com/drawmeanelephant/f-artcraft/issues/1129) |
+| Andes | [Andean condor](prompts/issues/andean-condor.md) | [#1079](https://github.com/drawmeanelephant/f-artcraft/issues/1079), existing |
+| Andean cloud forest | [Spectacled bear](prompts/issues/spectacled-bear.md) | [#1130](https://github.com/drawmeanelephant/f-artcraft/issues/1130) |
+| Andean puna | [Vicuña](prompts/issues/vicuna.md) | [#1131](https://github.com/drawmeanelephant/f-artcraft/issues/1131) |
+| Galápagos | [Marine iguana](prompts/issues/marine-iguana.md) | [#1136](https://github.com/drawmeanelephant/f-artcraft/issues/1136) |
+| Cuba / Caribbean | [Cuban trogon](prompts/issues/cuban-trogon.md) | [#1135](https://github.com/drawmeanelephant/f-artcraft/issues/1135) |
+| Madagascar | [Ring-tailed lemur](prompts/issues/ring-tailed-lemur.md) | [#1134](https://github.com/drawmeanelephant/f-artcraft/issues/1134) |
+| New Caledonia | [Kagu](prompts/issues/kagu.md) | [#1133](https://github.com/drawmeanelephant/f-artcraft/issues/1133) |
+
+### Furniture — six independent plates
+
+| Place | Subject / brief | GitHub issue |
+| --- | --- | --- |
+| Sarchí, Costa Rica | [Folding wood/leather rocker](prompts/issues/sarchi-folding-rocker.md) | [#1109](https://github.com/drawmeanelephant/f-artcraft/issues/1109) |
+| Masaya, Nicaragua | [Cotton hammock](prompts/issues/masaya-hammock.md) | [#1110](https://github.com/drawmeanelephant/f-artcraft/issues/1110) |
+| Jardín, Colombia | [Wood/hide taburete chair](prompts/issues/jardin-taburete.md) | [#1111](https://github.com/drawmeanelephant/f-artcraft/issues/1111) |
+| Argentina | [Low silla matera](prompts/issues/silla-matera.md) | [#1108](https://github.com/drawmeanelephant/f-artcraft/issues/1108) |
+| Orkney, Scotland | [Straw-backed Orkney chair](prompts/issues/orkney-chair.md) | [#1116](https://github.com/drawmeanelephant/f-artcraft/issues/1116) |
+| Fiji | [Wooden kali headrest](prompts/issues/fijian-kali-headrest.md) | [#1117](https://github.com/drawmeanelephant/f-artcraft/issues/1117) |
+
+### Insects and watercraft — six independent plates
+
+| Focus | Subject / brief | GitHub issue |
+| --- | --- | --- |
+| Central America | [Glasswing butterfly](prompts/issues/glasswing-butterfly.md) | [#1123](https://github.com/drawmeanelephant/f-artcraft/issues/1123) |
+| Central / South America | [Blue morpho](prompts/issues/blue-morpho.md) | [#1121](https://github.com/drawmeanelephant/f-artcraft/issues/1121) |
+| Madagascar | [Sunset moth](prompts/issues/madagascan-sunset-moth.md) | [#1120](https://github.com/drawmeanelephant/f-artcraft/issues/1120) |
+| Chono / southern Chilean archipelagos | [Dalca plank canoe](prompts/issues/chono-dalca.md) | [#1114](https://github.com/drawmeanelephant/f-artcraft/issues/1114) |
+| Huanchaco, northern Peru | [Caballito de totora](prompts/issues/caballito-de-totora.md) | [#1115](https://github.com/drawmeanelephant/f-artcraft/issues/1115) |
+| Samoa | [Paopao outrigger canoe](prompts/issues/samoan-paopao.md) | [#1122](https://github.com/drawmeanelephant/f-artcraft/issues/1122) |
+
+### Shared guardrails
+
+- Each brief includes references, a visual problem, captions, versioned
+  output paths and proof checks. These are queued tasks, not finished art.
+- Use references to understand structure, not trace images or copy a
+  living artisan's individual design. Commercial construction examples
+  are identified as such, not used to invent origin dates.
+- Keep place and community names specific. Do not combine Fijian, Samoan
+  and Tongan objects, or coastal Peruvian and Lake Titicaca reed craft.
+- A wildlife subject is not automatically a cultural emblem. No invented
+  ceremonial context, archive IDs, national flags or generic Indigenous motifs.
+- Recheck open/closed issues and artwork before claiming. Art tasks add
+  their own inbox notes; they do not rebuild `PROMPTS.md` or update this
+  batch's roster. Consolidation remains separate.
+
+### Publication record
+
+Published on 2026-10-24: **21 new issues** (nine animals, six furniture,
+three insects, three watercraft). Three animal subjects were added by
+another concurrent batch before publication, so this list reuses their
+existing issues rather than duplicating them: jaguar #1030, red-eyed
+tree frog #1044 and Andean condor #1079.
+
+Those three existing issue bodies were left unchanged; their local
+briefs preserve the additional regional planning and references.
+The keel-billed toucan is deliberately separate from the queued toco
+toucan, a different species. No shared master-bank rebuild accompanies
+this contribution.
 
 ---
 

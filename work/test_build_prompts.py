@@ -80,6 +80,14 @@ class PromptBuilderTests(unittest.TestCase):
         self.assertIn("no deities in scene", result)
         self.assertIn("not critique", result)
         self.assertIn("[AGENTS.md](AGENTS.md)", result)
+        self.assertIn("art/pieces/", result)
+        self.assertIn("art/muse/", result)
+        self.assertIn("art/guest/", result)
+        self.assertIn("work/holidays/cn_kit.py", result)
+        self.assertIn("work/indian-symbols/", result)
+        self.assertIn("remembrance-day", result)
+        self.assertNotIn("work/festivals-cn/", result)
+        self.assertNotIn("work/festivals-in/", result)
 
     def test_workshop_and_compiled_local_links_exist(self):
         documents = [

@@ -13,8 +13,12 @@ its own critique. House rules learned the hard way:
 - Never overwrite a piece: revisions are `<slug>-V<V>R<RR>` — see the
   revision rule in [AGENTS.md](../../AGENTS.md).
 
-`art/` holds native files and public exports; PDF proofs stay local in
-`work/out/`. Editable prompts live in `prompts/`; per-task findings go in
+Repo layout: `art/<series>/<slug>/` holds native files and public exports
+for every piece — named/one-off works under `art/pieces/`, Jolly under
+`art/muse/`, guest work under `art/guest/`. Driving scripts live in
+`work/<series>/`, shared scratch utilities in `work/tools/`, and the site
+generator in `docs/` (its output is never committed). PDF proofs stay local
+in `work/out/`. Editable prompts live in `prompts/`; per-task findings go in
 `prompts/inbox/` and consolidated findings in `prompts/analysis/`.
 `PROMPTS.md` is a periodically compiled reading copy, not an art-branch log.
 See the [workshop guide](../README.md).
