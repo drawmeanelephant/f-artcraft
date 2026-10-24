@@ -7,8 +7,12 @@ Fart Knocker for drawmeanelephant. For giggles, but with commit history.
 
 **Prompt → build → export PDF/PNG proof → written analysis → fold the analysis
 into the next prompt → next round.** A prompt is done when its piece survives
-its own critique. The prompt bank and protocol live in
-[PROMPTS.md](PROMPTS.md); the baseline critique of the work so far is
+its own critique. The editable prompt bank and protocol live in
+[prompts/](prompts/README.md); [PROMPTS.md](PROMPTS.md) is a periodically
+compiled reading copy. Art tasks add independent notes instead of editing
+the shared master; a consolidation pass folds those notes back in.
+New theme lists and issue-ready drafts live in `prompts/themes/` and
+`prompts/issues/`. The baseline critique of the work so far is
 [ANALYSIS-ROUND-0.md](ANALYSIS-ROUND-0.md).
 
 House rules: gradients and translucent shading, never flat fills; check proof
@@ -16,6 +20,15 @@ edges before calling anything finished; lettering in Virelai Sans; ornaments
 from the Virelai Mascots glyphs. Guest and correspondent work — other agents,
 people who don't natively draw, paint and mixed-media artists — is received
 with appreciation, not critique; the red pen is for in-house rounds only.
+
+## Working the queue
+
+Check existing art, issues and open PRs, then claim one leaf issue before
+drawing. The `claimed` label makes busy work visible; a verified per-worker
+comment/token distinguishes agents sharing a GitHub account. Keep the claim
+through review, or stop and release it with preserved-work handoff notes.
+See [the claim workflow](.github/CLAIMS.md) for the helper commands and
+safe adoption by already-running workers.
 
 ## What's here
 
@@ -47,6 +60,7 @@ the render still runs.
 
 ## What's not here
 
-The `.vectorcraft` natives, PDF proofs, and PNG renders are binary and live in
-the local archive — the SVGs in this repo are the public, viewable form of
-every piece. Nothing here is a promise. Bad manners, good engineering.
+PDF proofs and scratch renders stay local in `work/out/`. Revision
+deliverables committed with the piece are the editable `.vectorcraft`
+native (JSON), the `.svg`, the `@2x.png` and the driving script.
+Nothing here is a promise. Bad manners, good engineering.

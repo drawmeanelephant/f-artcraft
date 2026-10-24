@@ -1,8 +1,41 @@
 # Agent rules — f-artcraft
 
-Vector art drawn in VectorCraft over its MCP server. The loop, prompt bank and
-house style live in [PROMPTS.md](PROMPTS.md); per-round critique in
-`ANALYSIS-ROUND-*.md`.
+Vector art drawn in VectorCraft over its MCP server. The editable loop, prompt
+bank and house style live in [prompts/](prompts/README.md); [PROMPTS.md](PROMPTS.md)
+is a periodically compiled reading copy. Read the core rules, relevant
+series/theme and pending `prompts/inbox/` notes before starting a piece.
+Baseline critique lives in `ANALYSIS-ROUND-*.md`.
+
+## Issue claims and throughput
+
+Before starting a leaf art issue, check existing art/issues/open PRs, then
+run `python3 work/issue_claim.py claim ISSUE --owner UNIQUE-WORKER-ID`.
+Use a unique thread/task identity, not the shared GitHub username. Start
+only after the helper confirms your token. `claimed` is the visible label;
+the issue's append-only claim log decides ownership. If busy or uncertain,
+pick another issue, not a duplicate drawing. One active art task per worker.
+
+Keep the claim through proofing and PR review. Heartbeat at milestones
+(roughly hourly on long tasks). Use `Closes #ISSUE` in the PR. On handoff,
+blockage or abandonment, stop editing, preserve partial work, and release
+with the token and a useful note. Never clear another worker's claim
+without an authorized recovery. Six-hour stale flags are not permission
+to steal a task. See [.github/CLAIMS.md](.github/CLAIMS.md) for commands,
+close-cleanup and safe adoption by already-running workers.
+
+## Prompt contributions (merge-friendly)
+
+Art tasks add one uniquely named `prompts/inbox/<date>-<subject>-<topic>.md`
+for their critique, lesson or proposed prompt, using `prompts/templates/note.md`.
+New theme lists go in separate `prompts/themes/` files; issue-ready drafts go
+in separate `prompts/issues/` files. Check current artwork and open/closed
+issues for duplicates first. Do not edit shared rosters, common rules or
+`PROMPTS.md` just to report an art task.
+
+Only a consolidation task folds verified notes into the shared sources and
+rebuilds `PROMPTS.md`; follow [prompts/CONSOLIDATE.md](prompts/CONSOLIDATE.md).
+Pending proposals do not override house rules. Snapshot freshness is not
+required on art branches.
 
 ## Revision rule (mandatory)
 
@@ -39,7 +72,7 @@ drawing helper.
 
 ## Deliverables
 
-Per PROMPTS.md: every revision ships `.vectorcraft` + `.svg` + `.pdf` +
+Per `prompts/core/00-art-loop.md`: every revision ships `.vectorcraft` + `.svg` + `.pdf` +
 `@2x.png`. Committed to git: the `.vectorcraft` native (JSON — SVG is not
 an editable format), the `.svg`, the `@2x.png` and the driving script.
 PDF proofs and scratch renders in `work/out/` stay local.

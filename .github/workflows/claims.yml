@@ -1,0 +1,36 @@
+name: Issue claims
+
+on:
+  issues:
+    types: [closed]
+  pull_request:
+    paths: ['work/issue_claim.py', 'work/test_issue_claim.py', '.github/CLAIMS.md', '.github/ISSUE_TEMPLATE/art-plate.yml', '.github/workflows/claims.yml']
+  push:
+    branches: [main]
+    paths: ['work/issue_claim.py', 'work/test_issue_claim.py', '.github/CLAIMS.md', '.github/ISSUE_TEMPLATE/art-plate.yml', '.github/workflows/claims.yml']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    if: github.event_name != 'issues'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test claim ownership without network writes
+        run: python3 -m unittest discover -s work -p 'test_issue_claim.py'
+
+  release-closed:
+    if: github.event_name == 'issues' && contains(github.event.issue.labels.*.name, 'claimed')
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Remove only the closed issue's claim label
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: gh issue edit "$ISSUE_NUMBER" --repo "$GH_REPO" --remove-label claimed
