@@ -140,6 +140,21 @@ fin mass and a point) · aye-aye V2 (moonlit branch, mid-tap) · binturong V2
 windsor chair V2 (walnut, low sun, cast shadow; R01 rebuilds the seat as a
 dished plank) · city taxi V2 (dawn, mist).
 
+### Spot-flat renditions (the GLM-Flash idiom)
+
+A second idiom for plate subjects: same slug, `V2R00` (or the next free R),
+same caption stack (name line, Virelai Sans, mirrored position) — but the
+drawing is flat shape abstraction, not the plate grammar: spot-circle hub,
+flat silhouettes, minimal face (paper ring + ink dot), thin-line dressing,
+one subject-keyed palette family, **no gradients** (a deliberate break of
+house rule #1 — it is the idiom, not a violation of it). The grammar is
+fixed; the palette keys to the subject's world; consistency within the
+series is the benchmark. Lesson from the pilot so far, twice over: in flat
+style the silhouette code carries the species — decoration is cheap, the
+outline is the work. Pilot: fennec-fox V2R00–R05 (V2R04–R05 broke the rat
+read: tapered muzzle with the nose at the tip, eyes set higher and wider;
+a profile pose is the next step if the face still drifts cute).
+
 ### Animals (`art/animals/`)
 
 Historical roster:
