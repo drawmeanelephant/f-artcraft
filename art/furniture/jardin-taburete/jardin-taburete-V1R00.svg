@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0c1226"/>
+      <stop offset="1" stop-color="#04060f"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4e639e"/>
+      <stop offset="0.6" stop-color="#31427a"/>
+      <stop offset="1" stop-color="#151e42"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="770" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2e3d72"/>
+      <stop offset="0.6" stop-color="#1b2750"/>
+      <stop offset="1" stop-color="#0d1430"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="500" y1="280" x2="500" y2="750" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5c3e24"/>
+      <stop offset="1" stop-color="#2a180b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="500" y1="280" x2="500" y2="750" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7a5230"/>
+      <stop offset="0.6" stop-color="#5a3820"/>
+      <stop offset="1" stop-color="#38200f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="450" y1="280" x2="670" y2="380" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#be8c52"/>
+      <stop offset="0.6" stop-color="#96622f"/>
+      <stop offset="1" stop-color="#6e4120"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="430" y1="510" x2="640" y2="620" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d9a868"/>
+      <stop offset="0.55" stop-color="#a8743c"/>
+      <stop offset="1" stop-color="#7a4a22"/>
+    </linearGradient>
+  </defs>
+  <title>Jardín Taburete — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo" data-name="Plate halo" d="M58 460 C58 215.89 255.89 18 500 18 C744.11 18 942 215.89 942 460 C942 704.11 744.11 902 500 902 C255.89 902 58 704.11 58 460 Z" fill="#8fa4e0" opacity="0.08"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#0e1530" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#a8b6e0" stroke-width="3" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Light_pool" data-name="Light pool" d="M270 260 C270 204.772 346.112 160 440 160 C533.888 160 610 204.772 610 260 C610 315.228 533.888 360 440 360 C346.112 360 270 315.228 270 260 Z" fill="#b8c6f0" opacity="0.14"/>
+    <path id="Mote_1" data-name="Mote 1" d="M301 269.94 C301 266.659 305.029 264 310 264 C314.971 264 319 266.659 319 269.94 C319 273.221 314.971 275.88 310 275.88 C305.029 275.88 301 273.221 301 269.94 Z" fill="#c4d0f4" opacity="0.13"/>
+    <path id="Mote_2" data-name="Mote 2" d="M433 209.953 C433 207.402 436.134 205.333 440 205.333 C443.866 205.333 447 207.402 447 209.953 C447 212.505 443.866 214.573 440 214.573 C436.134 214.573 433 212.505 433 209.953 Z" fill="#c4d0f4" opacity="0.13"/>
+    <path id="Mote_3" data-name="Mote 3" d="M591 219.94 C591 216.659 595.029 214 600 214 C604.971 214 609 216.659 609 219.94 C609 223.221 604.971 225.88 600 225.88 C595.029 225.88 591 223.221 591 219.94 Z" fill="#c4d0f4" opacity="0.13"/>
+    <path id="Mote_4" data-name="Mote 4" d="M713 319.953 C713 317.402 716.134 315.333 720 315.333 C723.866 315.333 727 317.402 727 319.953 C727 322.505 723.866 324.573 720 324.573 C716.134 324.573 713 322.505 713 319.953 Z" fill="#c4d0f4" opacity="0.13"/>
+    <path id="Mote_5" data-name="Mote 5" d="M242 429.947 C242 427.031 245.582 424.667 250 424.667 C254.418 424.667 258 427.031 258 429.947 C258 432.863 254.418 435.227 250 435.227 C245.582 435.227 242 432.863 242 429.947 Z" fill="#c4d0f4" opacity="0.13"/>
+    <path id="Mote_6" data-name="Mote 6" d="M534 299.96 C534 297.773 536.686 296 540 296 C543.314 296 546 297.773 546 299.96 C546 302.147 543.314 303.92 540 303.92 C536.686 303.92 534 302.147 534 299.96 Z" fill="#c4d0f4" opacity="0.13"/>
+    <path id="Floor" d="M218.8 772 C340 758 420 782 500 774 C580 766 670 770 781.2 772 C621.401 916.037 378.599 916.037 218.8 772 Z" fill="url(#linear-gradient-2)"/>
+    <path id="Floor_crest" data-name="Floor crest" d="M227 772 C340 758 420 782 500 774 C580 766 670 770 773 772" fill="none" stroke="#8fa0dc" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.38"/>
+    <path id="Chair_shadow" data-name="Chair shadow" d="M360 769 C360 761.82 433.873 756 525 756 C616.127 756 690 761.82 690 769 C690 776.18 616.127 782 525 782 C433.873 782 360 776.18 360 769 Z" fill="#05070f" opacity="0.38"/>
+    <path id="Post_BL" data-name="Post BL" d="M441 295.9 L463 296.1 L457 706.1 L439 705.9 Z" fill="url(#linear-gradient-3)" stroke="#241610" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Post_BR" data-name="Post BR" d="M638 278.4 L662 277.6 L674 711.7 L654 712.3 Z" fill="url(#linear-gradient-4)" stroke="#241610" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Stretcher_back" data-name="Stretcher back" d="M450.5 668 L449.5 652 L661.5 638 L662.5 654 Z" fill="url(#linear-gradient-3)" stroke="#241610" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Back_band" data-name="Back band" d="M452 306 C521.333 294 590.667 288.667 660 290 L658 366 C590 374 522 376.667 454 374 Z" fill="url(#linear-gradient-5)" stroke="#241610" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Band_shade" data-name="Band shade" d="M462 330 C524.667 322 587.333 318 650 318 L650 344 C587.333 337.333 524.667 338.667 462 348 Z" fill="#5e3a1c" opacity="0.35"/>
+    <path id="Back_lace_L1" data-name="Back lace L1" d="M449 314 L457 320 M449 320 L457 314" fill="none" stroke="#efddb8" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Back_lace_R1" data-name="Back lace R1" d="M663 314 L655 320 M663 320 L655 314" fill="none" stroke="#efddb8" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Back_lace_L2" data-name="Back lace L2" d="M449 328 L457 334 M449 334 L457 328" fill="none" stroke="#efddb8" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Back_lace_R2" data-name="Back lace R2" d="M663 328 L655 334 M663 334 L655 328" fill="none" stroke="#efddb8" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Back_lace_L3" data-name="Back lace L3" d="M449 342 L457 348 M449 348 L457 342" fill="none" stroke="#efddb8" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Back_lace_R3" data-name="Back lace R3" d="M663 342 L655 348 M663 348 L655 342" fill="none" stroke="#efddb8" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Back_lace_L4" data-name="Back lace L4" d="M449 356 L457 362 M449 362 L457 356" fill="none" stroke="#efddb8" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Back_lace_R4" data-name="Back lace R4" d="M663 356 L655 362 M663 362 L655 356" fill="none" stroke="#efddb8" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Cap_L" data-name="Cap L" d="M446 298 C450 291.333 454 291.333 458 298" fill="none" stroke="#8a6238" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Cap_R" data-name="Cap R" d="M644 280 C648 273.333 652 273.333 656 280" fill="none" stroke="#8a6238" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Rail_front" data-name="Rail front" d="M368 592 L580 572 L580 596 L368 616 Z" fill="url(#linear-gradient-4)" stroke="#241610" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Rail_right" data-name="Rail right" d="M580 572 L654 518 L654 542 L580 596 Z" fill="url(#linear-gradient-4)" stroke="#241610" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Under-seat_shade" data-name="Under-seat shade" d="M382 586 L576 566 L648 516 L454 536 Z" fill="#140c06" opacity="0.55"/>
+    <path id="Seat_hide" data-name="Seat hide" d="M372 582 C440 595.333 508.667 588.667 578 562 L652 508 L448 530 C422.667 547.333 397.333 564.667 372 582 Z" fill="url(#linear-gradient-6)" stroke="#241610" stroke-width="4.5" stroke-miterlimit="10"/>
+    <path id="Seat_sag" data-name="Seat sag" d="M440 569 C440 561.82 473.579 556 515 556 C556.421 556 590 561.82 590 569 C590 576.18 556.421 582 515 582 C473.579 582 440 576.18 440 569 Z" fill="#5e3a1c" opacity="0.3"/>
+    <path id="Seat_drop_edge" data-name="Seat drop edge" d="M372 582 C440 595.333 508.667 588.667 578 562 L578 574 C508.667 599.333 440 606 372 594 Z" fill="#8a5a2c" stroke="#241610" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Lace_F1" data-name="Lace F1" d="M380 584 C381.333 590.667 384 594.667 388 596" fill="none" stroke="#efddb8" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Lace_F2" data-name="Lace F2" d="M401 584 C402.333 590.667 405 594.667 409 596" fill="none" stroke="#efddb8" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Lace_F3" data-name="Lace F3" d="M423 584 C424.333 590.667 427 594.667 431 596" fill="none" stroke="#efddb8" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Lace_F4" data-name="Lace F4" d="M444 583 C445.333 589.667 448 593.667 452 595" fill="none" stroke="#efddb8" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Lace_F5" data-name="Lace F5" d="M465 582 C466.333 588.667 469 592.667 473 594" fill="none" stroke="#efddb8" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Lace_F6" data-name="Lace F6" d="M487 580 C488.333 586.667 491 590.667 495 592" fill="none" stroke="#efddb8" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Lace_F7" data-name="Lace F7" d="M508 577 C509.333 583.667 512 587.667 516 589" fill="none" stroke="#efddb8" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Lace_F8" data-name="Lace F8" d="M529 574 C530.333 580.667 533 584.667 537 586" fill="none" stroke="#efddb8" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Lace_F9" data-name="Lace F9" d="M551 570 C552.333 576.667 555 580.667 559 582" fill="none" stroke="#efddb8" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Lace_F10" data-name="Lace F10" d="M572 566 C573.333 572.667 576 576.667 580 578" fill="none" stroke="#efddb8" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Lace_R1" data-name="Lace R1" d="M582 566 C587.333 570 590.667 574 592 578" fill="none" stroke="#efddb8" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Lace_R2" data-name="Lace R2" d="M598 552 C603.333 556 606.667 560 608 564" fill="none" stroke="#efddb8" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Lace_R3" data-name="Lace R3" d="M615 539 C620.333 543 623.667 547 625 551" fill="none" stroke="#efddb8" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Lace_R4" data-name="Lace R4" d="M632 526 C637.333 530 640.667 534 642 538" fill="none" stroke="#efddb8" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Lace_R5" data-name="Lace R5" d="M648 512 C653.333 516 656.667 520 658 524" fill="none" stroke="#efddb8" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Leg_FL" data-name="Leg FL" d="M371.2 601.5 L396.8 606.5 L365.8 747.9 L346.2 744.1 Z" fill="url(#linear-gradient-4)" stroke="#241610" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Leg_FR" data-name="Leg FR" d="M559.1 589.3 L584.9 586.7 L597.9 741 L578.1 743 Z" fill="url(#linear-gradient-4)" stroke="#241610" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Stretcher_front" data-name="Stretcher front" d="M366.3 676 L365.7 660 L583.7 652 L584.3 668 Z" fill="url(#linear-gradient-4)" stroke="#241610" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Stretcher_right" data-name="Stretcher right" d="M588 662.7 L584 649.3 L658 627.3 L662 640.7 Z" fill="url(#linear-gradient-4)" stroke="#241610" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Stretcher_left" data-name="Stretcher left" d="M363.8 678.8 L360.2 665.2 L444.2 643.2 L447.8 656.8 Z" fill="url(#linear-gradient-3)" stroke="#241610" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Peg_1" data-name="Peg 1" d="M364 668.5 C364 666.015 366.015 664 368.5 664 C370.985 664 373 666.015 373 668.5 C373 670.985 370.985 673 368.5 673 C366.015 673 364 670.985 364 668.5 Z" fill="#2a180b"/>
+    <path id="Peg_dot_1" data-name="Peg dot 1" d="M367 667.5 C367 666.672 367.672 666 368.5 666 C369.328 666 370 666.672 370 667.5 C370 668.328 369.328 669 368.5 669 C367.672 669 367 668.328 367 667.5 Z" fill="#9a7448"/>
+    <path id="Peg_2" data-name="Peg 2" d="M578 660.5 C578 658.015 580.015 656 582.5 656 C584.985 656 587 658.015 587 660.5 C587 662.985 584.985 665 582.5 665 C580.015 665 578 662.985 578 660.5 Z" fill="#2a180b"/>
+    <path id="Peg_dot_2" data-name="Peg dot 2" d="M581 659.5 C581 658.672 581.672 658 582.5 658 C583.328 658 584 658.672 584 659.5 C584 660.328 583.328 661 582.5 661 C581.672 661 581 660.328 581 659.5 Z" fill="#9a7448"/>
+    <path id="Peg_3" data-name="Peg 3" d="M584 654.5 C584 652.015 586.015 650 588.5 650 C590.985 650 593 652.015 593 654.5 C593 656.985 590.985 659 588.5 659 C586.015 659 584 656.985 584 654.5 Z" fill="#2a180b"/>
+    <path id="Peg_dot_3" data-name="Peg dot 3" d="M587 653.5 C587 652.672 587.672 652 588.5 652 C589.328 652 590 652.672 590 653.5 C590 654.328 589.328 655 588.5 655 C587.672 655 587 654.328 587 653.5 Z" fill="#9a7448"/>
+    <path id="Peg_4" data-name="Peg 4" d="M362 670.5 C362 668.015 364.015 666 366.5 666 C368.985 666 371 668.015 371 670.5 C371 672.985 368.985 675 366.5 675 C364.015 675 362 672.985 362 670.5 Z" fill="#2a180b"/>
+    <path id="Peg_dot_4" data-name="Peg dot 4" d="M365 669.5 C365 668.672 365.672 668 366.5 668 C367.328 668 368 668.672 368 669.5 C368 670.328 367.328 671 366.5 671 C365.672 671 365 670.328 365 669.5 Z" fill="#9a7448"/>
+    <path id="Foot_1" data-name="Foot 1" d="M344 746.5 C344 744.015 349.373 742 356 742 C362.627 742 368 744.015 368 746.5 C368 748.985 362.627 751 356 751 C349.373 751 344 748.985 344 746.5 Z" fill="#2a180b"/>
+    <path id="Foot_2" data-name="Foot 2" d="M576 742.5 C576 740.015 581.373 738 588 738 C594.627 738 600 740.015 600 742.5 C600 744.985 594.627 747 588 747 C581.373 747 576 744.985 576 742.5 Z" fill="#2a180b"/>
+    <path id="Foot_3" data-name="Foot 3" d="M436 706.5 C436 704.015 441.373 702 448 702 C454.627 702 460 704.015 460 706.5 C460 708.985 454.627 711 448 711 C441.373 711 436 708.985 436 706.5 Z" fill="#2a180b"/>
+    <path id="Foot_4" data-name="Foot 4" d="M652 712.5 C652 710.015 657.373 708 664 708 C670.627 708 676 710.015 676 712.5 C676 714.985 670.627 717 664 717 C657.373 717 652 714.985 652 712.5 Z" fill="#2a180b"/>
+    <path id="Foot_shade_BL" data-name="Foot shade BL" d="M426 710 C426 706.686 436.745 704 450 704 C463.255 704 474 706.686 474 710 C474 713.314 463.255 716 450 716 C436.745 716 426 713.314 426 710 Z" fill="#05070f" opacity="0.3"/>
+    <path id="Foot_shade_BR" data-name="Foot shade BR" d="M640 716 C640 712.686 651.641 710 666 710 C680.359 710 692 712.686 692 716 C692 719.314 680.359 722 666 722 C651.641 722 640 719.314 640 716 Z" fill="#05070f" opacity="0.3"/>
+    <path id="Seat_grain_1" data-name="Seat grain 1" d="M400 568 C453.333 578.667 506.667 574.667 560 556" fill="none" stroke="#6e4522" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Seat_grain_2" data-name="Seat grain 2" d="M420 540 C466.667 548 513.333 546 560 534" fill="none" stroke="#6e4522" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Plate_rim" data-name="Plate rim" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="none" stroke="#0e1530" stroke-width="6" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 930)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="56" fill="#e8d9bc" letter-spacing="2.8" text-anchor="middle"><tspan x="0" y="0">JARDÍN TABURETE</tspan></text>
+    <text transform="matrix(1 0 0 1 500 966)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="23" fill="#9aa6d0" letter-spacing="6.44" text-anchor="middle"><tspan x="0" y="0">WOOD · HIDE</tspan></text>
+  </g>
+</svg>
