@@ -138,7 +138,11 @@ newest native. So far: axolotl V2 (dark tank, full body; R01 gives the tail
 fin mass and a point) · aye-aye V2 (moonlit branch, mid-tap) · binturong V2
 (moonlit canopy, tail-wrapped) · monarch V2 (dusk, backlit on milkweed) ·
 windsor chair V2 (walnut, low sun, cast shadow; R01 rebuilds the seat as a
-dished plank) · city taxi V2 (dawn, mist).
+dished plank) · city taxi V2 (dawn, mist) · pangolin V2 (moonlit walk,
+full body; the scale cape is one silhouette with three shingled rows of
+flat diamond plates laid along the spine's tangent) · saiga V2 (herd
+scene, cold dawn; head, neck and body run as one ribbon spine, the
+bulbous nose carries the species code).
 
 ### Spot-flat renditions (the GLM-Flash idiom)
 
@@ -177,8 +181,8 @@ Historical roster:
   giant isopod · takin · quoll · kea · coelacanth · solenodon · lyrebird ·
   spider crab · nine-banded armadillo
 
-Pool for later agents: pangolin full body · saiga herd scene — the rest of
-the old pool shipped in wave 5.
+Pool for later agents: (empty — pangolin full body and the saiga herd
+scene shipped as V2 renditions; fresh pool ideas go here).
 
 ### Insects (`art/insects/`)
 
