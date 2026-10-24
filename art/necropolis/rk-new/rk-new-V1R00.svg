@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="500" x2="1000" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#12161e"/>
+      <stop offset="1" stop-color="#080a10"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#565e72"/>
+      <stop offset="0.7" stop-color="#343a4a"/>
+      <stop offset="1" stop-color="#151824"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="190" y1="537" x2="256" y2="537" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a92a4"/>
+      <stop offset="1" stop-color="#565e70"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="285" y1="564" x2="335" y2="564" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a92a4"/>
+      <stop offset="1" stop-color="#565e70"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="367" y1="548" x2="411" y2="548" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a92a4"/>
+      <stop offset="1" stop-color="#565e70"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="156" y1="789.518" x2="844" y2="789.518" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a3040"/>
+      <stop offset="1" stop-color="#10141e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="640" y1="683.466" x2="772" y2="683.466" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4a3a28"/>
+      <stop offset="1" stop-color="#241a10"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="710" y1="681" x2="730" y2="681" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a92a4"/>
+      <stop offset="1" stop-color="#565e70"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="470" y1="603" x2="560" y2="603" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5c5244"/>
+      <stop offset="1" stop-color="#332c22"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="449.927" y1="564.87" x2="488" y2="564.87" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5c5244"/>
+      <stop offset="1" stop-color="#332c22"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x1="486" y1="447" x2="656" y2="447" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8dce6"/>
+      <stop offset="1" stop-color="#949cae"/>
+    </linearGradient>
+  </defs>
+  <title>RC-New — Necropolis Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#7a8496" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#dde2ec" stroke-width="3" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Plate_fleck_1" data-name="Plate fleck 1" d="M193 237 C193 234.791 194.791 233 197 233 C199.209 233 201 234.791 201 237 C201 239.209 199.209 241 197 241 C194.791 241 193 239.209 193 237 Z" fill="#5c6478" opacity="0.35"/>
+    <path id="Plate_fleck_2" data-name="Plate fleck 2" d="M801 233.5 C801 231.567 802.567 230 804.5 230 C806.433 230 808 231.567 808 233.5 C808 235.433 806.433 237 804.5 237 C802.567 237 801 235.433 801 233.5 Z" fill="#5c6478" opacity="0.35"/>
+    <path id="Plate_fleck_3" data-name="Plate fleck 3" d="M157 528.5 C157 526.015 159.015 524 161.5 524 C163.985 524 166 526.015 166 528.5 C166 530.985 163.985 533 161.5 533 C159.015 533 157 530.985 157 528.5 Z" fill="#5c6478" opacity="0.35"/>
+    <path id="Plate_fleck_4" data-name="Plate fleck 4" d="M837 548 C837 545.791 838.791 544 841 544 C843.209 544 845 545.791 845 548 C845 550.209 843.209 552 841 552 C838.791 552 837 550.209 837 548 Z" fill="#5c6478" opacity="0.35"/>
+    <path id="Plate_fleck_5" data-name="Plate fleck 5" d="M247 769.5 C247 767.567 248.567 766 250.5 766 C252.433 766 254 767.567 254 769.5 C254 771.433 252.433 773 250.5 773 C248.567 773 247 771.433 247 769.5 Z" fill="#5c6478" opacity="0.35"/>
+    <path id="Plate_fleck_6" data-name="Plate fleck 6" d="M753 753.5 C753 751.015 755.015 749 757.5 749 C759.985 749 762 751.015 762 753.5 C762 755.985 759.985 758 757.5 758 C755.015 758 753 755.985 753 753.5 Z" fill="#5c6478" opacity="0.35"/>
+    <path id="Plate_fleck_7" data-name="Plate fleck 7" d="M133 396 C133 394.343 134.343 393 136 393 C137.657 393 139 394.343 139 396 C139 397.657 137.657 399 136 399 C134.343 399 133 397.657 133 396 Z" fill="#5c6478" opacity="0.35"/>
+    <path id="Plate_fleck_8" data-name="Plate fleck 8" d="M864 394.5 C864 392.567 865.567 391 867.5 391 C869.433 391 871 392.567 871 394.5 C871 396.433 869.433 398 867.5 398 C865.567 398 864 396.433 864 394.5 Z" fill="#5c6478" opacity="0.35"/>
+    <path id="Plate_fleck_9" data-name="Plate fleck 9" d="M391 116.5 C391 114.567 392.567 113 394.5 113 C396.433 113 398 114.567 398 116.5 C398 118.433 396.433 120 394.5 120 C392.567 120 391 118.433 391 116.5 Z" fill="#5c6478" opacity="0.35"/>
+    <path id="Plate_fleck_10" data-name="Plate fleck 10" d="M613 114 C613 111.791 614.791 110 617 110 C619.209 110 621 111.791 621 114 C621 116.209 619.209 118 617 118 C614.791 118 613 116.209 613 114 Z" fill="#5c6478" opacity="0.35"/>
+    <path id="Plate_fleck_11" data-name="Plate fleck 11" d="M333 826 C333 824.343 334.343 823 336 823 C337.657 823 339 824.343 339 826 C339 827.657 337.657 829 336 829 C334.343 829 333 827.657 333 826 Z" fill="#5c6478" opacity="0.35"/>
+    <path id="Plate_fleck_12" data-name="Plate fleck 12" d="M665 824.5 C665 822.567 666.567 821 668.5 821 C670.433 821 672 822.567 672 824.5 C672 826.433 670.433 828 668.5 828 C666.567 828 665 826.433 665 824.5 Z" fill="#5c6478" opacity="0.35"/>
+    <path id="Light_shaft" data-name="Light shaft" d="M645 150 L775 150 L720 700 L540 700 Z" fill="#e8d9b0" opacity="0.08"/>
+    <path id="Light_pool" data-name="Light pool" d="M540 665 C540 640.147 607.157 620 690 620 C772.843 620 840 640.147 840 665 C840 689.853 772.843 710 690 710 C607.157 710 540 689.853 540 665 Z" fill="#e8d9b0" opacity="0.09"/>
+    <path id="Old_stone_1" data-name="Old stone 1" d="M190 590 L190 496 C190 480 256 480 256 496 L256 590 Z" fill="url(#linear-gradient-2)" stroke="#232830" stroke-width="3" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Old_stone_1_epitaph" data-name="Old stone 1 epitaph" d="M198 576 L248 576" fill="none" stroke="#2a3040" stroke-width="3" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Old_stone_2" data-name="Old stone 2" d="M285 604 L285 536 C285 520 335 520 335 536 L335 604 Z" fill="url(#linear-gradient-3)" stroke="#232830" stroke-width="3" stroke-miterlimit="10" opacity="0.42"/>
+    <path id="Old_stone_2_epitaph" data-name="Old stone 2 epitaph" d="M293 590 L327 590" fill="none" stroke="#2a3040" stroke-width="3" stroke-miterlimit="10" opacity="0.42"/>
+    <path id="Old_stone_3" data-name="Old stone 3" d="M383 500 L395 500 L395 518 L411 518 L411 530 L395 530 L395 596 L383 596 L383 530 L367 530 L367 518 L383 518 Z" fill="url(#linear-gradient-4)" stroke="#232830" stroke-width="3" stroke-miterlimit="10" opacity="0.48"/>
+    <path id="Old_stone_3_epitaph" data-name="Old stone 3 epitaph" d="M368 582 L410 582" fill="none" stroke="#2a3040" stroke-width="3" stroke-miterlimit="10" opacity="0.48"/>
+    <path id="Floor" d="M156 700 L844 700 C765.397 812.213 637.004 879.035 500 879.035 C362.996 879.035 234.603 812.213 156 700 Z" fill="url(#linear-gradient-5)"/>
+    <path id="Floor_line" data-name="Floor line" d="M156 700 L844 700" fill="none" stroke="#0c0f16" stroke-width="4" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Carrier_shadow" data-name="Carrier shadow" d="M430 691 C430 686.029 474.772 682 530 682 C585.228 682 630 686.029 630 691 C630 695.971 585.228 700 530 700 C474.772 700 430 695.971 430 691 Z" fill="#030408" opacity="0.55"/>
+    <path id="Pit" d="M658 733 C658 723.611 691.579 716 733 716 C774.421 716 808 723.611 808 733 C808 742.389 774.421 750 733 750 C691.579 750 658 742.389 658 733 Z" fill="#06080c" stroke="#232830" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Pit_rim" data-name="Pit rim" d="M664 716 L802 716" fill="none" stroke="#4a5266" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Soil_mound" data-name="Soil mound" d="M640 700 C655 660 745 652 772 700 Z" fill="url(#linear-gradient-6)" stroke="#232830" stroke-width="4" stroke-linejoin="round"/>
+    <path id="Mound_highlight" data-name="Mound highlight" d="M668 690 C690 672 730 668 752 688" fill="none" stroke="#6a5238" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Shovel_handle" data-name="Shovel handle" d="M700 618 L716 672" fill="none" stroke="#6a4e30" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Shovel_grip" data-name="Shovel grip" d="M693 613 C693 609.134 697.029 606 702 606 C706.971 606 711 609.134 711 613 C711 616.866 706.971 620 702 620 C697.029 620 693 616.866 693 613 Z" fill="none" stroke="#6a4e30" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Shovel_blade" data-name="Shovel blade" d="M710 668 L730 668 L726 694 L714 694 Z" fill="url(#linear-gradient-7)" stroke="#232830" stroke-width="3" stroke-linejoin="round"/>
+    <path id="Sprig" d="M806 700 C806 688 804 680 802 672 M806 690 C812 684 818 682 824 682 M806 694 C800 690 795 688 790 688" fill="none" stroke="#7a9455" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Leg_back" data-name="Leg back" d="M452 690 C460 660 470 640 488 622" fill="none" stroke="#3a3228" stroke-width="16" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Leg_front" data-name="Leg front" d="M520 690 C520 662 522 646 526 626" fill="none" stroke="#453b2e" stroke-width="16" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Boot_back" data-name="Boot back" d="M438 684 L478 684 L478 694 L438 694 Z" fill="#241c14" stroke="#232830" stroke-width="3" stroke-linejoin="round"/>
+    <path id="Boot_front" data-name="Boot front" d="M508 684 L548 684 L548 694 L508 694 Z" fill="#241c14" stroke="#232830" stroke-width="3" stroke-linejoin="round"/>
+    <path id="Smock" d="M470 630 C478 590 500 566 532 556 L560 592 C540 606 528 626 524 650 Z" fill="url(#linear-gradient-8)" stroke="#232830" stroke-width="5" stroke-linejoin="round"/>
+    <path id="Head" d="M452 579 C452 568.507 460.059 560 470 560 C479.941 560 488 568.507 488 579 C488 589.493 479.941 598 470 598 C460.059 598 452 589.493 452 579 Z" fill="#c8a882" stroke="#232830" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Cap" d="M450 572 C448 554 488 552 488 572 L484 566 C476 558 462 558 456 566 Z" fill="url(#linear-gradient-9)" stroke="#232830" stroke-width="3" stroke-linejoin="round"/>
+    <path id="Arm_L" data-name="Arm L" d="M496 580 C490 562 490 548 496 534" fill="none" stroke="#5c5244" stroke-width="12" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Arm_R" data-name="Arm R" d="M548 584 C556 566 560 552 562 538" fill="none" stroke="#5c5244" stroke-width="12" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Hand_L" data-name="Hand L" d="M488 532 C488 527.582 492.029 524 497 524 C501.971 524 506 527.582 506 532 C506 536.418 501.971 540 497 540 C492.029 540 488 536.418 488 532 Z" fill="#c8a882" stroke="#232830" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Hand_R" data-name="Hand R" d="M554 536 C554 531.582 558.029 528 563 528 C567.971 528 572 531.582 572 536 C572 540.418 567.971 544 563 544 C558.029 544 554 540.418 554 536 Z" fill="#c8a882" stroke="#232830" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Blank_stone" data-name="Blank stone" d="M486 530 L486 400 C486 352 656 352 656 400 L656 530 Z" fill="url(#linear-gradient-10)" stroke="#232830" stroke-width="5" stroke-linejoin="round"/>
+    <path id="Stone_bevel" data-name="Stone bevel" d="M496 524 L496 404 C496 364 646 364 646 404 L646 524" fill="none" stroke="#f0f2f8" stroke-width="3" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Fence_top" data-name="Fence top" d="M508 420 L634 420" fill="none" stroke="#4a5266" stroke-width="3" stroke-miterlimit="10" opacity="0.85"/>
+    <text transform="matrix(1 0 0 1 512 448)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="13" fill="#39404e"><tspan x="0" y="0">title:</tspan></text>
+    <path id="Blank_line_1" data-name="Blank line 1" d="M560 452 L630 452" fill="none" stroke="#6e7688" stroke-width="2" stroke-miterlimit="10" opacity="0.8"/>
+    <text transform="matrix(1 0 0 1 512 478)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="13" fill="#39404e"><tspan x="0" y="0">date:</tspan></text>
+    <path id="Blank_line_2" data-name="Blank line 2" d="M560 482 L630 482" fill="none" stroke="#6e7688" stroke-width="2" stroke-miterlimit="10" opacity="0.8"/>
+    <text transform="matrix(1 0 0 1 512 508)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="13" fill="#39404e"><tspan x="0" y="0">draft:</tspan></text>
+    <path id="Blank_line_3" data-name="Blank line 3" d="M560 512 L630 512" fill="none" stroke="#6e7688" stroke-width="2" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Fence_bottom" data-name="Fence bottom" d="M508 526 L634 526" fill="none" stroke="#4a5266" stroke-width="3" stroke-miterlimit="10" opacity="0.85"/>
+    <text transform="matrix(1 0 0 1 500 930)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="58" fill="#e2e6f0" text-anchor="middle"><tspan x="0" y="0">RC-NEW</tspan></text>
+    <text transform="matrix(1 0 0 1 500 968)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="23" fill="#a4acc0" letter-spacing="4.6" text-anchor="middle"><tspan x="0" y="0">SCAFFOLDING THE DEAD</tspan></text>
+  </g>
+</svg>
