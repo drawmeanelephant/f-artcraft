@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1a1620"/>
+      <stop offset="1" stop-color="#080609"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a9b6c4"/>
+      <stop offset="0.62" stop-color="#74849a"/>
+      <stop offset="1" stop-color="#42506a"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="230" x2="0" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3e4550"/>
+      <stop offset="1" stop-color="#22272e"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="700" cy="359" r="130" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#e2e8ec"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-3" x1="13.716" y1="408.291" x2="-5.1" y2="587.305" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1e2a30"/>
+      <stop offset="1" stop-color="#121a20"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0" y1="390" x2="0" y2="710" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f5bc5c"/>
+      <stop offset="0.55" stop-color="#de9438"/>
+      <stop offset="1" stop-color="#a86428"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-3" cx="331" cy="624" r="79" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fbdfa6"/>
+      <stop offset="1" stop-color="#e8b96c"/>
+    </radialGradient>
+  </defs>
+  <title>Jay Skript — Mascot Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo" data-name="Plate halo" d="M60 460 C60 216.995 256.995 20 500 20 C743.005 20 940 216.995 940 460 C940 703.005 743.005 900 500 900 C256.995 900 60 703.005 60 460 Z" fill="#7e8fa2" opacity="0.08"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#1e222c" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#d6e0ea" stroke-width="3" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Patina_1" data-name="Patina 1" d="M180 230 C180 185.817 235.964 150 305 150 C374.036 150 430 185.817 430 230 C430 274.183 374.036 310 305 310 C235.964 310 180 274.183 180 230 Z" fill="#b9c8d6" opacity="0.16"/>
+    <path id="Patina_2" data-name="Patina 2" d="M560 695 C560 653.579 620.442 620 695 620 C769.558 620 830 653.579 830 695 C830 736.421 769.558 770 695 770 C620.442 770 560 736.421 560 695 Z" fill="#5c6e84" opacity="0.2"/>
+    <path id="Fleck_1" data-name="Fleck 1" d="M200 333 C200 331.343 201.343 330 203 330 C204.657 330 206 331.343 206 333 C206 334.657 204.657 336 203 336 C201.343 336 200 334.657 200 333 Z" fill="#e4edf4" opacity="0.45"/>
+    <path id="Fleck_2" data-name="Fleck 2" d="M815 322.5 C815 321.119 816.119 320 817.5 320 C818.881 320 820 321.119 820 322.5 C820 323.881 818.881 325 817.5 325 C816.119 325 815 323.881 815 322.5 Z" fill="#e4edf4" opacity="0.45"/>
+    <path id="Fleck_3" data-name="Fleck 3" d="M170 543.5 C170 541.567 171.567 540 173.5 540 C175.433 540 177 541.567 177 543.5 C177 545.433 175.433 547 173.5 547 C171.567 547 170 545.433 170 543.5 Z" fill="#e4edf4" opacity="0.45"/>
+    <path id="Fleck_4" data-name="Fleck 4" d="M845 548 C845 546.343 846.343 545 848 545 C849.657 545 851 546.343 851 548 C851 549.657 849.657 551 848 551 C846.343 551 845 549.657 845 548 Z" fill="#e4edf4" opacity="0.45"/>
+    <path id="Fleck_5" data-name="Fleck 5" d="M240 757.5 C240 756.119 241.119 755 242.5 755 C243.881 755 245 756.119 245 757.5 C245 758.881 243.881 760 242.5 760 C241.119 760 240 758.881 240 757.5 Z" fill="#e4edf4" opacity="0.45"/>
+    <path id="Fleck_6" data-name="Fleck 6" d="M740 763 C740 761.343 741.343 760 743 760 C744.657 760 746 761.343 746 763 C746 764.657 744.657 766 743 766 C741.343 766 740 764.657 740 763 Z" fill="#e4edf4" opacity="0.45"/>
+    <path id="Fleck_7" data-name="Fleck 7" d="M140 432.5 C140 431.119 141.119 430 142.5 430 C143.881 430 145 431.119 145 432.5 C145 433.881 143.881 435 142.5 435 C141.119 435 140 433.881 140 432.5 Z" fill="#e4edf4" opacity="0.45"/>
+    <path id="Fleck_8" data-name="Fleck 8" d="M860 612.5 C860 611.119 861.119 610 862.5 610 C863.881 610 865 611.119 865 612.5 C865 613.881 863.881 615 862.5 615 C861.119 615 860 613.881 860 612.5 Z" fill="#e4edf4" opacity="0.45"/>
+    <path id="Fleck_9" data-name="Fleck 9" d="M430 117.5 C430 116.119 431.119 115 432.5 115 C433.881 115 435 116.119 435 117.5 C435 118.881 433.881 120 432.5 120 C431.119 120 430 118.881 430 117.5 Z" fill="#e4edf4" opacity="0.45"/>
+    <path id="Fleck_10" data-name="Fleck 10" d="M615 138 C615 136.343 616.343 135 618 135 C619.657 135 621 136.343 621 138 C621 139.657 619.657 141 618 141 C616.343 141 615 139.657 615 138 Z" fill="#e4edf4" opacity="0.45"/>
+    <path id="Fleck_11" data-name="Fleck 11" d="M320 152 C320 150.895 320.895 150 322 150 C323.105 150 324 150.895 324 152 C324 153.105 323.105 154 322 154 C320.895 154 320 153.105 320 152 Z" fill="#e4edf4" opacity="0.45"/>
+    <path id="Fleck_12" data-name="Fleck 12" d="M700 212.5 C700 211.119 701.119 210 702.5 210 C703.881 210 705 211.119 705 212.5 C705 213.881 703.881 215 702.5 215 C701.119 215 700 213.881 700 212.5 Z" fill="#e4edf4" opacity="0.45"/>
+    <path id="Fleck_13" data-name="Fleck 13" d="M215 642 C215 640.895 215.895 640 217 640 C218.105 640 219 640.895 219 642 C219 643.105 218.105 644 217 644 C215.895 644 215 643.105 215 642 Z" fill="#e4edf4" opacity="0.45"/>
+    <path id="Fleck_14" data-name="Fleck 14" d="M875 447 C875 445.895 875.895 445 877 445 C878.105 445 879 445.895 879 447 C879 448.105 878.105 449 877 449 C875.895 449 875 448.105 875 447 Z" fill="#e4edf4" opacity="0.45"/>
+    <path id="Ghost_arc_TL" data-name="Ghost arc TL" d="M60 150 C62.662 99.495 104.425 59.93 155 60" fill="none" stroke="#4a5e72" stroke-width="16" stroke-linecap="round" stroke-miterlimit="10" opacity="0.1"/>
+    <path id="Ghost_arc_BR" data-name="Ghost arc BR" d="M940 760 C943.44 815.59 904.788 864.98 850 875" fill="none" stroke="#4a5e72" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" opacity="0.08"/>
+    <path id="Stand_neck" data-name="Stand neck" d="M676 482 L724 482 L724 530 L676 530 Z" fill="#2a2f38" stroke="#3a2e34" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Stand_foot" data-name="Stand foot" d="M641 524 L759 524 C763.971 524 768 528.029 768 533 L768 533 C768 537.971 763.971 542 759 542 L641 542 C636.029 542 632 537.971 632 533 L632 533 C632 528.029 636.029 524 641 524 Z" fill="#2a2f38" stroke="#3a2e34" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Monitor_case" data-name="Monitor case" d="M564 248 L836 248 C843.732 248 850 254.268 850 262 L850 468 C850 475.732 843.732 482 836 482 L564 482 C556.268 482 550 475.732 550 468 L550 262 C550 254.268 556.268 248 564 248 Z" fill="url(#linear-gradient-2)" stroke="#3a2e34" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="White_page" data-name="White page" d="M576 266 L824 266 C827.314 266 830 268.686 830 272 L830 446 C830 449.314 827.314 452 824 452 L576 452 C572.686 452 570 449.314 570 446 L570 272 C570 268.686 572.686 266 576 266 Z" fill="url(#radial-gradient-2)" stroke="#11161c" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Ghost_pane_1" data-name="Ghost pane 1" d="M591 282 L691 282 C693.761 282 696 284.239 696 287 L696 337 C696 339.761 693.761 342 691 342 L591 342 C588.239 342 586 339.761 586 337 L586 287 C586 284.239 588.239 282 591 282 Z" fill="#ffffff" stroke="#d4dce2" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Ghost_pane_2" data-name="Ghost pane 2" d="M714 282 L806 282 C808.209 282 810 283.791 810 286 L810 298 C810 300.209 808.209 302 806 302 L714 302 C711.791 302 710 300.209 710 298 L710 286 C710 283.791 711.791 282 714 282 Z" fill="#ffffff" stroke="#dde4ea" stroke-width="2" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Power_LED" data-name="Power LED" d="M696 468 C696 464.686 698.686 462 702 462 C705.314 462 708 464.686 708 468 C708 471.314 705.314 474 702 474 C698.686 474 696 471.314 696 468 Z" fill="#8ae07a" opacity="0.9"/>
+    <path id="Screen_glow" data-name="Screen glow" d="M510 395 C510 348.056 559.249 310 620 310 C680.751 310 730 348.056 730 395 C730 441.944 680.751 480 620 480 C559.249 480 510 441.944 510 395 Z" fill="#ffffff" opacity="0.13"/>
+    <path id="Console_frame" data-name="Console frame" d="M578.502 487.763 L819.177 513.059 C824.669 513.636 828.654 518.557 828.077 524.049 L814.488 653.337 C813.911 658.83 808.99 662.814 803.498 662.237 L562.823 636.941 C557.331 636.364 553.346 631.443 553.923 625.951 L567.512 496.663 C568.089 491.17 573.01 487.186 578.502 487.763 Z" fill="url(#linear-gradient-3)" stroke="#3a2e34" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Console_titlebar" data-name="Console titlebar" d="M578.502 487.763 L819.177 513.059 C824.669 513.636 828.654 518.557 828.077 524.049 L827.45 530.016 C826.872 535.509 821.952 539.494 816.459 538.916 L575.785 513.62 C570.292 513.043 566.308 508.123 566.885 502.63 L567.512 496.663 C568.089 491.17 573.01 487.186 578.502 487.763 Z" fill="#2c3a42"/>
+    <path id="Titlebar_mask" data-name="Titlebar mask" d="M566.885 502.63 L827.45 530.016 L826.195 541.951 L565.63 514.564 Z" fill="#2c3a42"/>
+    <path id="Win_dot_1" data-name="Win dot 1" d="M581.122 501.11 C581.468 497.814 584.42 495.423 587.716 495.77 C591.012 496.116 593.402 499.069 593.056 502.364 C592.71 505.66 589.757 508.05 586.462 507.704 C583.166 507.358 580.775 504.405 581.122 501.11 Z" fill="#e0604e" opacity="0.9"/>
+    <path id="Win_dot_2" data-name="Win dot 2" d="M601.012 503.2 C601.359 499.905 604.311 497.514 607.606 497.86 C610.902 498.207 613.293 501.159 612.946 504.455 C612.6 507.75 609.648 510.141 606.352 509.795 C603.057 509.448 600.666 506.496 601.012 503.2 Z" fill="#e8b44a" opacity="0.9"/>
+    <path id="Win_dot_3" data-name="Win dot 3" d="M620.903 505.291 C621.249 501.995 624.201 499.605 627.497 499.951 C630.792 500.297 633.183 503.25 632.837 506.545 C632.49 509.841 629.538 512.232 626.243 511.885 C622.947 511.539 620.556 508.587 620.903 505.291 Z" fill="#7fd06e" opacity="0.9"/>
+    <text transform="matrix(0.995 0.105 -0.105 0.995 644.144 513.767)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;, sans-serif" font-size="12" fill="#9fb4be"><tspan x="0" y="0">console — 47 logs</tspan></text>
+    <path id="Log_line_1" data-name="Log line 1" d="M578.508 525.973 L773.435 546.46 C774.533 546.576 775.33 547.56 775.215 548.659 L775.215 548.659 C775.099 549.757 774.115 550.554 773.017 550.439 L578.09 529.951 C576.992 529.835 576.195 528.851 576.31 527.753 L576.31 527.753 C576.426 526.654 577.41 525.857 578.508 525.973 Z" fill="#7fd06e" opacity="0.78"/>
+    <path id="Log_line_2" data-name="Log line 2" d="M577.672 533.929 L722.872 549.19 C723.971 549.306 724.768 550.29 724.652 551.388 L724.652 551.388 C724.537 552.487 723.553 553.284 722.454 553.168 L577.254 537.907 C576.156 537.792 575.359 536.808 575.474 535.709 L575.474 535.709 C575.59 534.611 576.574 533.814 577.672 533.929 Z" fill="#c9d8e0" opacity="0.78"/>
+    <path id="Log_line_3" data-name="Log line 3" d="M576.836 541.885 L747.894 559.864 C748.992 559.98 749.789 560.964 749.674 562.062 L749.674 562.062 C749.558 563.161 748.574 563.958 747.476 563.842 L576.418 545.863 C575.319 545.748 574.522 544.764 574.638 543.665 L574.638 543.665 C574.753 542.567 575.738 541.77 576.836 541.885 Z" fill="#7fd06e" opacity="0.78"/>
+    <path id="Log_line_4" data-name="Log line 4" d="M576 549.841 L679.43 560.712 C680.529 560.828 681.326 561.812 681.21 562.91 L681.21 562.91 C681.095 564.009 680.11 564.806 679.012 564.69 L575.582 553.819 C574.483 553.704 573.686 552.72 573.802 551.621 L573.802 551.621 C573.917 550.523 574.901 549.726 576 549.841 Z" fill="#e8b44a" opacity="0.78"/>
+    <path id="Log_line_5" data-name="Log line 5" d="M575.164 557.798 L776.057 578.912 C777.156 579.028 777.952 580.012 777.837 581.11 L777.837 581.11 C777.722 582.209 776.737 583.006 775.639 582.89 L574.745 561.776 C573.647 561.66 572.85 560.676 572.965 559.578 L572.965 559.578 C573.081 558.479 574.065 557.682 575.164 557.798 Z" fill="#c9d8e0" opacity="0.78"/>
+    <path id="Log_line_6" data-name="Log line 6" d="M574.327 565.754 L701.626 579.133 C702.725 579.249 703.522 580.233 703.406 581.331 L703.406 581.331 C703.291 582.43 702.307 583.227 701.208 583.111 L573.909 569.732 C572.811 569.616 572.014 568.632 572.129 567.534 L572.129 567.534 C572.245 566.435 573.229 565.638 574.327 565.754 Z" fill="#e0604e" opacity="0.78"/>
+    <path id="Log_line_7" data-name="Log line 7" d="M573.491 573.71 L756.483 592.943 C757.582 593.059 758.379 594.043 758.263 595.141 L758.263 595.141 C758.148 596.24 757.164 597.037 756.065 596.921 L573.073 577.688 C571.974 577.573 571.178 576.588 571.293 575.49 L571.293 575.49 C571.408 574.391 572.393 573.594 573.491 573.71 Z" fill="#c9d8e0" opacity="0.78"/>
+    <path id="Log_line_8" data-name="Log line 8" d="M572.655 581.666 L664.151 591.283 C665.249 591.398 666.046 592.382 665.931 593.481 L665.931 593.481 C665.815 594.579 664.831 595.376 663.733 595.261 L572.237 585.644 C571.138 585.529 570.341 584.545 570.457 583.446 L570.457 583.446 C570.572 582.348 571.556 581.551 572.655 581.666 Z" fill="#7fd06e" opacity="0.78"/>
+    <path id="Log_line_9" data-name="Log line 9" d="M571.819 589.622 L734.92 606.765 C736.019 606.88 736.816 607.865 736.7 608.963 L736.7 608.963 C736.585 610.062 735.601 610.858 734.502 610.743 L571.401 593.6 C570.302 593.485 569.505 592.501 569.621 591.402 L569.621 591.402 C569.736 590.304 570.72 589.507 571.819 589.622 Z" fill="#c9d8e0" opacity="0.78"/>
+    <path id="Log_line_10" data-name="Log line 10" d="M570.982 597.578 L686.347 609.704 C687.446 609.819 688.242 610.803 688.127 611.902 L688.127 611.902 C688.012 613 687.027 613.797 685.929 613.682 L570.564 601.557 C569.466 601.441 568.669 600.457 568.784 599.358 L568.784 599.358 C568.9 598.26 569.884 597.463 570.982 597.578 Z" fill="#e8b44a" opacity="0.78"/>
+    <path id="Log_line_11" data-name="Log line 11" d="M570.146 605.535 L765.073 626.022 C766.171 626.138 766.968 627.122 766.852 628.22 L766.852 628.22 C766.737 629.319 765.753 630.116 764.654 630 L569.728 609.513 C568.63 609.397 567.833 608.413 567.948 607.315 L567.948 607.315 C568.064 606.216 569.048 605.419 570.146 605.535 Z" fill="#c9d8e0" opacity="0.78"/>
+    <path id="Log_line_12" data-name="Log line 12" d="M569.31 613.491 L706.554 627.916 C707.653 628.031 708.449 629.015 708.334 630.114 L708.334 630.114 C708.219 631.212 707.234 632.009 706.136 631.894 L568.892 617.469 C567.793 617.353 566.996 616.369 567.112 615.271 L567.112 615.271 C567.227 614.172 568.211 613.375 569.31 613.491 Z" fill="#c9d8e0" opacity="0.78"/>
+    <path id="Log_line_13" data-name="Log line 13" d="M568.474 621.447 L673.893 632.527 C674.992 632.642 675.789 633.627 675.673 634.725 L675.673 634.725 C675.558 635.824 674.573 636.621 673.475 636.505 L568.056 625.425 C566.957 625.31 566.16 624.325 566.276 623.227 L566.276 623.227 C566.391 622.128 567.375 621.332 568.474 621.447 Z" fill="#e0604e" opacity="0.78"/>
+    <path id="Log_line_14" data-name="Log line 14" d="M567.638 629.403 L740.684 647.591 C741.783 647.707 742.58 648.691 742.464 649.789 L742.464 649.789 C742.349 650.888 741.365 651.685 740.266 651.569 L567.219 633.381 C566.121 633.266 565.324 632.282 565.439 631.183 L565.439 631.183 C565.555 630.085 566.539 629.288 567.638 629.403 Z" fill="#7fd06e" opacity="0.78"/>
+    <path id="Scroll_track" data-name="Scroll track" d="M813.634 546.663 L813.634 546.663 C815.831 546.894 817.425 548.863 817.194 551.06 L806.95 648.523 C806.719 650.72 804.751 652.314 802.554 652.083 L802.554 652.083 C800.357 651.852 798.763 649.884 798.994 647.687 L809.238 550.223 C809.468 548.026 811.437 546.433 813.634 546.663 Z" fill="#0c1418"/>
+    <path id="Scroll_thumb" data-name="Scroll thumb" d="M811.125 570.532 L811.125 570.532 C813.322 570.763 814.916 572.731 814.685 574.928 L812.804 592.83 C812.573 595.027 810.604 596.621 808.407 596.39 L808.407 596.39 C806.21 596.159 804.616 594.19 804.847 591.993 L806.729 574.092 C806.96 571.895 808.928 570.301 811.125 570.532 Z" fill="#5e7482"/>
+    <path id="Ground_shadow" data-name="Ground shadow" d="M190 704 C190 696.268 257.157 690 340 690 C422.843 690 490 696.268 490 704 C490 711.732 422.843 718 340 718 C257.157 718 190 711.732 190 704 Z" fill="#1a2028" opacity="0.28"/>
+    <path id="Console_shadow" data-name="Console shadow" d="M560 687 C560 680.925 620.442 676 695 676 C769.558 676 830 680.925 830 687 C830 693.075 769.558 698 695 698 C620.442 698 560 693.075 560 687 Z" fill="#1a2028" opacity="0.22"/>
+    <path id="Body" d="M330 396 C448 396 480 472 468 550 C460 646 422 698 330 698 C234 698 198 648 190 558 C178 476 214 396 330 396 Z" fill="url(#linear-gradient-4)" stroke="#3a2e34" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Belly" d="M252 624 C252 591.967 287.37 566 331 566 C374.63 566 410 591.967 410 624 C410 656.033 374.63 682 331 682 C287.37 682 252 656.033 252 624 Z" fill="url(#radial-gradient-3)" opacity="0.7"/>
+    <path id="Head_sheen" data-name="Head sheen" d="M240 439 C240 421.879 282.533 408 335 408 C387.467 408 430 421.879 430 439 C430 456.121 387.467 470 335 470 C282.533 470 240 456.121 240 439 Z" fill="#ffffff" opacity="0.22"/>
+    <path id="Base_shade" data-name="Base shade" d="M238 672 C300 700 360 700 424 672 C370 690 290 690 238 672 Z" fill="#7e4e20" opacity="0.35"/>
+    <path id="Flank_glow" data-name="Flank glow" d="M420 545 C420 503.579 435.67 470 455 470 C474.33 470 490 503.579 490 545 C490 586.421 474.33 620 455 620 C435.67 620 420 586.421 420 545 Z" fill="#ffffff" opacity="0.14"/>
+    <path id="Cowlick" d="M318 398 C310 368 322 350 344 342 C332 358 336 372 352 378 C338 382 332 392 336 404 Z" fill="#d98a36" stroke="#3a2e34" stroke-width="4" stroke-linejoin="round"/>
+    <path id="Arm_L" data-name="Arm L" d="M206 560 C178 576 170 606 186 626" fill="none" stroke="#de9438" stroke-width="26" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Arm_R" data-name="Arm R" d="M456 500 C496 470 526 436 548 398" fill="none" stroke="#de9438" stroke-width="26" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Paw_R" data-name="Paw R" d="M540 387 C540 378.716 547.611 372 557 372 C566.389 372 574 378.716 574 387 C574 395.284 566.389 402 557 402 C547.611 402 540 395.284 540 387 Z" fill="#f0ae50" stroke="#3a2e34" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Paw_fingers" data-name="Paw fingers" d="M548 376 L556 364 M560 378 L572 370" fill="none" stroke="#3a2e34" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Foot_L" data-name="Foot L" d="M240 703 C240 694.716 256.118 688 276 688 C295.882 688 312 694.716 312 703 C312 711.284 295.882 718 276 718 C256.118 718 240 711.284 240 703 Z" fill="#b06e2a" stroke="#3a2e34" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Foot_R" data-name="Foot R" d="M352 703 C352 694.716 368.118 688 388 688 C407.882 688 424 694.716 424 703 C424 711.284 407.882 718 388 718 C368.118 718 352 711.284 352 703 Z" fill="#b06e2a" stroke="#3a2e34" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Eye_white_290" data-name="Eye white 290" d="M266 493 C266 480.297 276.745 470 290 470 C303.255 470 314 480.297 314 493 C314 505.703 303.255 516 290 516 C276.745 516 266 505.703 266 493 Z" fill="#fbf6ec" stroke="#3a2e34" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Pupil_290" data-name="Pupil 290" d="M288 493 C288 488.029 292.029 484 297 484 C301.971 484 306 488.029 306 493 C306 497.971 301.971 502 297 502 C292.029 502 288 497.971 288 493 Z" fill="#2c2622"/>
+    <path id="Glint_290" data-name="Glint 290" d="M293 491 C293 489.343 294.343 488 296 488 C297.657 488 299 489.343 299 491 C299 492.657 297.657 494 296 494 C294.343 494 293 492.657 293 491 Z" fill="#ffffff" opacity="0.9"/>
+    <path id="Eye_white_382" data-name="Eye white 382" d="M358 493 C358 480.297 368.745 470 382 470 C395.255 470 406 480.297 406 493 C406 505.703 395.255 516 382 516 C368.745 516 358 505.703 358 493 Z" fill="#fbf6ec" stroke="#3a2e34" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Pupil_382" data-name="Pupil 382" d="M380 493 C380 488.029 384.029 484 389 484 C393.971 484 398 488.029 398 493 C398 497.971 393.971 502 389 502 C384.029 502 380 497.971 380 493 Z" fill="#2c2622"/>
+    <path id="Glint_382" data-name="Glint 382" d="M385 491 C385 489.343 386.343 488 388 488 C389.657 488 391 489.343 391 491 C391 492.657 389.657 494 388 494 C386.343 494 385 492.657 385 491 Z" fill="#ffffff" opacity="0.9"/>
+    <path id="Brow_L" data-name="Brow L" d="M266 456 C278 448 296 446 308 452" fill="none" stroke="#3a2e34" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Brow_R" data-name="Brow R" d="M360 450 C374 442 392 442 404 450" fill="none" stroke="#3a2e34" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Grin" d="M282 560 C306 596 366 600 398 566 C384 604 312 612 282 560 Z" fill="#5c3222" stroke="#3a2e34" stroke-width="5" stroke-linejoin="round"/>
+    <path id="Grin_teeth" data-name="Grin teeth" d="M300 568 C330 584 366 582 388 566" fill="none" stroke="#f8e8d0" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Blush_L" data-name="Blush L" d="M238 548 C238 543.582 244.716 540 253 540 C261.284 540 268 543.582 268 548 C268 552.418 261.284 556 253 556 C244.716 556 238 552.418 238 548 Z" fill="#e07040" opacity="0.4"/>
+    <path id="Blush_R" data-name="Blush R" d="M404 542 C404 537.582 410.716 534 419 534 C427.284 534 434 537.582 434 542 C434 546.418 427.284 550 419 550 C410.716 550 404 546.418 404 542 Z" fill="#e07040" opacity="0.4"/>
+    <path id="Sticky_note" data-name="Sticky note" d="M313.723 608.764 L363.236 615.723 C365.424 616.03 366.948 618.053 366.64 620.24 L360.795 661.832 C360.488 664.019 358.465 665.543 356.277 665.236 L306.764 658.277 C304.576 657.97 303.052 655.947 303.36 653.76 L309.205 612.168 C309.512 609.981 311.535 608.457 313.723 608.764 Z" fill="#f4e8b8" stroke="#3a2e34" stroke-width="3" stroke-miterlimit="10"/>
+    <text transform="matrix(0.99 0.139 -0.139 0.99 333.747 645.912)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="15" fill="#6a5230" text-anchor="middle"><tspan x="0" y="0">ship it</tspan></text>
+    <text transform="matrix(1 0 0 1 500 930)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="58" fill="#e4dac6" text-anchor="middle"><tspan x="0" y="0">JAY SKRIPT</tspan></text>
+    <text transform="matrix(1 0 0 1 500 968)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="23" fill="#9aaac0" letter-spacing="5.06" text-anchor="middle"><tspan x="0" y="0">CLIENT-SIDE ENABLER</tspan></text>
+  </g>
+</svg>
