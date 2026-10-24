@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="500" x2="1000" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#181a1c"/>
+      <stop offset="1" stop-color="#0b0c0e"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5c5a62"/>
+      <stop offset="0.7" stop-color="#3c3a42"/>
+      <stop offset="1" stop-color="#1e1d24"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="190" y1="424" x2="410" y2="424" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#dad6cc"/>
+      <stop offset="1" stop-color="#b8b4aa"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="156" y1="789.518" x2="844" y2="789.518" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#333136"/>
+      <stop offset="1" stop-color="#141316"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="444" y1="549.409" x2="716" y2="549.409" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b4aec6"/>
+      <stop offset="0.6" stop-color="#8e88a4"/>
+      <stop offset="1" stop-color="#5e5a76"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="490" y1="428" x2="670" y2="428" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b4aec6"/>
+      <stop offset="0.6" stop-color="#8e88a4"/>
+      <stop offset="1" stop-color="#5e5a76"/>
+    </linearGradient>
+  </defs>
+  <title>Deprecatia Fade — Mascot Portrait</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#7a7880" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#c2c0ca" stroke-width="3" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Patina_1" data-name="Patina 1" d="M560 245 C560 203.579 611.487 170 675 170 C738.513 170 790 203.579 790 245 C790 286.421 738.513 320 675 320 C611.487 320 560 286.421 560 245 Z" fill="#6e6c78" opacity="0.18"/>
+    <path id="Patina_2" data-name="Patina 2" d="M170 630 C170 591.34 223.726 560 290 560 C356.274 560 410 591.34 410 630 C410 668.66 356.274 700 290 700 C223.726 700 170 668.66 170 630 Z" fill="#6e6c78" opacity="0.16"/>
+    <path id="Sidebar" d="M194 196 L406 196 C408.209 196 410 197.791 410 200 L410 648 C410 650.209 408.209 652 406 652 L194 652 C191.791 652 190 650.209 190 648 L190 200 C190 197.791 191.791 196 194 196 Z" fill="url(#linear-gradient-2)" stroke="#8a867e" stroke-width="4" stroke-miterlimit="10" opacity="0.97"/>
+    <path id="Sidebar_divider" data-name="Sidebar divider" d="M190 258 L410 258" fill="none" stroke="#9a968c" stroke-width="2.5" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Sidebar_titlebar" data-name="Sidebar titlebar" d="M207 212 L321 212 C322.657 212 324 213.343 324 215 L324 227 C324 228.657 322.657 230 321 230 L207 230 C205.343 230 204 228.657 204 227 L204 215 C204 213.343 205.343 212 207 212 Z" fill="#b0aca2" opacity="0.9"/>
+    <path id="Sidebar_dot" data-name="Sidebar dot" d="M382 222 C382 218.686 384.686 216 388 216 C391.314 216 394 218.686 394 222 C394 225.314 391.314 228 388 228 C384.686 228 382 225.314 382 222 Z" fill="#9a968c"/>
+    <path id="Btn_Save" data-name="Btn Save" d="M218 282 L382 282 C384.209 282 386 283.791 386 286 L386 330 C386 332.209 384.209 334 382 334 L218 334 C215.791 334 214 332.209 214 330 L214 286 C214 283.791 215.791 282 218 282 Z" fill="#c6c2b8" stroke="#a29e94" stroke-width="2.5" stroke-miterlimit="10" opacity="0.9"/>
+    <text transform="matrix(1 0 0 1 300 316)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;, sans-serif" font-size="19" fill="#8a867c" text-anchor="middle"><tspan x="0" y="0">Save</tspan></text>
+    <path id="Btn_Apply" data-name="Btn Apply" d="M218 356 L382 356 C384.209 356 386 357.791 386 360 L386 404 C386 406.209 384.209 408 382 408 L218 408 C215.791 408 214 406.209 214 404 L214 360 C214 357.791 215.791 356 218 356 Z" fill="#c6c2b8" stroke="#a29e94" stroke-width="2.5" stroke-miterlimit="10" opacity="0.9"/>
+    <text transform="matrix(1 0 0 1 300 390)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;, sans-serif" font-size="19" fill="#8a867c" text-anchor="middle"><tspan x="0" y="0">Apply</tspan></text>
+    <path id="Btn_Delete" data-name="Btn Delete" d="M218 430 L382 430 C384.209 430 386 431.791 386 434 L386 478 C386 480.209 384.209 482 382 482 L218 482 C215.791 482 214 480.209 214 478 L214 434 C214 431.791 215.791 430 218 430 Z" fill="#c6c2b8" stroke="#a29e94" stroke-width="2.5" stroke-miterlimit="10" opacity="0.9"/>
+    <text transform="matrix(1 0 0 1 300 464)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;, sans-serif" font-size="19" fill="#8a867c" text-anchor="middle"><tspan x="0" y="0">Delete</tspan></text>
+    <path id="Dead_link" data-name="Dead link" d="M218 530 L382 530" fill="none" stroke="#8a867c" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="5 4" opacity="0.55"/>
+    <path id="TODO_note" data-name="TODO note" d="M275.4 508.4 L368.6 531.6 L352.6 595.6 L259.4 572.4 Z" fill="#e4d89a" stroke="#a89a5e" stroke-width="2.5" stroke-linejoin="round"/>
+    <text transform="matrix(0.97 -0.242 0.242 0.97 315.452 557.822)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;, sans-serif" font-size="15" fill="#6e6438" text-anchor="middle"><tspan x="0" y="0">TODO:</tspan></text>
+    <text transform="matrix(0.97 -0.242 0.242 0.97 315.452 575.822)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;, sans-serif" font-size="10" fill="#8a8050" text-anchor="middle"><tspan x="0" y="0">clean up later</tspan></text>
+    <path id="Floor" d="M156 700 L844 700 C765.397 812.213 637.004 879.035 500 879.035 C362.996 879.035 234.603 812.213 156 700 Z" fill="url(#linear-gradient-3)"/>
+    <path id="Floor_line" data-name="Floor line" d="M156 700 L844 700" fill="none" stroke="#0c0b0e" stroke-width="4" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Fade_shadow" data-name="Fade shadow" d="M470 693 C470 686.925 523.726 682 590 682 C656.274 682 710 686.925 710 693 C710 699.075 656.274 704 590 704 C523.726 704 470 699.075 470 693 Z" fill="#060608" opacity="0.4"/>
+    <path id="Shroud" d="M580 400 C648 400 686 452 692 528 C696 586 704 640 716 678 C688 690 676 672 664 690 C650 708 636 678 618 694 C600 710 586 680 570 692 C552 706 540 678 524 688 C500 702 486 676 470 686 C456 694 448 690 444 680 C456 640 464 586 468 528 C474 452 512 400 580 400 Z" fill="url(#linear-gradient-4)" stroke="#221e1c" stroke-width="5" stroke-linejoin="round" opacity="0.82"/>
+    <path id="Hem_fade" data-name="Hem fade" d="M462 660 C540 682 650 680 706 664" fill="none" stroke="#8e88a4" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Hood" d="M580 352 C636 352 670 394 670 446 C670 482 644 504 580 504 C516 504 490 482 490 446 C490 394 524 352 580 352 Z" fill="url(#linear-gradient-5)" stroke="#221e1c" stroke-width="5" stroke-miterlimit="10" opacity="0.88"/>
+    <path id="Face_dusk" data-name="Face dusk" d="M520 441 C520 417.252 546.863 398 580 398 C613.137 398 640 417.252 640 441 C640 464.748 613.137 484 580 484 C546.863 484 520 464.748 520 441 Z" fill="#3a3648" opacity="0.9"/>
+    <path id="Eye_L" data-name="Eye L" d="M540 439 C540 432.925 544.029 428 549 428 C553.971 428 558 432.925 558 439 C558 445.075 553.971 450 549 450 C544.029 450 540 445.075 540 439 Z" fill="#cfc8de" opacity="0.9"/>
+    <path id="Eye_R" data-name="Eye R" d="M602 439 C602 432.925 606.029 428 611 428 C615.971 428 620 432.925 620 439 C620 445.075 615.971 450 611 450 C606.029 450 602 445.075 602 439 Z" fill="#cfc8de" opacity="0.9"/>
+    <path id="Brow_L" data-name="Brow L" d="M534 420 C544 412 556 412 562 418" fill="none" stroke="#5a5470" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Brow_R" data-name="Brow R" d="M598 418 C606 412 618 412 626 420" fill="none" stroke="#5a5470" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Gentle_frown" data-name="Gentle frown" d="M566 466 C574 472 588 472 596 466" fill="none" stroke="#8a84a0" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.85"/>
+    <path id="Arm_L_ink" data-name="Arm L ink" d="M508 540 C470 560 452 590 448 624" fill="none" stroke="#221e1c" stroke-width="26" stroke-linecap="round" stroke-miterlimit="10" opacity="0.85"/>
+    <path id="Arm_L" data-name="Arm L" d="M508 540 C470 560 452 590 448 624" fill="none" stroke="#8e88a4" stroke-width="17" stroke-linecap="round" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Hand_L" data-name="Hand L" d="M430 622.5 C430 615.596 436.716 610 445 610 C453.284 610 460 615.596 460 622.5 C460 629.404 453.284 635 445 635 C436.716 635 430 629.404 430 622.5 Z" fill="#b4aec6" stroke="#221e1c" stroke-width="3" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Fn_list" data-name="Fn list" d="M370 560 C400 540 470 538 500 556 L494 690 C466 706 404 706 378 690 Z" fill="#e8e2cc" stroke="#8a8060" stroke-width="3" stroke-linejoin="round" opacity="0.96"/>
+    <path id="List_curl" data-name="List curl" d="M370 560 C400 576 470 574 500 556" fill="none" stroke="#b0a884" stroke-width="3" stroke-miterlimit="10" opacity="0.8"/>
+    <text transform="matrix(1 0 0 1 436 594)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;, sans-serif" font-size="14" fill="#a09a80" text-anchor="middle"><tspan x="0" y="0">init()</tspan></text>
+    <path id="strike_init__" data-name="strike init()" d="M394 589 L478 589" fill="none" stroke="#9a9478" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.85"/>
+    <text transform="matrix(1 0 0 1 436 620)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;, sans-serif" font-size="14" fill="#a09a80" text-anchor="middle"><tspan x="0" y="0">render()</tspan></text>
+    <path id="strike_render__" data-name="strike render()" d="M394 615 L478 615" fill="none" stroke="#9a9478" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.85"/>
+    <text transform="matrix(1 0 0 1 436 646)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;, sans-serif" font-size="14" fill="#6e6850" text-anchor="middle"><tspan x="0" y="0">onload()</tspan></text>
+    <text transform="matrix(1 0 0 1 436 672)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;, sans-serif" font-size="14" fill="#6e6850" text-anchor="middle"><tspan x="0" y="0">main()</tspan></text>
+    <text transform="matrix(1 0 0 1 436 700)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;, sans-serif" font-size="10" fill="#9a9478" text-anchor="middle"><tspan x="0" y="0">legacy</tspan></text>
+    <path id="Arm_R_ink" data-name="Arm R ink" d="M648 540 C614 566 596 600 590 632" fill="none" stroke="#221e1c" stroke-width="26" stroke-linecap="round" stroke-miterlimit="10" opacity="0.85"/>
+    <path id="Arm_R" data-name="Arm R" d="M648 540 C614 566 596 600 590 632" fill="none" stroke="#8e88a4" stroke-width="17" stroke-linecap="round" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Hand_R" data-name="Hand R" d="M574 632.5 C574 625.596 580.716 620 589 620 C597.284 620 604 625.596 604 632.5 C604 639.404 597.284 645 589 645 C580.716 645 574 639.404 574 632.5 Z" fill="#b4aec6" stroke="#221e1c" stroke-width="3" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Fade_mote_1" data-name="Fade mote 1" d="M700 562.5 C700 561.119 701.119 560 702.5 560 C703.881 560 705 561.119 705 562.5 C705 563.881 703.881 565 702.5 565 C701.119 565 700 563.881 700 562.5 Z" fill="#8e88a4" opacity="0.5"/>
+    <path id="Fade_mote_2" data-name="Fade mote 2" d="M724 602 C724 600.895 724.895 600 726 600 C727.105 600 728 600.895 728 602 C728 603.105 727.105 604 726 604 C724.895 604 724 603.105 724 602 Z" fill="#8e88a4" opacity="0.5"/>
+    <path id="Fade_mote_3" data-name="Fade mote 3" d="M712 642 C712 640.895 712.895 640 714 640 C715.105 640 716 640.895 716 642 C716 643.105 715.105 644 714 644 C712.895 644 712 643.105 712 642 Z" fill="#8e88a4" opacity="0.5"/>
+    <path id="Fade_mote_4" data-name="Fade mote 4" d="M688 682.5 C688 681.119 689.119 680 690.5 680 C691.881 680 693 681.119 693 682.5 C693 683.881 691.881 685 690.5 685 C689.119 685 688 683.881 688 682.5 Z" fill="#8e88a4" opacity="0.5"/>
+    <path id="Fade_mote_5" data-name="Fade mote 5" d="M736 541.5 C736 540.672 736.672 540 737.5 540 C738.328 540 739 540.672 739 541.5 C739 542.328 738.328 543 737.5 543 C736.672 543 736 542.328 736 541.5 Z" fill="#8e88a4" opacity="0.5"/>
+    <text transform="matrix(1 0 0 1 500 930)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="58" fill="#e0dee4" text-anchor="middle"><tspan x="0" y="0">DEPRECATIA FADE</tspan></text>
+    <text transform="matrix(1 0 0 1 500 968)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="23" fill="#aaa8b4" letter-spacing="4.6" text-anchor="middle"><tspan x="0" y="0">KEEPER OF DEPRECATED PATHS</tspan></text>
+  </g>
+</svg>
