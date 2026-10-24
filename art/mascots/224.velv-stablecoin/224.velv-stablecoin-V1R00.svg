@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="500" x2="1000" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141c26"/>
+      <stop offset="1" stop-color="#070a10"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3e5c60"/>
+      <stop offset="0.7" stop-color="#2a3e48"/>
+      <stop offset="1" stop-color="#16222c"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="156" y1="789.518" x2="844" y2="789.518" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#263642"/>
+      <stop offset="1" stop-color="#121c26"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="215" y1="415" x2="785" y2="415" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#202e3c"/>
+      <stop offset="1" stop-color="#101a26"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="499.266" cy="466.521" r="145.947" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eafbf2"/>
+      <stop offset="0.55" stop-color="#bde8d4"/>
+      <stop offset="0.85" stop-color="#8cccb4"/>
+      <stop offset="1" stop-color="#6eae9c"/>
+    </radialGradient>
+  </defs>
+  <title>Velv — Mascot Portrait</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#5e8288" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#c4e4dc" stroke-width="3" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Plate_fleck_1" data-name="Plate fleck 1" d="M192 242 C192 239.791 193.791 238 196 238 C198.209 238 200 239.791 200 242 C200 244.209 198.209 246 196 246 C193.791 246 192 244.209 192 242 Z" fill="#33505a" opacity="0.45"/>
+    <path id="Plate_fleck_2" data-name="Plate fleck 2" d="M802 235.5 C802 233.567 803.567 232 805.5 232 C807.433 232 809 233.567 809 235.5 C809 237.433 807.433 239 805.5 239 C803.567 239 802 237.433 802 235.5 Z" fill="#33505a" opacity="0.45"/>
+    <path id="Plate_fleck_3" data-name="Plate fleck 3" d="M160 524.5 C160 522.015 162.015 520 164.5 520 C166.985 520 169 522.015 169 524.5 C169 526.985 166.985 529 164.5 529 C162.015 529 160 526.985 160 524.5 Z" fill="#33505a" opacity="0.45"/>
+    <path id="Plate_fleck_4" data-name="Plate fleck 4" d="M832 548 C832 545.791 833.791 544 836 544 C838.209 544 840 545.791 840 548 C840 550.209 838.209 552 836 552 C833.791 552 832 550.209 832 548 Z" fill="#33505a" opacity="0.45"/>
+    <path id="Plate_fleck_5" data-name="Plate fleck 5" d="M246 765.5 C246 763.567 247.567 762 249.5 762 C251.433 762 253 763.567 253 765.5 C253 767.433 251.433 769 249.5 769 C247.567 769 246 767.433 246 765.5 Z" fill="#33505a" opacity="0.45"/>
+    <path id="Plate_fleck_6" data-name="Plate fleck 6" d="M756 750.5 C756 748.015 758.015 746 760.5 746 C762.985 746 765 748.015 765 750.5 C765 752.985 762.985 755 760.5 755 C758.015 755 756 752.985 756 750.5 Z" fill="#33505a" opacity="0.45"/>
+    <path id="Plate_fleck_7" data-name="Plate fleck 7" d="M132 397 C132 395.343 133.343 394 135 394 C136.657 394 138 395.343 138 397 C138 398.657 136.657 400 135 400 C133.343 400 132 398.657 132 397 Z" fill="#33505a" opacity="0.45"/>
+    <path id="Plate_fleck_8" data-name="Plate fleck 8" d="M864 395.5 C864 393.567 865.567 392 867.5 392 C869.433 392 871 393.567 871 395.5 C871 397.433 869.433 399 867.5 399 C865.567 399 864 397.433 864 395.5 Z" fill="#33505a" opacity="0.45"/>
+    <path id="Plate_fleck_9" data-name="Plate fleck 9" d="M394 115.5 C394 113.567 395.567 112 397.5 112 C399.433 112 401 113.567 401 115.5 C401 117.433 399.433 119 397.5 119 C395.567 119 394 117.433 394 115.5 Z" fill="#33505a" opacity="0.45"/>
+    <path id="Plate_fleck_10" data-name="Plate fleck 10" d="M610 114 C610 111.791 611.791 110 614 110 C616.209 110 618 111.791 618 114 C618 116.209 616.209 118 614 118 C611.791 118 610 116.209 610 114 Z" fill="#33505a" opacity="0.45"/>
+    <path id="Plate_fleck_11" data-name="Plate fleck 11" d="M332 823 C332 821.343 333.343 820 335 820 C336.657 820 338 821.343 338 823 C338 824.657 336.657 826 335 826 C333.343 826 332 824.657 332 823 Z" fill="#33505a" opacity="0.45"/>
+    <path id="Plate_fleck_12" data-name="Plate fleck 12" d="M666 823.5 C666 821.567 667.567 820 669.5 820 C671.433 820 673 821.567 673 823.5 C673 825.433 671.433 827 669.5 827 C667.567 827 666 825.433 666 823.5 Z" fill="#33505a" opacity="0.45"/>
+    <path id="Floor" d="M156 700 L844 700 C765.397 812.213 637.004 879.035 500 879.035 C362.996 879.035 234.603 812.213 156 700 Z" fill="url(#linear-gradient-2)"/>
+    <path id="Floor_line" data-name="Floor line" d="M156 700 L844 700" fill="none" stroke="#0a1018" stroke-width="4" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Screen_glow_spill" data-name="Screen glow spill" d="M170 420 C170 298.497 317.746 200 500 200 C682.254 200 830 298.497 830 420 C830 541.503 682.254 640 500 640 C317.746 640 170 541.503 170 420 Z" fill="#9fe8cc" opacity="0.08"/>
+    <path id="Slide" d="M233 225 L767 225 C776.941 225 785 233.059 785 243 L785 587 C785 596.941 776.941 605 767 605 L233 605 C223.059 605 215 596.941 215 587 L215 243 C215 233.059 223.059 225 233 225 Z" fill="url(#linear-gradient-3)" stroke="#48606e" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Slide_inner_bezel" data-name="Slide inner bezel" d="M245 243 L755 243 C761.627 243 767 248.373 767 255 L767 575 C767 581.627 761.627 587 755 587 L245 587 C238.373 587 233 581.627 233 575 L233 255 C233 248.373 238.373 243 245 243 Z" fill="none" stroke="#2e4250" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Slide_header_rule" data-name="Slide header rule" d="M233 300 L767 300" fill="none" stroke="#3a5060" stroke-width="3" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Slide_bullet_1" data-name="Slide bullet 1" d="M264 326 L402 326 C405.314 326 408 328.686 408 332 L408 332 C408 335.314 405.314 338 402 338 L264 338 C260.686 338 258 335.314 258 332 L258 332 C258 328.686 260.686 326 264 326 Z" fill="#3a5060" opacity="0.7"/>
+    <path id="Slide_bullet_2" data-name="Slide bullet 2" d="M264 352 L362 352 C365.314 352 368 354.686 368 358 L368 358 C368 361.314 365.314 364 362 364 L264 364 C260.686 364 258 361.314 258 358 L258 358 C258 354.686 260.686 352 264 352 Z" fill="#3a5060" opacity="0.7"/>
+    <path id="Slide_bullet_3" data-name="Slide bullet 3" d="M626 560 L736 560 C739.314 560 742 562.686 742 566 L742 566 C742 569.314 739.314 572 736 572 L626 572 C622.686 572 620 569.314 620 566 L620 566 C620 562.686 622.686 560 626 560 Z" fill="#3a5060" opacity="0.7"/>
+    <path id="Slide_tab" data-name="Slide tab" d="M708 243 L750 243 C754.418 243 758 246.582 758 251 L758 275 C758 279.418 754.418 283 750 283 L708 283 C703.582 283 700 279.418 700 275 L700 251 C700 246.582 703.582 243 708 243 Z" fill="#16222e" stroke="#48606e" stroke-width="3" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 729 272)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;, sans-serif" font-size="24" fill="#9fe8cc" text-anchor="middle"><tspan x="0" y="0">12</tspan></text>
+    <path id="Beam" d="M360 110 L215 240 M640 110 L785 240" fill="none" stroke="#bde8d4" stroke-width="2" stroke-miterlimit="10" opacity="0.1"/>
+    <path id="Velv_shadow" data-name="Velv shadow" d="M390 576 C390 567.163 439.249 560 500 560 C560.751 560 610 567.163 610 576 C610 584.837 560.751 592 500 592 C439.249 592 390 584.837 390 576 Z" fill="#060a0e" opacity="0.5"/>
+    <path id="Glow_outer" data-name="Glow outer" d="M285 445 C285 345.589 381.259 265 500 265 C618.741 265 715 345.589 715 445 C715 544.411 618.741 625 500 625 C381.259 625 285 544.411 285 445 Z" fill="#9fe8cc" opacity="0.08"/>
+    <path id="Glow_mid" data-name="Glow mid" d="M325 447.5 C325 366.038 403.35 300 500 300 C596.65 300 675 366.038 675 447.5 C675 528.962 596.65 595 500 595 C403.35 595 325 528.962 325 447.5 Z" fill="#9fe8cc" opacity="0.12"/>
+    <path id="Glow_inner" data-name="Glow inner" d="M370 447.5 C370 385.368 428.203 335 500 335 C571.797 335 630 385.368 630 447.5 C630 509.632 571.797 560 500 560 C428.203 560 370 509.632 370 447.5 Z" fill="#9fe8cc" opacity="0.16"/>
+    <path id="Velv_body" data-name="Velv body" d="M500 340 C575 340 636 392 644 458 C652 522 620 566 560 584 C510 599 448 596 404 570 C356 542 344 486 360 432 C376 378 430 340 500 340 Z" fill="url(#radial-gradient-2)" stroke="#2e2434" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Velv_core" data-name="Velv core" d="M420 460 C420 421.34 458.056 390 505 390 C551.944 390 590 421.34 590 460 C590 498.66 551.944 530 505 530 C458.056 530 420 498.66 420 460 Z" fill="#f2fdf6" opacity="0.4"/>
+    <path id="Eye_L" data-name="Eye L" d="M442 452 C452 444 468 444 478 452" fill="none" stroke="#2e2434" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Eye_R" data-name="Eye R" d="M522 452 C532 444 548 444 558 452" fill="none" stroke="#2e2434" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Mouth" d="M486 486 C494 490 506 490 514 486" fill="none" stroke="#2e2434" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Cheek_L" data-name="Cheek L" d="M414 480 C414 475.582 420.716 472 429 472 C437.284 472 444 475.582 444 480 C444 484.418 437.284 488 429 488 C420.716 488 414 484.418 414 480 Z" fill="#7ec8ac" opacity="0.45"/>
+    <path id="Cheek_R" data-name="Cheek R" d="M556 480 C556 475.582 562.716 472 571 472 C579.284 472 586 475.582 586 480 C586 484.418 579.284 488 571 488 C562.716 488 556 484.418 556 480 Z" fill="#7ec8ac" opacity="0.45"/>
+    <path id="Peg_line" data-name="Peg line" d="M340 640 L660 640" fill="none" stroke="#9fe8cc" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Peg_dot_L" data-name="Peg dot L" d="M334 640 C334 636.686 336.686 634 340 634 C343.314 634 346 636.686 346 640 C346 643.314 343.314 646 340 646 C336.686 646 334 643.314 334 640 Z" fill="#9fe8cc" opacity="0.8"/>
+    <path id="Peg_dot_R" data-name="Peg dot R" d="M654 640 C654 636.686 656.686 634 660 634 C663.314 634 666 636.686 666 640 C666 643.314 663.314 646 660 646 C656.686 646 654 643.314 654 640 Z" fill="#9fe8cc" opacity="0.8"/>
+    <text transform="matrix(1 0 0 1 500 930)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="58" fill="#d8f0e4" text-anchor="middle"><tspan x="0" y="0">VELV</tspan></text>
+    <text transform="matrix(1 0 0 1 500 968)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="23" fill="#9cc4b4" letter-spacing="4.6" text-anchor="middle"><tspan x="0" y="0">STABLECOIN OF EMPATHY</tspan></text>
+  </g>
+</svg>
