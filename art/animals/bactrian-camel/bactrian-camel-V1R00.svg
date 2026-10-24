@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141610"/>
+      <stop offset="1" stop-color="#060705"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="40" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#dcd8c6"/>
+      <stop offset="0.42" stop-color="#b0a88e"/>
+      <stop offset="0.75" stop-color="#7c7358"/>
+      <stop offset="1" stop-color="#463f2c"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="310" cy="310" r="150" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f0ead0" stop-opacity="0.4"/>
+      <stop offset="0.6" stop-color="#e8e0c4" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#e8e0c4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-3" x1="0" y1="450" x2="0" y2="540" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b4a684"/>
+      <stop offset="1" stop-color="#7e7050"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0" y1="685" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9e8f6c"/>
+      <stop offset="1" stop-color="#4a3e26"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0" y1="540" x2="0" y2="690" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6e4a28"/>
+      <stop offset="1" stop-color="#3a2510"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="569.392" cy="429.401" r="184.608" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b8895a"/>
+      <stop offset="0.55" stop-color="#8e6236"/>
+      <stop offset="1" stop-color="#54381c"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="708.5" cy="325.625" r="14.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5e3a18"/>
+      <stop offset="0.75" stop-color="#241404"/>
+      <stop offset="1" stop-color="#0e0804"/>
+    </radialGradient>
+  </defs>
+  <title>Bactrian Camel — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo" data-name="Plate halo" d="M60 460 C60 216.995 256.995 20 500 20 C743.005 20 940 216.995 940 460 C940 703.005 743.005 900 500 900 C256.995 900 60 703.005 60 460 Z" fill="#dcd8c6" opacity="0.08"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#linear-gradient-2)" stroke="#3a321e" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#f0ead2" stroke-width="3" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Sun_glow" data-name="Sun glow" d="M160 310 C160 232.68 227.157 170 310 170 C392.843 170 460 232.68 460 310 C460 387.32 392.843 450 310 450 C227.157 450 160 387.32 160 310 Z" fill="url(#radial-gradient-1)"/>
+    <path id="Sun_core" data-name="Sun core" d="M290 314 C290 300.745 300.745 290 314 290 C327.255 290 338 300.745 338 314 C338 327.255 327.255 338 314 338 C300.745 338 290 327.255 290 314 Z" fill="#f4efdc" opacity="0.55"/>
+    <path id="Wind_band_1" data-name="Wind band 1" d="M160 360 C370 340 650 346 840 368" fill="none" stroke="#eae4d0" stroke-width="16" stroke-linecap="round" stroke-miterlimit="10" opacity="0.09"/>
+    <path id="Wind_band_2" data-name="Wind band 2" d="M120 470 C350 452 660 458 880 480" fill="none" stroke="#eae4d0" stroke-width="16" stroke-linecap="round" stroke-miterlimit="10" opacity="0.09"/>
+    <path id="Wind_band_3" data-name="Wind band 3" d="M190 580 C410 564 640 568 810 584" fill="none" stroke="#eae4d0" stroke-width="16" stroke-linecap="round" stroke-miterlimit="10" opacity="0.09"/>
+    <path id="Wind_line_1" data-name="Wind line 1" d="M210 410 C430 394 640 398 800 414" fill="none" stroke="#f0eada" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Wind_line_2" data-name="Wind line 2" d="M250 520 C460 506 630 510 770 522" fill="none" stroke="#f0eada" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Spindrift_1" data-name="Spindrift 1" d="M250 212.5 C250 211.119 251.119 210 252.5 210 C253.881 210 255 211.119 255 212.5 C255 213.881 253.881 215 252.5 215 C251.119 215 250 213.881 250 212.5 Z" fill="#f4f0e4" opacity="0.45"/>
+    <path id="Spindrift_2" data-name="Spindrift 2" d="M430 152 C430 150.895 430.895 150 432 150 C433.105 150 434 150.895 434 152 C434 153.105 433.105 154 432 154 C430.895 154 430 153.105 430 152 Z" fill="#f4f0e4" opacity="0.45"/>
+    <path id="Spindrift_3" data-name="Spindrift 3" d="M640 132.5 C640 131.119 641.119 130 642.5 130 C643.881 130 645 131.119 645 132.5 C645 133.881 643.881 135 642.5 135 C641.119 135 640 133.881 640 132.5 Z" fill="#f4f0e4" opacity="0.45"/>
+    <path id="Spindrift_4" data-name="Spindrift 4" d="M790 212 C790 210.895 790.895 210 792 210 C793.105 210 794 210.895 794 212 C794 213.105 793.105 214 792 214 C790.895 214 790 213.105 790 212 Z" fill="#f4f0e4" opacity="0.45"/>
+    <path id="Spindrift_5" data-name="Spindrift 5" d="M180 392.5 C180 391.119 181.119 390 182.5 390 C183.881 390 185 391.119 185 392.5 C185 393.881 183.881 395 182.5 395 C181.119 395 180 393.881 180 392.5 Z" fill="#f4f0e4" opacity="0.45"/>
+    <path id="Spindrift_6" data-name="Spindrift 6" d="M840 372.5 C840 371.119 841.119 370 842.5 370 C843.881 370 845 371.119 845 372.5 C845 373.881 843.881 375 842.5 375 C841.119 375 840 373.881 840 372.5 Z" fill="#f4f0e4" opacity="0.45"/>
+    <path id="Spindrift_7" data-name="Spindrift 7" d="M330 282 C330 280.895 330.895 280 332 280 C333.105 280 334 280.895 334 282 C334 283.105 333.105 284 332 284 C330.895 284 330 283.105 330 282 Z" fill="#f4f0e4" opacity="0.45"/>
+    <path id="Spindrift_8" data-name="Spindrift 8" d="M700 322 C700 320.895 700.895 320 702 320 C703.105 320 704 320.895 704 322 C704 323.105 703.105 324 702 324 C700.895 324 700 323.105 700 322 Z" fill="#f4f0e4" opacity="0.45"/>
+    <path id="Spindrift_9" data-name="Spindrift 9" d="M150 522.5 C150 521.119 151.119 520 152.5 520 C153.881 520 155 521.119 155 522.5 C155 523.881 153.881 525 152.5 525 C151.119 525 150 523.881 150 522.5 Z" fill="#f4f0e4" opacity="0.45"/>
+    <path id="Spindrift_10" data-name="Spindrift 10" d="M860 512 C860 510.895 860.895 510 862 510 C863.105 510 864 510.895 864 512 C864 513.105 863.105 514 862 514 C860.895 514 860 513.105 860 512 Z" fill="#f4f0e4" opacity="0.45"/>
+    <path id="Far_dune" data-name="Far dune" d="M118 486 C260 452 430 442 620 452 C760 458 850 470 882 482 L878 540 C700 556 420 554 240 544 L124 536 Z" fill="url(#linear-gradient-3)" opacity="0.6"/>
+    <path id="Dune_crest" data-name="Dune crest" d="M124 486 C260 452 430 442 620 452 C760 458 850 470 878 482" fill="none" stroke="#eae0c0" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Caravan_body_1" data-name="Caravan body 1" d="M180 464 C180 460.686 184.925 458 191 458 C197.075 458 202 460.686 202 464 C202 467.314 197.075 470 191 470 C184.925 470 180 467.314 180 464 Z" fill="#4e3e22" opacity="0.8"/>
+    <path id="Caravan_hump_1a" data-name="Caravan hump 1a" d="M184 456.5 C184 454.567 185.567 453 187.5 453 C189.433 453 191 454.567 191 456.5 C191 458.433 189.433 460 187.5 460 C185.567 460 184 458.433 184 456.5 Z" fill="#4e3e22" opacity="0.8"/>
+    <path id="Caravan_hump_1b" data-name="Caravan hump 1b" d="M191 456.5 C191 454.567 192.567 453 194.5 453 C196.433 453 198 454.567 198 456.5 C198 458.433 196.433 460 194.5 460 C192.567 460 191 458.433 191 456.5 Z" fill="#4e3e22" opacity="0.8"/>
+    <path id="Caravan_neck_1" data-name="Caravan neck 1" d="M200 460 C204 454 206 450 207 448" fill="none" stroke="#4e3e22" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_leg_1-0" data-name="Caravan leg 1-0" d="M184 464 L184 470" fill="none" stroke="#4e3e22" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_leg_1-1" data-name="Caravan leg 1-1" d="M190 464 L190 470" fill="none" stroke="#4e3e22" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_leg_1-2" data-name="Caravan leg 1-2" d="M196 464 L196 470" fill="none" stroke="#4e3e22" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_body_2" data-name="Caravan body 2" d="M235 466.4 C235 463.418 239.432 461 244.9 461 C250.368 461 254.8 463.418 254.8 466.4 C254.8 469.382 250.368 471.8 244.9 471.8 C239.432 471.8 235 469.382 235 466.4 Z" fill="#4e3e22" opacity="0.8"/>
+    <path id="Caravan_hump_2a" data-name="Caravan hump 2a" d="M238.6 459.65 C238.6 457.91 240.01 456.5 241.75 456.5 C243.49 456.5 244.9 457.91 244.9 459.65 C244.9 461.39 243.49 462.8 241.75 462.8 C240.01 462.8 238.6 461.39 238.6 459.65 Z" fill="#4e3e22" opacity="0.8"/>
+    <path id="Caravan_hump_2b" data-name="Caravan hump 2b" d="M244.9 459.65 C244.9 457.91 246.31 456.5 248.05 456.5 C249.79 456.5 251.2 457.91 251.2 459.65 C251.2 461.39 249.79 462.8 248.05 462.8 C246.31 462.8 244.9 461.39 244.9 459.65 Z" fill="#4e3e22" opacity="0.8"/>
+    <path id="Caravan_neck_2" data-name="Caravan neck 2" d="M253 463 C257 457 258 454 259 452" fill="none" stroke="#4e3e22" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_leg_2-0" data-name="Caravan leg 2-0" d="M239 466 L239 472" fill="none" stroke="#4e3e22" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_leg_2-1" data-name="Caravan leg 2-1" d="M244 466 L244 472" fill="none" stroke="#4e3e22" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_leg_2-2" data-name="Caravan leg 2-2" d="M249 466 L249 472" fill="none" stroke="#4e3e22" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_body_3" data-name="Caravan body 3" d="M288 467.8 C288 464.321 293.171 461.5 299.55 461.5 C305.929 461.5 311.1 464.321 311.1 467.8 C311.1 471.279 305.929 474.1 299.55 474.1 C293.171 474.1 288 471.279 288 467.8 Z" fill="#4e3e22" opacity="0.8"/>
+    <path id="Caravan_hump_3a" data-name="Caravan hump 3a" d="M292.2 459.925 C292.2 457.895 293.845 456.25 295.875 456.25 C297.905 456.25 299.55 457.895 299.55 459.925 C299.55 461.955 297.905 463.6 295.875 463.6 C293.845 463.6 292.2 461.955 292.2 459.925 Z" fill="#4e3e22" opacity="0.8"/>
+    <path id="Caravan_hump_3b" data-name="Caravan hump 3b" d="M299.55 459.925 C299.55 457.895 301.195 456.25 303.225 456.25 C305.255 456.25 306.9 457.895 306.9 459.925 C306.9 461.955 305.255 463.6 303.225 463.6 C301.195 463.6 299.55 461.955 299.55 459.925 Z" fill="#4e3e22" opacity="0.8"/>
+    <path id="Caravan_neck_3" data-name="Caravan neck 3" d="M309 464 C313 457 315 453 316 451" fill="none" stroke="#4e3e22" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_leg_3-0" data-name="Caravan leg 3-0" d="M292 468 L292 474" fill="none" stroke="#4e3e22" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_leg_3-1" data-name="Caravan leg 3-1" d="M298 468 L298 474" fill="none" stroke="#4e3e22" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_leg_3-2" data-name="Caravan leg 3-2" d="M305 468 L305 474" fill="none" stroke="#4e3e22" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_body_4" data-name="Caravan body 4" d="M345 464.2 C345 461.052 349.679 458.5 355.45 458.5 C361.221 458.5 365.9 461.052 365.9 464.2 C365.9 467.348 361.221 469.9 355.45 469.9 C349.679 469.9 345 467.348 345 464.2 Z" fill="#4e3e22" opacity="0.8"/>
+    <path id="Caravan_hump_4a" data-name="Caravan hump 4a" d="M348.8 457.075 C348.8 455.239 350.289 453.75 352.125 453.75 C353.961 453.75 355.45 455.239 355.45 457.075 C355.45 458.911 353.961 460.4 352.125 460.4 C350.289 460.4 348.8 458.911 348.8 457.075 Z" fill="#4e3e22" opacity="0.8"/>
+    <path id="Caravan_hump_4b" data-name="Caravan hump 4b" d="M355.45 457.075 C355.45 455.239 356.939 453.75 358.775 453.75 C360.611 453.75 362.1 455.239 362.1 457.075 C362.1 458.911 360.611 460.4 358.775 460.4 C356.939 460.4 355.45 458.911 355.45 457.075 Z" fill="#4e3e22" opacity="0.8"/>
+    <path id="Caravan_neck_4" data-name="Caravan neck 4" d="M364 460 C368 455 370 451 371 449" fill="none" stroke="#4e3e22" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_leg_4-0" data-name="Caravan leg 4-0" d="M349 464 L349 470" fill="none" stroke="#4e3e22" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_leg_4-1" data-name="Caravan leg 4-1" d="M354 464 L354 470" fill="none" stroke="#4e3e22" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_leg_4-2" data-name="Caravan leg 4-2" d="M360 464 L360 470" fill="none" stroke="#4e3e22" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_body_5" data-name="Caravan body 5" d="M400 466 C400 462.686 404.925 460 411 460 C417.075 460 422 462.686 422 466 C422 469.314 417.075 472 411 472 C404.925 472 400 469.314 400 466 Z" fill="#4e3e22" opacity="0.8"/>
+    <path id="Caravan_hump_5a" data-name="Caravan hump 5a" d="M404 458.5 C404 456.567 405.567 455 407.5 455 C409.433 455 411 456.567 411 458.5 C411 460.433 409.433 462 407.5 462 C405.567 462 404 460.433 404 458.5 Z" fill="#4e3e22" opacity="0.8"/>
+    <path id="Caravan_hump_5b" data-name="Caravan hump 5b" d="M411 458.5 C411 456.567 412.567 455 414.5 455 C416.433 455 418 456.567 418 458.5 C418 460.433 416.433 462 414.5 462 C412.567 462 411 460.433 411 458.5 Z" fill="#4e3e22" opacity="0.8"/>
+    <path id="Caravan_neck_5" data-name="Caravan neck 5" d="M420 462 C424 456 426 452 427 450" fill="none" stroke="#4e3e22" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_leg_5-0" data-name="Caravan leg 5-0" d="M404 466 L404 472" fill="none" stroke="#4e3e22" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_leg_5-1" data-name="Caravan leg 5-1" d="M410 466 L410 472" fill="none" stroke="#4e3e22" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_leg_5-2" data-name="Caravan leg 5-2" d="M416 466 L416 472" fill="none" stroke="#4e3e22" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_body_6" data-name="Caravan body 6" d="M452 468.6 C452 465.783 456.186 463.5 461.35 463.5 C466.514 463.5 470.7 465.783 470.7 468.6 C470.7 471.417 466.514 473.7 461.35 473.7 C456.186 473.7 452 471.417 452 468.6 Z" fill="#4e3e22" opacity="0.8"/>
+    <path id="Caravan_hump_6a" data-name="Caravan hump 6a" d="M455.4 462.225 C455.4 460.582 456.732 459.25 458.375 459.25 C460.018 459.25 461.35 460.582 461.35 462.225 C461.35 463.868 460.018 465.2 458.375 465.2 C456.732 465.2 455.4 463.868 455.4 462.225 Z" fill="#4e3e22" opacity="0.8"/>
+    <path id="Caravan_hump_6b" data-name="Caravan hump 6b" d="M461.35 462.225 C461.35 460.582 462.682 459.25 464.325 459.25 C465.968 459.25 467.3 460.582 467.3 462.225 C467.3 463.868 465.968 465.2 464.325 465.2 C462.682 465.2 461.35 463.868 461.35 462.225 Z" fill="#4e3e22" opacity="0.8"/>
+    <path id="Caravan_neck_6" data-name="Caravan neck 6" d="M469 465 C472 460 474 457 475 455" fill="none" stroke="#4e3e22" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_leg_6-0" data-name="Caravan leg 6-0" d="M455 469 L455 474" fill="none" stroke="#4e3e22" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_leg_6-1" data-name="Caravan leg 6-1" d="M460 469 L460 474" fill="none" stroke="#4e3e22" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_leg_6-2" data-name="Caravan leg 6-2" d="M466 469 L466 474" fill="none" stroke="#4e3e22" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_body_7" data-name="Caravan body 7" d="M500 464.4 C500 461.418 504.432 459 509.9 459 C515.368 459 519.8 461.418 519.8 464.4 C519.8 467.382 515.368 469.8 509.9 469.8 C504.432 469.8 500 467.382 500 464.4 Z" fill="#4e3e22" opacity="0.8"/>
+    <path id="Caravan_hump_7a" data-name="Caravan hump 7a" d="M503.6 457.65 C503.6 455.91 505.01 454.5 506.75 454.5 C508.49 454.5 509.9 455.91 509.9 457.65 C509.9 459.39 508.49 460.8 506.75 460.8 C505.01 460.8 503.6 459.39 503.6 457.65 Z" fill="#4e3e22" opacity="0.8"/>
+    <path id="Caravan_hump_7b" data-name="Caravan hump 7b" d="M509.9 457.65 C509.9 455.91 511.31 454.5 513.05 454.5 C514.79 454.5 516.2 455.91 516.2 457.65 C516.2 459.39 514.79 460.8 513.05 460.8 C511.31 460.8 509.9 459.39 509.9 457.65 Z" fill="#4e3e22" opacity="0.8"/>
+    <path id="Caravan_neck_7" data-name="Caravan neck 7" d="M518 461 C522 455 523 452 524 450" fill="none" stroke="#4e3e22" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_leg_7-0" data-name="Caravan leg 7-0" d="M504 464 L504 470" fill="none" stroke="#4e3e22" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_leg_7-1" data-name="Caravan leg 7-1" d="M509 464 L509 470" fill="none" stroke="#4e3e22" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Caravan_leg_7-2" data-name="Caravan leg 7-2" d="M514 464 L514 470" fill="none" stroke="#4e3e22" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Ground" d="M145.4 685 C320 671 560 691 780 677 L854.6 685 C777.554 806.384 643.772 879.925 500 879.925 C356.228 879.925 222.446 806.384 145.4 685 Z" fill="url(#linear-gradient-4)"/>
+    <path id="Ground_crest" data-name="Ground crest" d="M151.4 683 C320 669 560 689 780 675 L848.6 683" fill="none" stroke="#e4d8b4" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Snow_patch_1" data-name="Snow patch 1" d="M210 722.6 C210 715.641 230.147 710 255 710 C279.853 710 300 715.641 300 722.6 C300 729.559 279.853 735.2 255 735.2 C230.147 735.2 210 729.559 210 722.6 Z" fill="#eceae0" opacity="0.45"/>
+    <path id="Snow_patch_2" data-name="Snow patch 2" d="M380 751.8 C380 746.388 395.67 742 415 742 C434.33 742 450 746.388 450 751.8 C450 757.212 434.33 761.6 415 761.6 C395.67 761.6 380 757.212 380 751.8 Z" fill="#eceae0" opacity="0.45"/>
+    <path id="Snow_patch_3" data-name="Snow patch 3" d="M600 731.4 C600 722.895 624.624 716 655 716 C685.376 716 710 722.895 710 731.4 C710 739.905 685.376 746.8 655 746.8 C624.624 746.8 600 739.905 600 731.4 Z" fill="#eceae0" opacity="0.45"/>
+    <path id="Snow_patch_5" data-name="Snow patch 5" d="M300 816.8 C300 807.522 326.863 800 360 800 C393.137 800 420 807.522 420 816.8 C420 826.078 393.137 833.6 360 833.6 C326.863 833.6 300 826.078 300 816.8 Z" fill="#eceae0" opacity="0.45"/>
+    <path id="Snow_patch_6" data-name="Snow patch 6" d="M520 844 C520 836.268 542.386 830 570 830 C597.614 830 620 836.268 620 844 C620 851.732 597.614 858 570 858 C542.386 858 520 851.732 520 844 Z" fill="#eceae0" opacity="0.45"/>
+    <path id="Ripple_1" data-name="Ripple 1" d="M196 715 C450 708 550 722 804 715" fill="none" stroke="#6e5e3c" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Ripple_2" data-name="Ripple 2" d="M236 745 C450 738 550 752 764 745" fill="none" stroke="#6e5e3c" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.24"/>
+    <path id="Ripple_3" data-name="Ripple 3" d="M288 780 C450 773 550 787 712 780" fill="none" stroke="#6e5e3c" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.18"/>
+    <path id="Tail" d="M382 438 C368 472 362 512 366 548 C368 562 374 570 382 572 C376 556 374 536 378 514 C382 486 388 462 394 444 Z" fill="#3e2a14" stroke="#2a1e10" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Leg_near_1" data-name="Leg near 1" d="M542 536 L578 536 L564 684 L540 684 Z" fill="url(#linear-gradient-5)" stroke="#2a1e10" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Foot_near_1" data-name="Foot near 1" d="M536 678 L570 678 L572 690 L534 690 Z" fill="#2a1a0c" stroke="#2a1e10" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Toe_cleft_near_1" data-name="Toe cleft near 1" d="M554 678 L554 688" fill="none" stroke="#4e3a20" stroke-width="1.5" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Leg_far_2" data-name="Leg far 2" d="M585 536 L615 536 L619 684 L597 684 Z" fill="#4e3418" stroke="#2a1e10" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Foot_far_2" data-name="Foot far 2" d="M593 678 L625 678 L627 690 L591 690 Z" fill="#2a1a0c" stroke="#2a1e10" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Toe_cleft_far_2" data-name="Toe cleft far 2" d="M610 678 L610 688" fill="none" stroke="#4e3a20" stroke-width="1.5" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Leg_far_3" data-name="Leg far 3" d="M417 536 L447 536 L435 684 L413 684 Z" fill="#4e3418" stroke="#2a1e10" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Foot_far_3" data-name="Foot far 3" d="M409 678 L441 678 L443 690 L407 690 Z" fill="#2a1a0c" stroke="#2a1e10" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Toe_cleft_far_3" data-name="Toe cleft far 3" d="M426 678 L426 688" fill="none" stroke="#4e3a20" stroke-width="1.5" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Leg_near_4" data-name="Leg near 4" d="M452 536 L488 536 L490 684 L466 684 Z" fill="url(#linear-gradient-5)" stroke="#2a1e10" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Foot_near_4" data-name="Foot near 4" d="M462 678 L496 678 L498 690 L460 690 Z" fill="#2a1a0c" stroke="#2a1e10" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Toe_cleft_near_4" data-name="Toe cleft near 4" d="M480 678 L480 688" fill="none" stroke="#4e3a20" stroke-width="1.5" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Body" d="M754 330 C748 316 734 308 716 306 C702 304 692 310 686 320 C664 352 642 398 620 446 C608 470 598 482 588 490 C576 470 566 436 560 400 C556 382 548 372 532 370 C514 368 504 378 500 392 C494 378 484 370 468 372 C448 374 432 388 420 408 C402 416 390 428 386 446 C382 478 388 510 402 532 C440 550 510 556 570 552 C600 548 612 538 618 524 C636 480 660 430 684 384 C696 364 706 350 718 342 C732 336 746 332 754 330 Z" fill="url(#radial-gradient-2)" stroke="#2a1e10" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Neck_light" data-name="Neck light" d="M612 470 C640 430 668 380 692 340" fill="none" stroke="#d8b88c" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Hump_dip_shade" data-name="Hump dip shade" d="M492 392 C502 384 512 378 524 376" fill="none" stroke="#3e2a14" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Belly_shade" data-name="Belly shade" d="M440 548 C500 556 560 556 600 548" fill="none" stroke="#3a2812" stroke-width="9" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Barrel_shade" data-name="Barrel shade" d="M420 430 C480 470 540 510 590 540" fill="none" stroke="#54381c" stroke-width="14" stroke-linecap="round" stroke-miterlimit="10" opacity="0.18"/>
+    <path id="Throat_shag_1" data-name="Throat shag 1" d="M614 500 C618 514 626 524 636 530" fill="none" stroke="#3e2a14" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Throat_shag_2" data-name="Throat shag 2" d="M630 470 C634 486 642 496 650 502" fill="none" stroke="#3e2a14" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Throat_shag_3" data-name="Throat shag 3" d="M646 440 C650 456 658 466 666 472" fill="none" stroke="#3e2a14" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Throat_shag_4" data-name="Throat shag 4" d="M662 408 C666 424 674 434 682 440" fill="none" stroke="#3e2a14" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Belly_shag_1" data-name="Belly shag 1" d="M450 548 C452 560 458 568 466 572" fill="none" stroke="#3e2a14" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Belly_shag_2" data-name="Belly shag 2" d="M480 552 C482 564 488 572 496 576" fill="none" stroke="#3e2a14" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Belly_shag_3" data-name="Belly shag 3" d="M510 554 C512 566 518 574 526 578" fill="none" stroke="#3e2a14" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Belly_shag_4" data-name="Belly shag 4" d="M540 554 C542 566 548 572 556 576" fill="none" stroke="#3e2a14" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Hump_tuft_1" data-name="Hump tuft 1" d="M518 380 L524 366 L530 376 L536 368 L541 380" fill="none" stroke="#3e2a14" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Hump_tuft_2" data-name="Hump tuft 2" d="M456 382 L462 368 L468 378 L474 370 L479 382" fill="none" stroke="#3e2a14" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Nape_shag" data-name="Nape shag" d="M640 400 C628 428 612 456 596 478" fill="none" stroke="#3e2a14" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Nostril_slit" data-name="Nostril slit" d="M740 325.5 C740 323.567 742.686 322 746 322 C749.314 322 752 323.567 752 325.5 C752 327.433 749.314 329 746 329 C742.686 329 740 327.433 740 325.5 Z" fill="#1a1008"/>
+    <path id="Mouth" d="M734 344 C724 350 712 352 702 349" fill="none" stroke="#2a1e10" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Eye" d="M694 326 C703 318 716 318 723 326 C716 333 703 333 694 326 Z" fill="url(#radial-gradient-3)" stroke="#2a1e10" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Eye_glint" data-name="Eye glint" d="M707 324 C707 322.895 707.895 322 709 322 C710.105 322 711 322.895 711 324 C711 325.105 710.105 326 709 326 C707.895 326 707 325.105 707 324 Z" fill="#ffffff" opacity="0.85"/>
+    <path id="Upper_lash_1" data-name="Upper lash 1" d="M696 320 L691 313" fill="none" stroke="#2a1e10" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Upper_lash_2" data-name="Upper lash 2" d="M704 317 L701 309" fill="none" stroke="#2a1e10" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Upper_lash_3" data-name="Upper lash 3" d="M713 317 L713 309" fill="none" stroke="#2a1e10" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Upper_lash_4" data-name="Upper lash 4" d="M721 320 L725 313" fill="none" stroke="#2a1e10" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Lower_lash_1" data-name="Lower lash 1" d="M700 331 L696 337" fill="none" stroke="#2a1e10" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Lower_lash_2" data-name="Lower lash 2" d="M709 333 L709 340" fill="none" stroke="#2a1e10" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Lower_lash_3" data-name="Lower lash 3" d="M718 331 L722 337" fill="none" stroke="#2a1e10" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Ear" d="M682 318 C672 308 658 306 648 312 C654 324 668 328 678 324 Z" fill="#6e4a28" stroke="#2a1e10" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Breath_1" data-name="Breath 1" d="M772 326.2 C772 320.567 779.611 316 789 316 C798.389 316 806 320.567 806 326.2 C806 331.833 798.389 336.4 789 336.4 C779.611 336.4 772 331.833 772 326.2 Z" fill="#ecf0ee" opacity="0.28"/>
+    <path id="Breath_2" data-name="Breath 2" d="M790 315.6 C790 306.984 801.641 300 816 300 C830.359 300 842 306.984 842 315.6 C842 324.216 830.359 331.2 816 331.2 C801.641 331.2 790 324.216 790 315.6 Z" fill="#ecf0ee" opacity="0.2"/>
+    <path id="Breath_3" data-name="Breath 3" d="M812 303.8 C812 292.865 826.775 284 845 284 C863.225 284 878 292.865 878 303.8 C878 314.735 863.225 323.6 845 323.6 C826.775 323.6 812 314.735 812 303.8 Z" fill="#ecf0ee" opacity="0.13"/>
+    <path id="Plate_rim" data-name="Plate rim" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="none" stroke="#3a321e" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring_2" data-name="Plate inner ring 2" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#f0ead2" stroke-width="3" stroke-miterlimit="10" opacity="0.28"/>
+    <text transform="matrix(1 0 0 1 500 962)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="56" fill="#ede4c4" text-anchor="middle"><tspan x="0" y="0">BACTRIAN CAMEL</tspan></text>
+  </g>
+</svg>
