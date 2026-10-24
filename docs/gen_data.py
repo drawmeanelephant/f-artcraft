@@ -6,9 +6,10 @@ docs/site/media/ (gitignored — the deploy artifact carries them).
 Deterministic: same repo state -> same output bytes. Run before
 docs/build.sh. Stdlib only so CI needs nothing but python3.
 
-Versioned pieces live at art/<category>/<slug>/<slug>-V*R*.{svg,@2x.png}
-or art/<slug>-V*R*.{svg,@2x.png}; singletons are plain *.svg under
-muse/, guest/, or the repo root."""
+Versioned pieces live at art/<series>/<slug>/<slug>-V*R*.{svg,@2x.png}.
+Named works sit under art/pieces/, the Muse mascot under art/muse/, and
+guest correspondence under art/guest/ — those three series feed the
+dedicated pieces/guest pages instead of the plates catalogs."""
 import json
 import re
 import shutil
@@ -94,11 +95,14 @@ def section(title, base, slugs=None):
 CAT_ORDER = {"animals": 0, "insects": 1, "mascots": 2,
              "vehicles": 0, "furniture": 1}
 MACHINE_CATS = {"vehicles", "furniture"}
+# Series with dedicated pages/sections — not catalog plates.
+NON_CATALOG = {"pieces", "muse", "guest"}
 
 
 def category_sections(art):
     plates, machines = [], []
-    for d in sorted(p for p in art.iterdir() if p.is_dir()):
+    for d in sorted(p for p in art.iterdir()
+                    if p.is_dir() and p.name not in NON_CATALOG):
         title = d.name.replace("-", " ").title()
         s = section(title, d)
         if not s["pieces"]:
@@ -117,7 +121,7 @@ def main():
     art = ROOT / "art"
     plates, machines = category_sections(art)
 
-    faf = collect_versioned(art)
+    faf = collect_versioned(art / "pieces")
     fk_cards = [card(s, faf[s]) for s in ("fart-knocker", "fart-knocker-crest") if s in faf]
     pieces = [
         {"title": "Fart Knocker — self-portrait & crest", "pieces": fk_cards},
@@ -128,12 +132,12 @@ def main():
         {"title": "Empathegy brochure", "pieces":
             [card(s, faf[s]) for s in sorted(faf) if s.startswith("empathegy")]},
         {"title": "Muse — Jolly", "pieces":
-            [singleton(f) for f in sorted((ROOT / "muse").glob("*.svg"))]},
+            [card(s, r) for s, r in sorted(collect_versioned(art / "muse").items())]},
     ]
 
-    guest_dir = ROOT / "guest" / "freebuff"
     guest_secs = [{"title": "Freebuff — DeepSeek, six styles + dusk poster",
-                   "pieces": [singleton(f) for f in sorted(guest_dir.glob("*.svg"))]}]
+                   "pieces": [card(s, r) for s, r in
+                              sorted(collect_versioned(art / "guest").items())]}]
 
     total = sum(len(s["pieces"]) for s in plates + machines + pieces)
     counts = (" · ".join(f"{len(s['pieces'])} {s['title'].lower()}"
@@ -142,9 +146,9 @@ def main():
 
     featured = []
     for label, slug, base in (
-        ("Fart Knocker — self-portrait", "fart-knocker", art),
-        ("Ember dusk", "ember-dusk", art),
-        ("Golly — Filed & Forgotten", "golly", art),
+        ("Fart Knocker — self-portrait", "fart-knocker", art / "pieces"),
+        ("Ember dusk", "ember-dusk", art / "pieces"),
+        ("Golly — Filed & Forgotten", "golly", art / "pieces"),
         ("Addax — field plate", "addax", art / "animals"),
         ("Monarch — field plate", "monarch", art / "insects"),
         ("Steam locomotive", "steam-locomotive", art / "vehicles"),

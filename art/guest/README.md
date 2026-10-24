@@ -24,15 +24,15 @@ translates the same path data.
 
 ```
 mkdir -p work/out
-python3 work/guest-whale-styles.py > work/out/whales.jsonl
-node work/guest-vcmcp.mjs work/out/whales.jsonl           # SVGs, PNGs, natives, and _pixelsrc.png
-python3 work/guest-whale-pixel.py > work/out/pixel.jsonl  # reads that _pixelsrc.png
-node work/guest-vcmcp.mjs work/out/pixel.jsonl
-python3 work/guest-dusk-poster.py > work/out/dusk.jsonl
-node work/guest-vcmcp.mjs work/out/dusk.jsonl
+python3 work/guest/guest-whale-styles.py > work/out/whales.jsonl
+node work/guest/guest-vcmcp.mjs work/out/whales.jsonl           # SVGs, PNGs, natives, and _pixelsrc.png
+python3 work/guest/guest-whale-pixel.py > work/out/pixel.jsonl  # reads that _pixelsrc.png
+node work/guest/guest-vcmcp.mjs work/out/pixel.jsonl
+python3 work/guest/guest-dusk-poster.py > work/out/dusk.jsonl
+node work/guest/guest-vcmcp.mjs work/out/dusk.jsonl
 ```
 
-`work/guest-vcmcp.mjs` is a ~150-line stdio JSON-RPC client for `vectorcraft-cli mcp --headless`
+`work/guest/guest-vcmcp.mjs` is a ~150-line stdio JSON-RPC client for `vectorcraft-cli mcp --headless`
 (looks for `~/.local/bin/vectorcraft-cli`; `VECTORCRAFT_CLI` overrides it). The machine this was
 drawn on had no MCP client of its own, so it speaks the protocol directly. The pixel pass needs
 Pillow.

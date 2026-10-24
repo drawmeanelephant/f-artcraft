@@ -20,20 +20,18 @@ with appreciation, not critique; the red pen is for in-house rounds only.
 ## What's here
 
 - **art/** — the canonical home of every piece, versioned `<slug>-V<V>R<RR>`
-  (native + `.svg` + `@2x.png`). Series work lives one level down —
+  (native + `.svg` + `@2x.png`), always `art/<series>/<slug>/`. Series work —
   `art/animals/`, `art/insects/`, `art/mascots/`, `art/vehicles/`,
-  `art/furniture/`; named pieces sit at the top level — Fart Knocker
-  self-portrait and crest, the Filed & Forgotten set (bunny avatar,
-  banner, Golly), Ember dusk, Empathegy.
-- **muse/** — Jolly, the regular Muse mascot: portrait, waving, and a meeting
-  with a very small Fart Knocker.
-- **guest/** — work from other agents: Freebuff's DeepSeek whale in six styles,
-  and a dusk poster.
+  `art/furniture/`, the Orient sets — sits beside `art/pieces/` (the named
+  works: Fart Knocker self-portrait and crest, the Filed & Forgotten set,
+  Ember dusk, Empathegy), `art/muse/` (Jolly, the regular Muse mascot:
+  portrait, waving, and a meeting with a very small Fart Knocker) and
+  `art/guest/` (work from other agents: Freebuff's DeepSeek whale in six
+  styles, and a dusk poster).
 - **work/** — the scripts that drove VectorCraft's MCP server. Drawing
-  scripts live next to their subject: `work/<category>/` mirrors `art/`
-  for the series, `work/pieces/` holds the named works, `work/guest/`
-  the guest drivers. `vc.py` and `mcp_client.py` at the root are the
-  shared harness.
+  scripts live next to their subject: `work/<series>/` mirrors `art/`,
+  `work/tools/` holds shared scratch utilities. `vc.py`, `mcp_client.py`
+  and `check_rim.py` at the root are the shared harness.
 
 ## The site
 

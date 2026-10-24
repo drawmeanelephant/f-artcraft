@@ -5,7 +5,7 @@ monocle and bowtied tentacles, but under one amber spot on a noir field.
 import sys, os
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from vc import Draw, NONE
-from v2style import backdrop, glow, vignette, sparkle, ship
+from tools.v2style import backdrop, glow, vignette, sparkle, ship
 
 d = Draw()
 d.new_doc("Fart Knocker V2R00", 800, 1000)
