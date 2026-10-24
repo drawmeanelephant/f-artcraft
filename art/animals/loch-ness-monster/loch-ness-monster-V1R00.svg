@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0e1610"/>
+      <stop offset="1" stop-color="#040704"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9a9c6e"/>
+      <stop offset="0.55" stop-color="#62683f"/>
+      <stop offset="1" stop-color="#2c311e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="640" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4a4a2e"/>
+      <stop offset="0.5" stop-color="#2e2e1c"/>
+      <stop offset="1" stop-color="#14140c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0" y1="290" x2="0" y2="740" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#57604c"/>
+      <stop offset="0.55" stop-color="#39412f"/>
+      <stop offset="1" stop-color="#1f2519"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0" y1="300" x2="0" y2="600" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#333b29"/>
+      <stop offset="1" stop-color="#1c2216"/>
+    </linearGradient>
+  </defs>
+  <title>Loch Ness Monster — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#1c2414" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#e0e2c2" stroke-width="3" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Hill_L" data-name="Hill L" d="M140 664 C220 606 300 588 380 608 C440 622 470 644 500 660 C430 668 320 672 240 670 C190 668 155 666 140 664 Z" fill="#26301f" opacity="0.85"/>
+    <path id="Hill_R" data-name="Hill R" d="M520 662 C590 614 670 596 750 610 C810 620 850 644 860 662 C780 670 660 672 580 668 C550 666 530 664 520 662 Z" fill="#222b1b" opacity="0.8"/>
+    <path id="Ruin" d="M216 662 L216 596 L226 596 L226 586 L240 586 L240 596 L248 596 L248 662 Z" fill="#1a2215" opacity="0.85"/>
+    <path id="Ruin_window" data-name="Ruin window" d="M226 620 L240 620 L240 634 L226 634 Z" fill="#9a9c6e" opacity="0.3"/>
+    <path id="Mist_1" data-name="Mist 1" d="M160 590 C300 578 470 598 640 586 C730 580 800 586 845 592" fill="none" stroke="#e0e2c2" stroke-width="9" stroke-linecap="round" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="Mist_2" data-name="Mist 2" d="M160 622 C300 610 470 630 640 618 C730 612 800 618 845 624" fill="none" stroke="#e0e2c2" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.15"/>
+    <path id="Mist_3" data-name="Mist 3" d="M160 646 C300 634 470 654 640 642 C730 636 800 642 845 648" fill="none" stroke="#e0e2c2" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.12"/>
+    <path id="Midge_1" data-name="Midge 1" d="M240 382 C240 380.895 240.895 380 242 380 C243.105 380 244 380.895 244 382 C244 383.105 243.105 384 242 384 C240.895 384 240 383.105 240 382 Z" fill="#d8dab0" opacity="0.4"/>
+    <path id="Midge_2" data-name="Midge 2" d="M330 302.5 C330 301.119 331.119 300 332.5 300 C333.881 300 335 301.119 335 302.5 C335 303.881 333.881 305 332.5 305 C331.119 305 330 303.881 330 302.5 Z" fill="#d8dab0" opacity="0.4"/>
+    <path id="Midge_3" data-name="Midge 3" d="M460 242 C460 240.895 460.895 240 462 240 C463.105 240 464 240.895 464 242 C464 243.105 463.105 244 462 244 C460.895 244 460 243.105 460 242 Z" fill="#d8dab0" opacity="0.4"/>
+    <path id="Midge_4" data-name="Midge 4" d="M640 222.5 C640 221.119 641.119 220 642.5 220 C643.881 220 645 221.119 645 222.5 C645 223.881 643.881 225 642.5 225 C641.119 225 640 223.881 640 222.5 Z" fill="#d8dab0" opacity="0.4"/>
+    <path id="Midge_5" data-name="Midge 5" d="M760 332 C760 330.895 760.895 330 762 330 C763.105 330 764 330.895 764 332 C764 333.105 763.105 334 762 334 C760.895 334 760 333.105 760 332 Z" fill="#d8dab0" opacity="0.4"/>
+    <path id="Midge_6" data-name="Midge 6" d="M840 462 C840 460.895 840.895 460 842 460 C843.105 460 844 460.895 844 462 C844 463.105 843.105 464 842 464 C840.895 464 840 463.105 840 462 Z" fill="#d8dab0" opacity="0.4"/>
+    <path id="Midge_7" data-name="Midge 7" d="M180 522.5 C180 521.119 181.119 520 182.5 520 C183.881 520 185 521.119 185 522.5 C185 523.881 183.881 525 182.5 525 C181.119 525 180 523.881 180 522.5 Z" fill="#d8dab0" opacity="0.4"/>
+    <path id="Midge_8" data-name="Midge 8" d="M280 471.5 C280 470.672 280.672 470 281.5 470 C282.328 470 283 470.672 283 471.5 C283 472.328 282.328 473 281.5 473 C280.672 473 280 472.328 280 471.5 Z" fill="#d8dab0" opacity="0.4"/>
+    <path id="Midge_9" data-name="Midge 9" d="M560 181.5 C560 180.672 560.672 180 561.5 180 C562.328 180 563 180.672 563 181.5 C563 182.328 562.328 183 561.5 183 C560.672 183 560 182.328 560 181.5 Z" fill="#d8dab0" opacity="0.4"/>
+    <path id="Midge_10" data-name="Midge 10" d="M700 271.5 C700 270.672 700.672 270 701.5 270 C702.328 270 703 270.672 703 271.5 C703 272.328 702.328 273 701.5 273 C700.672 273 700 272.328 700 271.5 Z" fill="#d8dab0" opacity="0.4"/>
+    <path id="Loch_water" data-name="Loch water" d="M135.1 668 C330 652 460 662 570 656 C670 650 760 660 864.9 668 C790.187 799.096 650.891 880.038 500 880.038 C349.109 880.038 209.813 799.096 135.1 668 Z" fill="url(#linear-gradient-2)"/>
+    <path id="Water_sheen" data-name="Water sheen" d="M143.1 664 C330 650 460 658 570 652 C670 646 760 656 854.9 664" fill="none" stroke="#c9cc9e" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Log" d="M700 702 C730 694 764 694 790 702 C764 710 730 710 700 702 Z" fill="#2e2e1c" opacity="0.7"/>
+    <path id="Hump_1" data-name="Hump 1" d="M598 704 C604 662 636 640 676 642 C712 644 736 670 740 708 C700 714 640 714 598 704 Z" fill="url(#linear-gradient-3)" stroke="#141a12" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Hump_2" data-name="Hump 2" d="M722 718 C726 692 748 678 774 680 C798 682 812 698 814 720 C784 728 748 728 722 718 Z" fill="url(#linear-gradient-4)" stroke="#141a12" stroke-width="5" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Hump_gleam_1" data-name="Hump gleam 1" d="M622 678 C640 660 668 654 692 660" fill="none" stroke="#a8ac7e" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Hump_gleam_2" data-name="Hump gleam 2" d="M742 696 C754 686 772 684 786 690" fill="none" stroke="#a8ac7e" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Neck" d="M505 735 C500 680 506 612 518 546 C528 490 536 440 534 398 C530 372 514 354 492 346 C470 338 448 340 434 352 C424 360 420 372 424 382 C432 392 448 396 464 392 C478 388 486 378 488 366 C492 398 488 438 478 486 C466 544 458 610 460 668 C461 694 464 716 470 735 Z" fill="url(#linear-gradient-3)" stroke="#141a12" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Brow" d="M440 352 C448 344 462 342 474 346 C470 356 458 362 446 360 C440 358 438 354 440 352 Z" fill="url(#linear-gradient-4)" opacity="0.6"/>
+    <path id="Eye" d="M452 359.5 C452 355.358 454.91 352 458.5 352 C462.09 352 465 355.358 465 359.5 C465 363.642 462.09 367 458.5 367 C454.91 367 452 363.642 452 359.5 Z" fill="#0c100a"/>
+    <path id="Eye_glint" data-name="Eye glint" d="M455 357 C455 355.895 455.895 355 457 355 C458.105 355 459 355.895 459 357 C459 358.105 458.105 359 457 359 C455.895 359 455 358.105 455 357 Z" fill="#ffffff" opacity="0.85"/>
+    <path id="Nostril" d="M430 374.5 C430 373.119 431.567 372 433.5 372 C435.433 372 437 373.119 437 374.5 C437 375.881 435.433 377 433.5 377 C431.567 377 430 375.881 430 374.5 Z" fill="#0c100a" opacity="0.7"/>
+    <path id="Mouth" d="M428 382 C440 388 456 388 468 384" fill="none" stroke="#141a12" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Throat_light" data-name="Throat light" d="M492 380 C494 420 488 466 478 512 C468 558 464 616 466 664" fill="none" stroke="#8a905c" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Ridge_1" data-name="Ridge 1" d="M528 423.5 C528 421.567 530.239 420 533 420 C535.761 420 538 421.567 538 423.5 C538 425.433 535.761 427 533 427 C530.239 427 528 425.433 528 423.5 Z" fill="#57604c" opacity="0.6"/>
+    <path id="Ridge_2" data-name="Ridge 2" d="M526 473.5 C526 471.567 528.239 470 531 470 C533.761 470 536 471.567 536 473.5 C536 475.433 533.761 477 531 477 C528.239 477 526 475.433 526 473.5 Z" fill="#57604c" opacity="0.6"/>
+    <path id="Ridge_3" data-name="Ridge 3" d="M520 523.5 C520 521.567 522.239 520 525 520 C527.761 520 530 521.567 530 523.5 C530 525.433 527.761 527 525 527 C522.239 527 520 525.433 520 523.5 Z" fill="#57604c" opacity="0.6"/>
+    <path id="Ridge_4" data-name="Ridge 4" d="M512 573.5 C512 571.567 514.239 570 517 570 C519.761 570 522 571.567 522 573.5 C522 575.433 519.761 577 517 577 C514.239 577 512 575.433 512 573.5 Z" fill="#57604c" opacity="0.6"/>
+    <path id="Ridge_5" data-name="Ridge 5" d="M506 623.5 C506 621.567 508.239 620 511 620 C513.761 620 516 621.567 516 623.5 C516 625.433 513.761 627 511 627 C508.239 627 506 625.433 506 623.5 Z" fill="#57604c" opacity="0.6"/>
+    <path id="Neck_wake" data-name="Neck wake" d="M452 736 C470 726 506 722 534 728 C556 733 566 740 566 746 C540 752 496 752 468 748 C456 744 450 740 452 736 Z" fill="#5a5a38" opacity="0.7"/>
+    <path id="Ripple_N1" data-name="Ripple N1" d="M404 738 C404 746.837 446.981 754 500 754 C553.019 754 596 746.837 596 738" fill="none" stroke="#d8dab0" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Ripple_N2" data-name="Ripple N2" d="M360 744 C360 757.255 422.68 768 500 768 C577.32 768 640 757.255 640 744" fill="none" stroke="#d8dab0" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Ripple_H1a" data-name="Ripple H1a" d="M568 710 C568 718.837 612.772 726 668 726 C723.228 726 768 718.837 768 710" fill="none" stroke="#d8dab0" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Ripple_H1b" data-name="Ripple H1b" d="M550 716 C550 727.046 602.83 736 668 736 C733.17 736 786 727.046 786 716" fill="none" stroke="#d8dab0" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.26"/>
+    <path id="Ripple_H2a" data-name="Ripple H2a" d="M698 722 C698 728.075 720.386 733 748 733 C775.614 733 798 728.075 798 722" fill="none" stroke="#d8dab0" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Fetch_1" data-name="Fetch 1" d="M170 700 C240 694 320 694 390 700" fill="none" stroke="#d8dab0" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.25"/>
+    <path id="Fetch_2" data-name="Fetch 2" d="M210 724 C290 718 380 718 450 724" fill="none" stroke="#d8dab0" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.18"/>
+    <path id="Plate_rim" data-name="Plate rim" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="none" stroke="#0a0e08" stroke-width="6" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 960)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="44" fill="#e4e2c8" text-anchor="middle"><tspan x="0" y="0">LOCH NESS MONSTER</tspan></text>
+  </g>
+</svg>
