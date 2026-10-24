@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#08131e"/>
+      <stop offset="1" stop-color="#02060b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="40" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4e86a0"/>
+      <stop offset="0.45" stop-color="#22475e"/>
+      <stop offset="1" stop-color="#0a1b28"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="123" r="160" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8f2f6"/>
+      <stop offset="0.6" stop-color="#9cd4e2"/>
+      <stop offset="1" stop-color="#5e9ab0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-3" x1="500" y1="90" x2="500" y2="700" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c8ecf4" stop-opacity="0.48"/>
+      <stop offset="0.55" stop-color="#9ad4e4" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#9ad4e4" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="500" y1="90" x2="500" y2="700" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c8ecf4" stop-opacity="0.42"/>
+      <stop offset="0.55" stop-color="#9ad4e4" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#9ad4e4" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="500" y1="90" x2="500" y2="700" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c8ecf4" stop-opacity="0.36"/>
+      <stop offset="0.55" stop-color="#9ad4e4" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#9ad4e4" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="500" y1="90" x2="500" y2="700" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c8ecf4" stop-opacity="0.32"/>
+      <stop offset="0.55" stop-color="#9ad4e4" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#9ad4e4" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="500" y1="90" x2="500" y2="700" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c8ecf4" stop-opacity="0.34"/>
+      <stop offset="0.55" stop-color="#9ad4e4" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#9ad4e4" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="0" y1="720" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d2030"/>
+      <stop offset="1" stop-color="#04090f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="500" y1="570" x2="520" y2="790" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4256"/>
+      <stop offset="1" stop-color="#0d1822"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="500" cy="441.639" r="322" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46647a"/>
+      <stop offset="0.55" stop-color="#2a4256"/>
+      <stop offset="1" stop-color="#101d29"/>
+    </radialGradient>
+  </defs>
+  <title>Manta Ray — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#linear-gradient-2)" stroke="#0c2230" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#9cc4d6" stroke-width="3" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Oculus" d="M340 123 C340 87.101 411.634 58 500 58 C588.366 58 660 87.101 660 123 C660 158.899 588.366 188 500 188 C411.634 188 340 158.899 340 123 Z" fill="url(#radial-gradient-1)" opacity="0.75"/>
+    <path id="Oculus_core" data-name="Oculus core" d="M420 102 C420 82.118 455.817 66 500 66 C544.183 66 580 82.118 580 102 C580 121.882 544.183 138 500 138 C455.817 138 420 121.882 420 102 Z" fill="#f0fbfc" opacity="0.55"/>
+    <path id="Shaft_1" data-name="Shaft 1" d="M452 96 L500 92 L566 700 L470 700 Z" fill="url(#linear-gradient-3)"/>
+    <path id="Shaft_2" data-name="Shaft 2" d="M508 92 L546 96 L700 620 L628 636 Z" fill="url(#linear-gradient-4)"/>
+    <path id="Shaft_3" data-name="Shaft 3" d="M400 104 L438 98 L344 560 L292 540 Z" fill="url(#linear-gradient-5)"/>
+    <path id="Shaft_4" data-name="Shaft 4" d="M560 100 L596 108 L760 480 L712 466 Z" fill="url(#linear-gradient-6)"/>
+    <path id="Shaft_5" data-name="Shaft 5" d="M466 98 L498 94 L404 660 L356 648 Z" fill="url(#linear-gradient-7)"/>
+    <path id="Mote_1" data-name="Mote 1" d="M392 242.5 C392 241.119 393.119 240 394.5 240 C395.881 240 397 241.119 397 242.5 C397 243.881 395.881 245 394.5 245 C393.119 245 392 243.881 392 242.5 Z" fill="#eaf6fa" opacity="0.55"/>
+    <path id="Mote_2" data-name="Mote 2" d="M468 182 C468 180.895 468.895 180 470 180 C471.105 180 472 180.895 472 182 C472 183.105 471.105 184 470 184 C468.895 184 468 183.105 468 182 Z" fill="#eaf6fa" opacity="0.6"/>
+    <path id="Mote_3" data-name="Mote 3" d="M560 222.5 C560 221.119 561.119 220 562.5 220 C563.881 220 565 221.119 565 222.5 C565 223.881 563.881 225 562.5 225 C561.119 225 560 223.881 560 222.5 Z" fill="#eaf6fa" opacity="0.5"/>
+    <path id="Mote_4" data-name="Mote 4" d="M640 302 C640 300.895 640.895 300 642 300 C643.105 300 644 300.895 644 302 C644 303.105 643.105 304 642 304 C640.895 304 640 303.105 640 302 Z" fill="#eaf6fa" opacity="0.45"/>
+    <path id="Mote_5" data-name="Mote 5" d="M430 332 C430 330.895 430.895 330 432 330 C433.105 330 434 330.895 434 332 C434 333.105 433.105 334 432 334 C430.895 334 430 333.105 430 332 Z" fill="#eaf6fa" opacity="0.4"/>
+    <path id="Mote_6" data-name="Mote 6" d="M520 302.5 C520 301.119 521.119 300 522.5 300 C523.881 300 525 301.119 525 302.5 C525 303.881 523.881 305 522.5 305 C521.119 305 520 303.881 520 302.5 Z" fill="#eaf6fa" opacity="0.55"/>
+    <path id="Mote_7" data-name="Mote 7" d="M610 412 C610 410.895 610.895 410 612 410 C613.105 410 614 410.895 614 412 C614 413.105 613.105 414 612 414 C610.895 414 610 413.105 610 412 Z" fill="#eaf6fa" opacity="0.35"/>
+    <path id="Mote_8" data-name="Mote 8" d="M360 422.5 C360 421.119 361.119 420 362.5 420 C363.881 420 365 421.119 365 422.5 C365 423.881 363.881 425 362.5 425 C361.119 425 360 423.881 360 422.5 Z" fill="#eaf6fa" opacity="0.4"/>
+    <path id="Mote_9" data-name="Mote 9" d="M476 442 C476 440.895 476.895 440 478 440 C479.105 440 480 440.895 480 442 C480 443.105 479.105 444 478 444 C476.895 444 476 443.105 476 442 Z" fill="#eaf6fa" opacity="0.45"/>
+    <path id="Mote_10" data-name="Mote 10" d="M688 362 C688 360.895 688.895 360 690 360 C691.105 360 692 360.895 692 362 C692 363.105 691.105 364 690 364 C688.895 364 688 363.105 688 362 Z" fill="#eaf6fa" opacity="0.3"/>
+    <path id="Mote_11" data-name="Mote 11" d="M300 332 C300 330.895 300.895 330 302 330 C303.105 330 304 330.895 304 332 C304 333.105 303.105 334 302 334 C300.895 334 300 333.105 300 332 Z" fill="#eaf6fa" opacity="0.35"/>
+    <path id="Mote_12" data-name="Mote 12" d="M420 562 C420 560.895 420.895 560 422 560 C423.105 560 424 560.895 424 562 C424 563.105 423.105 564 422 564 C420.895 564 420 563.105 420 562 Z" fill="#eaf6fa" opacity="0.3"/>
+    <path id="Mote_13" data-name="Mote 13" d="M580 542.5 C580 541.119 581.119 540 582.5 540 C583.881 540 585 541.119 585 542.5 C585 543.881 583.881 545 582.5 545 C581.119 545 580 543.881 580 542.5 Z" fill="#eaf6fa" opacity="0.35"/>
+    <path id="Mote_14" data-name="Mote 14" d="M720 302.5 C720 301.119 721.119 300 722.5 300 C723.881 300 725 301.119 725 302.5 C725 303.881 723.881 305 722.5 305 C721.119 305 720 303.881 720 302.5 Z" fill="#eaf6fa" opacity="0.3"/>
+    <path id="Mote_15" data-name="Mote 15" d="M340 502 C340 500.895 340.895 500 342 500 C343.105 500 344 500.895 344 502 C344 503.105 343.105 504 342 504 C340.895 504 340 503.105 340 502 Z" fill="#eaf6fa" opacity="0.3"/>
+    <path id="Mote_16" data-name="Mote 16" d="M660 502 C660 500.895 660.895 500 662 500 C663.105 500 664 500.895 664 502 C664 503.105 663.105 504 662 504 C660.895 504 660 503.105 660 502 Z" fill="#eaf6fa" opacity="0.3"/>
+    <path id="Abyss" d="M188.8 742 C330 728 420 752 500 744 C590 736 670 754 811.2 742 C731.585 829.842 618.553 879.946 500 879.946 C381.447 879.946 268.415 829.842 188.8 742 Z" fill="url(#linear-gradient-8)"/>
+    <path id="Tail" d="M494.5 590.4 L499.9 597 L505 603.7 L509.7 610.5 L514 617.4 L518.1 624.4 L521.8 631.5 L525.2 638.7 L528.2 646 L530.9 653.4 L533.3 660.9 L535.3 668.5 L537 676.2 L538.4 684 L539.4 691.9 L540.1 700 L540.5 708.1 L540.5 716.4 L540.1 724.7 L539.4 733.2 L538.4 741.8 L537 750.5 L535.3 759.3 L533.2 768.2 L530.8 777.2 L528 786.3 L524.8 795.6 L527.2 796.4 L530.8 787.3 L534 778.2 L536.9 769.2 L539.4 760.3 L541.6 751.4 L543.5 742.6 L545 733.9 L546.1 725.3 L546.9 716.7 L547.4 708.1 L547.5 699.7 L547.2 691.3 L546.6 683 L545.6 674.7 L544.3 666.6 L542.6 658.5 L540.5 650.4 L538.1 642.5 L535.3 634.6 L532.1 626.8 L528.6 619 L524.7 611.4 L520.4 603.8 L515.8 596.3 L510.8 588.9 L505.5 581.6 Z" fill="url(#linear-gradient-9)" stroke="#241e28" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Tail_ridge" data-name="Tail ridge" d="M500 592 C540 660 552 714 534 772" fill="none" stroke="#7fa8bc" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Wing_disc" data-name="Wing disc" d="M500 296 C490 288 480 286 468 288 C452 290 442 296 436 306 C380 312 310 348 252 400 C214 432 192 446 178 452 C186 458 198 466 212 474 C300 512 380 548 448 580 C470 589 488 594 500 596 C512 594 530 589 552 580 C620 548 700 512 788 474 C802 466 814 458 822 452 C808 446 786 432 748 400 C690 348 620 312 564 306 C558 296 548 290 532 288 C520 286 510 288 500 296 Z" fill="url(#radial-gradient-2)" stroke="#241e28" stroke-width="7" stroke-miterlimit="10"/>
+    <path id="Trailing_shade" data-name="Trailing shade" d="M212 474 C300 512 380 548 448 580 C470 589 488 594 500 596 C512 594 530 589 552 580 C620 548 700 512 788 474" fill="none" stroke="#08141e" stroke-width="20" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Leading_light_L" data-name="Leading light L" d="M436 306 C380 312 310 348 252 400 C214 432 192 446 178 452" fill="none" stroke="#c4e4ee" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Leading_light_R" data-name="Leading light R" d="M564 306 C620 312 690 348 748 400 C786 432 808 446 822 452" fill="none" stroke="#c4e4ee" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Cephalic_light" data-name="Cephalic light" d="M436 306 C452 296 480 292 500 296 C520 292 548 296 564 306" fill="none" stroke="#c4e4ee" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Shoulder_mark_L" data-name="Shoulder mark L" d="M470 330 C436 340 398 362 366 392 C392 388 428 378 456 366 C466 352 470 340 470 330 Z" fill="#a8c4d2" opacity="0.38"/>
+    <path id="Shoulder_mark_R" data-name="Shoulder mark R" d="M530 330 C564 340 602 362 634 392 C608 388 572 378 544 366 C534 352 530 340 530 330 Z" fill="#a8c4d2" opacity="0.38"/>
+    <path id="Mid-back_sheen" data-name="Mid-back sheen" d="M484 322 C482 372 488 432 500 496 C512 432 518 372 516 322 C506 316 494 316 484 322 Z" fill="#7fa0b4" opacity="0.26"/>
+    <path id="Wing_fleck_1" data-name="Wing fleck 1" d="M300 424 C300 421.791 301.791 420 304 420 C306.209 420 308 421.791 308 424 C308 426.209 306.209 428 304 428 C301.791 428 300 426.209 300 424 Z" fill="#0c1822" opacity="0.35"/>
+    <path id="Wing_fleck_2" data-name="Wing fleck 2" d="M360 395 C360 393.343 361.343 392 363 392 C364.657 392 366 393.343 366 395 C366 396.657 364.657 398 363 398 C361.343 398 360 396.657 360 395 Z" fill="#0c1822" opacity="0.35"/>
+    <path id="Wing_fleck_3" data-name="Wing fleck 3" d="M430 453.5 C430 451.567 431.567 450 433.5 450 C435.433 450 437 451.567 437 453.5 C437 455.433 435.433 457 433.5 457 C431.567 457 430 455.433 430 453.5 Z" fill="#0c1822" opacity="0.35"/>
+    <path id="Wing_fleck_4" data-name="Wing fleck 4" d="M570 453.5 C570 451.567 571.567 450 573.5 450 C575.433 450 577 451.567 577 453.5 C577 455.433 575.433 457 573.5 457 C571.567 457 570 455.433 570 453.5 Z" fill="#0c1822" opacity="0.35"/>
+    <path id="Wing_fleck_5" data-name="Wing fleck 5" d="M640 395 C640 393.343 641.343 392 643 392 C644.657 392 646 393.343 646 395 C646 396.657 644.657 398 643 398 C641.343 398 640 396.657 640 395 Z" fill="#0c1822" opacity="0.35"/>
+    <path id="Wing_fleck_6" data-name="Wing fleck 6" d="M700 424 C700 421.791 701.791 420 704 420 C706.209 420 708 421.791 708 424 C708 426.209 706.209 428 704 428 C701.791 428 700 426.209 700 424 Z" fill="#0c1822" opacity="0.35"/>
+    <path id="Wing_fleck_7" data-name="Wing fleck 7" d="M252 449 C252 447.343 253.343 446 255 446 C256.657 446 258 447.343 258 449 C258 450.657 256.657 452 255 452 C253.343 452 252 450.657 252 449 Z" fill="#0c1822" opacity="0.35"/>
+    <path id="Wing_fleck_8" data-name="Wing fleck 8" d="M748 449 C748 447.343 749.343 446 751 446 C752.657 446 754 447.343 754 449 C754 450.657 752.657 452 751 452 C749.343 452 748 450.657 748 449 Z" fill="#0c1822" opacity="0.35"/>
+    <path id="Wing_fleck_9" data-name="Wing fleck 9" d="M470 523 C470 521.343 471.343 520 473 520 C474.657 520 476 521.343 476 523 C476 524.657 474.657 526 473 526 C471.343 526 470 524.657 470 523 Z" fill="#0c1822" opacity="0.35"/>
+    <path id="Wing_fleck_10" data-name="Wing fleck 10" d="M530 523 C530 521.343 531.343 520 533 520 C534.657 520 536 521.343 536 523 C536 524.657 534.657 526 533 526 C531.343 526 530 524.657 530 523 Z" fill="#0c1822" opacity="0.35"/>
+    <path id="Eye_L" data-name="Eye L" d="M440 319.5 C440 316.462 443.582 314 448 314 C452.418 314 456 316.462 456 319.5 C456 322.538 452.418 325 448 325 C443.582 325 440 322.538 440 319.5 Z" fill="#0d1822" opacity="0.85"/>
+    <path id="Eye_R" data-name="Eye R" d="M544 319.5 C544 316.462 547.582 314 552 314 C556.418 314 560 316.462 560 319.5 C560 322.538 556.418 325 552 325 C547.582 325 544 322.538 544 319.5 Z" fill="#0d1822" opacity="0.85"/>
+    <path id="Eye_glint_L" data-name="Eye glint L" d="M444 318 C444 316.895 444.895 316 446 316 C447.105 316 448 316.895 448 318 C448 319.105 447.105 320 446 320 C444.895 320 444 319.105 444 318 Z" fill="#cfedf4" opacity="0.7"/>
+    <path id="Eye_glint_R" data-name="Eye glint R" d="M548 318 C548 316.895 548.895 316 550 316 C551.105 316 552 316.895 552 318 C552 319.105 551.105 320 550 320 C548.895 320 548 319.105 548 318 Z" fill="#cfedf4" opacity="0.7"/>
+    <text transform="matrix(1 0 0 1 500 962)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="58" fill="#cfe2ea" text-anchor="middle"><tspan x="0" y="0">MANTA RAY</tspan></text>
+  </g>
+</svg>
