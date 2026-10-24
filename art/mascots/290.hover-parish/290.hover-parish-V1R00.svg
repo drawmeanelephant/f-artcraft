@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="500" x2="1000" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#10141a"/>
+      <stop offset="1" stop-color="#05070b"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#333c46"/>
+      <stop offset="0.7" stop-color="#20262e"/>
+      <stop offset="1" stop-color="#11161c"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="485" cy="347.5" r="110" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8b25c" stop-opacity="0.16"/>
+      <stop offset="0.6" stop-color="#e8b25c" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#e8b25c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="452" y1="394" x2="518" y2="394" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5e472e"/>
+      <stop offset="1" stop-color="#3a2c1c"/>
+    </linearGradient>
+  </defs>
+  <title>Hover Parish — Mascot Portrait</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo" data-name="Plate halo" d="M60 460 C60 216.995 256.995 20 500 20 C743.005 20 940 216.995 940 460 C940 703.005 743.005 900 500 900 C256.995 900 60 703.005 60 460 Z" fill="#333c46" opacity="0.1"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#5e6e7e" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#b8c8d4" stroke-width="3" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Plate_fleck_1" data-name="Plate fleck 1" d="M200 255.5 C200 253.567 201.567 252 203.5 252 C205.433 252 207 253.567 207 255.5 C207 257.433 205.433 259 203.5 259 C201.567 259 200 257.433 200 255.5 Z" fill="#4e5a66" opacity="0.45"/>
+    <path id="Plate_fleck_2" data-name="Plate fleck 2" d="M802 250 C802 247.791 803.791 246 806 246 C808.209 246 810 247.791 810 250 C810 252.209 808.209 254 806 254 C803.791 254 802 252.209 802 250 Z" fill="#4e5a66" opacity="0.45"/>
+    <path id="Plate_fleck_3" data-name="Plate fleck 3" d="M162 476 C162 473.791 163.791 472 166 472 C168.209 472 170 473.791 170 476 C170 478.209 168.209 480 166 480 C163.791 480 162 478.209 162 476 Z" fill="#4e5a66" opacity="0.45"/>
+    <path id="Plate_fleck_4" data-name="Plate fleck 4" d="M838 487.5 C838 485.567 839.567 484 841.5 484 C843.433 484 845 485.567 845 487.5 C845 489.433 843.433 491 841.5 491 C839.567 491 838 489.433 838 487.5 Z" fill="#4e5a66" opacity="0.45"/>
+    <path id="Plate_fleck_5" data-name="Plate fleck 5" d="M266 771 C266 769.343 267.343 768 269 768 C270.657 768 272 769.343 272 771 C272 772.657 270.657 774 269 774 C267.343 774 266 772.657 266 771 Z" fill="#4e5a66" opacity="0.45"/>
+    <path id="Plate_fleck_6" data-name="Plate fleck 6" d="M734 775.5 C734 773.567 735.567 772 737.5 772 C739.433 772 741 773.567 741 775.5 C741 777.433 739.433 779 737.5 779 C735.567 779 734 777.433 734 775.5 Z" fill="#4e5a66" opacity="0.45"/>
+    <path id="Plate_fleck_7" data-name="Plate fleck 7" d="M136 367 C136 365.343 137.343 364 139 364 C140.657 364 142 365.343 142 367 C142 368.657 140.657 370 139 370 C137.343 370 136 368.657 136 367 Z" fill="#4e5a66" opacity="0.45"/>
+    <path id="Plate_fleck_8" data-name="Plate fleck 8" d="M862 357 C862 355.343 863.343 354 865 354 C866.657 354 868 355.343 868 357 C868 358.657 866.657 360 865 360 C863.343 360 862 358.657 862 357 Z" fill="#4e5a66" opacity="0.45"/>
+    <path id="Plate_fleck_9" data-name="Plate fleck 9" d="M398 111.5 C398 109.567 399.567 108 401.5 108 C403.433 108 405 109.567 405 111.5 C405 113.433 403.433 115 401.5 115 C399.567 115 398 113.433 398 111.5 Z" fill="#4e5a66" opacity="0.45"/>
+    <path id="Plate_fleck_10" data-name="Plate fleck 10" d="M604 108 C604 105.791 605.791 104 608 104 C610.209 104 612 105.791 612 108 C612 110.209 610.209 112 608 112 C605.791 112 604 110.209 604 108 Z" fill="#4e5a66" opacity="0.45"/>
+    <path id="Plate_fleck_11" data-name="Plate fleck 11" d="M326 154.5 C326 153.119 327.119 152 328.5 152 C329.881 152 331 153.119 331 154.5 C331 155.881 329.881 157 328.5 157 C327.119 157 326 155.881 326 154.5 Z" fill="#4e5a66" opacity="0.45"/>
+    <path id="Plate_fleck_12" data-name="Plate fleck 12" d="M688 151 C688 149.343 689.343 148 691 148 C692.657 148 694 149.343 694 151 C694 152.657 692.657 154 691 154 C689.343 154 688 152.657 688 151 Z" fill="#4e5a66" opacity="0.45"/>
+    <path id="Body_copy_1" data-name="Body copy 1" d="M262 176 L742 176" fill="none" stroke="#5a6a74" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.32"/>
+    <path id="Body_copy_2" data-name="Body copy 2" d="M262 204 L700 204" fill="none" stroke="#5a6a74" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.32"/>
+    <path id="Body_copy_3" data-name="Body copy 3" d="M262 232 L640 232" fill="none" stroke="#5a6a74" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.32"/>
+    <path id="Body_copy_4" data-name="Body copy 4" d="M672 232 L758 232" fill="none" stroke="#5a6a74" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.32"/>
+    <path id="Body_copy_5" data-name="Body copy 5" d="M262 260 L520 260" fill="none" stroke="#5a6a74" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.32"/>
+    <path id="Body_copy_6" data-name="Body copy 6" d="M262 288 L380 288" fill="none" stroke="#5a6a74" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.32"/>
+    <path id="Body_copy_7" data-name="Body copy 7" d="M224 406 L560 406" fill="none" stroke="#5a6a74" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.32"/>
+    <path id="Body_copy_8" data-name="Body copy 8" d="M224 458 L368 458" fill="none" stroke="#5a6a74" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.32"/>
+    <path id="Body_copy_9" data-name="Body copy 9" d="M398 458 L690 458" fill="none" stroke="#5a6a74" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.32"/>
+    <path id="Body_copy_10" data-name="Body copy 10" d="M224 510 L380 510" fill="none" stroke="#5a6a74" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.32"/>
+    <path id="Body_copy_11" data-name="Body copy 11" d="M224 538 L304 538" fill="none" stroke="#5a6a74" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.32"/>
+    <path id="Body_copy_12" data-name="Body copy 12" d="M224 566 L560 566" fill="none" stroke="#5a6a74" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.32"/>
+    <path id="Body_copy_13" data-name="Body copy 13" d="M224 594 L640 594" fill="none" stroke="#5a6a74" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.32"/>
+    <path id="Body_copy_14" data-name="Body copy 14" d="M224 622 L480 622" fill="none" stroke="#5a6a74" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.32"/>
+    <path id="Body_copy_15" data-name="Body copy 15" d="M224 650 L520 650" fill="none" stroke="#5a6a74" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.32"/>
+    <path id="Body_copy_16" data-name="Body copy 16" d="M224 678 L360 678" fill="none" stroke="#5a6a74" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.32"/>
+    <path id="The_asterisk" data-name="The asterisk" d="M383 448 L383 468" fill="none" stroke="#e8c060" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.95"/>
+    <path id="The_asterisk-2" data-name="The asterisk" d="M391.7 453 L374.3 463" fill="none" stroke="#e8c060" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.95"/>
+    <path id="The_asterisk-3" data-name="The asterisk" d="M374.3 453 L391.7 463" fill="none" stroke="#e8c060" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.95"/>
+    <path id="Dead_asterisk" data-name="Dead asterisk" d="M656 223 L656 241" fill="none" stroke="#6a7684" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Dead_asterisk-2" data-name="Dead asterisk" d="M663.83 227.5 L648.17 236.5" fill="none" stroke="#6a7684" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Dead_asterisk-3" data-name="Dead asterisk" d="M648.17 227.5 L663.83 236.5" fill="none" stroke="#6a7684" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Hover_ring" data-name="Hover ring" d="M366 458 C366 448.611 373.611 441 383 441 C392.389 441 400 448.611 400 458 C400 467.389 392.389 475 383 475 C373.611 475 366 467.389 366 458 Z" fill="none" stroke="#e8c060" stroke-width="2" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Cursor" d="M382 458 L382 492 L390 485 L395 498 L401 495 L396 482 L407 482 Z" fill="#f2eee0" stroke="#181410" stroke-width="2.5" stroke-linejoin="round"/>
+    <path id="Still_tick_1" data-name="Still tick 1" d="M370 444 L374 440" fill="none" stroke="#e8c060" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Still_tick_2" data-name="Still tick 2" d="M398 444 L402 440" fill="none" stroke="#e8c060" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Tip_shadow" data-name="Tip shadow" d="M355 262 L631 262 C639 262 643 266 643 274 L643 418 C643 426 639 430 631 430 L355 430 C347 430 343 426 343 418 L343 274 C343 266 347 262 355 262 Z" fill="#000000" opacity="0.45"/>
+    <path id="Tooltip" d="M347 254 L623 254 C631 254 635 258 635 266 L635 410 C635 418 631 422 623 422 L347 422 C339 422 335 418 335 410 L335 266 C335 258 339 254 347 254 Z" fill="#0b0d12" stroke="#d8d4c4" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Tip_tail" data-name="Tip tail" d="M400 420 L436 420 L390 452 Z" fill="#0b0d12" stroke="#d8d4c4" stroke-width="2.5" stroke-linejoin="round"/>
+    <path id="Tail_join" data-name="Tail join" d="M403 417 L433 417" fill="none" stroke="#0b0d12" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Chapel_glow" data-name="Chapel glow" d="M375 347.5 C375 312.982 424.249 285 485 285 C545.751 285 595 312.982 595 347.5 C595 382.018 545.751 410 485 410 C424.249 410 375 382.018 375 347.5 Z" fill="url(#radial-gradient-2)"/>
+    <path id="Liturgy_stubs" data-name="Liturgy stubs" d="M400 278 L430 278 M540 278 L570 278" fill="none" stroke="#6a7684" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Officiant_robe" data-name="Officiant robe" d="M472 344 C470 330 468 318 470 308 C472 296 482 292 485 292 C488 292 498 296 500 308 C502 318 500 330 498 344 Z" fill="#2e2438" stroke="#1a1420" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Officiant_face" data-name="Officiant face" d="M476 306 C476 301.582 480.029 298 485 298 C489.971 298 494 301.582 494 306 C494 310.418 489.971 314 485 314 C480.029 314 476 310.418 476 306 Z" fill="#e8d8bc"/>
+    <path id="Officiant_eye_L" data-name="Officiant eye L" d="M479 305 C479 303.895 479.672 303 480.5 303 C481.328 303 482 303.895 482 305 C482 306.105 481.328 307 480.5 307 C479.672 307 479 306.105 479 305 Z" fill="#1a1420"/>
+    <path id="Officiant_eye_R" data-name="Officiant eye R" d="M488 305 C488 303.895 488.672 303 489.5 303 C490.328 303 491 303.895 491 305 C491 306.105 490.328 307 489.5 307 C488.672 307 488 306.105 488 305 Z" fill="#1a1420"/>
+    <path id="Officiant_mouth" data-name="Officiant mouth" d="M483 310.5 C483 309.672 483.895 309 485 309 C486.105 309 487 309.672 487 310.5 C487 311.328 486.105 312 485 312 C483.895 312 483 311.328 483 310.5 Z" fill="#1a1420" opacity="0.7"/>
+    <path id="Officiant_arm_L" data-name="Officiant arm L" d="M470 332 C462 328 456 322 452 314" fill="none" stroke="#2e2438" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Officiant_arm_R" data-name="Officiant arm R" d="M500 332 C508 328 514 322 518 314" fill="none" stroke="#2e2438" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Stole" d="M480 320 L479 340 M490 320 L491 340" fill="none" stroke="#c9a44e" stroke-width="2" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Altar" d="M456 378 L514 378 C516.667 378 518 379.333 518 382 L518 406 C518 408.667 516.667 410 514 410 L456 410 C453.333 410 452 408.667 452 406 L452 382 C452 379.333 453.333 378 456 378 Z" fill="url(#linear-gradient-2)" stroke="#1a1208" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Open_text" data-name="Open text" d="M466 372 C472 368 480 368 485 372 C490 368 498 368 504 372 L504 380 C498 376 490 376 485 380 C480 376 472 376 466 380 Z" fill="#ede6d2" stroke="#8a8474" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Spine_fold" data-name="Spine fold" d="M485 372 L485 379" fill="none" stroke="#8a8474" stroke-width="1.5" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Candle_1_glow" data-name="Candle 1 glow" d="M426 367 C426 358.716 431.373 352 438 352 C444.627 352 450 358.716 450 367 C450 375.284 444.627 382 438 382 C431.373 382 426 375.284 426 367 Z" fill="#e8b25c" opacity="0.18"/>
+    <path id="Candle_1" data-name="Candle 1" d="M437 372 L439 372 C440.333 372 441 372.667 441 374 L441 388 C441 389.333 440.333 390 439 390 L437 390 C435.667 390 435 389.333 435 388 L435 374 C435 372.667 435.667 372 437 372 Z" fill="#e8dfc8" stroke="#9a8f72" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Flame_1" data-name="Flame 1" d="M438 360 C442 366 442 370 438 372 C434 370 434 366 438 360 Z" fill="#f0c060"/>
+    <path id="Candle_2_glow" data-name="Candle 2 glow" d="M524 367 C524 358.716 529.373 352 536 352 C542.627 352 548 358.716 548 367 C548 375.284 542.627 382 536 382 C529.373 382 524 375.284 524 367 Z" fill="#e8b25c" opacity="0.18"/>
+    <path id="Candle_2" data-name="Candle 2" d="M535 372 L537 372 C538.333 372 539 372.667 539 374 L539 388 C539 389.333 538.333 390 537 390 L535 390 C533.667 390 533 389.333 533 388 L533 374 C533 372.667 533.667 372 535 372 Z" fill="#e8dfc8" stroke="#9a8f72" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Flame_2" data-name="Flame 2" d="M536 360 C540 366 540 370 536 372 C532 370 532 366 536 360 Z" fill="#f0c060"/>
+    <path id="Congregant_1" data-name="Congregant 1" d="M373 410 C371 386 381.5 370 390 366 C398.5 370 409 386 407 410 Z" fill="#4a3a52" stroke="#14101a" stroke-width="2.5" stroke-miterlimit="10" opacity="0.95"/>
+    <path id="Hood_fold_1" data-name="Hood fold 1" d="M390 370 L390 392" fill="none" stroke="#14101a" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.57"/>
+    <path id="Congregant_2" data-name="Congregant 2" d="M432 410 C430 386 441 370 450 366 C459 370 470 386 468 410 Z" fill="#3e4a3c" stroke="#14101a" stroke-width="2.5" stroke-miterlimit="10" opacity="0.95"/>
+    <path id="Hood_fold_2" data-name="Hood fold 2" d="M450 370 L450 392" fill="none" stroke="#14101a" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.57"/>
+    <path id="Congregant_3" data-name="Congregant 3" d="M507 410 C505 386 516 370 525 366 C534 370 545 386 543 410 Z" fill="#523a32" stroke="#14101a" stroke-width="2.5" stroke-miterlimit="10" opacity="0.95"/>
+    <path id="Hood_fold_3" data-name="Hood fold 3" d="M525 370 L525 392" fill="none" stroke="#14101a" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.57"/>
+    <path id="Congregant_4" data-name="Congregant 4" d="M568 410 C566 386 576.5 370 585 366 C593.5 370 604 386 602 410 Z" fill="#3a4252" stroke="#14101a" stroke-width="2.5" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Hood_fold_4" data-name="Hood fold 4" d="M585 370 L585 392" fill="none" stroke="#14101a" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.24"/>
+    <path id="Mote_1" data-name="Mote 1" d="M250 332.5 C250 331.119 251.119 330 252.5 330 C253.881 330 255 331.119 255 332.5 C255 333.881 253.881 335 252.5 335 C251.119 335 250 333.881 250 332.5 Z" fill="#b8c8d4" opacity="0.3"/>
+    <path id="Mote_2" data-name="Mote 2" d="M760 322.5 C760 321.119 761.119 320 762.5 320 C763.881 320 765 321.119 765 322.5 C765 323.881 763.881 325 762.5 325 C761.119 325 760 323.881 760 322.5 Z" fill="#b8c8d4" opacity="0.3"/>
+    <path id="Mote_3" data-name="Mote 3" d="M200 562 C200 560.895 200.895 560 202 560 C203.105 560 204 560.895 204 562 C204 563.105 203.105 564 202 564 C200.895 564 200 563.105 200 562 Z" fill="#b8c8d4" opacity="0.3"/>
+    <path id="Mote_4" data-name="Mote 4" d="M790 582 C790 580.895 790.895 580 792 580 C793.105 580 794 580.895 794 582 C794 583.105 793.105 584 792 584 C790.895 584 790 583.105 790 582 Z" fill="#b8c8d4" opacity="0.3"/>
+    <path id="Mote_5" data-name="Mote 5" d="M440 142 C440 140.895 440.895 140 442 140 C443.105 140 444 140.895 444 142 C444 143.105 443.105 144 442 144 C440.895 144 440 143.105 440 142 Z" fill="#b8c8d4" opacity="0.3"/>
+    <path id="Mote_6" data-name="Mote 6" d="M600 152.5 C600 151.119 601.119 150 602.5 150 C603.881 150 605 151.119 605 152.5 C605 153.881 603.881 155 602.5 155 C601.119 155 600 153.881 600 152.5 Z" fill="#b8c8d4" opacity="0.3"/>
+    <path id="Mote_7" data-name="Mote 7" d="M700 422 C700 420.895 700.895 420 702 420 C703.105 420 704 420.895 704 422 C704 423.105 703.105 424 702 424 C700.895 424 700 423.105 700 422 Z" fill="#b8c8d4" opacity="0.3"/>
+    <text transform="matrix(1 0 0 1 500 930)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="56" fill="#e4eaf0" text-anchor="middle"><tspan x="0" y="0">HOVER PARISH</tspan></text>
+    <text transform="matrix(1 0 0 1 500 968)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="23" fill="#9db0c0" letter-spacing="4.6" text-anchor="middle"><tspan x="0" y="0">ATTENTION IS PRAYER</tspan></text>
+  </g>
+</svg>
