@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="500" x2="1000" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#101512"/>
+      <stop offset="1" stop-color="#070a08"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#49524e"/>
+      <stop offset="0.7" stop-color="#2b332f"/>
+      <stop offset="1" stop-color="#141917"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="156" y1="789.518" x2="844" y2="789.518" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#262e2a"/>
+      <stop offset="1" stop-color="#101512"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="350" y1="436" x2="650" y2="436" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0c120e"/>
+      <stop offset="1" stop-color="#050908"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="385" y1="440" x2="615" y2="440" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#081b11"/>
+      <stop offset="1" stop-color="#030b07"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="385" y1="307" x2="615" y2="307" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0e2a1c"/>
+      <stop offset="1" stop-color="#081b11"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="310" y1="666" x2="690" y2="666" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5a645c"/>
+      <stop offset="1" stop-color="#333b36"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="360" y1="636" x2="376" y2="636" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8d9b0"/>
+      <stop offset="1" stop-color="#b09b6e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="628" y1="636" x2="644" y2="636" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8d9b0"/>
+      <stop offset="1" stop-color="#b09b6e"/>
+    </linearGradient>
+  </defs>
+  <title>Rotatui — Necropolis Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#6e7a66" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#d6e2d4" stroke-width="3" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Plate_fleck_1" data-name="Plate fleck 1" d="M193 237 C193 234.791 194.791 233 197 233 C199.209 233 201 234.791 201 237 C201 239.209 199.209 241 197 241 C194.791 241 193 239.209 193 237 Z" fill="#59645c" opacity="0.35"/>
+    <path id="Plate_fleck_2" data-name="Plate fleck 2" d="M801 233.5 C801 231.567 802.567 230 804.5 230 C806.433 230 808 231.567 808 233.5 C808 235.433 806.433 237 804.5 237 C802.567 237 801 235.433 801 233.5 Z" fill="#59645c" opacity="0.35"/>
+    <path id="Plate_fleck_3" data-name="Plate fleck 3" d="M157 528.5 C157 526.015 159.015 524 161.5 524 C163.985 524 166 526.015 166 528.5 C166 530.985 163.985 533 161.5 533 C159.015 533 157 530.985 157 528.5 Z" fill="#59645c" opacity="0.35"/>
+    <path id="Plate_fleck_4" data-name="Plate fleck 4" d="M837 548 C837 545.791 838.791 544 841 544 C843.209 544 845 545.791 845 548 C845 550.209 843.209 552 841 552 C838.791 552 837 550.209 837 548 Z" fill="#59645c" opacity="0.35"/>
+    <path id="Plate_fleck_5" data-name="Plate fleck 5" d="M247 769.5 C247 767.567 248.567 766 250.5 766 C252.433 766 254 767.567 254 769.5 C254 771.433 252.433 773 250.5 773 C248.567 773 247 771.433 247 769.5 Z" fill="#59645c" opacity="0.35"/>
+    <path id="Plate_fleck_6" data-name="Plate fleck 6" d="M753 753.5 C753 751.015 755.015 749 757.5 749 C759.985 749 762 751.015 762 753.5 C762 755.985 759.985 758 757.5 758 C755.015 758 753 755.985 753 753.5 Z" fill="#59645c" opacity="0.35"/>
+    <path id="Plate_fleck_7" data-name="Plate fleck 7" d="M133 396 C133 394.343 134.343 393 136 393 C137.657 393 139 394.343 139 396 C139 397.657 137.657 399 136 399 C134.343 399 133 397.657 133 396 Z" fill="#59645c" opacity="0.35"/>
+    <path id="Plate_fleck_8" data-name="Plate fleck 8" d="M864 394.5 C864 392.567 865.567 391 867.5 391 C869.433 391 871 392.567 871 394.5 C871 396.433 869.433 398 867.5 398 C865.567 398 864 396.433 864 394.5 Z" fill="#59645c" opacity="0.35"/>
+    <path id="Plate_fleck_9" data-name="Plate fleck 9" d="M391 116.5 C391 114.567 392.567 113 394.5 113 C396.433 113 398 114.567 398 116.5 C398 118.433 396.433 120 394.5 120 C392.567 120 391 118.433 391 116.5 Z" fill="#59645c" opacity="0.35"/>
+    <path id="Plate_fleck_10" data-name="Plate fleck 10" d="M613 114 C613 111.791 614.791 110 617 110 C619.209 110 621 111.791 621 114 C621 116.209 619.209 118 617 118 C614.791 118 613 116.209 613 114 Z" fill="#59645c" opacity="0.35"/>
+    <path id="Plate_fleck_11" data-name="Plate fleck 11" d="M333 826 C333 824.343 334.343 823 336 823 C337.657 823 339 824.343 339 826 C339 827.657 337.657 829 336 829 C334.343 829 333 827.657 333 826 Z" fill="#59645c" opacity="0.35"/>
+    <path id="Plate_fleck_12" data-name="Plate fleck 12" d="M665 824.5 C665 822.567 666.567 821 668.5 821 C670.433 821 672 822.567 672 824.5 C672 826.433 670.433 828 668.5 828 C666.567 828 665 826.433 665 824.5 Z" fill="#59645c" opacity="0.35"/>
+    <path id="Mortar_1" data-name="Mortar 1" d="M195 180 L805 180" fill="none" stroke="#0e1311" stroke-width="4" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Mortar_2" data-name="Mortar 2" d="M145 250 L855 250" fill="none" stroke="#0e1311" stroke-width="4" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Mortar_3" data-name="Mortar 3" d="M113 320 L887 320" fill="none" stroke="#0e1311" stroke-width="4" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Mortar_4" data-name="Mortar 4" d="M94 390 L906 390" fill="none" stroke="#0e1311" stroke-width="4" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Mortar_5" data-name="Mortar 5" d="M109 590 L891 590" fill="none" stroke="#0e1311" stroke-width="4" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Mortar_6" data-name="Mortar 6" d="M139 660 L861 660" fill="none" stroke="#0e1311" stroke-width="4" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Wall_joint_1" data-name="Wall joint 1" d="M300 180 L300 250" fill="none" stroke="#0e1311" stroke-width="4" stroke-miterlimit="10" opacity="0.25"/>
+    <path id="Wall_joint_2" data-name="Wall joint 2" d="M640 180 L640 250" fill="none" stroke="#0e1311" stroke-width="4" stroke-miterlimit="10" opacity="0.25"/>
+    <path id="Wall_joint_3" data-name="Wall joint 3" d="M230 250 L230 320" fill="none" stroke="#0e1311" stroke-width="4" stroke-miterlimit="10" opacity="0.25"/>
+    <path id="Wall_joint_4" data-name="Wall joint 4" d="M500 250 L500 320" fill="none" stroke="#0e1311" stroke-width="4" stroke-miterlimit="10" opacity="0.25"/>
+    <path id="Wall_joint_5" data-name="Wall joint 5" d="M760 250 L760 320" fill="none" stroke="#0e1311" stroke-width="4" stroke-miterlimit="10" opacity="0.25"/>
+    <path id="Wall_joint_6" data-name="Wall joint 6" d="M200 320 L200 390" fill="none" stroke="#0e1311" stroke-width="4" stroke-miterlimit="10" opacity="0.25"/>
+    <path id="Wall_joint_7" data-name="Wall joint 7" d="M800 320 L800 390" fill="none" stroke="#0e1311" stroke-width="4" stroke-miterlimit="10" opacity="0.25"/>
+    <path id="Wall_joint_8" data-name="Wall joint 8" d="M280 590 L280 660" fill="none" stroke="#0e1311" stroke-width="4" stroke-miterlimit="10" opacity="0.25"/>
+    <path id="Wall_joint_9" data-name="Wall joint 9" d="M720 590 L720 660" fill="none" stroke="#0e1311" stroke-width="4" stroke-miterlimit="10" opacity="0.25"/>
+    <path id="Wall_joint_10" data-name="Wall joint 10" d="M420 660 L420 700" fill="none" stroke="#0e1311" stroke-width="4" stroke-miterlimit="10" opacity="0.25"/>
+    <path id="Wall_joint_11" data-name="Wall joint 11" d="M580 660 L580 700" fill="none" stroke="#0e1311" stroke-width="4" stroke-miterlimit="10" opacity="0.25"/>
+    <path id="Floor" d="M156 700 L844 700 C765.397 812.213 637.004 879.035 500 879.035 C362.996 879.035 234.603 812.213 156 700 Z" fill="url(#linear-gradient-2)"/>
+    <path id="Floor_line" data-name="Floor line" d="M156 700 L844 700" fill="none" stroke="#0a0e0c" stroke-width="4" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Niche_recess" data-name="Niche recess" d="M350 650 L350 350 C350 268 412 222 500 222 C588 222 650 268 650 350 L650 650 Z" fill="url(#linear-gradient-3)"/>
+    <path id="Niche_surround" data-name="Niche surround" d="M340 660 L340 350 C340 262 408 210 500 210 C592 210 660 262 660 350 L660 660" fill="none" stroke="#1c2420" stroke-width="26" stroke-miterlimit="10"/>
+    <path id="Niche_edge_light" data-name="Niche edge light" d="M352 648 L352 352 C352 272 412 226 500 226 C588 226 648 272 648 352 L648 648" fill="none" stroke="#5a645c" stroke-width="3" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Voussoir_1" data-name="Voussoir 1" d="M333 239 L306 230" fill="none" stroke="#0e1311" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Voussoir_2" data-name="Voussoir 2" d="M371 178 L350 159" fill="none" stroke="#0e1311" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Voussoir_3" data-name="Voussoir 3" d="M429 137 L418 111" fill="none" stroke="#0e1311" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Voussoir_4" data-name="Voussoir 4" d="M500 122 L500 94" fill="none" stroke="#0e1311" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Voussoir_5" data-name="Voussoir 5" d="M571 137 L582 111" fill="none" stroke="#0e1311" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Voussoir_6" data-name="Voussoir 6" d="M629 178 L650 159" fill="none" stroke="#0e1311" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Voussoir_7" data-name="Voussoir 7" d="M667 239 L694 230" fill="none" stroke="#0e1311" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Screen_spill" data-name="Screen spill" d="M330 490 C330 401.634 406.112 330 500 330 C593.888 330 670 401.634 670 490 C670 578.366 593.888 650 500 650 C406.112 650 330 578.366 330 490 Z" fill="#6ae0a0" opacity="0.12"/>
+    <path id="Screen" d="M391 295 L609 295 C612.314 295 615 297.686 615 301 L615 579 C615 582.314 612.314 585 609 585 L391 585 C387.686 585 385 582.314 385 579 L385 301 C385 297.686 387.686 295 391 295 Z" fill="url(#linear-gradient-4)" stroke="#141a16" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Screen_header" data-name="Screen header" d="M391 295 L609 295 C612.314 295 615 297.686 615 301 L615 313 C615 316.314 612.314 319 609 319 L391 319 C387.686 319 385 316.314 385 313 L385 301 C385 297.686 387.686 295 391 295 Z" fill="url(#linear-gradient-5)" stroke="#141a16" stroke-width="3" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 397 311)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11" fill="#3f6b52"><tspan x="0" y="0">OSSUARY.OS</tspan></text>
+    <path id="Header_lamp" data-name="Header lamp" d="M592 307 C592 304.239 594.239 302 597 302 C599.761 302 602 304.239 602 307 C602 309.761 599.761 312 597 312 C594.239 312 592 309.761 592 307 Z" fill="#a8f0c0" opacity="0.85"/>
+    <path id="Scanline_1" data-name="Scanline 1" d="M392 350 L608 350" fill="none" stroke="#9ae8b0" stroke-width="2" stroke-miterlimit="10" opacity="0.08"/>
+    <path id="Scanline_2" data-name="Scanline 2" d="M392 400 L608 400" fill="none" stroke="#9ae8b0" stroke-width="2" stroke-miterlimit="10" opacity="0.08"/>
+    <path id="Scanline_3" data-name="Scanline 3" d="M392 450 L608 450" fill="none" stroke="#9ae8b0" stroke-width="2" stroke-miterlimit="10" opacity="0.08"/>
+    <path id="Scanline_4" data-name="Scanline 4" d="M392 500 L608 500" fill="none" stroke="#9ae8b0" stroke-width="2" stroke-miterlimit="10" opacity="0.08"/>
+    <path id="Scanline_5" data-name="Scanline 5" d="M392 550 L608 550" fill="none" stroke="#9ae8b0" stroke-width="2" stroke-miterlimit="10" opacity="0.08"/>
+    <text transform="matrix(1 0 0 1 397 346)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="12" fill="#a8f0c0"><tspan x="0" y="0">OSSUARY KIOSK — NIGHT DESK</tspan></text>
+    <text transform="matrix(1 0 0 1 397 372)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11" fill="#3f6b52"><tspan x="0" y="0">PLOT 12C ....... RESERVED</tspan></text>
+    <text transform="matrix(1 0 0 1 397 390)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11" fill="#3f6b52"><tspan x="0" y="0">KEYS ......... DISPATCHER</tspan></text>
+    <text transform="matrix(1 0 0 1 397 408)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11" fill="#3f6b52"><tspan x="0" y="0">GATE LANTERN ....... LIT</tspan></text>
+    <path id="PLOTS_halo" data-name="PLOTS halo" d="M404 457 C404 448.716 411.163 442 420 442 C428.837 442 436 448.716 436 457 C436 465.284 428.837 472 420 472 C411.163 472 404 465.284 404 457 Z" fill="#9ae8b0" opacity="0.14"/>
+    <path id="PLOTS_wax" data-name="PLOTS wax" d="M417 466 L423 466 C424.105 466 425 466.895 425 468 L425 486 C425 487.105 424.105 488 423 488 L417 488 C415.895 488 415 487.105 415 486 L415 468 C415 466.895 415.895 466 417 466 Z" fill="#123426" stroke="#3f6b52" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="PLOTS_flame" data-name="PLOTS flame" d="M420 466 C416 459 418 453 420 449 C422 453 424 459 420 466 Z" fill="#a8f0c0"/>
+    <text transform="matrix(1 0 0 1 420 502)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="9" fill="#a8f0c0" text-anchor="middle"><tspan x="0" y="0">PLOTS</tspan></text>
+    <path id="INTER_halo" data-name="INTER halo" d="M449 457 C449 448.716 456.163 442 465 442 C473.837 442 481 448.716 481 457 C481 465.284 473.837 472 465 472 C456.163 472 449 465.284 449 457 Z" fill="#9ae8b0" opacity="0.14"/>
+    <path id="INTER_wax" data-name="INTER wax" d="M462 466 L468 466 C469.105 466 470 466.895 470 468 L470 486 C470 487.105 469.105 488 468 488 L462 488 C460.895 488 460 487.105 460 486 L460 468 C460 466.895 460.895 466 462 466 Z" fill="#123426" stroke="#3f6b52" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="INTER_flame" data-name="INTER flame" d="M465 466 C461 459 463 453 465 449 C467 453 469 459 465 466 Z" fill="#a8f0c0"/>
+    <text transform="matrix(1 0 0 1 465 502)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="9" fill="#a8f0c0" text-anchor="middle"><tspan x="0" y="0">INTER</tspan></text>
+    <path id="LEDGER_halo" data-name="LEDGER halo" d="M494 457 C494 448.716 501.163 442 510 442 C518.837 442 526 448.716 526 457 C526 465.284 518.837 472 510 472 C501.163 472 494 465.284 494 457 Z" fill="#9ae8b0" opacity="0.14"/>
+    <path id="LEDGER_wax" data-name="LEDGER wax" d="M507 466 L513 466 C514.105 466 515 466.895 515 468 L515 486 C515 487.105 514.105 488 513 488 L507 488 C505.895 488 505 487.105 505 486 L505 468 C505 466.895 505.895 466 507 466 Z" fill="#123426" stroke="#3f6b52" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="LEDGER_flame" data-name="LEDGER flame" d="M510 466 C506 459 508 453 510 449 C512 453 514 459 510 466 Z" fill="#a8f0c0"/>
+    <text transform="matrix(1 0 0 1 510 502)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="9" fill="#a8f0c0" text-anchor="middle"><tspan x="0" y="0">LEDGER</tspan></text>
+    <path id="EXHUME_halo" data-name="EXHUME halo" d="M539 457 C539 448.716 546.163 442 555 442 C563.837 442 571 448.716 571 457 C571 465.284 563.837 472 555 472 C546.163 472 539 465.284 539 457 Z" fill="#9ae8b0" opacity="0.14"/>
+    <path id="EXHUME_wax" data-name="EXHUME wax" d="M552 466 L558 466 C559.105 466 560 466.895 560 468 L560 486 C560 487.105 559.105 488 558 488 L552 488 C550.895 488 550 487.105 550 486 L550 468 C550 466.895 550.895 466 552 466 Z" fill="#123426" stroke="#3f6b52" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="EXHUME_flame" data-name="EXHUME flame" d="M555 466 C551 459 553 453 555 449 C557 453 559 459 555 466 Z" fill="#a8f0c0"/>
+    <text transform="matrix(1 0 0 1 555 502)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="9" fill="#a8f0c0" text-anchor="middle"><tspan x="0" y="0">EXHUME</tspan></text>
+    <path id="EXIT_halo" data-name="EXIT halo" d="M584 457 C584 448.716 591.163 442 600 442 C608.837 442 616 448.716 616 457 C616 465.284 608.837 472 600 472 C591.163 472 584 465.284 584 457 Z" fill="#9ae8b0" opacity="0.14"/>
+    <path id="EXIT_wax" data-name="EXIT wax" d="M597 466 L603 466 C604.105 466 605 466.895 605 468 L605 486 C605 487.105 604.105 488 603 488 L597 488 C595.895 488 595 487.105 595 486 L595 468 C595 466.895 595.895 466 597 466 Z" fill="#123426" stroke="#3f6b52" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="EXIT_flame" data-name="EXIT flame" d="M600 466 C596 459 598 453 600 449 C602 453 604 459 600 466 Z" fill="#a8f0c0"/>
+    <text transform="matrix(1 0 0 1 600 502)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="9" fill="#a8f0c0" text-anchor="middle"><tspan x="0" y="0">EXIT</tspan></text>
+    <text transform="matrix(1 0 0 1 397 552)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="12" fill="#3f6b52"><tspan x="0" y="0">READY</tspan></text>
+    <path id="Cursor_breath" data-name="Cursor breath" d="M446 548 C446 541.373 452.716 536 461 536 C469.284 536 476 541.373 476 548 C476 554.627 469.284 560 461 560 C452.716 560 446 554.627 446 548 Z" fill="#9ae8b0" opacity="0.2"/>
+    <path id="Cursor" d="M452 540 L464 540 L464 556 L452 556 Z" fill="#a8f0c0"/>
+    <path id="Sill" d="M330 650 L670 650 L690 682 L310 682 Z" fill="url(#linear-gradient-6)" stroke="#141a16" stroke-width="4" stroke-linejoin="round"/>
+    <path id="Sill_phosphor_sheen" data-name="Sill phosphor sheen" d="M390 655 C390 651.134 439.249 648 500 648 C560.751 648 610 651.134 610 655 C610 658.866 560.751 662 500 662 C439.249 662 390 658.866 390 655 Z" fill="#9ae8b0" opacity="0.18"/>
+    <path id="Sill_shadow" data-name="Sill shadow" d="M330 685 C330 680.029 406.112 676 500 676 C593.888 676 670 680.029 670 685 C670 689.971 593.888 694 500 694 C406.112 694 330 689.971 330 685 Z" fill="#050908" opacity="0.5"/>
+    <path id="Votive_glow_1" data-name="Votive glow 1" d="M346 610 C346 593.431 355.85 580 368 580 C380.15 580 390 593.431 390 610 C390 626.569 380.15 640 368 640 C355.85 640 346 626.569 346 610 Z" fill="#ffdf96" opacity="0.12"/>
+    <path id="Votive_wax_1" data-name="Votive wax 1" d="M363 622 L373 622 C374.657 622 376 623.343 376 625 L376 647 C376 648.657 374.657 650 373 650 L363 650 C361.343 650 360 648.657 360 647 L360 625 C360 623.343 361.343 622 363 622 Z" fill="url(#linear-gradient-7)" stroke="#141a16" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Votive_flame_1" data-name="Votive flame 1" d="M368 622 C363 614 366 607 368 602 C370 607 373 614 368 622 Z" fill="#ffdf96"/>
+    <path id="Votive_glow_2" data-name="Votive glow 2" d="M614 610 C614 593.431 623.85 580 636 580 C648.15 580 658 593.431 658 610 C658 626.569 648.15 640 636 640 C623.85 640 614 626.569 614 610 Z" fill="#ffdf96" opacity="0.12"/>
+    <path id="Votive_wax_2" data-name="Votive wax 2" d="M631 622 L641 622 C642.657 622 644 623.343 644 625 L644 647 C644 648.657 642.657 650 641 650 L631 650 C629.343 650 628 648.657 628 647 L628 625 C628 623.343 629.343 622 631 622 Z" fill="url(#linear-gradient-8)" stroke="#141a16" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Votive_flame_2" data-name="Votive flame 2" d="M636 622 C631 614 634 607 636 602 C638 607 641 614 636 622 Z" fill="#ffdf96"/>
+    <text transform="matrix(1 0 0 1 500 930)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="58" fill="#dce8dc" text-anchor="middle"><tspan x="0" y="0">ROTATUI</tspan></text>
+    <text transform="matrix(1 0 0 1 500 968)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="23" fill="#93ac9a" letter-spacing="4.6" text-anchor="middle"><tspan x="0" y="0">THE FRONT DESK</tspan></text>
+  </g>
+</svg>
