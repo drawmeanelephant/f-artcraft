@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#241a28"/>
+      <stop offset="1" stop-color="#0a060e"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8cea4"/>
+      <stop offset="0.5" stop-color="#c29a68"/>
+      <stop offset="1" stop-color="#7a5436"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="500" y1="660" x2="500" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a87a50"/>
+      <stop offset="1" stop-color="#5e3a26"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="500" y1="190" x2="500" y2="400" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a8764c"/>
+      <stop offset="1" stop-color="#6e452c"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="500" cy="511.878" r="216.11" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c08a5e"/>
+      <stop offset="0.5" stop-color="#94603c"/>
+      <stop offset="1" stop-color="#5a3624"/>
+    </radialGradient>
+  </defs>
+  <title>Quoll — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo" data-name="Plate halo" d="M62 460 C62 218.099 258.099 22 500 22 C741.901 22 938 218.099 938 460 C938 701.901 741.901 898 500 898 C258.099 898 62 701.901 62 460 Z" fill="#e8cea4" opacity="0.06"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#4e3320" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#f4e4c4" stroke-width="3" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Patina_1" data-name="Patina 1" d="M175 270 C175 228.579 228.726 195 295 195 C361.274 195 415 228.579 415 270 C415 311.421 361.274 345 295 345 C228.726 345 175 311.421 175 270 Z" fill="#9a7248" opacity="0.2"/>
+    <path id="Patina_2" data-name="Patina 2" d="M590 697.5 C590 654.698 649.322 620 722.5 620 C795.678 620 855 654.698 855 697.5 C855 740.302 795.678 775 722.5 775 C649.322 775 590 740.302 590 697.5 Z" fill="#9a7248" opacity="0.18"/>
+    <path id="Plate_fleck_1" data-name="Plate fleck 1" d="M210 304 C210 301.791 211.791 300 214 300 C216.209 300 218 301.791 218 304 C218 306.209 216.209 308 214 308 C211.791 308 210 306.209 210 304 Z" fill="#7c5a38" opacity="0.38"/>
+    <path id="Plate_fleck_2" data-name="Plate fleck 2" d="M760 253.5 C760 251.567 761.567 250 763.5 250 C765.433 250 767 251.567 767 253.5 C767 255.433 765.433 257 763.5 257 C761.567 257 760 255.433 760 253.5 Z" fill="#7c5a38" opacity="0.38"/>
+    <path id="Plate_fleck_3" data-name="Plate fleck 3" d="M180 564.5 C180 562.015 182.015 560 184.5 560 C186.985 560 189 562.015 189 564.5 C189 566.985 186.985 569 184.5 569 C182.015 569 180 566.985 180 564.5 Z" fill="#7c5a38" opacity="0.38"/>
+    <path id="Plate_fleck_4" data-name="Plate fleck 4" d="M810 564 C810 561.791 811.791 560 814 560 C816.209 560 818 561.791 818 564 C818 566.209 816.209 568 814 568 C811.791 568 810 566.209 810 564 Z" fill="#7c5a38" opacity="0.38"/>
+    <path id="Plate_fleck_5" data-name="Plate fleck 5" d="M260 748.5 C260 746.567 261.567 745 263.5 745 C265.433 745 267 746.567 267 748.5 C267 750.433 265.433 752 263.5 752 C261.567 752 260 750.433 260 748.5 Z" fill="#7c5a38" opacity="0.38"/>
+    <path id="Plate_fleck_6" data-name="Plate fleck 6" d="M730 749.5 C730 747.015 732.015 745 734.5 745 C736.985 745 739 747.015 739 749.5 C739 751.985 736.985 754 734.5 754 C732.015 754 730 751.985 730 749.5 Z" fill="#7c5a38" opacity="0.38"/>
+    <path id="Plate_fleck_7" data-name="Plate fleck 7" d="M140 423 C140 421.343 141.343 420 143 420 C144.657 420 146 421.343 146 423 C146 424.657 144.657 426 143 426 C141.343 426 140 424.657 140 423 Z" fill="#7c5a38" opacity="0.38"/>
+    <path id="Plate_fleck_8" data-name="Plate fleck 8" d="M860 413.5 C860 411.567 861.567 410 863.5 410 C865.433 410 867 411.567 867 413.5 C867 415.433 865.433 417 863.5 417 C861.567 417 860 415.433 860 413.5 Z" fill="#7c5a38" opacity="0.38"/>
+    <path id="Plate_fleck_9" data-name="Plate fleck 9" d="M410 133.5 C410 131.567 411.567 130 413.5 130 C415.433 130 417 131.567 417 133.5 C417 135.433 415.433 137 413.5 137 C411.567 137 410 135.433 410 133.5 Z" fill="#7c5a38" opacity="0.38"/>
+    <path id="Plate_fleck_10" data-name="Plate fleck 10" d="M590 124 C590 121.791 591.791 120 594 120 C596.209 120 598 121.791 598 124 C598 126.209 596.209 128 594 128 C591.791 128 590 126.209 590 124 Z" fill="#7c5a38" opacity="0.38"/>
+    <path id="Plate_fleck_11" data-name="Plate fleck 11" d="M370 813 C370 811.343 371.343 810 373 810 C374.657 810 376 811.343 376 813 C376 814.657 374.657 816 373 816 C371.343 816 370 814.657 370 813 Z" fill="#7c5a38" opacity="0.38"/>
+    <path id="Plate_fleck_12" data-name="Plate fleck 12" d="M640 818.5 C640 816.567 641.567 815 643.5 815 C645.433 815 647 816.567 647 818.5 C647 820.433 645.433 822 643.5 822 C641.567 822 640 820.433 640 818.5 Z" fill="#7c5a38" opacity="0.38"/>
+    <path id="Shoulders" d="M212.3 766 C204.9 761.7 165.9 750 168 740 C170.1 730 202.2 715.7 225 706 C247.8 696.3 275.8 687.7 305 682 C334.2 676.3 367.5 673 400 672 C432.5 671 466.7 676 500 676 C533.3 676 567.5 671 600 672 C632.5 673 665.8 676.3 695 682 C724.2 687.7 752.2 696.3 775 706 C797.8 715.7 829.9 730 832 740 C834.1 750 795.1 761.7 787.7 766 C626.021 918.016 373.979 918.016 212.3 766 Z" fill="url(#linear-gradient-2)" stroke="#3a2420" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Chest_light" data-name="Chest light" d="M415 807.5 C415 781.266 453.056 760 500 760 C546.944 760 585 781.266 585 807.5 C585 833.734 546.944 855 500 855 C453.056 855 415 833.734 415 807.5 Z" fill="#ddb98a" opacity="0.35"/>
+    <path id="Under-head_shadow" data-name="Under-head shadow" d="M360 700 C360 682.327 422.68 668 500 668 C577.32 668 640 682.327 640 700 C640 717.673 577.32 732 500 732 C422.68 732 360 717.673 360 700 Z" fill="#452a1a" opacity="0.32"/>
+    <path id="Rust_spot_1" data-name="Rust spot 1" d="M287 752 C287 746.477 292.82 742 300 742 C307.18 742 313 746.477 313 752 C313 757.523 307.18 762 300 762 C292.82 762 287 757.523 287 752 Z" fill="#c4703c" opacity="0.75"/>
+    <path id="Rust_spot_2" data-name="Rust spot 2" d="M370 718 C370 713.582 374.477 710 380 710 C385.523 710 390 713.582 390 718 C390 722.418 385.523 726 380 726 C374.477 726 370 722.418 370 718 Z" fill="#c4703c" opacity="0.75"/>
+    <path id="Rust_spot_3" data-name="Rust spot 3" d="M456 742 C456 737.029 461.373 733 468 733 C474.627 733 480 737.029 480 742 C480 746.971 474.627 751 468 751 C461.373 751 456 746.971 456 742 Z" fill="#c4703c" opacity="0.75"/>
+    <path id="Rust_spot_4" data-name="Rust spot 4" d="M549 716 C549 711.582 553.925 708 560 708 C566.075 708 571 711.582 571 716 C571 720.418 566.075 724 560 724 C553.925 724 549 720.418 549 716 Z" fill="#c4703c" opacity="0.75"/>
+    <path id="Rust_spot_5" data-name="Rust spot 5" d="M635 748 C635 742.477 640.82 738 648 738 C655.18 738 661 742.477 661 748 C661 753.523 655.18 758 648 758 C640.82 758 635 753.523 635 748 Z" fill="#c4703c" opacity="0.75"/>
+    <path id="Rust_spot_6" data-name="Rust spot 6" d="M702 782 C702 777.582 706.477 774 712 774 C717.523 774 722 777.582 722 782 C722 786.418 717.523 790 712 790 C706.477 790 702 786.418 702 782 Z" fill="#c4703c" opacity="0.75"/>
+    <path id="Rust_spot_7" data-name="Rust spot 7" d="M257 786 C257 781.306 261.925 777.5 268 777.5 C274.075 777.5 279 781.306 279 786 C279 790.694 274.075 794.5 268 794.5 C261.925 794.5 257 790.694 257 786 Z" fill="#c4703c" opacity="0.75"/>
+    <path id="Rust_spot_8" data-name="Rust spot 8" d="M343 792 C343 788.134 347.029 785 352 785 C356.971 785 361 788.134 361 792 C361 795.866 356.971 799 352 799 C347.029 799 343 795.866 343 792 Z" fill="#c4703c" opacity="0.75"/>
+    <path id="Rust_spot_9" data-name="Rust spot 9" d="M442 806 C442 800.753 447.82 796.5 455 796.5 C462.18 796.5 468 800.753 468 806 C468 811.247 462.18 815.5 455 815.5 C447.82 815.5 442 811.247 442 806 Z" fill="#c4703c" opacity="0.75"/>
+    <path id="Rust_spot_10" data-name="Rust spot 10" d="M538 788 C538 783.858 542.477 780.5 548 780.5 C553.523 780.5 558 783.858 558 788 C558 792.142 553.523 795.5 548 795.5 C542.477 795.5 538 792.142 538 788 Z" fill="#c4703c" opacity="0.75"/>
+    <path id="Rust_spot_11" data-name="Rust spot 11" d="M628.5 812 C628.5 807.306 633.649 803.5 640 803.5 C646.351 803.5 651.5 807.306 651.5 812 C651.5 816.694 646.351 820.5 640 820.5 C633.649 820.5 628.5 816.694 628.5 812 Z" fill="#c4703c" opacity="0.75"/>
+    <path id="Rust_spot_12" data-name="Rust spot 12" d="M713 794 C713 790.134 717.029 787 722 787 C726.971 787 731 790.134 731 794 C731 797.866 726.971 801 722 801 C717.029 801 713 797.866 713 794 Z" fill="#c4703c" opacity="0.75"/>
+    <path id="Rust_spot_13" data-name="Rust spot 13" d="M308 820 C308 816.134 312.477 813 318 813 C323.523 813 328 816.134 328 820 C328 823.866 323.523 827 318 827 C312.477 827 308 823.866 308 820 Z" fill="#c4703c" opacity="0.75"/>
+    <path id="Rust_spot_14" data-name="Rust spot 14" d="M408 852 C408 847.582 413.373 844 420 844 C426.627 844 432 847.582 432 852 C432 856.418 426.627 860 420 860 C413.373 860 408 856.418 408 852 Z" fill="#c4703c" opacity="0.75"/>
+    <path id="Rust_spot_15" data-name="Rust spot 15" d="M549 848 C549 843.858 553.925 840.5 560 840.5 C566.075 840.5 571 843.858 571 848 C571 852.142 566.075 855.5 560 855.5 C553.925 855.5 549 852.142 549 848 Z" fill="#c4703c" opacity="0.75"/>
+    <path id="Rust_spot_16" data-name="Rust spot 16" d="M662 826 C662 822.134 666.477 819 672 819 C677.523 819 682 822.134 682 826 C682 829.866 677.523 833 672 833 C666.477 833 662 829.866 662 826 Z" fill="#c4703c" opacity="0.75"/>
+    <path id="Cream_spot_1" data-name="Cream spot 1" d="M332.5 758 C332.5 754.686 335.858 752 340 752 C344.142 752 347.5 754.686 347.5 758 C347.5 761.314 344.142 764 340 764 C335.858 764 332.5 761.314 332.5 758 Z" fill="#ead8b8" opacity="0.7"/>
+    <path id="Cream_spot_2" data-name="Cream spot 2" d="M513 730 C513 726.962 516.134 724.5 520 724.5 C523.866 724.5 527 726.962 527 730 C527 733.038 523.866 735.5 520 735.5 C516.134 735.5 513 733.038 513 730 Z" fill="#ead8b8" opacity="0.7"/>
+    <path id="Cream_spot_3" data-name="Cream spot 3" d="M602.5 770 C602.5 766.686 605.858 764 610 764 C614.142 764 617.5 766.686 617.5 770 C617.5 773.314 614.142 776 610 776 C605.858 776 602.5 773.314 602.5 770 Z" fill="#ead8b8" opacity="0.7"/>
+    <path id="Cream_spot_4" data-name="Cream spot 4" d="M293 806 C293 802.962 296.134 800.5 300 800.5 C303.866 800.5 307 802.962 307 806 C307 809.038 303.866 811.5 300 811.5 C296.134 811.5 293 809.038 293 806 Z" fill="#ead8b8" opacity="0.7"/>
+    <path id="Cream_spot_5" data-name="Cream spot 5" d="M482.5 830 C482.5 826.962 485.858 824.5 490 824.5 C494.142 824.5 497.5 826.962 497.5 830 C497.5 833.038 494.142 835.5 490 835.5 C485.858 835.5 482.5 833.038 482.5 830 Z" fill="#ead8b8" opacity="0.7"/>
+    <path id="Cream_spot_6" data-name="Cream spot 6" d="M593 836 C593 833.239 596.134 831 600 831 C603.866 831 607 833.239 607 836 C607 838.761 603.866 841 600 841 C596.134 841 593 838.761 593 836 Z" fill="#ead8b8" opacity="0.7"/>
+    <path id="Cream_spot_7" data-name="Cream spot 7" d="M723.5 752 C723.5 749.239 726.41 747 730 747 C733.59 747 736.5 749.239 736.5 752 C736.5 754.761 733.59 757 730 757 C726.41 757 723.5 754.761 723.5 752 Z" fill="#ead8b8" opacity="0.7"/>
+    <path id="Ear_L" data-name="Ear L" d="M352 208 C369.7 206 402.7 211.3 418 226 C433.3 240.7 442.3 272.3 444 296 C445.7 319.7 440 351 428 368 C416 385 390.7 397.3 372 398 C353.3 398.7 328.7 388.3 316 372 C303.3 355.7 296.7 322.3 296 300 C295.3 277.7 302.7 253.3 312 238 C321.3 222.7 334.3 210 352 208 Z" fill="url(#linear-gradient-3)" stroke="#3a2420" stroke-width="7" stroke-miterlimit="10"/>
+    <path id="Ear_R" data-name="Ear R" d="M648 208 C630.3 206 597.3 211.3 582 226 C566.7 240.7 557.7 272.3 556 296 C554.3 319.7 560 351 572 368 C584 385 609.3 397.3 628 398 C646.7 398.7 671.3 388.3 684 372 C696.7 355.7 703.3 322.3 704 300 C704.7 277.7 697.3 253.3 688 238 C678.7 222.7 665.7 210 648 208 Z" fill="url(#linear-gradient-3)" stroke="#3a2420" stroke-width="7" stroke-miterlimit="10"/>
+    <path id="Inner_ear_L" data-name="Inner ear L" d="M356 252 C366.7 251.7 388.3 257.7 398 268 C407.7 278.3 413.3 298.7 414 314 C414.7 329.3 410 349.7 402 360 C394 370.3 377.3 377 366 376 C354.7 375 341.3 365.3 334 354 C326.7 342.7 322 322 322 308 C322 294 328.3 279.3 334 270 C339.7 260.7 345.3 252.3 356 252 Z" fill="#5e3524" opacity="0.85"/>
+    <path id="Inner_ear_R" data-name="Inner ear R" d="M644 252 C633.3 251.7 611.7 257.7 602 268 C592.3 278.3 586.7 298.7 586 314 C585.3 329.3 590 349.7 598 360 C606 370.3 622.7 377 634 376 C645.3 375 658.7 365.3 666 354 C673.3 342.7 678 322 678 308 C678 294 671.7 279.3 666 270 C660.3 260.7 654.7 252.3 644 252 Z" fill="#5e3524" opacity="0.85"/>
+    <path id="Ear_rim_light_L" data-name="Ear rim light L" d="M316 268 C324 240 342 222 366 214" fill="none" stroke="#ebcfa2" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Ear_rim_light_R" data-name="Ear rim light R" d="M684 268 C676 240 658 222 634 214" fill="none" stroke="#ebcfa2" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Head" d="M500 306 C537.3 306 579.7 303 612 318 C644.3 333 676.7 365.7 694 396 C711.3 426.3 717 466.7 716 500 C715 533.3 704 568 688 596 C672 624 643.3 649.7 620 668 C596.7 686.3 568 697.7 548 706 C528 714.3 516 718 500 718 C484 718 472 714.3 452 706 C432 697.7 403.3 686.3 380 668 C356.7 649.7 328 624 312 596 C296 568 285 533.3 284 500 C283 466.7 288.7 426.3 306 396 C323.3 365.7 355.7 333 388 318 C420.3 303 462.7 306 500 306 Z" fill="url(#radial-gradient-2)" stroke="#3a2420" stroke-width="8" stroke-miterlimit="10"/>
+    <path id="Fur_flick_L" data-name="Fur flick L" d="M288 528 L268 538 L290 550 L272 562 L294 572" fill="none" stroke="#3a2420" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Fur_flick_R" data-name="Fur flick R" d="M712 528 L732 538 L710 550 L728 562 L706 572" fill="none" stroke="#3a2420" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Head_highlight" data-name="Head highlight" d="M385 370 C385 347.909 436.487 330 500 330 C563.513 330 615 347.909 615 370 C615 392.091 563.513 410 500 410 C436.487 410 385 392.091 385 370 Z" fill="#ffffff" opacity="0.13"/>
+    <path id="Cheek_shade_L" data-name="Cheek shade L" d="M300 585 C300 571.193 315.67 560 335 560 C354.33 560 370 571.193 370 585 C370 598.807 354.33 610 335 610 C315.67 610 300 598.807 300 585 Z" fill="#6e4228" opacity="0.3"/>
+    <path id="Cheek_shade_R" data-name="Cheek shade R" d="M630 585 C630 571.193 645.67 560 665 560 C684.33 560 700 571.193 700 585 C700 598.807 684.33 610 665 610 C645.67 610 630 598.807 630 585 Z" fill="#6e4228" opacity="0.3"/>
+    <path id="Muzzle_blaze" data-name="Muzzle blaze" d="M500 470 C520 470 546 484 560 500 C574 516 584 541.3 584 566 C584 590.7 574 627.7 560 648 C546 668.3 520 688 500 688 C480 688 454 668.3 440 648 C426 627.7 416 590.7 416 566 C416 541.3 426 516 440 500 C454 484 480 470 500 470 Z" fill="#e4c8a2" opacity="0.55"/>
+    <path id="Forehead_fur_1" data-name="Forehead fur 1" d="M464 352 C470 338 480 328 492 322" fill="none" stroke="#6e4228" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Forehead_fur_2" data-name="Forehead fur 2" d="M510 322 C522 328 532 338 538 352" fill="none" stroke="#6e4228" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Forehead_fur_3" data-name="Forehead fur 3" d="M488 336 C496 328 508 328 516 336" fill="none" stroke="#6e4228" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Eye_L" data-name="Eye L" d="M384 496 C384 480.536 395.193 468 409 468 C422.807 468 434 480.536 434 496 C434 511.464 422.807 524 409 524 C395.193 524 384 511.464 384 496 Z" fill="#241410"/>
+    <path id="Eye_R" data-name="Eye R" d="M566 496 C566 480.536 577.193 468 591 468 C604.807 468 616 480.536 616 496 C616 511.464 604.807 524 591 524 C577.193 524 566 511.464 566 496 Z" fill="#241410"/>
+    <path id="Glint_L" data-name="Glint L" d="M397 484.5 C397 481.462 399.462 479 402.5 479 C405.538 479 408 481.462 408 484.5 C408 487.538 405.538 490 402.5 490 C399.462 490 397 487.538 397 484.5 Z" fill="#ffffff" opacity="0.92"/>
+    <path id="Glint_R" data-name="Glint R" d="M579 484.5 C579 481.462 581.462 479 584.5 479 C587.538 479 590 481.462 590 484.5 C590 487.538 587.538 490 584.5 490 C581.462 490 579 487.538 579 484.5 Z" fill="#ffffff" opacity="0.92"/>
+    <path id="Glint_L2" data-name="Glint L2" d="M414 502.5 C414 501.119 415.119 500 416.5 500 C417.881 500 419 501.119 419 502.5 C419 503.881 417.881 505 416.5 505 C415.119 505 414 503.881 414 502.5 Z" fill="#ffffff" opacity="0.6"/>
+    <path id="Glint_R2" data-name="Glint R2" d="M596 502.5 C596 501.119 597.119 500 598.5 500 C599.881 500 601 501.119 601 502.5 C601 503.881 599.881 505 598.5 505 C597.119 505 596 503.881 596 502.5 Z" fill="#ffffff" opacity="0.6"/>
+    <path id="Brow_light_L" data-name="Brow light L" d="M378 452 C398 438 426 436 448 446" fill="none" stroke="#ebcfa2" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Brow_light_R" data-name="Brow light R" d="M552 446 C574 436 602 438 622 452" fill="none" stroke="#ebcfa2" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Nose" d="M468 618 C468 600 484 590 500 590 C516 590 532 600 532 618 C532 634 518 646 500 646 C482 646 468 634 468 618 Z" fill="#8a4a3e" stroke="#3a2420" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Nose_glint" data-name="Nose glint" d="M478 606 C486 598 498 596 508 600" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Philtrum" d="M500 646 L500 666" fill="none" stroke="#3a2420" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Mouth" d="M440 662 C462 684 482 692 500 692 C518 692 538 684 560 662" fill="none" stroke="#3a2420" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Whisker_dot_L1" data-name="Whisker dot L1" d="M440 630.5 C440 629.119 441.119 628 442.5 628 C443.881 628 445 629.119 445 630.5 C445 631.881 443.881 633 442.5 633 C441.119 633 440 631.881 440 630.5 Z" fill="#3a2420" opacity="0.5"/>
+    <path id="Whisker_dot_L2" data-name="Whisker dot L2" d="M452 646.5 C452 645.119 453.119 644 454.5 644 C455.881 644 457 645.119 457 646.5 C457 647.881 455.881 649 454.5 649 C453.119 649 452 647.881 452 646.5 Z" fill="#3a2420" opacity="0.5"/>
+    <path id="Whisker_dot_L3" data-name="Whisker dot L3" d="M436 612.5 C436 611.119 437.119 610 438.5 610 C439.881 610 441 611.119 441 612.5 C441 613.881 439.881 615 438.5 615 C437.119 615 436 613.881 436 612.5 Z" fill="#3a2420" opacity="0.5"/>
+    <path id="Whisker_dot_R1" data-name="Whisker dot R1" d="M560 630.5 C560 629.119 561.119 628 562.5 628 C563.881 628 565 629.119 565 630.5 C565 631.881 563.881 633 562.5 633 C561.119 633 560 631.881 560 630.5 Z" fill="#3a2420" opacity="0.5"/>
+    <path id="Whisker_dot_R2" data-name="Whisker dot R2" d="M548 646.5 C548 645.119 549.119 644 550.5 644 C551.881 644 553 645.119 553 646.5 C553 647.881 551.881 649 550.5 649 C549.119 649 548 647.881 548 646.5 Z" fill="#3a2420" opacity="0.5"/>
+    <path id="Whisker_dot_R3" data-name="Whisker dot R3" d="M564 612.5 C564 611.119 565.119 610 566.5 610 C567.881 610 569 611.119 569 612.5 C569 613.881 567.881 615 566.5 615 C565.119 615 564 613.881 564 612.5 Z" fill="#3a2420" opacity="0.5"/>
+    <path id="Whisker_L1" data-name="Whisker L1" d="M448 616 L388 600" fill="none" stroke="#3a2420" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Whisker_L2" data-name="Whisker L2" d="M450 636 L392 640" fill="none" stroke="#3a2420" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Whisker_L3" data-name="Whisker L3" d="M446 600 L398 574" fill="none" stroke="#3a2420" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Whisker_R1" data-name="Whisker R1" d="M552 616 L612 600" fill="none" stroke="#3a2420" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Whisker_R2" data-name="Whisker R2" d="M550 636 L608 640" fill="none" stroke="#3a2420" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Whisker_R3" data-name="Whisker R3" d="M554 600 L602 574" fill="none" stroke="#3a2420" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <text transform="matrix(1 0 0 1 500 962)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="60" fill="#f0dcb8" text-anchor="middle"><tspan x="0" y="0">QUOLL</tspan></text>
+  </g>
+</svg>
