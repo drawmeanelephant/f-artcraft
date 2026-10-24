@@ -5,8 +5,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from mcp_client import MCP
 
 WORK = os.path.dirname(os.path.abspath(__file__))
-ROOT = os.path.dirname(WORK)                 # the t3 scratch dir
-REPO = os.path.dirname(ROOT)                 # the f-artcraft checkout
+ROOT = os.path.dirname(WORK)                 # the f-artcraft checkout
+REPO = ROOT                                  # alias: the checkout root
 OUT = os.path.join(WORK, "out")
 os.makedirs(OUT, exist_ok=True)
 NONE = "none"
