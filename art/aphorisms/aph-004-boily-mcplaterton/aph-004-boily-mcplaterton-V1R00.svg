@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="500" x2="1000" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1e0d08"/>
+      <stop offset="1" stop-color="#0a0403"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#56240f"/>
+      <stop offset="0.65" stop-color="#33130a"/>
+      <stop offset="1" stop-color="#180804"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="500" cy="630" r="230" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe8b0"/>
+      <stop offset="0.5" stop-color="#f09a4e"/>
+      <stop offset="1" stop-color="#c43a1e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="336" y1="465.343" x2="668" y2="465.343" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8985e"/>
+      <stop offset="0.55" stop-color="#c05e30"/>
+      <stop offset="1" stop-color="#7e2e1a"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-3" cx="500" cy="598" r="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe8b0"/>
+      <stop offset="0.5" stop-color="#f09a4e"/>
+      <stop offset="1" stop-color="#c43a1e"/>
+    </radialGradient>
+  </defs>
+  <title>APH-004 Boily McPlaterton — Aphorism Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#8a4a26" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#f0a05a" stroke-width="3" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Ember_1" data-name="Ember 1" d="M190 234 C190 231.791 191.791 230 194 230 C196.209 230 198 231.791 198 234 C198 236.209 196.209 238 194 238 C191.791 238 190 236.209 190 234 Z" fill="#e86a3a" opacity="0.45"/>
+    <path id="Ember_2" data-name="Ember 2" d="M815 253.5 C815 251.567 816.567 250 818.5 250 C820.433 250 822 251.567 822 253.5 C822 255.433 820.433 257 818.5 257 C816.567 257 815 255.433 815 253.5 Z" fill="#e86a3a" opacity="0.45"/>
+    <path id="Ember_3" data-name="Ember 3" d="M155 524.5 C155 522.015 157.015 520 159.5 520 C161.985 520 164 522.015 164 524.5 C164 526.985 161.985 529 159.5 529 C157.015 529 155 526.985 155 524.5 Z" fill="#e86a3a" opacity="0.45"/>
+    <path id="Ember_4" data-name="Ember 4" d="M840 549 C840 546.791 841.791 545 844 545 C846.209 545 848 546.791 848 549 C848 551.209 846.209 553 844 553 C841.791 553 840 551.209 840 549 Z" fill="#e86a3a" opacity="0.45"/>
+    <path id="Ember_5" data-name="Ember 5" d="M240 723.5 C240 721.567 241.567 720 243.5 720 C245.433 720 247 721.567 247 723.5 C247 725.433 245.433 727 243.5 727 C241.567 727 240 725.433 240 723.5 Z" fill="#e86a3a" opacity="0.45"/>
+    <path id="Ember_6" data-name="Ember 6" d="M755 734.5 C755 732.015 757.015 730 759.5 730 C761.985 730 764 732.015 764 734.5 C764 736.985 761.985 739 759.5 739 C757.015 739 755 736.985 755 734.5 Z" fill="#e86a3a" opacity="0.45"/>
+    <path id="Ember_7" data-name="Ember 7" d="M140 398 C140 396.343 141.343 395 143 395 C144.657 395 146 396.343 146 398 C146 399.657 144.657 401 143 401 C141.343 401 140 399.657 140 398 Z" fill="#e86a3a" opacity="0.45"/>
+    <path id="Ember_8" data-name="Ember 8" d="M855 393.5 C855 391.567 856.567 390 858.5 390 C860.433 390 862 391.567 862 393.5 C862 395.433 860.433 397 858.5 397 C856.567 397 855 395.433 855 393.5 Z" fill="#e86a3a" opacity="0.45"/>
+    <path id="Glow_pool" data-name="Glow pool" d="M270 630 C270 591.34 372.975 560 500 560 C627.025 560 730 591.34 730 630 C730 668.66 627.025 700 500 700 C372.975 700 270 668.66 270 630 Z" fill="url(#radial-gradient-2)" opacity="0.3"/>
+    <path id="Chassis_shadow" data-name="Chassis shadow" d="M330 660 C330 648.954 406.112 640 500 640 C593.888 640 670 648.954 670 660 C670 671.046 593.888 680 500 680 C406.112 680 330 671.046 330 660 Z" fill="#000000" opacity="0.4"/>
+    <path id="Chassis" d="M345 320 C448.333 285.333 551.667 283.667 655 315 L668 585 C656 616.333 633.333 634 600 638 L400 638 C368 632.667 346.667 616 336 588 Z" fill="url(#linear-gradient-2)" stroke="#2a0e06" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Seam_glow" data-name="Seam glow" d="M360 318 C453.333 287.333 547.333 286 642 314" fill="none" stroke="#ffd98a" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Seam_bleed" data-name="Seam bleed" d="M360 322 C453.333 292.667 547.333 291.333 642 318" fill="none" stroke="#c43a1e" stroke-width="12" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Edge_glow_L" data-name="Edge glow L" d="M340 330 L340 580" fill="none" stroke="#f09a4e" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Edge_glow_R" data-name="Edge glow R" d="M664 330 L664 580" fill="none" stroke="#f09a4e" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Case_sheen" data-name="Case sheen" d="M380 375 C380 350.147 420.294 330 470 330 C519.706 330 560 350.147 560 375 C560 399.853 519.706 420 470 420 C420.294 420 380 399.853 380 375 Z" fill="#f2c088" opacity="0.3"/>
+    <path id="Crack" d="M488 330 L506 390 L484 452 L512 516 L492 580 L502 632" fill="none" stroke="#2a0e06" stroke-width="9" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Crack_glow" data-name="Crack glow" d="M492 334 L504 390 L488 452 L508 514 L496 578 L502 626" fill="none" stroke="#ffd98a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.85"/>
+    <path id="Eye_L" data-name="Eye L" d="M405 411 C405 404.925 408.806 400 413.5 400 C418.194 400 422 404.925 422 411 C422 417.075 418.194 422 413.5 422 C408.806 422 405 417.075 405 411 Z" fill="#2a0e06"/>
+    <path id="Eye_R" data-name="Eye R" d="M578 411 C578 404.925 581.806 400 586.5 400 C591.194 400 595 404.925 595 411 C595 417.075 591.194 422 586.5 422 C581.806 422 578 417.075 578 411 Z" fill="#2a0e06"/>
+    <path id="Glint_L" data-name="Glint L" d="M409 406.5 C409 405.119 410.119 404 411.5 404 C412.881 404 414 405.119 414 406.5 C414 407.881 412.881 409 411.5 409 C410.119 409 409 407.881 409 406.5 Z" fill="#ffffff" opacity="0.8"/>
+    <path id="Glint_R" data-name="Glint R" d="M582 406.5 C582 405.119 583.119 404 584.5 404 C585.881 404 587 405.119 587 406.5 C587 407.881 585.881 409 584.5 409 C583.119 409 582 407.881 582 406.5 Z" fill="#ffffff" opacity="0.8"/>
+    <path id="Lid_L" data-name="Lid L" d="M402 398 C409.333 394 416.667 393.667 424 397" fill="none" stroke="#2a0e06" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Lid_R" data-name="Lid R" d="M576 397 C583.333 393.667 590.667 394 598 398" fill="none" stroke="#2a0e06" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Mouth" d="M462 470 C487.333 474 512.667 474 538 470" fill="none" stroke="#2a0e06" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Flush_L" data-name="Flush L" d="M398 450 C398 444.477 407.85 440 420 440 C432.15 440 442 444.477 442 450 C442 455.523 432.15 460 420 460 C407.85 460 398 455.523 398 450 Z" fill="#e86a3a" opacity="0.4"/>
+    <path id="Flush_R" data-name="Flush R" d="M558 450 C558 444.477 567.85 440 580 440 C592.15 440 602 444.477 602 450 C602 455.523 592.15 460 580 460 C567.85 460 558 455.523 558 450 Z" fill="#e86a3a" opacity="0.4"/>
+    <path id="Bow_L" data-name="Bow L" d="M486 494 L452 478 L452 514 Z" fill="#8a2418" stroke="#2a0e06" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Bow_R_droop" data-name="Bow R droop" d="M514 494 L548 482 L546 528 C536.667 530.667 528.667 528.667 522 522 Z" fill="#8a2418" stroke="#2a0e06" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Bow_knot" data-name="Bow knot" d="M486 495 C486 488.925 492.268 484 500 484 C507.732 484 514 488.925 514 495 C514 501.075 507.732 506 500 506 C492.268 506 486 501.075 486 495 Z" fill="#6e1a10" stroke="#2a0e06" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Knot_glint" data-name="Knot glint" d="M493 490.5 C493 489.119 494.791 488 497 488 C499.209 488 501 489.119 501 490.5 C501 491.881 499.209 493 497 493 C494.791 493 493 491.881 493 490.5 Z" fill="#e86a3a" opacity="0.7"/>
+    <path id="Fan_ring" data-name="Fan ring" d="M442 598 C442 565.967 467.967 540 500 540 C532.033 540 558 565.967 558 598 C558 630.033 532.033 656 500 656 C467.967 656 442 630.033 442 598 Z" fill="#3a1a10" stroke="#2a0e06" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Fan_blade_1" data-name="Fan blade 1" d="M500 598 L513 616 L538 610 Z" fill="#c9b68e" opacity="0.85"/>
+    <path id="Fan_blade_2" data-name="Fan blade 2" d="M500 598 L491 618 L508 637 Z" fill="#c9b68e" opacity="0.85"/>
+    <path id="Fan_blade_3" data-name="Fan blade 3" d="M500 598 L478 600 L470 625 Z" fill="#c9b68e" opacity="0.85"/>
+    <path id="Fan_blade_4" data-name="Fan blade 4" d="M500 598 L487 580 L462 586 Z" fill="#c9b68e" opacity="0.85"/>
+    <path id="Fan_blade_5" data-name="Fan blade 5" d="M500 598 L509 578 L492 559 Z" fill="#c9b68e" opacity="0.85"/>
+    <path id="Fan_blade_6" data-name="Fan blade 6" d="M500 598 L522 596 L530 571 Z" fill="#c9b68e" opacity="0.85"/>
+    <path id="Fan_hub" data-name="Fan hub" d="M488 598 C488 591.373 493.373 586 500 586 C506.627 586 512 591.373 512 598 C512 604.627 506.627 610 500 610 C493.373 610 488 604.627 488 598 Z" fill="url(#radial-gradient-3)" stroke="#2a0e06" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Spin_arc_1" data-name="Spin arc 1" d="M432 556 C444.849 539.98 463.779 530.02 484.259 528.502 C504.74 526.985 524.93 534.048 540 548" fill="none" stroke="#f2d4b0" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Spin_arc_2" data-name="Spin arc 2" d="M436 652 C451.07 665.952 471.26 673.015 491.741 671.498 C512.221 669.98 531.151 660.02 544 644" fill="none" stroke="#f2d4b0" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Fan_haze" data-name="Fan haze" d="M455 533 C455 526.925 475.147 522 500 522 C524.853 522 545 526.925 545 533 C545 539.075 524.853 544 500 544 C475.147 544 455 539.075 455 533 Z" fill="#ffd98a" opacity="0.22"/>
+    <path id="Gauge" d="M586 568 C586 550.327 600.327 536 618 536 C635.673 536 650 550.327 650 568 C650 585.673 635.673 600 618 600 C600.327 600 586 585.673 586 568 Z" fill="#e8d6b0" stroke="#2a0e06" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Gauge_red_zone" data-name="Gauge red zone" d="M598 596 C589.716 584.954 591.954 569.284 603 561 C614.046 552.716 629.716 554.954 638 566" fill="none" stroke="#c43a1e" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Gauge_needle" data-name="Gauge needle" d="M618 568 L634 554" fill="none" stroke="#2a0e06" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gauge_pin" data-name="Gauge pin" d="M614 568 C614 565.791 615.791 564 618 564 C620.209 564 622 565.791 622 568 C622 570.209 620.209 572 618 572 C615.791 572 614 570.209 614 568 Z" fill="#2a0e06"/>
+    <path id="Cooling_sticker" data-name="Cooling sticker" d="M332.9 549.9 L444.5 540.2 L447.1 570.1 L335.5 579.8 Z" fill="#e8d6b0" stroke="#2a0e06" stroke-width="2.5" stroke-miterlimit="10" opacity="0.92"/>
+    <text transform="matrix(1 0 0 1 390 568)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="10" fill="#2a0e06" text-anchor="middle"><tspan x="0" y="0">COOLING PENDING</tspan></text>
+    <path id="Foot_L" data-name="Foot L" d="M395 636 L429 636 C431.761 636 434 638.239 434 641 L434 647 C434 649.761 431.761 652 429 652 L395 652 C392.239 652 390 649.761 390 647 L390 641 C390 638.239 392.239 636 395 636 Z" fill="#54301c" stroke="#2a0e06" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Foot_R_melt" data-name="Foot R melt" d="M566 636 L614 636 L610 654 C595.333 656.667 582 656 570 652 Z" fill="#54301c" stroke="#2a0e06" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Steam_1" data-name="Steam 1" d="M455 270 C455 258.954 470.67 250 490 250 C509.33 250 525 258.954 525 270 C525 281.046 509.33 290 490 290 C470.67 290 455 281.046 455 270 Z" fill="#f2d4b0" opacity="0.4"/>
+    <path id="Steam_2" data-name="Steam 2" d="M420 233 C420 219.193 439.699 208 464 208 C488.301 208 508 219.193 508 233 C508 246.807 488.301 258 464 258 C439.699 258 420 246.807 420 233 Z" fill="#f2d4b0" opacity="0.32"/>
+    <path id="Steam_3" data-name="Steam 3" d="M480 191 C480 174.984 503.281 162 532 162 C560.719 162 584 174.984 584 191 C584 207.016 560.719 220 532 220 C503.281 220 480 207.016 480 191 Z" fill="#f2d4b0" opacity="0.24"/>
+    <path id="Steam_4" data-name="Steam 4" d="M435 150 C435 132.327 461.863 118 495 118 C528.137 118 555 132.327 555 150 C555 167.673 528.137 182 495 182 C461.863 182 435 167.673 435 150 Z" fill="#f2d4b0" opacity="0.17"/>
+    <path id="Haze_1" data-name="Haze 1" d="M330 560 C339.333 533.333 339.333 506.667 330 480 C320.667 453.333 320.667 426.667 330 400 C339.333 373.333 339.333 350 330 330" fill="none" stroke="#ffd98a" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.25"/>
+    <path id="Haze_2" data-name="Haze 2" d="M660 560 C650.667 533.333 650.667 506.667 660 480 C669.333 453.333 669.333 426.667 660 400 C650.667 373.333 650.667 350 660 330" fill="none" stroke="#ffd98a" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.25"/>
+    <path id="Spark_1" data-name="Spark 1" d="M360 344 L361.8 348.2 L366 350 L361.8 351.8 L360 356 L358.2 351.8 L354 350 L358.2 348.2 Z" fill="#ffd98a" opacity="0.85"/>
+    <path id="Spark_2" data-name="Spark 2" d="M652 375 L653.5 378.5 L657 380 L653.5 381.5 L652 385 L650.5 381.5 L647 380 L650.5 378.5 Z" fill="#ffd98a" opacity="0.85"/>
+    <path id="Spark_3" data-name="Spark 3" d="M348 495 L349.5 498.5 L353 500 L349.5 501.5 L348 505 L346.5 501.5 L343 500 L346.5 498.5 Z" fill="#ffd98a" opacity="0.85"/>
+    <path id="Spark_4" data-name="Spark 4" d="M658 514 L659.8 518.2 L664 520 L659.8 521.8 L658 526 L656.2 521.8 L652 520 L656.2 518.2 Z" fill="#ffd98a" opacity="0.85"/>
+    <text transform="matrix(1 0 0 1 500 762)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="26" fill="#f0c088" letter-spacing="3.64" text-anchor="middle"><tspan x="0" y="0">ITS DIGNITY DID NOT.</tspan></text>
+    <text transform="matrix(1 0 0 1 500 905)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="56" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">BOILY MCPLATERTON</tspan></text>
+    <text transform="matrix(1 0 0 1 500 950)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="18" fill="#c9906a" letter-spacing="2.88" text-anchor="middle"><tspan x="0" y="0">THERMAL REGRET LINGERS</tspan></text>
+  </g>
+</svg>
