@@ -1,0 +1,33 @@
+name: Art plate
+description: One independently claimable art task
+title: "Field plate: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        One subject per issue, not an entire wave. Before drawing, check existing art and PRs, then claim this issue with `python3 work/issue_claim.py claim ISSUE --owner UNIQUE-WORKER-ID`.
+        A `claimed` label alone is not proof of ownership. Keep the claim through PR review; release with a handoff note if stopping. See `.github/CLAIMS.md`.
+  - type: textarea
+    id: brief
+    attributes:
+      label: Visual brief
+      description: Subject, region/context, composition, palette, captions, references and known traps
+    validations:
+      required: true
+  - type: textarea
+    id: files
+    attributes:
+      label: Revision and deliverables
+      description: Exact native, SVG, @2x PNG and revision-specific driver paths; local PDF proof path
+    validations:
+      required: true
+  - type: checkboxes
+    id: acceptance
+    attributes:
+      label: Worker checklist
+      options:
+        - label: Check current art, issues and open PRs, then acquire a confirmed per-worker claim
+        - label: Draw through VectorCraft MCP without overwriting earlier revisions
+        - label: Export all deliverables, inspect proofs and add an honest task-local analysis
+        - label: Keep the claim through review; close on merge or release with preserved-work handoff notes
+        - label: Do not update shared prompt rosters or rebuild PROMPTS.md on this art task

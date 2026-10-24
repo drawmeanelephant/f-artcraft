@@ -1,0 +1,23 @@
+name: prompts
+
+on:
+  pull_request:
+    paths: ['prompts/**', 'work/build_prompts.py', 'work/test_build_prompts.py', '.github/workflows/prompts.yml']
+  push:
+    branches: [main]
+    paths: ['prompts/**', 'work/build_prompts.py', 'work/test_build_prompts.py', '.github/workflows/prompts.yml']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  prompts-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test and compile prompt sources
+        run: |
+          python3 -m unittest discover -s work -p 'test_build_prompts.py'
+          python3 work/build_prompts.py > "$RUNNER_TEMP/PROMPTS.md"
+      # Intentionally no freshness diff: art branches never update the snapshot.
