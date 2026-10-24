@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="500" y1="0" x2="500" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#101b19"/>
+      <stop offset="1" stop-color="#060b0c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="500" y1="40" x2="500" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4a48"/>
+      <stop offset="0.5" stop-color="#43705f"/>
+      <stop offset="0.78" stop-color="#6e8a6c"/>
+      <stop offset="1" stop-color="#2e3a44"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="0.75" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0a1214" stop-opacity="0.5"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="270" cy="300" r="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe2b0" stop-opacity="0.4"/>
+      <stop offset="0.55" stop-color="#e8b878" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#e8b878" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="262" cy="306" r="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff6dc"/>
+      <stop offset="1" stop-color="#f0c078"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-3" x1="500" y1="564" x2="500" y2="656" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3d6b5c"/>
+      <stop offset="0.5" stop-color="#1e4038"/>
+      <stop offset="1" stop-color="#0b1b22"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="240" y1="600" x2="420" y2="600" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6aa08c"/>
+      <stop offset="1" stop-color="#2a5048"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="530" y1="622" x2="750" y2="622" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6aa08c"/>
+      <stop offset="1" stop-color="#2a5048"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="511.875" y1="393" x2="511.875" y2="586" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ddbe7e"/>
+      <stop offset="0.45" stop-color="#c09a58"/>
+      <stop offset="1" stop-color="#7e5b2e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="466.167" y1="515.667" x2="466.167" y2="558" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#edd9a2"/>
+      <stop offset="1" stop-color="#b08a4e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="223" y1="437" x2="223" y2="639" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a57a4e"/>
+      <stop offset="1" stop-color="#5c3d22"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="242.095" y1="636" x2="242.095" y2="702" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a57a4e"/>
+      <stop offset="1" stop-color="#5c3d22"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-4" cx="700" cy="596" r="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cc8b4" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#9cc8b4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="300" cy="604" r="55" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cc8b4" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#9cc8b4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-6" cx="560" cy="612" r="70" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cc8b4" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#9cc8b4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-7" cx="244" cy="700" r="26" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cc8b4" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#9cc8b4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-8" cx="470" cy="634" r="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a6a38" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#8a6a38" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <title>Caballito de Totora — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo" data-name="Plate halo" d="M60 460 C60 216.995 256.995 20 500 20 C743.005 20 940 216.995 940 460 C940 703.005 743.005 900 500 900 C256.995 900 60 703.005 60 460 Z" fill="#4e8a7a" opacity="0.09"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#linear-gradient-2)" stroke="#0a1418" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_vignette" data-name="Plate vignette" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#d8e4d4" stroke-width="3" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Sun_glow" data-name="Sun glow" d="M80 300 C80 217.157 165.066 150 270 150 C374.934 150 460 217.157 460 300 C460 382.843 374.934 450 270 450 C165.066 450 80 382.843 80 300 Z" fill="url(#radial-gradient-2)"/>
+    <path id="Sun" d="M238 306 C238 292.745 248.745 282 262 282 C275.255 282 286 292.745 286 306 C286 319.255 275.255 330 262 330 C248.745 330 238 319.255 238 306 Z" fill="url(#radial-gradient-3)" opacity="0.9"/>
+    <path id="Water_patch" data-name="Water patch" d="M170 610 C170 584.595 317.746 564 500 564 C682.254 564 830 584.595 830 610 C830 635.405 682.254 656 500 656 C317.746 656 170 635.405 170 610 Z" fill="url(#linear-gradient-3)" opacity="0.92"/>
+    <path id="Swell_1" data-name="Swell 1" d="M240 600 C240 596.134 280.294 593 330 593 C379.706 593 420 596.134 420 600 C420 603.866 379.706 607 330 607 C280.294 607 240 603.866 240 600 Z" fill="url(#linear-gradient-4)" opacity="0.3"/>
+    <path id="Swell_2" data-name="Swell 2" d="M530 622 C530 618.134 579.249 615 640 615 C700.751 615 750 618.134 750 622 C750 625.866 700.751 629 640 629 C579.249 629 530 625.866 530 622 Z" fill="url(#linear-gradient-5)" opacity="0.24"/>
+    <path id="Main_bundle" data-name="Main bundle" d="M250 586 C403.333 584.667 526.667 580 620 572 C673.333 564 712 540.667 736 502 C750.667 470 756 436.667 752 402 C753.333 394 758 391.333 766 394 C774 398 776 404.667 772 414 C765.333 442 751.333 470.667 730 500 C698 534.667 641.333 555.333 560 562 L262 562 C252.667 568.667 248.667 576.667 250 586 Z" fill="url(#linear-gradient-6)" stroke="#33241a" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Second_bundle" data-name="Second bundle" d="M272 548 C384 540 480 533.333 560 528 C596 524 626.667 520 652 516 C658.667 514.667 661.333 517.333 660 524 C654.667 529.333 646.667 532.667 636 534 C558.667 542 480 548 400 552 L278 558 Z" fill="url(#linear-gradient-7)" stroke="#33241a" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Reed_line_1" data-name="Reed line 1" d="M280 566 L560 560" fill="none" stroke="#8a6a38" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Reed_line_2" data-name="Reed line 2" d="M300 574 L580 566" fill="none" stroke="#8a6a38" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.26"/>
+    <path id="Reed_line_3" data-name="Reed line 3" d="M420 548 L640 540" fill="none" stroke="#8a6a38" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.24"/>
+    <path id="Reed_line_4" data-name="Reed line 4" d="M560 552 L700 520" fill="none" stroke="#8a6a38" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.24"/>
+    <path id="Reed_line_5" data-name="Reed line 5" d="M660 540 L720 480" fill="none" stroke="#8a6a38" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.26"/>
+    <path id="Reed_line_6" data-name="Reed line 6" d="M700 500 L744 432" fill="none" stroke="#8a6a38" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.24"/>
+    <path id="Reed_line_7" data-name="Reed line 7" d="M724 478 L754 414" fill="none" stroke="#8a6a38" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Reed_line_8" data-name="Reed line 8" d="M280 550 L520 540" fill="none" stroke="#8a6a38" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="Reed_line_9" data-name="Reed line 9" d="M742 452 L762 412" fill="none" stroke="#8a6a38" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="Lashing_1" data-name="Lashing 1" d="M306 548 L314 584" fill="none" stroke="#5c3e20" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Lashing_edge_1" data-name="Lashing edge 1" d="M311 550 L319 582" fill="none" stroke="#8a6238" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Lashing_2" data-name="Lashing 2" d="M386 543 L392 582" fill="none" stroke="#5c3e20" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Lashing_edge_2" data-name="Lashing edge 2" d="M391 545 L397 580" fill="none" stroke="#8a6238" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Lashing_3" data-name="Lashing 3" d="M468 540 L470 580" fill="none" stroke="#5c3e20" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Lashing_edge_3" data-name="Lashing edge 3" d="M473 542 L475 578" fill="none" stroke="#8a6238" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Lashing_4" data-name="Lashing 4" d="M552 538 L548 578" fill="none" stroke="#5c3e20" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Lashing_edge_4" data-name="Lashing edge 4" d="M557 540 L553 576" fill="none" stroke="#8a6238" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Lashing_5" data-name="Lashing 5" d="M630 534 L618 572" fill="none" stroke="#5c3e20" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Lashing_edge_5" data-name="Lashing edge 5" d="M635 536 L623 570" fill="none" stroke="#8a6238" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Lashing_6" data-name="Lashing 6" d="M700 524 L682 560" fill="none" stroke="#5c3e20" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Lashing_edge_6" data-name="Lashing edge 6" d="M705 526 L687 558" fill="none" stroke="#8a6238" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Throat_lashing" data-name="Throat lashing" d="M714 532 L740 486" fill="none" stroke="#5c3e20" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Throat_lashing_edge" data-name="Throat lashing edge" d="M721 534 L746 490" fill="none" stroke="#8a6238" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Stern_binding" data-name="Stern binding" d="M258 556 L256 580" fill="none" stroke="#5c3e20" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Paddle_shaft" data-name="Paddle shaft" d="M208 440 L238 636" fill="none" stroke="url(#linear-gradient-8)" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Paddle_blade" data-name="Paddle blade" d="M238 636 C231.333 653.333 229.333 669.333 232 684 C234.667 694.667 240 700.667 248 702 C253.333 698 254.667 688.667 252 674 C249.333 659.333 244.667 646.667 238 636 Z" fill="url(#linear-gradient-9)" stroke="#33241a" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Ripple_1" data-name="Ripple 1" d="M640 596 C640 592.686 666.863 590 700 590 C733.137 590 760 592.686 760 596 C760 599.314 733.137 602 700 602 C666.863 602 640 599.314 640 596 Z" fill="url(#radial-gradient-4)" opacity="0.4"/>
+    <path id="Ripple_2" data-name="Ripple 2" d="M245 604 C245 600.686 269.624 598 300 598 C330.376 598 355 600.686 355 604 C355 607.314 330.376 610 300 610 C269.624 610 245 607.314 245 604 Z" fill="url(#radial-gradient-5)" opacity="0.36"/>
+    <path id="Ripple_3" data-name="Ripple 3" d="M490 612 C490 608.686 521.34 606 560 606 C598.66 606 630 608.686 630 612 C630 615.314 598.66 618 560 618 C521.34 618 490 615.314 490 612 Z" fill="url(#radial-gradient-6)" opacity="0.26"/>
+    <path id="Blade_wash" data-name="Blade wash" d="M218 700 C218 696.134 229.641 693 244 693 C258.359 693 270 696.134 270 700 C270 703.866 258.359 707 244 707 C229.641 707 218 703.866 218 700 Z" fill="url(#radial-gradient-7)"/>
+    <path id="Hull_reflection" data-name="Hull reflection" d="M280 634 C280 626.82 365.066 621 470 621 C574.934 621 660 626.82 660 634 C660 641.18 574.934 647 470 647 C365.066 647 280 641.18 280 634 Z" fill="url(#radial-gradient-8)"/>
+    <text transform="matrix(1 0 0 1 500 930)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="44" fill="#f2e4c8" text-anchor="middle"><tspan x="0" y="0">CABALLITO DE TOTORA</tspan></text>
+    <text transform="matrix(1 0 0 1 500 968)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="22" fill="#c9c2a8" letter-spacing="4.4" text-anchor="middle"><tspan x="0" y="0">REED BUNDLES · PADDLE</tspan></text>
+  </g>
+</svg>
