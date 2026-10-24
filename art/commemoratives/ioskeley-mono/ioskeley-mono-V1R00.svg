@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="500" y1="0" x2="500" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1913"/>
+      <stop offset="1" stop-color="#0a0806"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4a443a"/>
+      <stop offset="0.68" stop-color="#2c2721"/>
+      <stop offset="1" stop-color="#171310"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="500" cy="460" r="350" gradientUnits="userSpaceOnUse">
+      <stop offset="0.55" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.3"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="500" cy="520" r="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8a83c" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#e8a83c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="500" cy="831" r="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="400" y1="664" x2="600" y2="806" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a5e28"/>
+      <stop offset="1" stop-color="#3a2a12"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="370" y1="664" x2="630" y2="690" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e0b468"/>
+      <stop offset="1" stop-color="#9a7038"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="-100" y1="-415" x2="120" y2="125" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f0c87a"/>
+      <stop offset="1" stop-color="#8a5620"/>
+    </linearGradient>
+  </defs>
+  <title>IoskeleyMono — Commemorative Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#8a6428" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#e8c88a" stroke-width="3" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Card_vignette" data-name="Card vignette" d="M150 460 C150 266.7 306.7 110 500 110 C693.3 110 850 266.7 850 460 C850 653.3 693.3 810 500 810 C306.7 810 150 653.3 150 460 Z" fill="url(#radial-gradient-2)"/>
+    <path id="Patina_1" data-name="Patina 1" d="M226.5 250 C226.5 248.067 228.067 246.5 230 246.5 C231.933 246.5 233.5 248.067 233.5 250 C233.5 251.933 231.933 253.5 230 253.5 C228.067 253.5 226.5 251.933 226.5 250 Z" fill="#8a7a5c" opacity="0.35"/>
+    <path id="Patina_2" data-name="Patina 2" d="M757 300 C757 298.343 758.343 297 760 297 C761.657 297 763 298.343 763 300 C763 301.657 761.657 303 760 303 C758.343 303 757 301.657 757 300 Z" fill="#8a7a5c" opacity="0.35"/>
+    <path id="Patina_3" data-name="Patina 3" d="M196 560 C196 557.791 197.791 556 200 556 C202.209 556 204 557.791 204 560 C204 562.209 202.209 564 200 564 C197.791 564 196 562.209 196 560 Z" fill="#8a7a5c" opacity="0.35"/>
+    <path id="Patina_4" data-name="Patina 4" d="M786.5 570 C786.5 568.067 788.067 566.5 790 566.5 C791.933 566.5 793.5 568.067 793.5 570 C793.5 571.933 791.933 573.5 790 573.5 C788.067 573.5 786.5 571.933 786.5 570 Z" fill="#8a7a5c" opacity="0.35"/>
+    <path id="Patina_5" data-name="Patina 5" d="M297 790 C297 788.343 298.343 787 300 787 C301.657 787 303 788.343 303 790 C303 791.657 301.657 793 300 793 C298.343 793 297 791.657 297 790 Z" fill="#8a7a5c" opacity="0.35"/>
+    <path id="Patina_6" data-name="Patina 6" d="M686 800 C686 797.791 687.791 796 690 796 C692.209 796 694 797.791 694 800 C694 802.209 692.209 804 690 804 C687.791 804 686 802.209 686 800 Z" fill="#8a7a5c" opacity="0.35"/>
+    <path id="Patina_7" data-name="Patina 7" d="M407 150 C407 148.343 408.343 147 410 147 C411.657 147 413 148.343 413 150 C413 151.657 411.657 153 410 153 C408.343 153 407 151.657 407 150 Z" fill="#8a7a5c" opacity="0.35"/>
+    <path id="Patina_8" data-name="Patina 8" d="M596.5 145 C596.5 143.067 598.067 141.5 600 141.5 C601.933 141.5 603.5 143.067 603.5 145 C603.5 146.933 601.933 148.5 600 148.5 C598.067 148.5 596.5 146.933 596.5 145 Z" fill="#8a7a5c" opacity="0.35"/>
+    <path id="Grid_rule_1" data-name="Grid rule 1" d="M162.269 250 L837.731 250" fill="none" stroke="#e8a83c" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.16"/>
+    <path id="Grid_rule_2" data-name="Grid rule 2" d="M139.768 295 L860.232 295" fill="none" stroke="#e8a83c" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="Grid_rule_3" data-name="Grid rule 3" d="M111.06 395 L888.94 395" fill="none" stroke="#e8a83c" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Grid_rule_4" data-name="Grid rule 4" d="M154.012 655 L845.988 655" fill="none" stroke="#e8a83c" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.42"/>
+    <path id="Baseline_tick_154.01209697088268" data-name="Baseline tick 154.01209697088268" d="M154.012 646 L154.012 664" fill="none" stroke="#e8a83c" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Baseline_tick_845.9879030291173" data-name="Baseline tick 845.9879030291173" d="M845.988 646 L845.988 664" fill="none" stroke="#e8a83c" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Grid_rule_5" data-name="Grid rule 5" d="M244.831 772 L755.169 772" fill="none" stroke="#e8a83c" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.16"/>
+    <path id="Grid_glow" data-name="Grid glow" d="M270 520 C270 365.36 372.975 240 500 240 C627.025 240 730 365.36 730 520 C730 674.64 627.025 800 500 800 C372.975 800 270 674.64 270 520 Z" fill="url(#radial-gradient-3)"/>
+    <path id="Crop_tick_1" data-name="Crop tick 1" d="M205 316 L205 300 L221 300" fill="none" stroke="#c8973f" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Crop_tick_2" data-name="Crop tick 2" d="M795 316 L795 300 L779 300" fill="none" stroke="#c8973f" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Crop_tick_3" data-name="Crop tick 3" d="M225 742 L225 758 L241 758" fill="none" stroke="#c8973f" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Crop_tick_4" data-name="Crop tick 4" d="M775 742 L775 758 L759 758" fill="none" stroke="#c8973f" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Plinth_shadow" data-name="Plinth shadow" d="M310 831 C310 817.193 395.066 806 500 806 C604.934 806 690 817.193 690 831 C690 844.807 604.934 856 500 856 C395.066 856 310 844.807 310 831 Z" fill="url(#radial-gradient-4)"/>
+    <path id="Plinth" d="M372 664 L628 664 L664 806 L336 806 Z" fill="url(#linear-gradient-2)" stroke="#3a2810" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Plinth_top" data-name="Plinth top" d="M372 664 L628 664 L638 690 L362 690 Z" fill="url(#linear-gradient-3)" stroke="#3a2810" stroke-width="3" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 510 669)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="470" fill="#1e1408" text-anchor="middle" opacity="0.5"><tspan x="0" y="0">g</tspan></text>
+    <text transform="matrix(1 0 0 1 495 649)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="470" fill="#ffe9b0" text-anchor="middle" opacity="0.3"><tspan x="0" y="0">g</tspan></text>
+    <text transform="matrix(1 0 0 1 500 655)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="470" fill="url(#linear-gradient-4)" text-anchor="middle"><tspan x="0" y="0">g</tspan></text>
+    <path id="SB_mark_L" data-name="SB mark L" d="M315.845 641 L315.845 669" fill="none" stroke="#e8a83c" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="SB_mark_R" data-name="SB mark R" d="M684.155 641 L684.155 669" fill="none" stroke="#e8a83c" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Spark_1" data-name="Spark 1" d="M415 243 C415 241.343 416.343 240 418 240 C419.657 240 421 241.343 421 243 C421 244.657 419.657 246 418 246 C416.343 246 415 244.657 415 243 Z" fill="#ffca6e" opacity="0.45"/>
+    <path id="Spark_2" data-name="Spark 2" d="M585 212.5 C585 211.119 586.119 210 587.5 210 C588.881 210 590 211.119 590 212.5 C590 213.881 588.881 215 587.5 215 C586.119 215 585 213.881 585 212.5 Z" fill="#ffca6e" opacity="0.4"/>
+    <path id="Spark_3" data-name="Spark 3" d="M540 172 C540 170.895 540.895 170 542 170 C543.105 170 544 170.895 544 172 C544 173.105 543.105 174 542 174 C540.895 174 540 173.105 540 172 Z" fill="#ffca6e" opacity="0.32"/>
+    <path id="Spark_4" data-name="Spark 4" d="M455 192.5 C455 191.119 456.119 190 457.5 190 C458.881 190 460 191.119 460 192.5 C460 193.881 458.881 195 457.5 195 C456.119 195 455 193.881 455 192.5 Z" fill="#ffca6e" opacity="0.38"/>
+    <text transform="matrix(1 0 0 1 500 930)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="58" fill="#f0e4cc" text-anchor="middle"><tspan x="0" y="0">IOSKELEYMONO</tspan></text>
+    <text transform="matrix(1 0 0 1 500 968)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="24" fill="#c8a868" letter-spacing="7.2" text-anchor="middle"><tspan x="0" y="0">PROGRAMMING TYPEFACE</tspan></text>
+  </g>
+</svg>
