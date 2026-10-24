@@ -101,9 +101,12 @@ Known traps:
 
 A rendition is a second reading of a plate that already exists: same subject,
 same disc and name line, a different take — another hour, light, pose or idiom.
-It bumps `V` and resets `R`, and the revision it reads from is left alone. So
-far: axolotl V2 (dark tank, full body) · monarch V2 (dusk, backlit on milkweed) ·
-windsor chair V2 (walnut, low sun, cast shadow) · city taxi V2 (dawn, mist).
+It bumps `V` and resets `R`, and the revision it reads from is left alone. A
+refinement of a rendition bumps `R` only and starts from that rendition's own
+newest native. So far: axolotl V2 (dark tank, full body; R01 gives the tail fin
+mass and a point) · monarch V2 (dusk, backlit on milkweed) · windsor chair V2
+(walnut, low sun, cast shadow; R01 rebuilds the seat as a dished plank) · city
+taxi V2 (dawn, mist).
 
 ### Animals (`art/animals/`)
 
