@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#12181e"/>
+      <stop offset="1" stop-color="#06080a"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4e5658"/>
+      <stop offset="0.55" stop-color="#30383a"/>
+      <stop offset="1" stop-color="#141a1c"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="720" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4a4438" stop-opacity="0.5"/>
+      <stop offset="0.5" stop-color="#2a261e" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#12100a" stop-opacity="0.92"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="506" cy="749" r="227" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#030405" stop-opacity="0.62"/>
+      <stop offset="0.6" stop-color="#030405" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#030405" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="346" cy="743.5" r="6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a3e42"/>
+      <stop offset="1" stop-color="#101214"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="440" cy="703.5" r="6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a3e42"/>
+      <stop offset="1" stop-color="#101214"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="578" cy="776.5" r="6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a3e42"/>
+      <stop offset="1" stop-color="#101214"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-6" cx="673" cy="736.5" r="6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a3e42"/>
+      <stop offset="1" stop-color="#101214"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-3" x1="0" y1="600" x2="0" y2="660" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8ac6e"/>
+      <stop offset="0.5" stop-color="#a8783e"/>
+      <stop offset="1" stop-color="#6e4a20"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0" y1="600" x2="0" y2="660" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a5e2e"/>
+      <stop offset="1" stop-color="#4e3012"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0" y1="600" x2="0" y2="660" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7a5226"/>
+      <stop offset="1" stop-color="#3e240e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0" y1="560" x2="0" y2="640" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eed9a8"/>
+      <stop offset="0.6" stop-color="#d8b878"/>
+      <stop offset="1" stop-color="#b08a4a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="0" y1="240" x2="0" y2="330" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8ac6e"/>
+      <stop offset="0.5" stop-color="#a8783e"/>
+      <stop offset="1" stop-color="#6e4a20"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="0" y1="250" x2="0" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eed9a8"/>
+      <stop offset="0.6" stop-color="#d8b878"/>
+      <stop offset="1" stop-color="#b08a4a"/>
+    </linearGradient>
+  </defs>
+  <title>Cantilever Chair — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo" data-name="Plate halo" d="M62 460 C62 218.099 258.099 22 500 22 C741.901 22 938 218.099 938 460 C938 701.901 741.901 898 500 898 C258.099 898 62 701.901 62 460 Z" fill="#7a8a96" opacity="0.1"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#0c1214" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#d2dcd8" stroke-width="3" stroke-miterlimit="10" opacity="0.24"/>
+    <path id="Floor" d="M170.2 720 L829.8 720 C750.157 618.999 628.624 560.061 500 560.061 C371.376 560.061 249.843 618.999 170.2 720 Z" fill="url(#linear-gradient-2)"/>
+    <path id="Floor_edge_light" data-name="Floor edge light" d="M176.2 720 L823.8 720" fill="none" stroke="#d8d2be" stroke-width="2" stroke-miterlimit="10" opacity="0.15"/>
+    <path id="Board_seam_1" data-name="Board seam 1" d="M212.1 762 L787.9 762" fill="none" stroke="#585244" stroke-width="2" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Board_seam_2" data-name="Board seam 2" d="M254.7 798 L745.3 798" fill="none" stroke="#585244" stroke-width="2" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Board_seam_3" data-name="Board seam 3" d="M312.9 834 L687.1 834" fill="none" stroke="#585244" stroke-width="2" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Chair_shadow" data-name="Chair shadow" d="M279 749 C279 713.654 380.631 685 506 685 C631.369 685 733 713.654 733 749 C733 784.346 631.369 813 506 813 C380.631 813 279 784.346 279 749 Z" fill="url(#radial-gradient-2)"/>
+    <path id="Far_tube_edge" data-name="Far tube edge" d="M692.8 254.2 C692.3 263.4 691.1 288 689.9 309.3 C688.6 330.6 686.9 358.9 685.5 381.9 C684 405 682.3 429.1 681.1 447.5 C679.9 466 682 482.6 678.2 492.7 C674.4 502.8 676.5 499.3 658.5 508 C640.5 516.7 586.8 532.4 570.1 545 C553.5 557.7 561.6 566.3 558.5 583.9 C555.3 601.5 552.9 628.8 551.2 650.7 C549.5 672.7 548 697.9 548.2 715.7 C548.5 733.5 549.9 748.5 552.6 757.8 C555.3 767 544.1 776.5 564.3 771.3 C584.5 766.1 653.6 736 673.8 726.8 C694 717.7 682.3 722.8 685.5 716.3 C688.6 709.8 691 700.5 692.8 687.7 C694.6 674.9 695.6 655.8 696.4 639.4 C697.3 623 697.7 605.9 697.9 589.2 C698.1 572.6 697.9 547.9 697.9 539.7" fill="none" stroke="#18120c" stroke-width="9.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Far_tube" data-name="Far tube" d="M692.8 254.2 C692.3 263.4 691.1 288 689.9 309.3 C688.6 330.6 686.9 358.9 685.5 381.9 C684 405 682.3 429.1 681.1 447.5 C679.9 466 682 482.6 678.2 492.7 C674.4 502.8 676.5 499.3 658.5 508 C640.5 516.7 586.8 532.4 570.1 545 C553.5 557.7 561.6 566.3 558.5 583.9 C555.3 601.5 552.9 628.8 551.2 650.7 C549.5 672.7 548 697.9 548.2 715.7 C548.5 733.5 549.9 748.5 552.6 757.8 C555.3 767 544.1 776.5 564.3 771.3 C584.5 766.1 653.6 736 673.8 726.8 C694 717.7 682.3 722.8 685.5 716.3 C688.6 709.8 691 700.5 692.8 687.7 C694.6 674.9 695.6 655.8 696.4 639.4 C697.3 623 697.7 605.9 697.9 589.2 C698.1 572.6 697.9 547.9 697.9 539.7" fill="none" stroke="#9aaab4" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Far_tube_core" data-name="Far tube core" d="M692.8 254.2 C692.3 263.4 691.1 288 689.9 309.3 C688.6 330.6 686.9 358.9 685.5 381.9 C684 405 682.3 429.1 681.1 447.5 C679.9 466 682 482.6 678.2 492.7 C674.4 502.8 676.5 499.3 658.5 508 C640.5 516.7 586.8 532.4 570.1 545 C553.5 557.7 561.6 566.3 558.5 583.9 C555.3 601.5 552.9 628.8 551.2 650.7 C549.5 672.7 548 697.9 548.2 715.7 C548.5 733.5 549.9 748.5 552.6 757.8 C555.3 767 544.1 776.5 564.3 771.3 C584.5 766.1 653.6 736 673.8 726.8 C694 717.7 682.3 722.8 685.5 716.3 C688.6 709.8 691 700.5 692.8 687.7 C694.6 674.9 695.6 655.8 696.4 639.4 C697.3 623 697.7 605.9 697.9 589.2 C698.1 572.6 697.9 547.9 697.9 539.7" fill="none" stroke="#dde8ec" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+    <path id="Far_tube_dark" data-name="Far tube dark" d="M692.8 254.2 C692.3 263.4 691.1 288 689.9 309.3 C688.6 330.6 686.9 358.9 685.5 381.9 C684 405 682.3 429.1 681.1 447.5 C679.9 466 682 482.6 678.2 492.7 C674.4 502.8 676.5 499.3 658.5 508 C640.5 516.7 586.8 532.4 570.1 545 C553.5 557.7 561.6 566.3 558.5 583.9 C555.3 601.5 552.9 628.8 551.2 650.7 C549.5 672.7 548 697.9 548.2 715.7 C548.5 733.5 549.9 748.5 552.6 757.8 C555.3 767 544.1 776.5 564.3 771.3 C584.5 766.1 653.6 736 673.8 726.8 C694 717.7 682.3 722.8 685.5 716.3 C688.6 709.8 691 700.5 692.8 687.7 C694.6 674.9 695.6 655.8 696.4 639.4 C697.3 623 697.7 605.9 697.9 589.2 C698.1 572.6 697.9 547.9 697.9 539.7" fill="none" stroke="#3a464e" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.5"/>
+    <path id="Glide_near_-5.5" data-name="Glide near -5.5" d="M340 743.5 C340 741.567 342.686 740 346 740 C349.314 740 352 741.567 352 743.5 C352 745.433 349.314 747 346 747 C342.686 747 340 745.433 340 743.5 Z" fill="url(#radial-gradient-3)" stroke="#18120c" stroke-width="1.2" stroke-miterlimit="10"/>
+    <path id="Glide_near__7.5" data-name="Glide near +7.5" d="M434 703.5 C434 701.567 436.686 700 440 700 C443.314 700 446 701.567 446 703.5 C446 705.433 443.314 707 440 707 C436.686 707 434 705.433 434 703.5 Z" fill="url(#radial-gradient-4)" stroke="#18120c" stroke-width="1.2" stroke-miterlimit="10"/>
+    <path id="Glide_far_-5.5" data-name="Glide far -5.5" d="M572 776.5 C572 774.567 574.686 773 578 773 C581.314 773 584 774.567 584 776.5 C584 778.433 581.314 780 578 780 C574.686 780 572 778.433 572 776.5 Z" fill="url(#radial-gradient-5)" stroke="#18120c" stroke-width="1.2" stroke-miterlimit="10"/>
+    <path id="Glide_far__7.5" data-name="Glide far +7.5" d="M667 736.5 C667 734.567 669.686 733 673 733 C676.314 733 679 734.567 679 736.5 C679 738.433 676.314 740 673 740 C669.686 740 667 738.433 667 736.5 Z" fill="url(#radial-gradient-6)" stroke="#18120c" stroke-width="1.2" stroke-miterlimit="10"/>
+    <path id="Seat_beech_edge" data-name="Seat beech edge" d="M340.3 512.8 L552.7 542.4 L663.7 495.9 L451.3 466.3 Z" fill="url(#linear-gradient-3)" stroke="#18120c" stroke-width="2" stroke-linejoin="round"/>
+    <path id="Seat_front_edge" data-name="Seat front edge" d="M340.3 512.8 L552.7 542.4 L552.7 521.2 L340.3 491.5 Z" fill="url(#linear-gradient-4)" stroke="#18120c" stroke-width="2" stroke-linejoin="round"/>
+    <path id="Seat_side_edge" data-name="Seat side edge" d="M552.7 542.4 L663.7 495.9 L663.7 474.7 L552.7 521.2 Z" fill="url(#linear-gradient-5)" stroke="#18120c" stroke-width="2" stroke-linejoin="round"/>
+    <path id="Seat_cane" data-name="Seat cane" d="M356.3 491.6 L548.5 518.4 L647.7 476.8 L455.5 450 Z" fill="url(#linear-gradient-6)" stroke="#18120c" stroke-width="1.4" stroke-linejoin="round"/>
+    <path id="Seat_weave_u1" data-name="Seat weave u1" d="M380.3 494.8 L479.6 453.2" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Seat_weave_u2" data-name="Seat weave u2" d="M404.3 498.2 L503.6 456.6" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Seat_weave_u3" data-name="Seat weave u3" d="M428.3 501.5 L527.6 459.9" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Seat_weave_u4" data-name="Seat weave u4" d="M452.4 504.9 L551.6 463.3" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Seat_weave_u5" data-name="Seat weave u5" d="M476.4 508.2 L575.7 466.6" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Seat_weave_u6" data-name="Seat weave u6" d="M500.4 511.6 L599.7 470" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Seat_weave_u7" data-name="Seat weave u7" d="M524.4 514.9 L623.7 473.3" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Seat_weave_z1" data-name="Seat weave z1" d="M370.4 485.5 L562.6 512.4" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Seat_weave_z2" data-name="Seat weave z2" d="M384.6 479.6 L576.8 506.4" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Seat_weave_z3" data-name="Seat weave z3" d="M398.8 473.6 L591 500.5" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Seat_weave_z4" data-name="Seat weave z4" d="M413 467.7 L605.2 494.5" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Seat_weave_z5" data-name="Seat weave z5" d="M427.2 461.7 L619.4 488.6" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Seat_weave_z6" data-name="Seat weave z6" d="M441.4 455.8 L633.6 482.6" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Back_frame" data-name="Back frame" d="M457.1 441.1 L669.5 470.8 L685.6 243.1 L473.2 213.4 Z" fill="url(#linear-gradient-7)" stroke="#18120c" stroke-width="2" stroke-linejoin="round"/>
+    <path id="Back_cane" data-name="Back cane" d="M470.6 428.4 L657.8 454.5 L672.1 255.9 L484.9 229.7 Z" fill="url(#linear-gradient-8)" stroke="#18120c" stroke-width="1.4" stroke-linejoin="round"/>
+    <path id="Back_weave_u1" data-name="Back weave u1" d="M494.2 423.1 L508.2 233" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Back_weave_u2" data-name="Back weave u2" d="M517.6 426.4 L531.6 236.3" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Back_weave_u3" data-name="Back weave u3" d="M541 429.6 L555 239.6" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Back_weave_u4" data-name="Back weave u4" d="M564.3 432.9 L578.4 242.8" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Back_weave_u5" data-name="Back weave u5" d="M587.7 436.2 L601.7 246.1" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Back_weave_u6" data-name="Back weave u6" d="M611.1 439.4 L625.1 249.4" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Back_weave_u7" data-name="Back weave u7" d="M634.5 442.7 L648.5 252.7" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Back_weave_v1" data-name="Back weave v1" d="M473.1 388.1 L660.2 414.3" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Back_weave_v2" data-name="Back weave v2" d="M475.4 356.5 L662.6 382.6" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Back_weave_v3" data-name="Back weave v3" d="M477.8 324.8 L664.9 350.9" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Back_weave_v4" data-name="Back weave v4" d="M480.1 293.1 L667.3 319.3" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Back_weave_v5" data-name="Back weave v5" d="M482.5 261.5 L669.6 287.6" fill="none" stroke="#8a6428" stroke-width="1.5" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Near_tube_edge" data-name="Near tube edge" d="M460.1 221.7 C459.6 230.9 458.4 255.5 457.2 276.8 C456 298.1 454.3 326.4 452.8 349.5 C451.4 372.5 449.7 396.6 448.5 415 C447.2 433.5 449.3 450.1 445.5 460.2 C441.8 470.3 443.8 466.8 425.8 475.5 C407.8 484.2 354.2 499.9 337.5 512.5 C320.8 525.2 329 533.8 325.8 551.4 C322.7 569 320.2 596.3 318.5 618.2 C316.8 640.2 315.4 665.4 315.6 683.2 C315.8 701 317.3 716 320 725.3 C322.7 734.6 311.5 744 331.7 738.8 C351.9 733.6 421 703.5 441.2 694.3 C461.4 685.2 449.7 690.3 452.8 683.8 C456 677.3 458.3 668 460.1 655.2 C462 642.4 462.9 623.4 463.8 606.9 C464.6 590.5 465 573.4 465.2 556.7 C465.5 540.1 465.2 515.4 465.2 507.2" fill="none" stroke="#18120c" stroke-width="9.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Near_tube" data-name="Near tube" d="M460.1 221.7 C459.6 230.9 458.4 255.5 457.2 276.8 C456 298.1 454.3 326.4 452.8 349.5 C451.4 372.5 449.7 396.6 448.5 415 C447.2 433.5 449.3 450.1 445.5 460.2 C441.8 470.3 443.8 466.8 425.8 475.5 C407.8 484.2 354.2 499.9 337.5 512.5 C320.8 525.2 329 533.8 325.8 551.4 C322.7 569 320.2 596.3 318.5 618.2 C316.8 640.2 315.4 665.4 315.6 683.2 C315.8 701 317.3 716 320 725.3 C322.7 734.6 311.5 744 331.7 738.8 C351.9 733.6 421 703.5 441.2 694.3 C461.4 685.2 449.7 690.3 452.8 683.8 C456 677.3 458.3 668 460.1 655.2 C462 642.4 462.9 623.4 463.8 606.9 C464.6 590.5 465 573.4 465.2 556.7 C465.5 540.1 465.2 515.4 465.2 507.2" fill="none" stroke="#9aaab4" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Near_tube_core" data-name="Near tube core" d="M460.1 221.7 C459.6 230.9 458.4 255.5 457.2 276.8 C456 298.1 454.3 326.4 452.8 349.5 C451.4 372.5 449.7 396.6 448.5 415 C447.2 433.5 449.3 450.1 445.5 460.2 C441.8 470.3 443.8 466.8 425.8 475.5 C407.8 484.2 354.2 499.9 337.5 512.5 C320.8 525.2 329 533.8 325.8 551.4 C322.7 569 320.2 596.3 318.5 618.2 C316.8 640.2 315.4 665.4 315.6 683.2 C315.8 701 317.3 716 320 725.3 C322.7 734.6 311.5 744 331.7 738.8 C351.9 733.6 421 703.5 441.2 694.3 C461.4 685.2 449.7 690.3 452.8 683.8 C456 677.3 458.3 668 460.1 655.2 C462 642.4 462.9 623.4 463.8 606.9 C464.6 590.5 465 573.4 465.2 556.7 C465.5 540.1 465.2 515.4 465.2 507.2" fill="none" stroke="#dde8ec" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+    <path id="Near_tube_dark" data-name="Near tube dark" d="M460.1 221.7 C459.6 230.9 458.4 255.5 457.2 276.8 C456 298.1 454.3 326.4 452.8 349.5 C451.4 372.5 449.7 396.6 448.5 415 C447.2 433.5 449.3 450.1 445.5 460.2 C441.8 470.3 443.8 466.8 425.8 475.5 C407.8 484.2 354.2 499.9 337.5 512.5 C320.8 525.2 329 533.8 325.8 551.4 C322.7 569 320.2 596.3 318.5 618.2 C316.8 640.2 315.4 665.4 315.6 683.2 C315.8 701 317.3 716 320 725.3 C322.7 734.6 311.5 744 331.7 738.8 C351.9 733.6 421 703.5 441.2 694.3 C461.4 685.2 449.7 690.3 452.8 683.8 C456 677.3 458.3 668 460.1 655.2 C462 642.4 462.9 623.4 463.8 606.9 C464.6 590.5 465 573.4 465.2 556.7 C465.5 540.1 465.2 515.4 465.2 507.2" fill="none" stroke="#3a464e" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.5"/>
+    <path id="Back_top_run_edge" data-name="Back top run edge" d="M460.1 221.7 L692.8 254.2" fill="none" stroke="#18120c" stroke-width="9.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Back_top_run" data-name="Back top run" d="M460.1 221.7 L692.8 254.2" fill="none" stroke="#9aaab4" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Back_top_run_core" data-name="Back top run core" d="M460.1 221.7 L692.8 254.2" fill="none" stroke="#dde8ec" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+    <path id="Back_top_run_dark" data-name="Back top run dark" d="M460.1 221.7 L692.8 254.2" fill="none" stroke="#3a464e" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.5"/>
+    <path id="Glint_near_-8.8" data-name="Glint near -8.8" d="M318 645 C318 642.239 319.343 640 321 640 C322.657 640 324 642.239 324 645 C324 647.761 322.657 650 321 650 C319.343 650 318 647.761 318 645 Z" fill="#ffffff" opacity="0.6"/>
+    <path id="Glint_near__8.2" data-name="Glint near +8.2" d="M443 402 C443 399.239 444.343 397 446 397 C447.657 397 449 399.239 449 402 C449 404.761 447.657 407 446 407 C444.343 407 443 404.761 443 402 Z" fill="#ffffff" opacity="0.6"/>
+    <path id="Glint_far_-8.8" data-name="Glint far -8.8" d="M551 678 C551 675.239 552.343 673 554 673 C555.657 673 557 675.239 557 678 C557 680.761 555.657 683 554 683 C552.343 683 551 680.761 551 678 Z" fill="#ffffff" opacity="0.6"/>
+    <path id="Glint_far__8.2" data-name="Glint far +8.2" d="M675 435 C675 432.239 676.343 430 678 430 C679.657 430 681 432.239 681 435 C681 437.761 679.657 440 678 440 C676.343 440 675 437.761 675 435 Z" fill="#ffffff" opacity="0.6"/>
+    <text transform="matrix(1 0 0 1 500 934)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="56" fill="#ecf0ec" letter-spacing="3.36" text-anchor="middle"><tspan x="0" y="0">CANTILEVER CHAIR</tspan></text>
+    <text transform="matrix(1 0 0 1 500 970)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="22" fill="#b4c2bc" letter-spacing="5.72" text-anchor="middle"><tspan x="0" y="0">CHROME · CANE · BEECH</tspan></text>
+  </g>
+</svg>
