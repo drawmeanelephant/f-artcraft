@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#241018"/>
+      <stop offset="1" stop-color="#08030a"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="390" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e2440" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#7e2440" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="40" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5a1628"/>
+      <stop offset="1" stop-color="#1a050e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="86" y1="46" x2="914" y2="874" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2cc8e"/>
+      <stop offset="0.5" stop-color="#b0804a"/>
+      <stop offset="1" stop-color="#e8bc78"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="793.641" cy="516.921" r="54.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffc46b" stop-opacity="0.22"/>
+      <stop offset="0.42" stop-color="#ff8a3c" stop-opacity="0.066"/>
+      <stop offset="1" stop-color="#ff8a3c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="793.641" cy="569.009" r="42.16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1d1216" stop-opacity="0.38"/>
+      <stop offset="0.55" stop-color="#1d1216" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#1d1216" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-4" x1="765.1" y1="538.7" x2="824.9" y2="567.2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d9915e"/>
+      <stop offset="0.4" stop-color="#a85c34"/>
+      <stop offset="1" stop-color="#5e2a18"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0" y1="561.5" x2="0" y2="567.2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a4626"/>
+      <stop offset="1" stop-color="#4a2014"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0" y1="533" x2="0" y2="544.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2ae7c"/>
+      <stop offset="0.45" stop-color="#d08452"/>
+      <stop offset="1" stop-color="#9e5230"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="0" y1="535.3" x2="0" y2="542.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4a2414"/>
+      <stop offset="0.55" stop-color="#2e1410"/>
+      <stop offset="1" stop-color="#1c0b08"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="0" y1="540.1" x2="0" y2="545" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f6c094"/>
+      <stop offset="0.6" stop-color="#ce8250"/>
+      <stop offset="1" stop-color="#8e4426"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="0" y1="477" x2="0" y2="535" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff4c6"/>
+      <stop offset="0.34" stop-color="#ffd264"/>
+      <stop offset="0.66" stop-color="#ff9e3c"/>
+      <stop offset="0.86" stop-color="#f2712c"/>
+      <stop offset="1" stop-color="#de4a22"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x1="0" y1="488.6" x2="0" y2="535" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.45" stop-color="#fff6c8"/>
+      <stop offset="0.8" stop-color="#ffe08a"/>
+      <stop offset="1" stop-color="#ffc85e"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-4" cx="752.767" cy="607.133" r="54.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffc46b" stop-opacity="0.22"/>
+      <stop offset="0.42" stop-color="#ff8a3c" stop-opacity="0.066"/>
+      <stop offset="1" stop-color="#ff8a3c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="752.767" cy="659.221" r="42.16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1d1216" stop-opacity="0.38"/>
+      <stop offset="0.55" stop-color="#1d1216" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#1d1216" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-11" x1="724.2" y1="628.9" x2="784" y2="657.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d9915e"/>
+      <stop offset="0.4" stop-color="#a85c34"/>
+      <stop offset="1" stop-color="#5e2a18"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-12" x1="0" y1="651.7" x2="0" y2="657.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a4626"/>
+      <stop offset="1" stop-color="#4a2014"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-13" x1="0" y1="623.2" x2="0" y2="634.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2ae7c"/>
+      <stop offset="0.45" stop-color="#d08452"/>
+      <stop offset="1" stop-color="#9e5230"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-14" x1="0" y1="625.5" x2="0" y2="632.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4a2414"/>
+      <stop offset="0.55" stop-color="#2e1410"/>
+      <stop offset="1" stop-color="#1c0b08"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-15" x1="0" y1="630.3" x2="0" y2="635.2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f6c094"/>
+      <stop offset="0.6" stop-color="#ce8250"/>
+      <stop offset="1" stop-color="#8e4426"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-16" x1="0" y1="567.2" x2="0" y2="625.2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff4c6"/>
+      <stop offset="0.34" stop-color="#ffd264"/>
+      <stop offset="0.66" stop-color="#ff9e3c"/>
+      <stop offset="0.86" stop-color="#f2712c"/>
+      <stop offset="1" stop-color="#de4a22"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-17" x1="0" y1="578.8" x2="0" y2="625.2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.45" stop-color="#fff6c8"/>
+      <stop offset="0.8" stop-color="#ffe08a"/>
+      <stop offset="1" stop-color="#ffc85e"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-6" cx="685.063" cy="679.419" r="54.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffc46b" stop-opacity="0.22"/>
+      <stop offset="0.42" stop-color="#ff8a3c" stop-opacity="0.066"/>
+      <stop offset="1" stop-color="#ff8a3c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-7" cx="685.063" cy="731.507" r="42.16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1d1216" stop-opacity="0.38"/>
+      <stop offset="0.55" stop-color="#1d1216" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#1d1216" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-18" x1="656.5" y1="701.2" x2="716.3" y2="729.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d9915e"/>
+      <stop offset="0.4" stop-color="#a85c34"/>
+      <stop offset="1" stop-color="#5e2a18"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-19" x1="0" y1="724" x2="0" y2="729.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a4626"/>
+      <stop offset="1" stop-color="#4a2014"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-20" x1="0" y1="695.5" x2="0" y2="706.9" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2ae7c"/>
+      <stop offset="0.45" stop-color="#d08452"/>
+      <stop offset="1" stop-color="#9e5230"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-21" x1="0" y1="697.8" x2="0" y2="704.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4a2414"/>
+      <stop offset="0.55" stop-color="#2e1410"/>
+      <stop offset="1" stop-color="#1c0b08"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-22" x1="0" y1="702.6" x2="0" y2="707.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f6c094"/>
+      <stop offset="0.6" stop-color="#ce8250"/>
+      <stop offset="1" stop-color="#8e4426"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-23" x1="0" y1="639.5" x2="0" y2="697.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff4c6"/>
+      <stop offset="0.34" stop-color="#ffd264"/>
+      <stop offset="0.66" stop-color="#ff9e3c"/>
+      <stop offset="0.86" stop-color="#f2712c"/>
+      <stop offset="1" stop-color="#de4a22"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-24" x1="0" y1="651.1" x2="0" y2="697.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.45" stop-color="#fff6c8"/>
+      <stop offset="0.8" stop-color="#ffe08a"/>
+      <stop offset="1" stop-color="#ffc85e"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-8" cx="597.718" cy="726.107" r="54.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffc46b" stop-opacity="0.22"/>
+      <stop offset="0.42" stop-color="#ff8a3c" stop-opacity="0.066"/>
+      <stop offset="1" stop-color="#ff8a3c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-9" cx="597.718" cy="778.195" r="42.16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1d1216" stop-opacity="0.38"/>
+      <stop offset="0.55" stop-color="#1d1216" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#1d1216" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-25" x1="569.2" y1="747.9" x2="629" y2="776.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d9915e"/>
+      <stop offset="0.4" stop-color="#a85c34"/>
+      <stop offset="1" stop-color="#5e2a18"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-26" x1="0" y1="770.7" x2="0" y2="776.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a4626"/>
+      <stop offset="1" stop-color="#4a2014"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-27" x1="0" y1="742.2" x2="0" y2="753.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2ae7c"/>
+      <stop offset="0.45" stop-color="#d08452"/>
+      <stop offset="1" stop-color="#9e5230"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-28" x1="0" y1="744.4" x2="0" y2="751.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4a2414"/>
+      <stop offset="0.55" stop-color="#2e1410"/>
+      <stop offset="1" stop-color="#1c0b08"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-29" x1="0" y1="749.3" x2="0" y2="754.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f6c094"/>
+      <stop offset="0.6" stop-color="#ce8250"/>
+      <stop offset="1" stop-color="#8e4426"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-30" x1="0" y1="686.2" x2="0" y2="744.2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff4c6"/>
+      <stop offset="0.34" stop-color="#ffd264"/>
+      <stop offset="0.66" stop-color="#ff9e3c"/>
+      <stop offset="0.86" stop-color="#f2712c"/>
+      <stop offset="1" stop-color="#de4a22"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-31" x1="0" y1="697.8" x2="0" y2="744.2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.45" stop-color="#fff6c8"/>
+      <stop offset="0.8" stop-color="#ffe08a"/>
+      <stop offset="1" stop-color="#ffc85e"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-10" cx="500" cy="742.24" r="54.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffc46b" stop-opacity="0.22"/>
+      <stop offset="0.42" stop-color="#ff8a3c" stop-opacity="0.066"/>
+      <stop offset="1" stop-color="#ff8a3c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-11" cx="500" cy="794.328" r="42.16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1d1216" stop-opacity="0.38"/>
+      <stop offset="0.55" stop-color="#1d1216" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#1d1216" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-32" x1="471.4" y1="764" x2="531.3" y2="792.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d9915e"/>
+      <stop offset="0.4" stop-color="#a85c34"/>
+      <stop offset="1" stop-color="#5e2a18"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-33" x1="0" y1="786.8" x2="0" y2="792.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a4626"/>
+      <stop offset="1" stop-color="#4a2014"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-34" x1="0" y1="758.3" x2="0" y2="769.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2ae7c"/>
+      <stop offset="0.45" stop-color="#d08452"/>
+      <stop offset="1" stop-color="#9e5230"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-35" x1="0" y1="760.6" x2="0" y2="767.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4a2414"/>
+      <stop offset="0.55" stop-color="#2e1410"/>
+      <stop offset="1" stop-color="#1c0b08"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-36" x1="0" y1="765.4" x2="0" y2="770.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f6c094"/>
+      <stop offset="0.6" stop-color="#ce8250"/>
+      <stop offset="1" stop-color="#8e4426"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-37" x1="0" y1="702.3" x2="0" y2="760.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff4c6"/>
+      <stop offset="0.34" stop-color="#ffd264"/>
+      <stop offset="0.66" stop-color="#ff9e3c"/>
+      <stop offset="0.86" stop-color="#f2712c"/>
+      <stop offset="1" stop-color="#de4a22"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-38" x1="0" y1="713.9" x2="0" y2="760.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.45" stop-color="#fff6c8"/>
+      <stop offset="0.8" stop-color="#ffe08a"/>
+      <stop offset="1" stop-color="#ffc85e"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-12" cx="402.282" cy="726.107" r="54.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffc46b" stop-opacity="0.22"/>
+      <stop offset="0.42" stop-color="#ff8a3c" stop-opacity="0.066"/>
+      <stop offset="1" stop-color="#ff8a3c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-13" cx="402.282" cy="778.195" r="42.16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1d1216" stop-opacity="0.38"/>
+      <stop offset="0.55" stop-color="#1d1216" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#1d1216" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-39" x1="373.7" y1="747.9" x2="433.6" y2="776.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d9915e"/>
+      <stop offset="0.4" stop-color="#a85c34"/>
+      <stop offset="1" stop-color="#5e2a18"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-14" cx="314.937" cy="679.419" r="54.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffc46b" stop-opacity="0.22"/>
+      <stop offset="0.42" stop-color="#ff8a3c" stop-opacity="0.066"/>
+      <stop offset="1" stop-color="#ff8a3c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-15" cx="314.937" cy="731.507" r="42.16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1d1216" stop-opacity="0.38"/>
+      <stop offset="0.55" stop-color="#1d1216" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#1d1216" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-40" x1="286.4" y1="701.2" x2="346.2" y2="729.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d9915e"/>
+      <stop offset="0.4" stop-color="#a85c34"/>
+      <stop offset="1" stop-color="#5e2a18"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-16" cx="247.233" cy="607.133" r="54.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffc46b" stop-opacity="0.22"/>
+      <stop offset="0.42" stop-color="#ff8a3c" stop-opacity="0.066"/>
+      <stop offset="1" stop-color="#ff8a3c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-17" cx="247.233" cy="659.221" r="42.16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1d1216" stop-opacity="0.38"/>
+      <stop offset="0.55" stop-color="#1d1216" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#1d1216" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-41" x1="218.7" y1="628.9" x2="278.5" y2="657.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d9915e"/>
+      <stop offset="0.4" stop-color="#a85c34"/>
+      <stop offset="1" stop-color="#5e2a18"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-18" cx="206.359" cy="516.921" r="54.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffc46b" stop-opacity="0.22"/>
+      <stop offset="0.42" stop-color="#ff8a3c" stop-opacity="0.066"/>
+      <stop offset="1" stop-color="#ff8a3c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-19" cx="206.359" cy="569.009" r="42.16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1d1216" stop-opacity="0.38"/>
+      <stop offset="0.55" stop-color="#1d1216" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#1d1216" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-42" x1="177.8" y1="538.7" x2="237.6" y2="567.2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d9915e"/>
+      <stop offset="0.4" stop-color="#a85c34"/>
+      <stop offset="1" stop-color="#5e2a18"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-20" cx="500" cy="402" r="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8a850" stop-opacity="0.16"/>
+      <stop offset="0.55" stop-color="#e8a850" stop-opacity="0.056"/>
+      <stop offset="1" stop-color="#e8a850" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-43" x1="342.8" y1="485.6" x2="657.2" y2="318.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8a068"/>
+      <stop offset="0.5" stop-color="#b87848"/>
+      <stop offset="1" stop-color="#7a4626"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-21" cx="342.835" cy="485.566" r="12.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fbe6b4"/>
+      <stop offset="0.6" stop-color="#e8c074"/>
+      <stop offset="1" stop-color="#8e5a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-22" cx="657.165" cy="318.434" r="12.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fbe6b4"/>
+      <stop offset="0.6" stop-color="#e8c074"/>
+      <stop offset="1" stop-color="#8e5a1e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-44" x1="342.8" y1="318.4" x2="657.2" y2="485.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8a068"/>
+      <stop offset="0.5" stop-color="#b87848"/>
+      <stop offset="1" stop-color="#7a4626"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-23" cx="342.835" cy="318.434" r="12.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fbe6b4"/>
+      <stop offset="0.6" stop-color="#e8c074"/>
+      <stop offset="1" stop-color="#8e5a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-24" cx="657.165" cy="485.566" r="12.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fbe6b4"/>
+      <stop offset="0.6" stop-color="#e8c074"/>
+      <stop offset="1" stop-color="#8e5a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-25" cx="500" cy="402" r="17" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fbe6b4"/>
+      <stop offset="0.6" stop-color="#e8c074"/>
+      <stop offset="1" stop-color="#8e5a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-26" cx="386" cy="300" r="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd98a" stop-opacity="0.38"/>
+      <stop offset="0.55" stop-color="#ffd98a" stop-opacity="0.133"/>
+      <stop offset="1" stop-color="#ffd98a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-27" cx="616" cy="330" r="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd98a" stop-opacity="0.38"/>
+      <stop offset="0.55" stop-color="#ffd98a" stop-opacity="0.133"/>
+      <stop offset="1" stop-color="#ffd98a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-28" cx="444" cy="520" r="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd98a" stop-opacity="0.38"/>
+      <stop offset="0.55" stop-color="#ffd98a" stop-opacity="0.133"/>
+      <stop offset="1" stop-color="#ffd98a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-29" cx="570" cy="486" r="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd98a" stop-opacity="0.38"/>
+      <stop offset="0.55" stop-color="#ffd98a" stop-opacity="0.133"/>
+      <stop offset="1" stop-color="#ffd98a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-30" cx="500" cy="260" r="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd98a" stop-opacity="0.38"/>
+      <stop offset="0.55" stop-color="#ffd98a" stop-opacity="0.133"/>
+      <stop offset="1" stop-color="#ffd98a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-45" x1="712" y1="181" x2="776" y2="245" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c0473a"/>
+      <stop offset="1" stop-color="#7e1f1b"/>
+    </linearGradient>
+  </defs>
+  <title>Navratri — Festival Seal</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Backdrop_glow" data-name="Backdrop glow" d="M110 460 C110 244.609 284.609 70 500 70 C715.391 70 890 244.609 890 460 C890 675.391 715.391 850 500 850 C284.609 850 110 675.391 110 460 Z" fill="url(#radial-gradient-1)"/>
+    <path id="Backdrop_dust_1" data-name="Backdrop dust 1" d="M783.9 258.8 C783.9 258.358 784.258 258 784.7 258 C785.142 258 785.5 258.358 785.5 258.8 C785.5 259.242 785.142 259.6 784.7 259.6 C784.258 259.6 783.9 259.242 783.9 258.8 Z" fill="#f6e3b8" opacity="0.16"/>
+    <path id="Backdrop_dust_2" data-name="Backdrop dust 2" d="M210.6 475.05 C210.6 474.525 211.025 474.1 211.55 474.1 C212.075 474.1 212.5 474.525 212.5 475.05 C212.5 475.575 212.075 476 211.55 476 C211.025 476 210.6 475.575 210.6 475.05 Z" fill="#f2a33c" opacity="0.18"/>
+    <path id="Backdrop_dust_3" data-name="Backdrop dust 3" d="M762 442.95 C762 442.315 762.515 441.8 763.15 441.8 C763.785 441.8 764.3 442.315 764.3 442.95 C764.3 443.585 763.785 444.1 763.15 444.1 C762.515 444.1 762 443.585 762 442.95 Z" fill="#f6e3b8" opacity="0.11"/>
+    <path id="Backdrop_dust_4" data-name="Backdrop dust 4" d="M566.4 682.85 C566.4 682.381 566.781 682 567.25 682 C567.719 682 568.1 682.381 568.1 682.85 C568.1 683.319 567.719 683.7 567.25 683.7 C566.781 683.7 566.4 683.319 566.4 682.85 Z" fill="#f2a33c" opacity="0.14"/>
+    <path id="Backdrop_dust_5" data-name="Backdrop dust 5" d="M277.4 393.95 C277.4 393.591 277.691 393.3 278.05 393.3 C278.409 393.3 278.7 393.591 278.7 393.95 C278.7 394.309 278.409 394.6 278.05 394.6 C277.691 394.6 277.4 394.309 277.4 393.95 Z" fill="#f6e3b8" opacity="0.15"/>
+    <path id="Backdrop_dust_6" data-name="Backdrop dust 6" d="M346.3 665.6 C346.3 665.158 346.658 664.8 347.1 664.8 C347.542 664.8 347.9 665.158 347.9 665.6 C347.9 666.042 347.542 666.4 347.1 666.4 C346.658 666.4 346.3 666.042 346.3 665.6 Z" fill="#f2a33c" opacity="0.09"/>
+    <path id="Backdrop_dust_7" data-name="Backdrop dust 7" d="M332.2 274 C332.2 273.503 332.603 273.1 333.1 273.1 C333.597 273.1 334 273.503 334 274 C334 274.497 333.597 274.9 333.1 274.9 C332.603 274.9 332.2 274.497 332.2 274 Z" fill="#f6e3b8" opacity="0.19"/>
+    <path id="Backdrop_dust_8" data-name="Backdrop dust 8" d="M781.3 191.5 C781.3 191.003 781.703 190.6 782.2 190.6 C782.697 190.6 783.1 191.003 783.1 191.5 C783.1 191.997 782.697 192.4 782.2 192.4 C781.703 192.4 781.3 191.997 781.3 191.5 Z" fill="#f2a33c" opacity="0.12"/>
+    <path id="Backdrop_dust_9" data-name="Backdrop dust 9" d="M862 403.6 C862 403.269 862.269 403 862.6 403 C862.931 403 863.2 403.269 863.2 403.6 C863.2 403.931 862.931 404.2 862.6 404.2 C862.269 404.2 862 403.931 862 403.6 Z" fill="#f6e3b8" opacity="0.12"/>
+    <path id="Backdrop_dust_10" data-name="Backdrop dust 10" d="M610.9 328.3 C610.9 327.748 611.348 327.3 611.9 327.3 C612.452 327.3 612.9 327.748 612.9 328.3 C612.9 328.852 612.452 329.3 611.9 329.3 C611.348 329.3 610.9 328.852 610.9 328.3 Z" fill="#f2a33c" opacity="0.21"/>
+    <path id="Backdrop_dust_11" data-name="Backdrop dust 11" d="M881.5 455.15 C881.5 454.791 881.791 454.5 882.15 454.5 C882.509 454.5 882.8 454.791 882.8 455.15 C882.8 455.509 882.509 455.8 882.15 455.8 C881.791 455.8 881.5 455.509 881.5 455.15 Z" fill="#f6e3b8" opacity="0.12"/>
+    <path id="Backdrop_dust_12" data-name="Backdrop dust 12" d="M502.6 557.3 C502.6 556.692 503.092 556.2 503.7 556.2 C504.308 556.2 504.8 556.692 504.8 557.3 C504.8 557.908 504.308 558.4 503.7 558.4 C503.092 558.4 502.6 557.908 502.6 557.3 Z" fill="#f2a33c" opacity="0.2"/>
+    <path id="Backdrop_dust_13" data-name="Backdrop dust 13" d="M500.5 708.6 C500.5 708.158 500.858 707.8 501.3 707.8 C501.742 707.8 502.1 708.158 502.1 708.6 C502.1 709.042 501.742 709.4 501.3 709.4 C500.858 709.4 500.5 709.042 500.5 708.6 Z" fill="#f6e3b8" opacity="0.18"/>
+    <path id="Backdrop_dust_14" data-name="Backdrop dust 14" d="M795.5 339 C795.5 338.503 795.903 338.1 796.4 338.1 C796.897 338.1 797.3 338.503 797.3 339 C797.3 339.497 796.897 339.9 796.4 339.9 C795.903 339.9 795.5 339.497 795.5 339 Z" fill="#f2a33c" opacity="0.16"/>
+    <path id="Backdrop_dust_15" data-name="Backdrop dust 15" d="M527 532.8 C527 532.192 527.492 531.7 528.1 531.7 C528.708 531.7 529.2 532.192 529.2 532.8 C529.2 533.408 528.708 533.9 528.1 533.9 C527.492 533.9 527 533.408 527 532.8 Z" fill="#f6e3b8" opacity="0.15"/>
+    <path id="Backdrop_dust_16" data-name="Backdrop dust 16" d="M391.9 727.65 C391.9 727.291 392.191 727 392.55 727 C392.909 727 393.2 727.291 393.2 727.65 C393.2 728.009 392.909 728.3 392.55 728.3 C392.191 728.3 391.9 728.009 391.9 727.65 Z" fill="#f2a33c" opacity="0.21"/>
+    <path id="Backdrop_dust_17" data-name="Backdrop dust 17" d="M234.2 743.9 C234.2 743.348 234.648 742.9 235.2 742.9 C235.752 742.9 236.2 743.348 236.2 743.9 C236.2 744.452 235.752 744.9 235.2 744.9 C234.648 744.9 234.2 744.452 234.2 743.9 Z" fill="#f6e3b8" opacity="0.13"/>
+    <path id="Backdrop_dust_18" data-name="Backdrop dust 18" d="M611 484 C611 483.448 611.448 483 612 483 C612.552 483 613 483.448 613 484 C613 484.552 612.552 485 612 485 C611.448 485 611 484.552 611 484 Z" fill="#f2a33c" opacity="0.2"/>
+    <path id="Backdrop_dust_19" data-name="Backdrop dust 19" d="M799.3 369.85 C799.3 369.546 799.546 369.3 799.85 369.3 C800.154 369.3 800.4 369.546 800.4 369.85 C800.4 370.154 800.154 370.4 799.85 370.4 C799.546 370.4 799.3 370.154 799.3 369.85 Z" fill="#f6e3b8" opacity="0.15"/>
+    <path id="Backdrop_dust_20" data-name="Backdrop dust 20" d="M371 746.85 C371 746.215 371.515 745.7 372.15 745.7 C372.785 745.7 373.3 746.215 373.3 746.85 C373.3 747.485 372.785 748 372.15 748 C371.515 748 371 747.485 371 746.85 Z" fill="#f2a33c" opacity="0.1"/>
+    <path id="Backdrop_dust_21" data-name="Backdrop dust 21" d="M416.9 335.85 C416.9 335.27 417.37 334.8 417.95 334.8 C418.53 334.8 419 335.27 419 335.85 C419 336.43 418.53 336.9 417.95 336.9 C417.37 336.9 416.9 336.43 416.9 335.85 Z" fill="#f6e3b8" opacity="0.13"/>
+    <path id="Backdrop_dust_22" data-name="Backdrop dust 22" d="M289.9 442.9 C289.9 442.513 290.213 442.2 290.6 442.2 C290.987 442.2 291.3 442.513 291.3 442.9 C291.3 443.287 290.987 443.6 290.6 443.6 C290.213 443.6 289.9 443.287 289.9 442.9 Z" fill="#f2a33c" opacity="0.12"/>
+    <path id="Backdrop_dust_23" data-name="Backdrop dust 23" d="M602.6 479.65 C602.6 479.07 603.07 478.6 603.65 478.6 C604.23 478.6 604.7 479.07 604.7 479.65 C604.7 480.23 604.23 480.7 603.65 480.7 C603.07 480.7 602.6 480.23 602.6 479.65 Z" fill="#f6e3b8" opacity="0.12"/>
+    <path id="Backdrop_dust_24" data-name="Backdrop dust 24" d="M522.6 476.7 C522.6 476.258 522.958 475.9 523.4 475.9 C523.842 475.9 524.2 476.258 524.2 476.7 C524.2 477.142 523.842 477.5 523.4 477.5 C522.958 477.5 522.6 477.142 522.6 476.7 Z" fill="#f2a33c" opacity="0.17"/>
+    <path id="Backdrop_dust_25" data-name="Backdrop dust 25" d="M633.6 595.9 C633.6 595.458 633.958 595.1 634.4 595.1 C634.842 595.1 635.2 595.458 635.2 595.9 C635.2 596.342 634.842 596.7 634.4 596.7 C633.958 596.7 633.6 596.342 633.6 595.9 Z" fill="#f6e3b8" opacity="0.15"/>
+    <path id="Backdrop_dust_26" data-name="Backdrop dust 26" d="M697.5 496.05 C697.5 495.47 697.97 495 698.55 495 C699.13 495 699.6 495.47 699.6 496.05 C699.6 496.63 699.13 497.1 698.55 497.1 C697.97 497.1 697.5 496.63 697.5 496.05 Z" fill="#f2a33c" opacity="0.19"/>
+    <path id="Backdrop_dust_27" data-name="Backdrop dust 27" d="M257 387.15 C257 386.515 257.515 386 258.15 386 C258.785 386 259.3 386.515 259.3 387.15 C259.3 387.785 258.785 388.3 258.15 388.3 C257.515 388.3 257 387.785 257 387.15 Z" fill="#f6e3b8" opacity="0.21"/>
+    <path id="Backdrop_dust_28" data-name="Backdrop dust 28" d="M196.4 522.55 C196.4 522.136 196.736 521.8 197.15 521.8 C197.564 521.8 197.9 522.136 197.9 522.55 C197.9 522.964 197.564 523.3 197.15 523.3 C196.736 523.3 196.4 522.964 196.4 522.55 Z" fill="#f2a33c" opacity="0.2"/>
+    <path id="Backdrop_dust_29" data-name="Backdrop dust 29" d="M736.7 166.9 C736.7 166.458 737.058 166.1 737.5 166.1 C737.942 166.1 738.3 166.458 738.3 166.9 C738.3 167.342 737.942 167.7 737.5 167.7 C737.058 167.7 736.7 167.342 736.7 166.9 Z" fill="#f6e3b8" opacity="0.2"/>
+    <path id="Backdrop_dust_30" data-name="Backdrop dust 30" d="M651.4 341.75 C651.4 341.336 651.736 341 652.15 341 C652.564 341 652.9 341.336 652.9 341.75 C652.9 342.164 652.564 342.5 652.15 342.5 C651.736 342.5 651.4 342.164 651.4 341.75 Z" fill="#f2a33c" opacity="0.18"/>
+    <path id="Backdrop_dust_31" data-name="Backdrop dust 31" d="M204.2 716.5 C204.2 715.837 204.737 715.3 205.4 715.3 C206.063 715.3 206.6 715.837 206.6 716.5 C206.6 717.163 206.063 717.7 205.4 717.7 C204.737 717.7 204.2 717.163 204.2 716.5 Z" fill="#f6e3b8" opacity="0.12"/>
+    <path id="Backdrop_dust_32" data-name="Backdrop dust 32" d="M288.8 335.65 C288.8 335.346 289.046 335.1 289.35 335.1 C289.654 335.1 289.9 335.346 289.9 335.65 C289.9 335.954 289.654 336.2 289.35 336.2 C289.046 336.2 288.8 335.954 288.8 335.65 Z" fill="#f2a33c" opacity="0.17"/>
+    <path id="Backdrop_dust_33" data-name="Backdrop dust 33" d="M402.7 550.35 C402.7 549.936 403.036 549.6 403.45 549.6 C403.864 549.6 404.2 549.936 404.2 550.35 C404.2 550.764 403.864 551.1 403.45 551.1 C403.036 551.1 402.7 550.764 402.7 550.35 Z" fill="#f6e3b8" opacity="0.17"/>
+    <path id="Backdrop_dust_34" data-name="Backdrop dust 34" d="M232.9 522.95 C232.9 522.425 233.325 522 233.85 522 C234.375 522 234.8 522.425 234.8 522.95 C234.8 523.475 234.375 523.9 233.85 523.9 C233.325 523.9 232.9 523.475 232.9 522.95 Z" fill="#f2a33c" opacity="0.14"/>
+    <path id="Backdrop_dust_35" data-name="Backdrop dust 35" d="M281.7 372.1 C281.7 371.824 281.924 371.6 282.2 371.6 C282.476 371.6 282.7 371.824 282.7 372.1 C282.7 372.376 282.476 372.6 282.2 372.6 C281.924 372.6 281.7 372.376 281.7 372.1 Z" fill="#f6e3b8" opacity="0.19"/>
+    <path id="Backdrop_dust_36" data-name="Backdrop dust 36" d="M382.1 656 C382.1 655.669 382.369 655.4 382.7 655.4 C383.031 655.4 383.3 655.669 383.3 656 C383.3 656.331 383.031 656.6 382.7 656.6 C382.369 656.6 382.1 656.331 382.1 656 Z" fill="#f2a33c" opacity="0.21"/>
+    <path id="Backdrop_dust_37" data-name="Backdrop dust 37" d="M633.3 490.45 C633.3 489.981 633.681 489.6 634.15 489.6 C634.619 489.6 635 489.981 635 490.45 C635 490.919 634.619 491.3 634.15 491.3 C633.681 491.3 633.3 490.919 633.3 490.45 Z" fill="#f6e3b8" opacity="0.13"/>
+    <path id="Backdrop_dust_38" data-name="Backdrop dust 38" d="M354.9 463 C354.9 462.337 355.437 461.8 356.1 461.8 C356.763 461.8 357.3 462.337 357.3 463 C357.3 463.663 356.763 464.2 356.1 464.2 C355.437 464.2 354.9 463.663 354.9 463 Z" fill="#f2a33c" opacity="0.19"/>
+    <path id="Backdrop_dust_39" data-name="Backdrop dust 39" d="M299.8 332.15 C299.8 331.791 300.091 331.5 300.45 331.5 C300.809 331.5 301.1 331.791 301.1 332.15 C301.1 332.509 300.809 332.8 300.45 332.8 C300.091 332.8 299.8 332.509 299.8 332.15 Z" fill="#f6e3b8" opacity="0.16"/>
+    <path id="Backdrop_dust_40" data-name="Backdrop dust 40" d="M440.1 251.85 C440.1 251.436 440.436 251.1 440.85 251.1 C441.264 251.1 441.6 251.436 441.6 251.85 C441.6 252.264 441.264 252.6 440.85 252.6 C440.436 252.6 440.1 252.264 440.1 251.85 Z" fill="#f2a33c" opacity="0.18"/>
+    <path id="Plate_shadow" data-name="Plate shadow" d="M86 466 C86 237.354 271.354 52 500 52 C728.646 52 914 237.354 914 466 C914 694.646 728.646 880 500 880 C271.354 880 86 694.646 86 466 Z" fill="#1d1216" opacity="0.3"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#linear-gradient-2)" stroke="#3e1020" stroke-width="10" stroke-miterlimit="10"/>
+    <path id="Plate_rim" data-name="Plate rim" d="M86 460 C86 231.354 271.354 46 500 46 C728.646 46 914 231.354 914 460 C914 688.646 728.646 874 500 874 C271.354 874 86 688.646 86 460 Z" fill="none" stroke="#e8c074" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M110 460 C110 244.609 284.609 70 500 70 C715.391 70 890 244.609 890 460 C890 675.391 715.391 850 500 850 C284.609 850 110 675.391 110 460 Z" fill="none" stroke="#e8c074" stroke-width="2" stroke-miterlimit="10" opacity="0.62"/>
+    <path id="Disc_dust_1" data-name="Disc dust 1" d="M391.5 230.35 C391.5 229.881 391.881 229.5 392.35 229.5 C392.819 229.5 393.2 229.881 393.2 230.35 C393.2 230.819 392.819 231.2 392.35 231.2 C391.881 231.2 391.5 230.819 391.5 230.35 Z" fill="#f6e3b8" opacity="0.27"/>
+    <path id="Disc_dust_2" data-name="Disc dust 2" d="M568.8 476.85 C568.8 476.436 569.136 476.1 569.55 476.1 C569.964 476.1 570.3 476.436 570.3 476.85 C570.3 477.264 569.964 477.6 569.55 477.6 C569.136 477.6 568.8 477.264 568.8 476.85 Z" fill="#f2a33c" opacity="0.24"/>
+    <path id="Disc_dust_3" data-name="Disc dust 3" d="M785.5 446.7 C785.5 446.092 785.992 445.6 786.6 445.6 C787.208 445.6 787.7 446.092 787.7 446.7 C787.7 447.308 787.208 447.8 786.6 447.8 C785.992 447.8 785.5 447.308 785.5 446.7 Z" fill="#e8c074" opacity="0.13"/>
+    <path id="Disc_dust_4" data-name="Disc dust 4" d="M323.7 424.95 C323.7 424.646 323.946 424.4 324.25 424.4 C324.554 424.4 324.8 424.646 324.8 424.95 C324.8 425.254 324.554 425.5 324.25 425.5 C323.946 425.5 323.7 425.254 323.7 424.95 Z" fill="#f6e3b8" opacity="0.2"/>
+    <path id="Disc_dust_5" data-name="Disc dust 5" d="M780.7 664.9 C780.7 664.403 781.103 664 781.6 664 C782.097 664 782.5 664.403 782.5 664.9 C782.5 665.397 782.097 665.8 781.6 665.8 C781.103 665.8 780.7 665.397 780.7 664.9 Z" fill="#f2a33c" opacity="0.24"/>
+    <path id="Disc_dust_6" data-name="Disc dust 6" d="M635.1 820.2 C635.1 819.537 635.637 819 636.3 819 C636.963 819 637.5 819.537 637.5 820.2 C637.5 820.863 636.963 821.4 636.3 821.4 C635.637 821.4 635.1 820.863 635.1 820.2 Z" fill="#e8c074" opacity="0.2"/>
+    <path id="Disc_dust_7" data-name="Disc dust 7" d="M512.4 75 C512.4 74.503 512.803 74.1 513.3 74.1 C513.797 74.1 514.2 74.503 514.2 75 C514.2 75.497 513.797 75.9 513.3 75.9 C512.803 75.9 512.4 75.497 512.4 75 Z" fill="#f6e3b8" opacity="0.24"/>
+    <path id="Disc_dust_8" data-name="Disc dust 8" d="M642.6 468.2 C642.6 467.427 643.227 466.8 644 466.8 C644.773 466.8 645.4 467.427 645.4 468.2 C645.4 468.973 644.773 469.6 644 469.6 C643.227 469.6 642.6 468.973 642.6 468.2 Z" fill="#f2a33c" opacity="0.28"/>
+    <path id="Disc_dust_9" data-name="Disc dust 9" d="M537.1 160.5 C537.1 159.727 537.727 159.1 538.5 159.1 C539.273 159.1 539.9 159.727 539.9 160.5 C539.9 161.273 539.273 161.9 538.5 161.9 C537.727 161.9 537.1 161.273 537.1 160.5 Z" fill="#e8c074" opacity="0.28"/>
+    <path id="Disc_dust_10" data-name="Disc dust 10" d="M758 209.3 C758 208.803 758.403 208.4 758.9 208.4 C759.397 208.4 759.8 208.803 759.8 209.3 C759.8 209.797 759.397 210.2 758.9 210.2 C758.403 210.2 758 209.797 758 209.3 Z" fill="#f6e3b8" opacity="0.3"/>
+    <path id="Disc_dust_11" data-name="Disc dust 11" d="M583.9 239.45 C583.9 239.146 584.146 238.9 584.45 238.9 C584.754 238.9 585 239.146 585 239.45 C585 239.754 584.754 240 584.45 240 C584.146 240 583.9 239.754 583.9 239.45 Z" fill="#f2a33c" opacity="0.23"/>
+    <path id="Disc_dust_12" data-name="Disc dust 12" d="M512 467.3 C512 466.969 512.269 466.7 512.6 466.7 C512.931 466.7 513.2 466.969 513.2 467.3 C513.2 467.631 512.931 467.9 512.6 467.9 C512.269 467.9 512 467.631 512 467.3 Z" fill="#e8c074" opacity="0.1"/>
+    <path id="Disc_dust_13" data-name="Disc dust 13" d="M250.3 374.8 C250.3 374.192 250.792 373.7 251.4 373.7 C252.008 373.7 252.5 374.192 252.5 374.8 C252.5 375.408 252.008 375.9 251.4 375.9 C250.792 375.9 250.3 375.408 250.3 374.8 Z" fill="#f6e3b8" opacity="0.22"/>
+    <path id="Disc_dust_14" data-name="Disc dust 14" d="M639.4 669.25 C639.4 668.449 640.049 667.8 640.85 667.8 C641.651 667.8 642.3 668.449 642.3 669.25 C642.3 670.051 641.651 670.7 640.85 670.7 C640.049 670.7 639.4 670.051 639.4 669.25 Z" fill="#f2a33c" opacity="0.13"/>
+    <path id="Disc_dust_15" data-name="Disc dust 15" d="M499.4 787.5 C499.4 786.837 499.937 786.3 500.6 786.3 C501.263 786.3 501.8 786.837 501.8 787.5 C501.8 788.163 501.263 788.7 500.6 788.7 C499.937 788.7 499.4 788.163 499.4 787.5 Z" fill="#e8c074" opacity="0.29"/>
+    <path id="Disc_dust_16" data-name="Disc dust 16" d="M553.1 499.2 C553.1 498.703 553.503 498.3 554 498.3 C554.497 498.3 554.9 498.703 554.9 499.2 C554.9 499.697 554.497 500.1 554 500.1 C553.503 500.1 553.1 499.697 553.1 499.2 Z" fill="#f6e3b8" opacity="0.14"/>
+    <path id="Disc_dust_17" data-name="Disc dust 17" d="M273 229 C273 228.392 273.492 227.9 274.1 227.9 C274.708 227.9 275.2 228.392 275.2 229 C275.2 229.608 274.708 230.1 274.1 230.1 C273.492 230.1 273 229.608 273 229 Z" fill="#f2a33c" opacity="0.21"/>
+    <path id="Disc_dust_18" data-name="Disc dust 18" d="M855.9 462.75 C855.9 462.115 856.415 461.6 857.05 461.6 C857.685 461.6 858.2 462.115 858.2 462.75 C858.2 463.385 857.685 463.9 857.05 463.9 C856.415 463.9 855.9 463.385 855.9 462.75 Z" fill="#e8c074" opacity="0.11"/>
+    <path id="Disc_dust_19" data-name="Disc dust 19" d="M621.9 741.95 C621.9 741.646 622.146 741.4 622.45 741.4 C622.754 741.4 623 741.646 623 741.95 C623 742.254 622.754 742.5 622.45 742.5 C622.146 742.5 621.9 742.254 621.9 741.95 Z" fill="#f6e3b8" opacity="0.28"/>
+    <path id="Disc_dust_20" data-name="Disc dust 20" d="M847.9 472.45 C847.9 471.76 848.46 471.2 849.15 471.2 C849.84 471.2 850.4 471.76 850.4 472.45 C850.4 473.14 849.84 473.7 849.15 473.7 C848.46 473.7 847.9 473.14 847.9 472.45 Z" fill="#f2a33c" opacity="0.16"/>
+    <path id="Disc_dust_21" data-name="Disc dust 21" d="M614.8 330.6 C614.8 329.882 615.382 329.3 616.1 329.3 C616.818 329.3 617.4 329.882 617.4 330.6 C617.4 331.318 616.818 331.9 616.1 331.9 C615.382 331.9 614.8 331.318 614.8 330.6 Z" fill="#e8c074" opacity="0.1"/>
+    <path id="Disc_dust_22" data-name="Disc dust 22" d="M365.4 195.4 C365.4 194.627 366.027 194 366.8 194 C367.573 194 368.2 194.627 368.2 195.4 C368.2 196.173 367.573 196.8 366.8 196.8 C366.027 196.8 365.4 196.173 365.4 195.4 Z" fill="#f6e3b8" opacity="0.22"/>
+    <path id="Disc_dust_23" data-name="Disc dust 23" d="M659.3 575.45 C659.3 574.704 659.904 574.1 660.65 574.1 C661.396 574.1 662 574.704 662 575.45 C662 576.196 661.396 576.8 660.65 576.8 C659.904 576.8 659.3 576.196 659.3 575.45 Z" fill="#f2a33c" opacity="0.18"/>
+    <path id="Disc_dust_24" data-name="Disc dust 24" d="M473.2 318.85 C473.2 318.436 473.536 318.1 473.95 318.1 C474.364 318.1 474.7 318.436 474.7 318.85 C474.7 319.264 474.364 319.6 473.95 319.6 C473.536 319.6 473.2 319.264 473.2 318.85 Z" fill="#e8c074" opacity="0.24"/>
+    <path id="Disc_dust_25" data-name="Disc dust 25" d="M551.5 682.5 C551.5 682.003 551.903 681.6 552.4 681.6 C552.897 681.6 553.3 682.003 553.3 682.5 C553.3 682.997 552.897 683.4 552.4 683.4 C551.903 683.4 551.5 682.997 551.5 682.5 Z" fill="#f6e3b8" opacity="0.21"/>
+    <path id="Disc_dust_26" data-name="Disc dust 26" d="M659.9 581.7 C659.9 581.037 660.437 580.5 661.1 580.5 C661.763 580.5 662.3 581.037 662.3 581.7 C662.3 582.363 661.763 582.9 661.1 582.9 C660.437 582.9 659.9 582.363 659.9 581.7 Z" fill="#f2a33c" opacity="0.24"/>
+    <path id="Disc_dust_27" data-name="Disc dust 27" d="M513.9 607.9 C513.9 607.513 514.213 607.2 514.6 607.2 C514.987 607.2 515.3 607.513 515.3 607.9 C515.3 608.287 514.987 608.6 514.6 608.6 C514.213 608.6 513.9 608.287 513.9 607.9 Z" fill="#e8c074" opacity="0.19"/>
+    <path id="Disc_dust_28" data-name="Disc dust 28" d="M120.6 421.15 C120.6 420.46 121.16 419.9 121.85 419.9 C122.54 419.9 123.1 420.46 123.1 421.15 C123.1 421.84 122.54 422.4 121.85 422.4 C121.16 422.4 120.6 421.84 120.6 421.15 Z" fill="#f6e3b8" opacity="0.28"/>
+    <path id="Disc_dust_29" data-name="Disc dust 29" d="M829.7 572.35 C829.7 572.046 829.946 571.8 830.25 571.8 C830.554 571.8 830.8 572.046 830.8 572.35 C830.8 572.654 830.554 572.9 830.25 572.9 C829.946 572.9 829.7 572.654 829.7 572.35 Z" fill="#f2a33c" opacity="0.11"/>
+    <path id="Disc_dust_30" data-name="Disc dust 30" d="M510.5 759.45 C510.5 758.649 511.149 758 511.95 758 C512.751 758 513.4 758.649 513.4 759.45 C513.4 760.251 512.751 760.9 511.95 760.9 C511.149 760.9 510.5 760.251 510.5 759.45 Z" fill="#e8c074" opacity="0.27"/>
+    <path id="Disc_dust_31" data-name="Disc dust 31" d="M606.1 434.45 C606.1 433.649 606.749 433 607.55 433 C608.351 433 609 433.649 609 434.45 C609 435.251 608.351 435.9 607.55 435.9 C606.749 435.9 606.1 435.251 606.1 434.45 Z" fill="#f6e3b8" opacity="0.2"/>
+    <path id="Disc_dust_32" data-name="Disc dust 32" d="M384.7 558.95 C384.7 558.536 385.036 558.2 385.45 558.2 C385.864 558.2 386.2 558.536 386.2 558.95 C386.2 559.364 385.864 559.7 385.45 559.7 C385.036 559.7 384.7 559.364 384.7 558.95 Z" fill="#f2a33c" opacity="0.25"/>
+    <path id="Disc_dust_33" data-name="Disc dust 33" d="M275.8 324.3 C275.8 323.858 276.158 323.5 276.6 323.5 C277.042 323.5 277.4 323.858 277.4 324.3 C277.4 324.742 277.042 325.1 276.6 325.1 C276.158 325.1 275.8 324.742 275.8 324.3 Z" fill="#e8c074" opacity="0.19"/>
+    <path id="Disc_dust_34" data-name="Disc dust 34" d="M354 487 C354 486.337 354.537 485.8 355.2 485.8 C355.863 485.8 356.4 486.337 356.4 487 C356.4 487.663 355.863 488.2 355.2 488.2 C354.537 488.2 354 487.663 354 487 Z" fill="#f6e3b8" opacity="0.16"/>
+    <path id="Disc_dust_35" data-name="Disc dust 35" d="M701.4 792.3 C701.4 791.472 702.072 790.8 702.9 790.8 C703.728 790.8 704.4 791.472 704.4 792.3 C704.4 793.128 703.728 793.8 702.9 793.8 C702.072 793.8 701.4 793.128 701.4 792.3 Z" fill="#f2a33c" opacity="0.26"/>
+    <path id="Disc_dust_36" data-name="Disc dust 36" d="M252.9 583 C252.9 582.613 253.213 582.3 253.6 582.3 C253.987 582.3 254.3 582.613 254.3 583 C254.3 583.387 253.987 583.7 253.6 583.7 C253.213 583.7 252.9 583.387 252.9 583 Z" fill="#e8c074" opacity="0.3"/>
+    <path id="Disc_dust_37" data-name="Disc dust 37" d="M542.7 648.9 C542.7 648.569 542.969 648.3 543.3 648.3 C543.631 648.3 543.9 648.569 543.9 648.9 C543.9 649.231 543.631 649.5 543.3 649.5 C542.969 649.5 542.7 649.231 542.7 648.9 Z" fill="#f6e3b8" opacity="0.26"/>
+    <path id="Disc_dust_38" data-name="Disc dust 38" d="M705.3 384.25 C705.3 383.504 705.904 382.9 706.65 382.9 C707.396 382.9 708 383.504 708 384.25 C708 384.996 707.396 385.6 706.65 385.6 C705.904 385.6 705.3 384.996 705.3 384.25 Z" fill="#f2a33c" opacity="0.22"/>
+    <path id="Disc_dust_39" data-name="Disc dust 39" d="M200.6 261.95 C200.6 261.204 201.204 260.6 201.95 260.6 C202.696 260.6 203.3 261.204 203.3 261.95 C203.3 262.696 202.696 263.3 201.95 263.3 C201.204 263.3 200.6 262.696 200.6 261.95 Z" fill="#e8c074" opacity="0.26"/>
+    <path id="Disc_dust_40" data-name="Disc dust 40" d="M575.1 721.75 C575.1 721.06 575.66 720.5 576.35 720.5 C577.04 720.5 577.6 721.06 577.6 721.75 C577.6 722.44 577.04 723 576.35 723 C575.66 723 575.1 722.44 575.1 721.75 Z" fill="#f6e3b8" opacity="0.15"/>
+    <path id="Disc_dust_41" data-name="Disc dust 41" d="M599.3 386.55 C599.3 386.246 599.546 386 599.85 386 C600.154 386 600.4 386.246 600.4 386.55 C600.4 386.854 600.154 387.1 599.85 387.1 C599.546 387.1 599.3 386.854 599.3 386.55 Z" fill="#f2a33c" opacity="0.28"/>
+    <path id="Disc_dust_42" data-name="Disc dust 42" d="M664.6 445.3 C664.6 444.969 664.869 444.7 665.2 444.7 C665.531 444.7 665.8 444.969 665.8 445.3 C665.8 445.631 665.531 445.9 665.2 445.9 C664.869 445.9 664.6 445.631 664.6 445.3 Z" fill="#e8c074" opacity="0.24"/>
+    <path id="Disc_dust_43" data-name="Disc dust 43" d="M466.6 720.45 C466.6 719.76 467.16 719.2 467.85 719.2 C468.54 719.2 469.1 719.76 469.1 720.45 C469.1 721.14 468.54 721.7 467.85 721.7 C467.16 721.7 466.6 721.14 466.6 720.45 Z" fill="#f6e3b8" opacity="0.19"/>
+    <path id="Disc_dust_44" data-name="Disc dust 44" d="M615.4 602.15 C615.4 601.625 615.825 601.2 616.35 601.2 C616.875 601.2 617.3 601.625 617.3 602.15 C617.3 602.675 616.875 603.1 616.35 603.1 C615.825 603.1 615.4 602.675 615.4 602.15 Z" fill="#f2a33c" opacity="0.11"/>
+    <path id="Disc_dust_45" data-name="Disc dust 45" d="M178.7 355.5 C178.7 354.837 179.237 354.3 179.9 354.3 C180.563 354.3 181.1 354.837 181.1 355.5 C181.1 356.163 180.563 356.7 179.9 356.7 C179.237 356.7 178.7 356.163 178.7 355.5 Z" fill="#e8c074" opacity="0.18"/>
+    <path id="Disc_dust_46" data-name="Disc dust 46" d="M280.7 522.8 C280.7 522.137 281.237 521.6 281.9 521.6 C282.563 521.6 283.1 522.137 283.1 522.8 C283.1 523.463 282.563 524 281.9 524 C281.237 524 280.7 523.463 280.7 522.8 Z" fill="#f6e3b8" opacity="0.26"/>
+    <path id="Disc_dust_47" data-name="Disc dust 47" d="M632.2 241.9 C632.2 241.458 632.558 241.1 633 241.1 C633.442 241.1 633.8 241.458 633.8 241.9 C633.8 242.342 633.442 242.7 633 242.7 C632.558 242.7 632.2 242.342 632.2 241.9 Z" fill="#f2a33c" opacity="0.25"/>
+    <path id="Disc_dust_48" data-name="Disc dust 48" d="M648.2 316.15 C648.2 315.736 648.536 315.4 648.95 315.4 C649.364 315.4 649.7 315.736 649.7 316.15 C649.7 316.564 649.364 316.9 648.95 316.9 C648.536 316.9 648.2 316.564 648.2 316.15 Z" fill="#e8c074" opacity="0.2"/>
+    <path id="Disc_dust_49" data-name="Disc dust 49" d="M258.2 648.15 C258.2 647.791 258.491 647.5 258.85 647.5 C259.209 647.5 259.5 647.791 259.5 648.15 C259.5 648.509 259.209 648.8 258.85 648.8 C258.491 648.8 258.2 648.509 258.2 648.15 Z" fill="#f6e3b8" opacity="0.2"/>
+    <path id="Disc_dust_50" data-name="Disc dust 50" d="M750.2 708.1 C750.2 707.492 750.692 707 751.3 707 C751.908 707 752.4 707.492 752.4 708.1 C752.4 708.708 751.908 709.2 751.3 709.2 C750.692 709.2 750.2 708.708 750.2 708.1 Z" fill="#f2a33c" opacity="0.14"/>
+    <path id="Disc_dust_51" data-name="Disc dust 51" d="M534.8 447.85 C534.8 447.215 535.315 446.7 535.95 446.7 C536.585 446.7 537.1 447.215 537.1 447.85 C537.1 448.485 536.585 449 535.95 449 C535.315 449 534.8 448.485 534.8 447.85 Z" fill="#e8c074" opacity="0.26"/>
+    <path id="Disc_dust_52" data-name="Disc dust 52" d="M333.6 204.15 C333.6 203.736 333.936 203.4 334.35 203.4 C334.764 203.4 335.1 203.736 335.1 204.15 C335.1 204.564 334.764 204.9 334.35 204.9 C333.936 204.9 333.6 204.564 333.6 204.15 Z" fill="#f6e3b8" opacity="0.14"/>
+    <path id="Disc_dust_53" data-name="Disc dust 53" d="M300.7 725.15 C300.7 724.736 301.036 724.4 301.45 724.4 C301.864 724.4 302.2 724.736 302.2 725.15 C302.2 725.564 301.864 725.9 301.45 725.9 C301.036 725.9 300.7 725.564 300.7 725.15 Z" fill="#f2a33c" opacity="0.28"/>
+    <path id="Disc_dust_54" data-name="Disc dust 54" d="M859.7 577.3 C859.7 576.472 860.372 575.8 861.2 575.8 C862.028 575.8 862.7 576.472 862.7 577.3 C862.7 578.128 862.028 578.8 861.2 578.8 C860.372 578.8 859.7 578.128 859.7 577.3 Z" fill="#e8c074" opacity="0.11"/>
+    <path id="Disc_dust_55" data-name="Disc dust 55" d="M246.8 176.15 C246.8 175.349 247.449 174.7 248.25 174.7 C249.051 174.7 249.7 175.349 249.7 176.15 C249.7 176.951 249.051 177.6 248.25 177.6 C247.449 177.6 246.8 176.951 246.8 176.15 Z" fill="#f6e3b8" opacity="0.24"/>
+    <path id="Disc_dust_56" data-name="Disc dust 56" d="M425.6 230.4 C425.6 229.737 426.137 229.2 426.8 229.2 C427.463 229.2 428 229.737 428 230.4 C428 231.063 427.463 231.6 426.8 231.6 C426.137 231.6 425.6 231.063 425.6 230.4 Z" fill="#f2a33c" opacity="0.14"/>
+    <path id="Disc_dust_57" data-name="Disc dust 57" d="M258.6 608.6 C258.6 608.269 258.869 608 259.2 608 C259.531 608 259.8 608.269 259.8 608.6 C259.8 608.931 259.531 609.2 259.2 609.2 C258.869 609.2 258.6 608.931 258.6 608.6 Z" fill="#e8c074" opacity="0.24"/>
+    <path id="Disc_dust_58" data-name="Disc dust 58" d="M672.7 408.35 C672.7 407.825 673.125 407.4 673.65 407.4 C674.175 407.4 674.6 407.825 674.6 408.35 C674.6 408.875 674.175 409.3 673.65 409.3 C673.125 409.3 672.7 408.875 672.7 408.35 Z" fill="#f6e3b8" opacity="0.2"/>
+    <path id="Disc_dust_59" data-name="Disc dust 59" d="M403.4 238.9 C403.4 238.237 403.937 237.7 404.6 237.7 C405.263 237.7 405.8 238.237 405.8 238.9 C405.8 239.563 405.263 240.1 404.6 240.1 C403.937 240.1 403.4 239.563 403.4 238.9 Z" fill="#f2a33c" opacity="0.16"/>
+    <path id="Disc_dust_60" data-name="Disc dust 60" d="M170.4 300.3 C170.4 299.637 170.937 299.1 171.6 299.1 C172.263 299.1 172.8 299.637 172.8 300.3 C172.8 300.963 172.263 301.5 171.6 301.5 C170.937 301.5 170.4 300.963 170.4 300.3 Z" fill="#e8c074" opacity="0.26"/>
+    <path id="Rim_relight" data-name="Rim relight" d="M86 460 C86 231.354 271.354 46 500 46 C728.646 46 914 231.354 914 460 C914 688.646 728.646 874 500 874 C271.354 874 86 688.646 86 460 Z" fill="none" stroke="url(#linear-gradient-3)" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Field_ray_1" data-name="Field ray 1" d="M630 460 L872 460" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_2" data-name="Field ray 2" d="M628 482.6 L866.3 524.6" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_3" data-name="Field ray 3" d="M622.2 504.5 L849.6 587.2" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_4" data-name="Field ray 4" d="M612.6 525 L822.2 646" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_5" data-name="Field ray 5" d="M599.6 543.6 L785 699.1" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_6" data-name="Field ray 6" d="M583.6 559.6 L739.1 745" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_7" data-name="Field ray 7" d="M565 572.6 L686 782.2" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_8" data-name="Field ray 8" d="M544.5 582.2 L627.2 809.6" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_9" data-name="Field ray 9" d="M522.6 588 L564.6 826.3" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_10" data-name="Field ray 10" d="M500 590 L500 832" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_11" data-name="Field ray 11" d="M477.4 588 L435.4 826.3" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_12" data-name="Field ray 12" d="M455.5 582.2 L372.8 809.6" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_13" data-name="Field ray 13" d="M435 572.6 L314 782.2" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_14" data-name="Field ray 14" d="M416.4 559.6 L260.9 745" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_15" data-name="Field ray 15" d="M400.4 543.6 L215 699.1" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_16" data-name="Field ray 16" d="M387.4 525 L177.8 646" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_17" data-name="Field ray 17" d="M377.8 504.5 L150.4 587.2" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_18" data-name="Field ray 18" d="M372 482.6 L133.7 524.6" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_19" data-name="Field ray 19" d="M370 460 L128 460" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_20" data-name="Field ray 20" d="M372 437.4 L133.7 395.4" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_21" data-name="Field ray 21" d="M377.8 415.5 L150.4 332.8" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_22" data-name="Field ray 22" d="M387.4 395 L177.8 274" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_23" data-name="Field ray 23" d="M400.4 376.4 L215 220.9" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_24" data-name="Field ray 24" d="M416.4 360.4 L260.9 175" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_25" data-name="Field ray 25" d="M435 347.4 L314 137.8" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_26" data-name="Field ray 26" d="M455.5 337.8 L372.8 110.4" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_27" data-name="Field ray 27" d="M477.4 332 L435.4 93.7" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_28" data-name="Field ray 28" d="M500 330 L500 88" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_29" data-name="Field ray 29" d="M522.6 332 L564.6 93.7" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_30" data-name="Field ray 30" d="M544.5 337.8 L627.2 110.4" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_31" data-name="Field ray 31" d="M565 347.4 L686 137.8" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_32" data-name="Field ray 32" d="M583.6 360.4 L739.1 175" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_33" data-name="Field ray 33" d="M599.6 376.4 L785 220.9" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_34" data-name="Field ray 34" d="M612.6 395 L822.2 274" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_35" data-name="Field ray 35" d="M622.2 415.5 L849.6 332.8" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Field_ray_36" data-name="Field ray 36" d="M628 437.4 L866.3 395.4" fill="none" stroke="#e8c074" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.07"/>
+    <path id="Ring_dot_1" data-name="Ring dot 1" d="M498.7 63 C498.7 62.282 499.282 61.7 500 61.7 C500.718 61.7 501.3 62.282 501.3 63 C501.3 63.718 500.718 64.3 500 64.3 C499.282 64.3 498.7 63.718 498.7 63 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_2" data-name="Ring dot 2" d="M543.1 65.5 C543.1 64.782 543.682 64.2 544.4 64.2 C545.118 64.2 545.7 64.782 545.7 65.5 C545.7 66.218 545.118 66.8 544.4 66.8 C543.682 66.8 543.1 66.218 543.1 65.5 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_3" data-name="Ring dot 3" d="M587 73 C587 72.282 587.582 71.7 588.3 71.7 C589.018 71.7 589.6 72.282 589.6 73 C589.6 73.718 589.018 74.3 588.3 74.3 C587.582 74.3 587 73.718 587 73 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_4" data-name="Ring dot 4" d="M629.8 85.3 C629.8 84.582 630.382 84 631.1 84 C631.818 84 632.4 84.582 632.4 85.3 C632.4 86.018 631.818 86.6 631.1 86.6 C630.382 86.6 629.8 86.018 629.8 85.3 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_5" data-name="Ring dot 5" d="M671 102.3 C671 101.582 671.582 101 672.3 101 C673.018 101 673.6 101.582 673.6 102.3 C673.6 103.018 673.018 103.6 672.3 103.6 C671.582 103.6 671 103.018 671 102.3 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_6" data-name="Ring dot 6" d="M709.9 123.9 C709.9 123.182 710.482 122.6 711.2 122.6 C711.918 122.6 712.5 123.182 712.5 123.9 C712.5 124.618 711.918 125.2 711.2 125.2 C710.482 125.2 709.9 124.618 709.9 123.9 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_7" data-name="Ring dot 7" d="M746.2 149.6 C746.2 148.882 746.782 148.3 747.5 148.3 C748.218 148.3 748.8 148.882 748.8 149.6 C748.8 150.318 748.218 150.9 747.5 150.9 C746.782 150.9 746.2 150.318 746.2 149.6 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_8" data-name="Ring dot 8" d="M779.4 179.3 C779.4 178.582 779.982 178 780.7 178 C781.418 178 782 178.582 782 179.3 C782 180.018 781.418 180.6 780.7 180.6 C779.982 180.6 779.4 180.018 779.4 179.3 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_9" data-name="Ring dot 9" d="M809.1 212.5 C809.1 211.782 809.682 211.2 810.4 211.2 C811.118 211.2 811.7 211.782 811.7 212.5 C811.7 213.218 811.118 213.8 810.4 213.8 C809.682 213.8 809.1 213.218 809.1 212.5 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_10" data-name="Ring dot 10" d="M834.8 248.8 C834.8 248.082 835.382 247.5 836.1 247.5 C836.818 247.5 837.4 248.082 837.4 248.8 C837.4 249.518 836.818 250.1 836.1 250.1 C835.382 250.1 834.8 249.518 834.8 248.8 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_11" data-name="Ring dot 11" d="M856.4 287.7 C856.4 286.982 856.982 286.4 857.7 286.4 C858.418 286.4 859 286.982 859 287.7 C859 288.418 858.418 289 857.7 289 C856.982 289 856.4 288.418 856.4 287.7 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_12" data-name="Ring dot 12" d="M873.4 328.9 C873.4 328.182 873.982 327.6 874.7 327.6 C875.418 327.6 876 328.182 876 328.9 C876 329.618 875.418 330.2 874.7 330.2 C873.982 330.2 873.4 329.618 873.4 328.9 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_13" data-name="Ring dot 13" d="M885.7 371.7 C885.7 370.982 886.282 370.4 887 370.4 C887.718 370.4 888.3 370.982 888.3 371.7 C888.3 372.418 887.718 373 887 373 C886.282 373 885.7 372.418 885.7 371.7 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_14" data-name="Ring dot 14" d="M893.2 415.6 C893.2 414.882 893.782 414.3 894.5 414.3 C895.218 414.3 895.8 414.882 895.8 415.6 C895.8 416.318 895.218 416.9 894.5 416.9 C893.782 416.9 893.2 416.318 893.2 415.6 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_15" data-name="Ring dot 15" d="M895.7 460 C895.7 459.282 896.282 458.7 897 458.7 C897.718 458.7 898.3 459.282 898.3 460 C898.3 460.718 897.718 461.3 897 461.3 C896.282 461.3 895.7 460.718 895.7 460 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_16" data-name="Ring dot 16" d="M893.2 504.4 C893.2 503.682 893.782 503.1 894.5 503.1 C895.218 503.1 895.8 503.682 895.8 504.4 C895.8 505.118 895.218 505.7 894.5 505.7 C893.782 505.7 893.2 505.118 893.2 504.4 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_17" data-name="Ring dot 17" d="M885.7 548.3 C885.7 547.582 886.282 547 887 547 C887.718 547 888.3 547.582 888.3 548.3 C888.3 549.018 887.718 549.6 887 549.6 C886.282 549.6 885.7 549.018 885.7 548.3 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_18" data-name="Ring dot 18" d="M873.4 591.1 C873.4 590.382 873.982 589.8 874.7 589.8 C875.418 589.8 876 590.382 876 591.1 C876 591.818 875.418 592.4 874.7 592.4 C873.982 592.4 873.4 591.818 873.4 591.1 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_19" data-name="Ring dot 19" d="M856.4 632.3 C856.4 631.582 856.982 631 857.7 631 C858.418 631 859 631.582 859 632.3 C859 633.018 858.418 633.6 857.7 633.6 C856.982 633.6 856.4 633.018 856.4 632.3 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_20" data-name="Ring dot 20" d="M834.8 671.2 C834.8 670.482 835.382 669.9 836.1 669.9 C836.818 669.9 837.4 670.482 837.4 671.2 C837.4 671.918 836.818 672.5 836.1 672.5 C835.382 672.5 834.8 671.918 834.8 671.2 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_21" data-name="Ring dot 21" d="M809.1 707.5 C809.1 706.782 809.682 706.2 810.4 706.2 C811.118 706.2 811.7 706.782 811.7 707.5 C811.7 708.218 811.118 708.8 810.4 708.8 C809.682 708.8 809.1 708.218 809.1 707.5 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_22" data-name="Ring dot 22" d="M779.4 740.7 C779.4 739.982 779.982 739.4 780.7 739.4 C781.418 739.4 782 739.982 782 740.7 C782 741.418 781.418 742 780.7 742 C779.982 742 779.4 741.418 779.4 740.7 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_23" data-name="Ring dot 23" d="M746.2 770.4 C746.2 769.682 746.782 769.1 747.5 769.1 C748.218 769.1 748.8 769.682 748.8 770.4 C748.8 771.118 748.218 771.7 747.5 771.7 C746.782 771.7 746.2 771.118 746.2 770.4 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_24" data-name="Ring dot 24" d="M709.9 796.1 C709.9 795.382 710.482 794.8 711.2 794.8 C711.918 794.8 712.5 795.382 712.5 796.1 C712.5 796.818 711.918 797.4 711.2 797.4 C710.482 797.4 709.9 796.818 709.9 796.1 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_25" data-name="Ring dot 25" d="M671 817.7 C671 816.982 671.582 816.4 672.3 816.4 C673.018 816.4 673.6 816.982 673.6 817.7 C673.6 818.418 673.018 819 672.3 819 C671.582 819 671 818.418 671 817.7 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_26" data-name="Ring dot 26" d="M629.8 834.7 C629.8 833.982 630.382 833.4 631.1 833.4 C631.818 833.4 632.4 833.982 632.4 834.7 C632.4 835.418 631.818 836 631.1 836 C630.382 836 629.8 835.418 629.8 834.7 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_27" data-name="Ring dot 27" d="M587 847 C587 846.282 587.582 845.7 588.3 845.7 C589.018 845.7 589.6 846.282 589.6 847 C589.6 847.718 589.018 848.3 588.3 848.3 C587.582 848.3 587 847.718 587 847 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_28" data-name="Ring dot 28" d="M543.1 854.5 C543.1 853.782 543.682 853.2 544.4 853.2 C545.118 853.2 545.7 853.782 545.7 854.5 C545.7 855.218 545.118 855.8 544.4 855.8 C543.682 855.8 543.1 855.218 543.1 854.5 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_29" data-name="Ring dot 29" d="M498.7 857 C498.7 856.282 499.282 855.7 500 855.7 C500.718 855.7 501.3 856.282 501.3 857 C501.3 857.718 500.718 858.3 500 858.3 C499.282 858.3 498.7 857.718 498.7 857 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_30" data-name="Ring dot 30" d="M454.3 854.5 C454.3 853.782 454.882 853.2 455.6 853.2 C456.318 853.2 456.9 853.782 456.9 854.5 C456.9 855.218 456.318 855.8 455.6 855.8 C454.882 855.8 454.3 855.218 454.3 854.5 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_31" data-name="Ring dot 31" d="M410.4 847 C410.4 846.282 410.982 845.7 411.7 845.7 C412.418 845.7 413 846.282 413 847 C413 847.718 412.418 848.3 411.7 848.3 C410.982 848.3 410.4 847.718 410.4 847 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_32" data-name="Ring dot 32" d="M367.6 834.7 C367.6 833.982 368.182 833.4 368.9 833.4 C369.618 833.4 370.2 833.982 370.2 834.7 C370.2 835.418 369.618 836 368.9 836 C368.182 836 367.6 835.418 367.6 834.7 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_33" data-name="Ring dot 33" d="M326.4 817.7 C326.4 816.982 326.982 816.4 327.7 816.4 C328.418 816.4 329 816.982 329 817.7 C329 818.418 328.418 819 327.7 819 C326.982 819 326.4 818.418 326.4 817.7 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_34" data-name="Ring dot 34" d="M287.5 796.1 C287.5 795.382 288.082 794.8 288.8 794.8 C289.518 794.8 290.1 795.382 290.1 796.1 C290.1 796.818 289.518 797.4 288.8 797.4 C288.082 797.4 287.5 796.818 287.5 796.1 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_35" data-name="Ring dot 35" d="M251.2 770.4 C251.2 769.682 251.782 769.1 252.5 769.1 C253.218 769.1 253.8 769.682 253.8 770.4 C253.8 771.118 253.218 771.7 252.5 771.7 C251.782 771.7 251.2 771.118 251.2 770.4 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_36" data-name="Ring dot 36" d="M218 740.7 C218 739.982 218.582 739.4 219.3 739.4 C220.018 739.4 220.6 739.982 220.6 740.7 C220.6 741.418 220.018 742 219.3 742 C218.582 742 218 741.418 218 740.7 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_37" data-name="Ring dot 37" d="M188.3 707.5 C188.3 706.782 188.882 706.2 189.6 706.2 C190.318 706.2 190.9 706.782 190.9 707.5 C190.9 708.218 190.318 708.8 189.6 708.8 C188.882 708.8 188.3 708.218 188.3 707.5 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_38" data-name="Ring dot 38" d="M162.6 671.2 C162.6 670.482 163.182 669.9 163.9 669.9 C164.618 669.9 165.2 670.482 165.2 671.2 C165.2 671.918 164.618 672.5 163.9 672.5 C163.182 672.5 162.6 671.918 162.6 671.2 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_39" data-name="Ring dot 39" d="M141 632.3 C141 631.582 141.582 631 142.3 631 C143.018 631 143.6 631.582 143.6 632.3 C143.6 633.018 143.018 633.6 142.3 633.6 C141.582 633.6 141 633.018 141 632.3 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_40" data-name="Ring dot 40" d="M124 591.1 C124 590.382 124.582 589.8 125.3 589.8 C126.018 589.8 126.6 590.382 126.6 591.1 C126.6 591.818 126.018 592.4 125.3 592.4 C124.582 592.4 124 591.818 124 591.1 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_41" data-name="Ring dot 41" d="M111.7 548.3 C111.7 547.582 112.282 547 113 547 C113.718 547 114.3 547.582 114.3 548.3 C114.3 549.018 113.718 549.6 113 549.6 C112.282 549.6 111.7 549.018 111.7 548.3 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_42" data-name="Ring dot 42" d="M104.2 504.4 C104.2 503.682 104.782 503.1 105.5 503.1 C106.218 503.1 106.8 503.682 106.8 504.4 C106.8 505.118 106.218 505.7 105.5 505.7 C104.782 505.7 104.2 505.118 104.2 504.4 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_43" data-name="Ring dot 43" d="M101.7 460 C101.7 459.282 102.282 458.7 103 458.7 C103.718 458.7 104.3 459.282 104.3 460 C104.3 460.718 103.718 461.3 103 461.3 C102.282 461.3 101.7 460.718 101.7 460 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_44" data-name="Ring dot 44" d="M104.2 415.6 C104.2 414.882 104.782 414.3 105.5 414.3 C106.218 414.3 106.8 414.882 106.8 415.6 C106.8 416.318 106.218 416.9 105.5 416.9 C104.782 416.9 104.2 416.318 104.2 415.6 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_45" data-name="Ring dot 45" d="M111.7 371.7 C111.7 370.982 112.282 370.4 113 370.4 C113.718 370.4 114.3 370.982 114.3 371.7 C114.3 372.418 113.718 373 113 373 C112.282 373 111.7 372.418 111.7 371.7 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_46" data-name="Ring dot 46" d="M124 328.9 C124 328.182 124.582 327.6 125.3 327.6 C126.018 327.6 126.6 328.182 126.6 328.9 C126.6 329.618 126.018 330.2 125.3 330.2 C124.582 330.2 124 329.618 124 328.9 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_47" data-name="Ring dot 47" d="M141 287.7 C141 286.982 141.582 286.4 142.3 286.4 C143.018 286.4 143.6 286.982 143.6 287.7 C143.6 288.418 143.018 289 142.3 289 C141.582 289 141 288.418 141 287.7 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_48" data-name="Ring dot 48" d="M162.6 248.8 C162.6 248.082 163.182 247.5 163.9 247.5 C164.618 247.5 165.2 248.082 165.2 248.8 C165.2 249.518 164.618 250.1 163.9 250.1 C163.182 250.1 162.6 249.518 162.6 248.8 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_49" data-name="Ring dot 49" d="M188.3 212.5 C188.3 211.782 188.882 211.2 189.6 211.2 C190.318 211.2 190.9 211.782 190.9 212.5 C190.9 213.218 190.318 213.8 189.6 213.8 C188.882 213.8 188.3 213.218 188.3 212.5 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_50" data-name="Ring dot 50" d="M218 179.3 C218 178.582 218.582 178 219.3 178 C220.018 178 220.6 178.582 220.6 179.3 C220.6 180.018 220.018 180.6 219.3 180.6 C218.582 180.6 218 180.018 218 179.3 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_51" data-name="Ring dot 51" d="M251.2 149.6 C251.2 148.882 251.782 148.3 252.5 148.3 C253.218 148.3 253.8 148.882 253.8 149.6 C253.8 150.318 253.218 150.9 252.5 150.9 C251.782 150.9 251.2 150.318 251.2 149.6 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_52" data-name="Ring dot 52" d="M287.5 123.9 C287.5 123.182 288.082 122.6 288.8 122.6 C289.518 122.6 290.1 123.182 290.1 123.9 C290.1 124.618 289.518 125.2 288.8 125.2 C288.082 125.2 287.5 124.618 287.5 123.9 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_53" data-name="Ring dot 53" d="M326.4 102.3 C326.4 101.582 326.982 101 327.7 101 C328.418 101 329 101.582 329 102.3 C329 103.018 328.418 103.6 327.7 103.6 C326.982 103.6 326.4 103.018 326.4 102.3 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_54" data-name="Ring dot 54" d="M367.6 85.3 C367.6 84.582 368.182 84 368.9 84 C369.618 84 370.2 84.582 370.2 85.3 C370.2 86.018 369.618 86.6 368.9 86.6 C368.182 86.6 367.6 86.018 367.6 85.3 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_55" data-name="Ring dot 55" d="M410.4 73 C410.4 72.282 410.982 71.7 411.7 71.7 C412.418 71.7 413 72.282 413 73 C413 73.718 412.418 74.3 411.7 74.3 C410.982 74.3 410.4 73.718 410.4 73 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Ring_dot_56" data-name="Ring dot 56" d="M454.3 65.5 C454.3 64.782 454.882 64.2 455.6 64.2 C456.318 64.2 456.9 64.782 456.9 65.5 C456.9 66.218 456.318 66.8 455.6 66.8 C454.882 66.8 454.3 66.218 454.3 65.5 Z" fill="#e8c074" opacity="0.32"/>
+    <path id="Tick_1" data-name="Tick 1" d="M500 82 L500 64" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_2" data-name="Tick 2" d="M597.8 94.9 L602.5 77.5" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_3" data-name="Tick 3" d="M689 132.6 L698 117.1" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_4" data-name="Tick 4" d="M767.3 192.7 L780 180" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_5" data-name="Tick 5" d="M827.4 271 L842.9 262" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_6" data-name="Tick 6" d="M865.1 362.2 L882.5 357.5" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_7" data-name="Tick 7" d="M878 460 L896 460" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_8" data-name="Tick 8" d="M865.1 557.8 L882.5 562.5" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_9" data-name="Tick 9" d="M827.4 649 L842.9 658" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_10" data-name="Tick 10" d="M767.3 727.3 L780 740" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_11" data-name="Tick 11" d="M689 787.4 L698 802.9" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_12" data-name="Tick 12" d="M597.8 825.1 L602.5 842.5" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_13" data-name="Tick 13" d="M500 838 L500 856" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_14" data-name="Tick 14" d="M402.2 825.1 L397.5 842.5" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_15" data-name="Tick 15" d="M311 787.4 L302 802.9" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_16" data-name="Tick 16" d="M232.7 727.3 L220 740" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_17" data-name="Tick 17" d="M172.6 649 L157.1 658" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_18" data-name="Tick 18" d="M134.9 557.8 L117.5 562.5" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_19" data-name="Tick 19" d="M122 460 L104 460" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_20" data-name="Tick 20" d="M134.9 362.2 L117.5 357.5" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_21" data-name="Tick 21" d="M172.6 271 L157.1 262" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_22" data-name="Tick 22" d="M232.7 192.7 L220 180" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_23" data-name="Tick 23" d="M311 132.6 L302 117.1" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_24" data-name="Tick 24" d="M402.2 94.9 L397.5 77.5" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Night_lamp_1_halo" data-name="Night lamp 1 halo" d="M739.241 516.921 C739.241 486.877 763.597 462.521 793.641 462.521 C823.686 462.521 848.041 486.877 848.041 516.921 C848.041 546.965 823.686 571.321 793.641 571.321 C763.597 571.321 739.241 546.965 739.241 516.921 Z" fill="url(#radial-gradient-2)"/>
+    <path id="Night_lamp_1_shadow" data-name="Night lamp 1 shadow" d="M751.481 569.009 C751.481 564.878 770.357 561.529 793.641 561.529 C816.926 561.529 835.801 564.878 835.801 569.009 C835.801 573.14 816.926 576.489 793.641 576.489 C770.357 576.489 751.481 573.14 751.481 569.009 Z" fill="url(#radial-gradient-3)"/>
+    <path id="Night_lamp_1_bowl" data-name="Night lamp 1 bowl" d="M759.6 540.4 C759.6 556.4 773.9 567.2 793.6 567.2 C813.4 567.2 827.6 556.4 827.6 540.4 C814 544.4 773.2 544.4 759.6 540.4 Z" fill="url(#linear-gradient-4)" stroke="#1d1216" stroke-width="2.4" stroke-miterlimit="10"/>
+    <path id="Night_lamp_1_foot" data-name="Night lamp 1 foot" d="M779.361 566.629 C779.361 563.812 785.755 561.529 793.641 561.529 C801.528 561.529 807.921 563.812 807.921 566.629 C807.921 569.446 801.528 571.729 793.641 571.729 C785.755 571.729 779.361 569.446 779.361 566.629 Z" fill="url(#linear-gradient-5)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Night_lamp_1_rim" data-name="Night lamp 1 rim" d="M759.641 538.681 C759.641 535.526 774.864 532.969 793.641 532.969 C812.419 532.969 827.641 535.526 827.641 538.681 C827.641 541.836 812.419 544.393 793.641 544.393 C774.864 544.393 759.641 541.836 759.641 538.681 Z" fill="url(#linear-gradient-6)" stroke="#1d1216" stroke-width="2.2" stroke-miterlimit="10"/>
+    <path id="Night_lamp_1_oil" data-name="Night lamp 1 oil" d="M771.541 538.681 C771.541 536.867 781.436 535.397 793.641 535.397 C805.847 535.397 815.741 536.867 815.741 538.681 C815.741 540.495 805.847 541.965 793.641 541.965 C781.436 541.965 771.541 540.495 771.541 538.681 Z" fill="url(#linear-gradient-7)" stroke="#3a1a10" stroke-width="1.6" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Night_lamp_1_oil_sheen" data-name="Night lamp 1 oil sheen" d="M776 538.1 C786.8 540.4 800.4 540.4 811.3 538.1" fill="none" stroke="#f2b888" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Night_lamp_1_lip" data-name="Night lamp 1 lip" d="M783.8 540.3 C785.8 543.3 789.4 544.8 793.6 544.8 C797.9 544.8 801.5 543.3 803.5 540.3 C798.7 542 788.5 542 783.8 540.3 Z" fill="url(#linear-gradient-8)" stroke="#1d1216" stroke-width="1.7" stroke-miterlimit="10"/>
+    <path id="Night_lamp_1_lip_mouth" data-name="Night lamp 1 lip mouth" d="M789.901 541.894 C789.901 541.302 791.576 540.823 793.641 540.823 C795.707 540.823 797.381 541.302 797.381 541.894 C797.381 542.485 795.707 542.965 793.641 542.965 C791.576 542.965 789.901 542.485 789.901 541.894 Z" fill="#2a120c" opacity="0.9"/>
+    <path id="Night_lamp_1_wick" data-name="Night lamp 1 wick" d="M793.6 542.7 C792.8 540.1 792.4 537 792.8 534.1" fill="none" stroke="#2e1b12" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Night_lamp_1_flame_outer" data-name="Night lamp 1 flame outer" d="M783.4 535 C780.6 521 788.3 502.5 793 477 C798.9 496.7 806.3 518.7 803.8 535 C798.5 538.2 788.7 538.2 783.4 535 Z" fill="url(#linear-gradient-9)" opacity="0.96"/>
+    <path id="Night_lamp_1_flame_mid" data-name="Night lamp 1 flame mid" d="M787.3 535 C785.5 519.9 790.8 501.3 793.4 486.2 C797.3 500.2 801.4 519.9 800 535 C796.5 537.3 790.8 537.3 787.3 535 Z" fill="url(#linear-gradient-10)" opacity="0.94"/>
+    <path id="Night_lamp_1_flame_core" data-name="Night lamp 1 flame core" d="M790.6 535 C789.6 521 792.4 509.4 793.8 502.5 C795.7 509.4 797.3 522.2 796.7 535 C794.9 536.1 792.4 536.1 790.6 535 Z" fill="#ffffff" opacity="0.86"/>
+    <path id="Night_lamp_1_flame_smoke_1" data-name="Night lamp 1 flame smoke 1" d="M792 474.1 C788.7 467.1 794.5 462.5 792.4 456.7" fill="none" stroke="#e8c79a" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.11"/>
+    <path id="Night_lamp_1_flame_smoke_2" data-name="Night lamp 1 flame smoke 2" d="M795.3 474.1 C792 467.1 797.7 462.5 795.7 456.7" fill="none" stroke="#e8c79a" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.11"/>
+    <path id="Night_lamp_1_band" data-name="Night lamp 1 band" d="M763.4 548.4 C783.533 554.467 803.7 554.467 823.9 548.4" fill="none" stroke="#e8c074" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.66"/>
+    <path id="Night_lamp_1_band_dot_1" data-name="Night lamp 1 band dot 1" d="M773.727 554.072 C773.727 553.697 774.032 553.392 774.407 553.392 C774.783 553.392 775.087 553.697 775.087 554.072 C775.087 554.448 774.783 554.752 774.407 554.752 C774.032 554.752 773.727 554.448 773.727 554.072 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_1_band_dot_2" data-name="Night lamp 1 band dot 2" d="M780.139 555.046 C780.139 554.67 780.443 554.366 780.819 554.366 C781.194 554.366 781.499 554.67 781.499 555.046 C781.499 555.421 781.194 555.726 780.819 555.726 C780.443 555.726 780.139 555.421 780.139 555.046 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_1_band_dot_3" data-name="Night lamp 1 band dot 3" d="M786.55 555.719 C786.55 555.344 786.854 555.039 787.23 555.039 C787.606 555.039 787.91 555.344 787.91 555.719 C787.91 556.095 787.606 556.399 787.23 556.399 C786.854 556.399 786.55 556.095 786.55 555.719 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_1_band_dot_4" data-name="Night lamp 1 band dot 4" d="M792.961 555.96 C792.961 555.584 793.266 555.28 793.641 555.28 C794.017 555.28 794.321 555.584 794.321 555.96 C794.321 556.335 794.017 556.64 793.641 556.64 C793.266 556.64 792.961 556.335 792.961 555.96 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_1_band_dot_5" data-name="Night lamp 1 band dot 5" d="M799.373 555.719 C799.373 555.344 799.677 555.039 800.053 555.039 C800.428 555.039 800.733 555.344 800.733 555.719 C800.733 556.095 800.428 556.399 800.053 556.399 C799.677 556.399 799.373 556.095 799.373 555.719 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_1_band_dot_6" data-name="Night lamp 1 band dot 6" d="M805.784 555.046 C805.784 554.67 806.089 554.366 806.464 554.366 C806.84 554.366 807.144 554.67 807.144 555.046 C807.144 555.421 806.84 555.726 806.464 555.726 C806.089 555.726 805.784 555.421 805.784 555.046 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_1_band_dot_7" data-name="Night lamp 1 band dot 7" d="M812.196 554.072 C812.196 553.697 812.5 553.392 812.876 553.392 C813.251 553.392 813.556 553.697 813.556 554.072 C813.556 554.448 813.251 554.752 812.876 554.752 C812.5 554.752 812.196 554.448 812.196 554.072 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_1_sheen" data-name="Night lamp 1 sheen" d="M766.4 543.3 C768.1 553 777.3 561 788.9 563.8" fill="none" stroke="#ffe2c0" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.24"/>
+    <path id="Night_lamp_1_rim_light" data-name="Night lamp 1 rim light" d="M823.2 542.7 C822.5 552.4 815.4 559.8 805.2 564.4" fill="none" stroke="#ffb878" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.38"/>
+    <path id="Night_lamp_1_rim_sheen" data-name="Night lamp 1 rim sheen" d="M761.7 537.3 C773.2 534.7 790.2 534.1 799.1 535" fill="none" stroke="#ffe6c8" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Night_lamp_2_halo" data-name="Night lamp 2 halo" d="M698.367 607.133 C698.367 577.089 722.722 552.733 752.767 552.733 C782.811 552.733 807.167 577.089 807.167 607.133 C807.167 637.178 782.811 661.533 752.767 661.533 C722.722 661.533 698.367 637.178 698.367 607.133 Z" fill="url(#radial-gradient-4)"/>
+    <path id="Night_lamp_2_shadow" data-name="Night lamp 2 shadow" d="M710.607 659.221 C710.607 655.09 729.482 651.741 752.767 651.741 C776.051 651.741 794.927 655.09 794.927 659.221 C794.927 663.352 776.051 666.701 752.767 666.701 C729.482 666.701 710.607 663.352 710.607 659.221 Z" fill="url(#radial-gradient-5)"/>
+    <path id="Night_lamp_2_bowl" data-name="Night lamp 2 bowl" d="M718.8 630.6 C718.8 646.6 733 657.5 752.8 657.5 C772.5 657.5 786.8 646.6 786.8 630.6 C773.2 634.6 732.4 634.6 718.8 630.6 Z" fill="url(#linear-gradient-11)" stroke="#1d1216" stroke-width="2.4" stroke-miterlimit="10"/>
+    <path id="Night_lamp_2_foot" data-name="Night lamp 2 foot" d="M738.487 656.841 C738.487 654.025 744.88 651.741 752.767 651.741 C760.653 651.741 767.047 654.025 767.047 656.841 C767.047 659.658 760.653 661.941 752.767 661.941 C744.88 661.941 738.487 659.658 738.487 656.841 Z" fill="url(#linear-gradient-12)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Night_lamp_2_rim" data-name="Night lamp 2 rim" d="M718.767 628.893 C718.767 625.739 733.989 623.181 752.767 623.181 C771.544 623.181 786.767 625.739 786.767 628.893 C786.767 632.048 771.544 634.605 752.767 634.605 C733.989 634.605 718.767 632.048 718.767 628.893 Z" fill="url(#linear-gradient-13)" stroke="#1d1216" stroke-width="2.2" stroke-miterlimit="10"/>
+    <path id="Night_lamp_2_oil" data-name="Night lamp 2 oil" d="M730.667 628.893 C730.667 627.079 740.561 625.609 752.767 625.609 C764.972 625.609 774.867 627.079 774.867 628.893 C774.867 630.707 764.972 632.178 752.767 632.178 C740.561 632.178 730.667 630.707 730.667 628.893 Z" fill="url(#linear-gradient-14)" stroke="#3a1a10" stroke-width="1.6" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Night_lamp_2_oil_sheen" data-name="Night lamp 2 oil sheen" d="M735.1 628.3 C746 630.6 759.6 630.6 770.4 628.3" fill="none" stroke="#f2b888" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Night_lamp_2_lip" data-name="Night lamp 2 lip" d="M742.9 630.5 C744.9 633.5 748.6 635 752.8 635 C757 635 760.6 633.5 762.6 630.5 C757.9 632.2 747.7 632.2 742.9 630.5 Z" fill="url(#linear-gradient-15)" stroke="#1d1216" stroke-width="1.7" stroke-miterlimit="10"/>
+    <path id="Night_lamp_2_lip_mouth" data-name="Night lamp 2 lip mouth" d="M749.027 632.106 C749.027 631.515 750.701 631.035 752.767 631.035 C754.832 631.035 756.507 631.515 756.507 632.106 C756.507 632.698 754.832 633.177 752.767 633.177 C750.701 633.177 749.027 632.698 749.027 632.106 Z" fill="#2a120c" opacity="0.9"/>
+    <path id="Night_lamp_2_wick" data-name="Night lamp 2 wick" d="M752.8 632.9 C752 630.3 751.5 627.2 752 624.3" fill="none" stroke="#2e1b12" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Night_lamp_2_flame_outer" data-name="Night lamp 2 flame outer" d="M742.6 625.2 C739.7 611.3 747.5 592.7 752.2 567.2 C758.1 586.9 765.4 608.9 763 625.2 C757.7 628.4 747.9 628.4 742.6 625.2 Z" fill="url(#linear-gradient-16)" opacity="0.96"/>
+    <path id="Night_lamp_2_flame_mid" data-name="Night lamp 2 flame mid" d="M746.4 625.2 C744.6 610.1 749.9 591.5 752.6 576.5 C756.4 590.4 760.5 610.1 759.1 625.2 C755.6 627.5 749.9 627.5 746.4 625.2 Z" fill="url(#linear-gradient-17)" opacity="0.94"/>
+    <path id="Night_lamp_2_flame_core" data-name="Night lamp 2 flame core" d="M749.7 625.2 C748.7 611.3 751.5 599.7 753 592.7 C754.8 599.7 756.4 612.4 755.8 625.2 C754 626.3 751.5 626.3 749.7 625.2 Z" fill="#ffffff" opacity="0.86"/>
+    <path id="Night_lamp_2_flame_smoke_1" data-name="Night lamp 2 flame smoke 1" d="M751.1 564.3 C747.9 557.3 753.6 552.7 751.5 546.9" fill="none" stroke="#e8c79a" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.11"/>
+    <path id="Night_lamp_2_flame_smoke_2" data-name="Night lamp 2 flame smoke 2" d="M754.4 564.3 C751.1 557.3 756.8 552.7 754.8 546.9" fill="none" stroke="#e8c79a" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.11"/>
+    <path id="Night_lamp_2_band" data-name="Night lamp 2 band" d="M722.5 638.6 C742.7 644.667 762.867 644.667 783 638.6" fill="none" stroke="#e8c074" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.66"/>
+    <path id="Night_lamp_2_band_dot_1" data-name="Night lamp 2 band dot 1" d="M732.852 644.285 C732.852 643.909 733.157 643.605 733.532 643.605 C733.908 643.605 734.212 643.909 734.212 644.285 C734.212 644.66 733.908 644.965 733.532 644.965 C733.157 644.965 732.852 644.66 732.852 644.285 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_2_band_dot_2" data-name="Night lamp 2 band dot 2" d="M739.264 645.258 C739.264 644.883 739.568 644.578 739.944 644.578 C740.319 644.578 740.624 644.883 740.624 645.258 C740.624 645.634 740.319 645.938 739.944 645.938 C739.568 645.938 739.264 645.634 739.264 645.258 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_2_band_dot_3" data-name="Night lamp 2 band dot 3" d="M745.675 645.932 C745.675 645.556 745.98 645.252 746.355 645.252 C746.731 645.252 747.035 645.556 747.035 645.932 C747.035 646.307 746.731 646.612 746.355 646.612 C745.98 646.612 745.675 646.307 745.675 645.932 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_2_band_dot_4" data-name="Night lamp 2 band dot 4" d="M752.087 646.172 C752.087 645.797 752.391 645.492 752.767 645.492 C753.142 645.492 753.447 645.797 753.447 646.172 C753.447 646.548 753.142 646.852 752.767 646.852 C752.391 646.852 752.087 646.548 752.087 646.172 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_2_band_dot_5" data-name="Night lamp 2 band dot 5" d="M758.498 645.932 C758.498 645.556 758.803 645.252 759.178 645.252 C759.554 645.252 759.858 645.556 759.858 645.932 C759.858 646.307 759.554 646.612 759.178 646.612 C758.803 646.612 758.498 646.307 758.498 645.932 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_2_band_dot_6" data-name="Night lamp 2 band dot 6" d="M764.91 645.258 C764.91 644.883 765.214 644.578 765.59 644.578 C765.965 644.578 766.27 644.883 766.27 645.258 C766.27 645.634 765.965 645.938 765.59 645.938 C765.214 645.938 764.91 645.634 764.91 645.258 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_2_band_dot_7" data-name="Night lamp 2 band dot 7" d="M771.321 644.285 C771.321 643.909 771.625 643.605 772.001 643.605 C772.377 643.605 772.681 643.909 772.681 644.285 C772.681 644.66 772.377 644.965 772.001 644.965 C771.625 644.965 771.321 644.66 771.321 644.285 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_2_sheen" data-name="Night lamp 2 sheen" d="M725.6 633.5 C727.3 643.2 736.4 651.2 748 654" fill="none" stroke="#ffe2c0" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.24"/>
+    <path id="Night_lamp_2_rim_light" data-name="Night lamp 2 rim light" d="M782.3 632.9 C781.7 642.6 774.5 650 764.3 654.6" fill="none" stroke="#ffb878" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.38"/>
+    <path id="Night_lamp_2_rim_sheen" data-name="Night lamp 2 rim sheen" d="M720.8 627.5 C732.4 624.9 749.4 624.3 758.2 625.2" fill="none" stroke="#ffe6c8" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Night_lamp_3_halo" data-name="Night lamp 3 halo" d="M630.663 679.419 C630.663 649.375 655.019 625.019 685.063 625.019 C715.108 625.019 739.463 649.375 739.463 679.419 C739.463 709.464 715.108 733.819 685.063 733.819 C655.019 733.819 630.663 709.464 630.663 679.419 Z" fill="url(#radial-gradient-6)"/>
+    <path id="Night_lamp_3_shadow" data-name="Night lamp 3 shadow" d="M642.903 731.507 C642.903 727.376 661.779 724.027 685.063 724.027 C708.348 724.027 727.223 727.376 727.223 731.507 C727.223 735.639 708.348 738.987 685.063 738.987 C661.779 738.987 642.903 735.639 642.903 731.507 Z" fill="url(#radial-gradient-7)"/>
+    <path id="Night_lamp_3_bowl" data-name="Night lamp 3 bowl" d="M651.1 702.9 C651.1 718.9 665.3 729.7 685.1 729.7 C704.8 729.7 719.1 718.9 719.1 702.9 C705.5 706.9 664.7 706.9 651.1 702.9 Z" fill="url(#linear-gradient-18)" stroke="#1d1216" stroke-width="2.4" stroke-miterlimit="10"/>
+    <path id="Night_lamp_3_foot" data-name="Night lamp 3 foot" d="M670.783 729.127 C670.783 726.311 677.177 724.027 685.063 724.027 C692.95 724.027 699.343 726.311 699.343 729.127 C699.343 731.944 692.95 734.227 685.063 734.227 C677.177 734.227 670.783 731.944 670.783 729.127 Z" fill="url(#linear-gradient-19)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Night_lamp_3_rim" data-name="Night lamp 3 rim" d="M651.063 701.179 C651.063 698.025 666.286 695.467 685.063 695.467 C703.841 695.467 719.063 698.025 719.063 701.179 C719.063 704.334 703.841 706.891 685.063 706.891 C666.286 706.891 651.063 704.334 651.063 701.179 Z" fill="url(#linear-gradient-20)" stroke="#1d1216" stroke-width="2.2" stroke-miterlimit="10"/>
+    <path id="Night_lamp_3_oil" data-name="Night lamp 3 oil" d="M662.963 701.179 C662.963 699.365 672.858 697.895 685.063 697.895 C697.269 697.895 707.163 699.365 707.163 701.179 C707.163 702.993 697.269 704.464 685.063 704.464 C672.858 704.464 662.963 702.993 662.963 701.179 Z" fill="url(#linear-gradient-21)" stroke="#3a1a10" stroke-width="1.6" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Night_lamp_3_oil_sheen" data-name="Night lamp 3 oil sheen" d="M667.4 700.6 C678.3 702.9 691.9 702.9 702.7 700.6" fill="none" stroke="#f2b888" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Night_lamp_3_lip" data-name="Night lamp 3 lip" d="M675.2 702.8 C677.2 705.7 680.8 707.3 685.1 707.3 C689.3 707.3 692.9 705.7 694.9 702.8 C690.2 704.5 680 704.5 675.2 702.8 Z" fill="url(#linear-gradient-22)" stroke="#1d1216" stroke-width="1.7" stroke-miterlimit="10"/>
+    <path id="Night_lamp_3_lip_mouth" data-name="Night lamp 3 lip mouth" d="M681.323 704.392 C681.323 703.801 682.998 703.321 685.063 703.321 C687.129 703.321 688.803 703.801 688.803 704.392 C688.803 704.984 687.129 705.463 685.063 705.463 C682.998 705.463 681.323 704.984 681.323 704.392 Z" fill="#2a120c" opacity="0.9"/>
+    <path id="Night_lamp_3_wick" data-name="Night lamp 3 wick" d="M685.1 705.2 C684.2 702.6 683.8 699.5 684.2 696.6" fill="none" stroke="#2e1b12" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Night_lamp_3_flame_outer" data-name="Night lamp 3 flame outer" d="M674.9 697.5 C672 683.5 679.8 665 684.5 639.5 C690.4 659.2 697.7 681.2 695.3 697.5 C690 700.7 680.2 700.7 674.9 697.5 Z" fill="url(#linear-gradient-23)" opacity="0.96"/>
+    <path id="Night_lamp_3_flame_mid" data-name="Night lamp 3 flame mid" d="M678.7 697.5 C676.9 682.4 682.2 663.8 684.9 648.7 C688.7 662.7 692.8 682.4 691.4 697.5 C687.9 699.8 682.2 699.8 678.7 697.5 Z" fill="url(#linear-gradient-24)" opacity="0.94"/>
+    <path id="Night_lamp_3_flame_core" data-name="Night lamp 3 flame core" d="M682 697.5 C681 683.5 683.8 671.9 685.3 665 C687.1 671.9 688.7 684.7 688.1 697.5 C686.3 698.6 683.8 698.6 682 697.5 Z" fill="#ffffff" opacity="0.86"/>
+    <path id="Night_lamp_3_flame_smoke_1" data-name="Night lamp 3 flame smoke 1" d="M683.4 636.6 C680.2 629.6 685.9 625 683.8 619.2" fill="none" stroke="#e8c79a" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.11"/>
+    <path id="Night_lamp_3_flame_smoke_2" data-name="Night lamp 3 flame smoke 2" d="M686.7 636.6 C683.4 629.6 689.1 625 687.1 619.2" fill="none" stroke="#e8c79a" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.11"/>
+    <path id="Night_lamp_3_band" data-name="Night lamp 3 band" d="M654.8 710.9 C675 716.967 695.167 716.967 715.3 710.9" fill="none" stroke="#e8c074" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.66"/>
+    <path id="Night_lamp_3_band_dot_1" data-name="Night lamp 3 band dot 1" d="M665.149 716.571 C665.149 716.195 665.454 715.891 665.829 715.891 C666.205 715.891 666.509 716.195 666.509 716.571 C666.509 716.946 666.205 717.251 665.829 717.251 C665.454 717.251 665.149 716.946 665.149 716.571 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_3_band_dot_2" data-name="Night lamp 3 band dot 2" d="M671.561 717.544 C671.561 717.169 671.865 716.864 672.241 716.864 C672.616 716.864 672.921 717.169 672.921 717.544 C672.921 717.92 672.616 718.224 672.241 718.224 C671.865 718.224 671.561 717.92 671.561 717.544 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_3_band_dot_3" data-name="Night lamp 3 band dot 3" d="M677.972 718.218 C677.972 717.842 678.276 717.538 678.652 717.538 C679.028 717.538 679.332 717.842 679.332 718.218 C679.332 718.593 679.028 718.898 678.652 718.898 C678.276 718.898 677.972 718.593 677.972 718.218 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_3_band_dot_4" data-name="Night lamp 3 band dot 4" d="M684.383 718.458 C684.383 718.083 684.688 717.778 685.063 717.778 C685.439 717.778 685.743 718.083 685.743 718.458 C685.743 718.834 685.439 719.138 685.063 719.138 C684.688 719.138 684.383 718.834 684.383 718.458 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_3_band_dot_5" data-name="Night lamp 3 band dot 5" d="M690.795 718.218 C690.795 717.842 691.099 717.538 691.475 717.538 C691.85 717.538 692.155 717.842 692.155 718.218 C692.155 718.593 691.85 718.898 691.475 718.898 C691.099 718.898 690.795 718.593 690.795 718.218 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_3_band_dot_6" data-name="Night lamp 3 band dot 6" d="M697.206 717.544 C697.206 717.169 697.511 716.864 697.886 716.864 C698.262 716.864 698.566 717.169 698.566 717.544 C698.566 717.92 698.262 718.224 697.886 718.224 C697.511 718.224 697.206 717.92 697.206 717.544 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_3_band_dot_7" data-name="Night lamp 3 band dot 7" d="M703.618 716.571 C703.618 716.195 703.922 715.891 704.298 715.891 C704.673 715.891 704.978 716.195 704.978 716.571 C704.978 716.946 704.673 717.251 704.298 717.251 C703.922 717.251 703.618 716.946 703.618 716.571 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_3_sheen" data-name="Night lamp 3 sheen" d="M657.9 705.7 C659.6 715.5 668.7 723.5 680.3 726.3" fill="none" stroke="#ffe2c0" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.24"/>
+    <path id="Night_lamp_3_rim_light" data-name="Night lamp 3 rim light" d="M714.6 705.2 C714 714.9 706.8 722.3 696.6 726.9" fill="none" stroke="#ffb878" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.38"/>
+    <path id="Night_lamp_3_rim_sheen" data-name="Night lamp 3 rim sheen" d="M653.1 699.8 C664.7 697.2 681.7 696.6 690.5 697.5" fill="none" stroke="#ffe6c8" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Night_lamp_4_halo" data-name="Night lamp 4 halo" d="M543.318 726.107 C543.318 696.062 567.673 671.707 597.718 671.707 C627.762 671.707 652.118 696.062 652.118 726.107 C652.118 756.151 627.762 780.507 597.718 780.507 C567.673 780.507 543.318 756.151 543.318 726.107 Z" fill="url(#radial-gradient-8)"/>
+    <path id="Night_lamp_4_shadow" data-name="Night lamp 4 shadow" d="M555.558 778.195 C555.558 774.064 574.433 770.715 597.718 770.715 C621.002 770.715 639.878 774.064 639.878 778.195 C639.878 782.326 621.002 785.675 597.718 785.675 C574.433 785.675 555.558 782.326 555.558 778.195 Z" fill="url(#radial-gradient-9)"/>
+    <path id="Night_lamp_4_bowl" data-name="Night lamp 4 bowl" d="M563.7 749.6 C563.7 765.6 578 776.4 597.7 776.4 C617.4 776.4 631.7 765.6 631.7 749.6 C618.1 753.6 577.3 753.6 563.7 749.6 Z" fill="url(#linear-gradient-25)" stroke="#1d1216" stroke-width="2.4" stroke-miterlimit="10"/>
+    <path id="Night_lamp_4_foot" data-name="Night lamp 4 foot" d="M583.438 775.815 C583.438 772.998 589.831 770.715 597.718 770.715 C605.604 770.715 611.998 772.998 611.998 775.815 C611.998 778.631 605.604 780.915 597.718 780.915 C589.831 780.915 583.438 778.631 583.438 775.815 Z" fill="url(#linear-gradient-26)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Night_lamp_4_rim" data-name="Night lamp 4 rim" d="M563.718 747.867 C563.718 744.712 578.94 742.155 597.718 742.155 C616.495 742.155 631.718 744.712 631.718 747.867 C631.718 751.021 616.495 753.579 597.718 753.579 C578.94 753.579 563.718 751.021 563.718 747.867 Z" fill="url(#linear-gradient-27)" stroke="#1d1216" stroke-width="2.2" stroke-miterlimit="10"/>
+    <path id="Night_lamp_4_oil" data-name="Night lamp 4 oil" d="M575.618 747.867 C575.618 746.053 585.512 744.582 597.718 744.582 C609.923 744.582 619.818 746.053 619.818 747.867 C619.818 749.681 609.923 751.151 597.718 751.151 C585.512 751.151 575.618 749.681 575.618 747.867 Z" fill="url(#linear-gradient-28)" stroke="#3a1a10" stroke-width="1.6" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Night_lamp_4_oil_sheen" data-name="Night lamp 4 oil sheen" d="M580 747.3 C590.9 749.6 604.5 749.6 615.4 747.3" fill="none" stroke="#f2b888" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Night_lamp_4_lip" data-name="Night lamp 4 lip" d="M587.9 749.4 C589.9 752.4 593.5 754 597.7 754 C601.9 754 605.5 752.4 607.6 749.4 C602.8 751.2 592.6 751.2 587.9 749.4 Z" fill="url(#linear-gradient-29)" stroke="#1d1216" stroke-width="1.7" stroke-miterlimit="10"/>
+    <path id="Night_lamp_4_lip_mouth" data-name="Night lamp 4 lip mouth" d="M593.978 751.08 C593.978 750.488 595.652 750.009 597.718 750.009 C599.783 750.009 601.458 750.488 601.458 751.08 C601.458 751.671 599.783 752.151 597.718 752.151 C595.652 752.151 593.978 751.671 593.978 751.08 Z" fill="#2a120c" opacity="0.9"/>
+    <path id="Night_lamp_4_wick" data-name="Night lamp 4 wick" d="M597.7 751.9 C596.9 749.3 596.5 746.2 596.9 743.3" fill="none" stroke="#2e1b12" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Night_lamp_4_flame_outer" data-name="Night lamp 4 flame outer" d="M587.5 744.2 C584.7 730.2 592.4 711.7 597.1 686.2 C603 705.9 610.4 727.9 607.9 744.2 C602.6 747.3 592.8 747.3 587.5 744.2 Z" fill="url(#linear-gradient-30)" opacity="0.96"/>
+    <path id="Night_lamp_4_flame_mid" data-name="Night lamp 4 flame mid" d="M591.4 744.2 C589.6 729.1 594.9 710.5 597.5 695.4 C601.4 709.4 605.5 729.1 604 744.2 C600.6 746.5 594.9 746.5 591.4 744.2 Z" fill="url(#linear-gradient-31)" opacity="0.94"/>
+    <path id="Night_lamp_4_flame_core" data-name="Night lamp 4 flame core" d="M594.7 744.2 C593.6 730.2 596.5 718.6 597.9 711.7 C599.8 718.6 601.4 731.4 600.8 744.2 C598.9 745.3 596.5 745.3 594.7 744.2 Z" fill="#ffffff" opacity="0.86"/>
+    <path id="Night_lamp_4_flame_smoke_1" data-name="Night lamp 4 flame smoke 1" d="M596.1 683.3 C592.8 676.3 598.5 671.7 596.5 665.9" fill="none" stroke="#e8c79a" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.11"/>
+    <path id="Night_lamp_4_flame_smoke_2" data-name="Night lamp 4 flame smoke 2" d="M599.3 683.3 C596.1 676.3 601.8 671.7 599.8 665.9" fill="none" stroke="#e8c79a" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.11"/>
+    <path id="Night_lamp_4_band" data-name="Night lamp 4 band" d="M567.5 757.6 C587.633 763.667 607.8 763.667 628 757.6" fill="none" stroke="#e8c074" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.66"/>
+    <path id="Night_lamp_4_band_dot_1" data-name="Night lamp 4 band dot 1" d="M577.803 763.258 C577.803 762.883 578.108 762.578 578.483 762.578 C578.859 762.578 579.163 762.883 579.163 763.258 C579.163 763.634 578.859 763.938 578.483 763.938 C578.108 763.938 577.803 763.634 577.803 763.258 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_4_band_dot_2" data-name="Night lamp 4 band dot 2" d="M584.215 764.232 C584.215 763.856 584.519 763.552 584.895 763.552 C585.27 763.552 585.575 763.856 585.575 764.232 C585.575 764.607 585.27 764.912 584.895 764.912 C584.519 764.912 584.215 764.607 584.215 764.232 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_4_band_dot_3" data-name="Night lamp 4 band dot 3" d="M590.626 764.905 C590.626 764.53 590.931 764.225 591.306 764.225 C591.682 764.225 591.986 764.53 591.986 764.905 C591.986 765.281 591.682 765.585 591.306 765.585 C590.931 765.585 590.626 765.281 590.626 764.905 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_4_band_dot_4" data-name="Night lamp 4 band dot 4" d="M597.038 765.146 C597.038 764.77 597.342 764.466 597.718 764.466 C598.093 764.466 598.398 764.77 598.398 765.146 C598.398 765.521 598.093 765.826 597.718 765.826 C597.342 765.826 597.038 765.521 597.038 765.146 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_4_band_dot_5" data-name="Night lamp 4 band dot 5" d="M603.449 764.905 C603.449 764.53 603.753 764.225 604.129 764.225 C604.505 764.225 604.809 764.53 604.809 764.905 C604.809 765.281 604.505 765.585 604.129 765.585 C603.753 765.585 603.449 765.281 603.449 764.905 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_4_band_dot_6" data-name="Night lamp 4 band dot 6" d="M609.86 764.232 C609.86 763.856 610.165 763.552 610.54 763.552 C610.916 763.552 611.22 763.856 611.22 764.232 C611.22 764.607 610.916 764.912 610.54 764.912 C610.165 764.912 609.86 764.607 609.86 764.232 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_4_band_dot_7" data-name="Night lamp 4 band dot 7" d="M616.272 763.258 C616.272 762.883 616.576 762.578 616.952 762.578 C617.327 762.578 617.632 762.883 617.632 763.258 C617.632 763.634 617.327 763.938 616.952 763.938 C616.576 763.938 616.272 763.634 616.272 763.258 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_4_sheen" data-name="Night lamp 4 sheen" d="M570.5 752.4 C572.2 762.1 581.4 770.1 593 773" fill="none" stroke="#ffe2c0" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.24"/>
+    <path id="Night_lamp_4_rim_light" data-name="Night lamp 4 rim light" d="M627.3 751.9 C626.6 761.6 619.5 769 609.3 773.6" fill="none" stroke="#ffb878" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.38"/>
+    <path id="Night_lamp_4_rim_sheen" data-name="Night lamp 4 rim sheen" d="M565.8 746.4 C577.3 743.9 594.3 743.3 603.2 744.2" fill="none" stroke="#ffe6c8" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Night_lamp_5_halo" data-name="Night lamp 5 halo" d="M445.6 742.24 C445.6 712.196 469.956 687.84 500 687.84 C530.044 687.84 554.4 712.196 554.4 742.24 C554.4 772.284 530.044 796.64 500 796.64 C469.956 796.64 445.6 772.284 445.6 742.24 Z" fill="url(#radial-gradient-10)"/>
+    <path id="Night_lamp_5_shadow" data-name="Night lamp 5 shadow" d="M457.84 794.328 C457.84 790.197 476.716 786.848 500 786.848 C523.284 786.848 542.16 790.197 542.16 794.328 C542.16 798.459 523.284 801.808 500 801.808 C476.716 801.808 457.84 798.459 457.84 794.328 Z" fill="url(#radial-gradient-11)"/>
+    <path id="Night_lamp_5_bowl" data-name="Night lamp 5 bowl" d="M466 765.7 C466 781.7 480.3 792.6 500 792.6 C519.7 792.6 534 781.7 534 765.7 C520.4 769.7 479.6 769.7 466 765.7 Z" fill="url(#linear-gradient-32)" stroke="#1d1216" stroke-width="2.4" stroke-miterlimit="10"/>
+    <path id="Night_lamp_5_foot" data-name="Night lamp 5 foot" d="M485.72 791.948 C485.72 789.131 492.113 786.848 500 786.848 C507.887 786.848 514.28 789.131 514.28 791.948 C514.28 794.765 507.887 797.048 500 797.048 C492.113 797.048 485.72 794.765 485.72 791.948 Z" fill="url(#linear-gradient-33)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Night_lamp_5_rim" data-name="Night lamp 5 rim" d="M466 764 C466 760.845 481.222 758.288 500 758.288 C518.778 758.288 534 760.845 534 764 C534 767.155 518.778 769.712 500 769.712 C481.222 769.712 466 767.155 466 764 Z" fill="url(#linear-gradient-34)" stroke="#1d1216" stroke-width="2.2" stroke-miterlimit="10"/>
+    <path id="Night_lamp_5_oil" data-name="Night lamp 5 oil" d="M477.9 764 C477.9 762.186 487.795 760.716 500 760.716 C512.205 760.716 522.1 762.186 522.1 764 C522.1 765.814 512.205 767.284 500 767.284 C487.795 767.284 477.9 765.814 477.9 764 Z" fill="url(#linear-gradient-35)" stroke="#3a1a10" stroke-width="1.6" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Night_lamp_5_oil_sheen" data-name="Night lamp 5 oil sheen" d="M482.3 763.4 C493.2 765.7 506.8 765.7 517.7 763.4" fill="none" stroke="#f2b888" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Night_lamp_5_lip" data-name="Night lamp 5 lip" d="M490.1 765.6 C492.2 768.6 495.8 770.1 500 770.1 C504.2 770.1 507.8 768.6 509.9 765.6 C505.1 767.3 494.9 767.3 490.1 765.6 Z" fill="url(#linear-gradient-36)" stroke="#1d1216" stroke-width="1.7" stroke-miterlimit="10"/>
+    <path id="Night_lamp_5_lip_mouth" data-name="Night lamp 5 lip mouth" d="M496.26 767.213 C496.26 766.622 497.934 766.142 500 766.142 C502.066 766.142 503.74 766.622 503.74 767.213 C503.74 767.804 502.066 768.284 500 768.284 C497.934 768.284 496.26 767.804 496.26 767.213 Z" fill="#2a120c" opacity="0.9"/>
+    <path id="Night_lamp_5_wick" data-name="Night lamp 5 wick" d="M500 768 C499.2 765.4 498.8 762.3 499.2 759.4" fill="none" stroke="#2e1b12" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Night_lamp_5_flame_outer" data-name="Night lamp 5 flame outer" d="M489.8 760.3 C486.9 746.4 494.7 727.8 499.4 702.3 C505.3 722 512.6 744 510.2 760.3 C504.9 763.5 495.1 763.5 489.8 760.3 Z" fill="url(#linear-gradient-37)" opacity="0.96"/>
+    <path id="Night_lamp_5_flame_mid" data-name="Night lamp 5 flame mid" d="M493.7 760.3 C491.8 745.2 497.1 726.6 499.8 711.6 C503.7 725.5 507.8 745.2 506.3 760.3 C502.9 762.6 497.1 762.6 493.7 760.3 Z" fill="url(#linear-gradient-38)" opacity="0.94"/>
+    <path id="Night_lamp_5_flame_core" data-name="Night lamp 5 flame core" d="M496.9 760.3 C495.9 746.4 498.8 734.8 500.2 727.8 C502 734.8 503.7 747.5 503.1 760.3 C501.2 761.4 498.8 761.4 496.9 760.3 Z" fill="#ffffff" opacity="0.86"/>
+    <path id="Night_lamp_5_flame_smoke_1" data-name="Night lamp 5 flame smoke 1" d="M498.4 699.4 C495.1 692.4 500.8 687.8 498.8 682" fill="none" stroke="#e8c79a" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.11"/>
+    <path id="Night_lamp_5_flame_smoke_2" data-name="Night lamp 5 flame smoke 2" d="M501.6 699.4 C498.4 692.4 504.1 687.8 502 682" fill="none" stroke="#e8c79a" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.11"/>
+    <path id="Night_lamp_5_band" data-name="Night lamp 5 band" d="M469.7 773.7 C489.9 779.767 510.1 779.767 530.3 773.7" fill="none" stroke="#e8c074" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.66"/>
+    <path id="Night_lamp_5_band_dot_1" data-name="Night lamp 5 band dot 1" d="M480.086 779.391 C480.086 779.016 480.39 778.711 480.766 778.711 C481.141 778.711 481.446 779.016 481.446 779.391 C481.446 779.767 481.141 780.071 480.766 780.071 C480.39 780.071 480.086 779.767 480.086 779.391 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_5_band_dot_2" data-name="Night lamp 5 band dot 2" d="M486.497 780.365 C486.497 779.989 486.802 779.685 487.177 779.685 C487.553 779.685 487.857 779.989 487.857 780.365 C487.857 780.74 487.553 781.045 487.177 781.045 C486.802 781.045 486.497 780.74 486.497 780.365 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_5_band_dot_3" data-name="Night lamp 5 band dot 3" d="M492.909 781.038 C492.909 780.663 493.213 780.358 493.589 780.358 C493.964 780.358 494.269 780.663 494.269 781.038 C494.269 781.414 493.964 781.718 493.589 781.718 C493.213 781.718 492.909 781.414 492.909 781.038 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_5_band_dot_4" data-name="Night lamp 5 band dot 4" d="M499.32 781.279 C499.32 780.903 499.624 780.599 500 780.599 C500.376 780.599 500.68 780.903 500.68 781.279 C500.68 781.654 500.376 781.959 500 781.959 C499.624 781.959 499.32 781.654 499.32 781.279 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_5_band_dot_5" data-name="Night lamp 5 band dot 5" d="M505.731 781.038 C505.731 780.663 506.036 780.358 506.411 780.358 C506.787 780.358 507.091 780.663 507.091 781.038 C507.091 781.414 506.787 781.718 506.411 781.718 C506.036 781.718 505.731 781.414 505.731 781.038 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_5_band_dot_6" data-name="Night lamp 5 band dot 6" d="M512.143 780.365 C512.143 779.989 512.447 779.685 512.823 779.685 C513.198 779.685 513.503 779.989 513.503 780.365 C513.503 780.74 513.198 781.045 512.823 781.045 C512.447 781.045 512.143 780.74 512.143 780.365 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_5_band_dot_7" data-name="Night lamp 5 band dot 7" d="M518.554 779.391 C518.554 779.016 518.859 778.711 519.234 778.711 C519.61 778.711 519.914 779.016 519.914 779.391 C519.914 779.767 519.61 780.071 519.234 780.071 C518.859 780.071 518.554 779.767 518.554 779.391 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_5_sheen" data-name="Night lamp 5 sheen" d="M472.8 768.6 C474.5 778.3 483.7 786.3 495.2 789.1" fill="none" stroke="#ffe2c0" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.24"/>
+    <path id="Night_lamp_5_rim_light" data-name="Night lamp 5 rim light" d="M529.6 768 C528.9 777.7 521.8 785.1 511.6 789.7" fill="none" stroke="#ffb878" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.38"/>
+    <path id="Night_lamp_5_rim_sheen" data-name="Night lamp 5 rim sheen" d="M468 762.6 C479.6 760 496.6 759.4 505.4 760.3" fill="none" stroke="#ffe6c8" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Night_lamp_6_halo" data-name="Night lamp 6 halo" d="M347.882 726.107 C347.882 696.062 372.238 671.707 402.282 671.707 C432.327 671.707 456.682 696.062 456.682 726.107 C456.682 756.151 432.327 780.507 402.282 780.507 C372.238 780.507 347.882 756.151 347.882 726.107 Z" fill="url(#radial-gradient-12)"/>
+    <path id="Night_lamp_6_shadow" data-name="Night lamp 6 shadow" d="M360.122 778.195 C360.122 774.064 378.998 770.715 402.282 770.715 C425.567 770.715 444.442 774.064 444.442 778.195 C444.442 782.326 425.567 785.675 402.282 785.675 C378.998 785.675 360.122 782.326 360.122 778.195 Z" fill="url(#radial-gradient-13)"/>
+    <path id="Night_lamp_6_bowl" data-name="Night lamp 6 bowl" d="M368.3 749.6 C368.3 765.6 382.6 776.4 402.3 776.4 C422 776.4 436.3 765.6 436.3 749.6 C422.7 753.6 381.9 753.6 368.3 749.6 Z" fill="url(#linear-gradient-39)" stroke="#1d1216" stroke-width="2.4" stroke-miterlimit="10"/>
+    <path id="Night_lamp_6_foot" data-name="Night lamp 6 foot" d="M388.002 775.815 C388.002 772.998 394.396 770.715 402.282 770.715 C410.169 770.715 416.562 772.998 416.562 775.815 C416.562 778.631 410.169 780.915 402.282 780.915 C394.396 780.915 388.002 778.631 388.002 775.815 Z" fill="url(#linear-gradient-26)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Night_lamp_6_rim" data-name="Night lamp 6 rim" d="M368.282 747.867 C368.282 744.712 383.505 742.155 402.282 742.155 C421.06 742.155 436.282 744.712 436.282 747.867 C436.282 751.021 421.06 753.579 402.282 753.579 C383.505 753.579 368.282 751.021 368.282 747.867 Z" fill="url(#linear-gradient-27)" stroke="#1d1216" stroke-width="2.2" stroke-miterlimit="10"/>
+    <path id="Night_lamp_6_oil" data-name="Night lamp 6 oil" d="M380.182 747.867 C380.182 746.053 390.077 744.582 402.282 744.582 C414.488 744.582 424.382 746.053 424.382 747.867 C424.382 749.681 414.488 751.151 402.282 751.151 C390.077 751.151 380.182 749.681 380.182 747.867 Z" fill="url(#linear-gradient-28)" stroke="#3a1a10" stroke-width="1.6" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Night_lamp_6_oil_sheen" data-name="Night lamp 6 oil sheen" d="M384.6 747.3 C395.5 749.6 409.1 749.6 420 747.3" fill="none" stroke="#f2b888" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Night_lamp_6_lip" data-name="Night lamp 6 lip" d="M392.4 749.4 C394.5 752.4 398.1 754 402.3 754 C406.5 754 410.1 752.4 412.1 749.4 C407.4 751.2 397.2 751.2 392.4 749.4 Z" fill="url(#linear-gradient-29)" stroke="#1d1216" stroke-width="1.7" stroke-miterlimit="10"/>
+    <path id="Night_lamp_6_lip_mouth" data-name="Night lamp 6 lip mouth" d="M398.542 751.08 C398.542 750.488 400.217 750.009 402.282 750.009 C404.348 750.009 406.022 750.488 406.022 751.08 C406.022 751.671 404.348 752.151 402.282 752.151 C400.217 752.151 398.542 751.671 398.542 751.08 Z" fill="#2a120c" opacity="0.9"/>
+    <path id="Night_lamp_6_wick" data-name="Night lamp 6 wick" d="M402.3 751.9 C401.5 749.3 401.1 746.2 401.5 743.3" fill="none" stroke="#2e1b12" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Night_lamp_6_flame_outer" data-name="Night lamp 6 flame outer" d="M392.1 744.2 C389.2 730.2 397 711.7 401.7 686.2 C407.6 705.9 414.9 727.9 412.5 744.2 C407.2 747.3 397.4 747.3 392.1 744.2 Z" fill="url(#linear-gradient-30)" opacity="0.96"/>
+    <path id="Night_lamp_6_flame_mid" data-name="Night lamp 6 flame mid" d="M396 744.2 C394.1 729.1 399.4 710.5 402.1 695.4 C406 709.4 410 729.1 408.6 744.2 C405.1 746.5 399.4 746.5 396 744.2 Z" fill="url(#linear-gradient-31)" opacity="0.94"/>
+    <path id="Night_lamp_6_flame_core" data-name="Night lamp 6 flame core" d="M399.2 744.2 C398.2 730.2 401.1 718.6 402.5 711.7 C404.3 718.6 406 731.4 405.3 744.2 C403.5 745.3 401.1 745.3 399.2 744.2 Z" fill="#ffffff" opacity="0.86"/>
+    <path id="Night_lamp_6_flame_smoke_1" data-name="Night lamp 6 flame smoke 1" d="M400.7 683.3 C397.4 676.3 403.1 671.7 401.1 665.9" fill="none" stroke="#e8c79a" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.11"/>
+    <path id="Night_lamp_6_flame_smoke_2" data-name="Night lamp 6 flame smoke 2" d="M403.9 683.3 C400.7 676.3 406.4 671.7 404.3 665.9" fill="none" stroke="#e8c79a" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.11"/>
+    <path id="Night_lamp_6_band" data-name="Night lamp 6 band" d="M372 757.6 C392.2 763.667 412.367 763.667 432.5 757.6" fill="none" stroke="#e8c074" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.66"/>
+    <path id="Night_lamp_6_band_dot_1" data-name="Night lamp 6 band dot 1" d="M382.368 763.258 C382.368 762.883 382.673 762.578 383.048 762.578 C383.424 762.578 383.728 762.883 383.728 763.258 C383.728 763.634 383.424 763.938 383.048 763.938 C382.673 763.938 382.368 763.634 382.368 763.258 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_6_band_dot_2" data-name="Night lamp 6 band dot 2" d="M388.78 764.232 C388.78 763.856 389.084 763.552 389.46 763.552 C389.835 763.552 390.14 763.856 390.14 764.232 C390.14 764.607 389.835 764.912 389.46 764.912 C389.084 764.912 388.78 764.607 388.78 764.232 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_6_band_dot_3" data-name="Night lamp 6 band dot 3" d="M395.191 764.905 C395.191 764.53 395.495 764.225 395.871 764.225 C396.247 764.225 396.551 764.53 396.551 764.905 C396.551 765.281 396.247 765.585 395.871 765.585 C395.495 765.585 395.191 765.281 395.191 764.905 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_6_band_dot_4" data-name="Night lamp 6 band dot 4" d="M401.602 765.146 C401.602 764.77 401.907 764.466 402.282 764.466 C402.658 764.466 402.962 764.77 402.962 765.146 C402.962 765.521 402.658 765.826 402.282 765.826 C401.907 765.826 401.602 765.521 401.602 765.146 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_6_band_dot_5" data-name="Night lamp 6 band dot 5" d="M408.014 764.905 C408.014 764.53 408.318 764.225 408.694 764.225 C409.069 764.225 409.374 764.53 409.374 764.905 C409.374 765.281 409.069 765.585 408.694 765.585 C408.318 765.585 408.014 765.281 408.014 764.905 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_6_band_dot_6" data-name="Night lamp 6 band dot 6" d="M414.425 764.232 C414.425 763.856 414.73 763.552 415.105 763.552 C415.481 763.552 415.785 763.856 415.785 764.232 C415.785 764.607 415.481 764.912 415.105 764.912 C414.73 764.912 414.425 764.607 414.425 764.232 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_6_band_dot_7" data-name="Night lamp 6 band dot 7" d="M420.837 763.258 C420.837 762.883 421.141 762.578 421.517 762.578 C421.892 762.578 422.197 762.883 422.197 763.258 C422.197 763.634 421.892 763.938 421.517 763.938 C421.141 763.938 420.837 763.634 420.837 763.258 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_6_sheen" data-name="Night lamp 6 sheen" d="M375.1 752.4 C376.8 762.1 386 770.1 397.5 773" fill="none" stroke="#ffe2c0" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.24"/>
+    <path id="Night_lamp_6_rim_light" data-name="Night lamp 6 rim light" d="M431.9 751.9 C431.2 761.6 424 769 413.8 773.6" fill="none" stroke="#ffb878" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.38"/>
+    <path id="Night_lamp_6_rim_sheen" data-name="Night lamp 6 rim sheen" d="M370.3 746.4 C381.9 743.9 398.9 743.3 407.7 744.2" fill="none" stroke="#ffe6c8" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Night_lamp_7_halo" data-name="Night lamp 7 halo" d="M260.537 679.419 C260.537 649.375 284.892 625.019 314.937 625.019 C344.981 625.019 369.337 649.375 369.337 679.419 C369.337 709.464 344.981 733.819 314.937 733.819 C284.892 733.819 260.537 709.464 260.537 679.419 Z" fill="url(#radial-gradient-14)"/>
+    <path id="Night_lamp_7_shadow" data-name="Night lamp 7 shadow" d="M272.777 731.507 C272.777 727.376 291.652 724.027 314.937 724.027 C338.221 724.027 357.097 727.376 357.097 731.507 C357.097 735.639 338.221 738.987 314.937 738.987 C291.652 738.987 272.777 735.639 272.777 731.507 Z" fill="url(#radial-gradient-15)"/>
+    <path id="Night_lamp_7_bowl" data-name="Night lamp 7 bowl" d="M280.9 702.9 C280.9 718.9 295.2 729.7 314.9 729.7 C334.7 729.7 348.9 718.9 348.9 702.9 C335.3 706.9 294.5 706.9 280.9 702.9 Z" fill="url(#linear-gradient-40)" stroke="#1d1216" stroke-width="2.4" stroke-miterlimit="10"/>
+    <path id="Night_lamp_7_foot" data-name="Night lamp 7 foot" d="M300.657 729.127 C300.657 726.311 307.05 724.027 314.937 724.027 C322.823 724.027 329.217 726.311 329.217 729.127 C329.217 731.944 322.823 734.227 314.937 734.227 C307.05 734.227 300.657 731.944 300.657 729.127 Z" fill="url(#linear-gradient-19)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Night_lamp_7_rim" data-name="Night lamp 7 rim" d="M280.937 701.179 C280.937 698.025 296.159 695.467 314.937 695.467 C333.714 695.467 348.937 698.025 348.937 701.179 C348.937 704.334 333.714 706.891 314.937 706.891 C296.159 706.891 280.937 704.334 280.937 701.179 Z" fill="url(#linear-gradient-20)" stroke="#1d1216" stroke-width="2.2" stroke-miterlimit="10"/>
+    <path id="Night_lamp_7_oil" data-name="Night lamp 7 oil" d="M292.837 701.179 C292.837 699.365 302.731 697.895 314.937 697.895 C327.142 697.895 337.037 699.365 337.037 701.179 C337.037 702.993 327.142 704.464 314.937 704.464 C302.731 704.464 292.837 702.993 292.837 701.179 Z" fill="url(#linear-gradient-21)" stroke="#3a1a10" stroke-width="1.6" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Night_lamp_7_oil_sheen" data-name="Night lamp 7 oil sheen" d="M297.3 700.6 C308.1 702.9 321.7 702.9 332.6 700.6" fill="none" stroke="#f2b888" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Night_lamp_7_lip" data-name="Night lamp 7 lip" d="M305.1 702.8 C307.1 705.7 310.7 707.3 314.9 707.3 C319.2 707.3 322.8 705.7 324.8 702.8 C320 704.5 309.8 704.5 305.1 702.8 Z" fill="url(#linear-gradient-22)" stroke="#1d1216" stroke-width="1.7" stroke-miterlimit="10"/>
+    <path id="Night_lamp_7_lip_mouth" data-name="Night lamp 7 lip mouth" d="M311.197 704.392 C311.197 703.801 312.871 703.321 314.937 703.321 C317.002 703.321 318.677 703.801 318.677 704.392 C318.677 704.984 317.002 705.463 314.937 705.463 C312.871 705.463 311.197 704.984 311.197 704.392 Z" fill="#2a120c" opacity="0.9"/>
+    <path id="Night_lamp_7_wick" data-name="Night lamp 7 wick" d="M314.9 705.2 C314.1 702.6 313.7 699.5 314.1 696.6" fill="none" stroke="#2e1b12" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Night_lamp_7_flame_outer" data-name="Night lamp 7 flame outer" d="M304.7 697.5 C301.9 683.5 309.6 665 314.3 639.5 C320.2 659.2 327.6 681.2 325.1 697.5 C319.8 700.7 310 700.7 304.7 697.5 Z" fill="url(#linear-gradient-23)" opacity="0.96"/>
+    <path id="Night_lamp_7_flame_mid" data-name="Night lamp 7 flame mid" d="M308.6 697.5 C306.8 682.4 312.1 663.8 314.7 648.7 C318.6 662.7 322.7 682.4 321.3 697.5 C317.8 699.8 312.1 699.8 308.6 697.5 Z" fill="url(#linear-gradient-24)" opacity="0.94"/>
+    <path id="Night_lamp_7_flame_core" data-name="Night lamp 7 flame core" d="M311.9 697.5 C310.9 683.5 313.7 671.9 315.1 665 C317 671.9 318.6 684.7 318 697.5 C316.2 698.6 313.7 698.6 311.9 697.5 Z" fill="#ffffff" opacity="0.86"/>
+    <path id="Night_lamp_7_flame_smoke_1" data-name="Night lamp 7 flame smoke 1" d="M313.3 636.6 C310 629.6 315.8 625 313.7 619.2" fill="none" stroke="#e8c79a" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.11"/>
+    <path id="Night_lamp_7_flame_smoke_2" data-name="Night lamp 7 flame smoke 2" d="M316.6 636.6 C313.3 629.6 319 625 317 619.2" fill="none" stroke="#e8c79a" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.11"/>
+    <path id="Night_lamp_7_band" data-name="Night lamp 7 band" d="M284.7 710.9 C304.833 716.967 325 716.967 345.2 710.9" fill="none" stroke="#e8c074" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.66"/>
+    <path id="Night_lamp_7_band_dot_1" data-name="Night lamp 7 band dot 1" d="M295.022 716.571 C295.022 716.195 295.327 715.891 295.702 715.891 C296.078 715.891 296.382 716.195 296.382 716.571 C296.382 716.946 296.078 717.251 295.702 717.251 C295.327 717.251 295.022 716.946 295.022 716.571 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_7_band_dot_2" data-name="Night lamp 7 band dot 2" d="M301.434 717.544 C301.434 717.169 301.738 716.864 302.114 716.864 C302.489 716.864 302.794 717.169 302.794 717.544 C302.794 717.92 302.489 718.224 302.114 718.224 C301.738 718.224 301.434 717.92 301.434 717.544 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_7_band_dot_3" data-name="Night lamp 7 band dot 3" d="M307.845 718.218 C307.845 717.842 308.15 717.538 308.525 717.538 C308.901 717.538 309.205 717.842 309.205 718.218 C309.205 718.593 308.901 718.898 308.525 718.898 C308.15 718.898 307.845 718.593 307.845 718.218 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_7_band_dot_4" data-name="Night lamp 7 band dot 4" d="M314.257 718.458 C314.257 718.083 314.561 717.778 314.937 717.778 C315.312 717.778 315.617 718.083 315.617 718.458 C315.617 718.834 315.312 719.138 314.937 719.138 C314.561 719.138 314.257 718.834 314.257 718.458 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_7_band_dot_5" data-name="Night lamp 7 band dot 5" d="M320.668 718.218 C320.668 717.842 320.972 717.538 321.348 717.538 C321.724 717.538 322.028 717.842 322.028 718.218 C322.028 718.593 321.724 718.898 321.348 718.898 C320.972 718.898 320.668 718.593 320.668 718.218 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_7_band_dot_6" data-name="Night lamp 7 band dot 6" d="M327.079 717.544 C327.079 717.169 327.384 716.864 327.759 716.864 C328.135 716.864 328.439 717.169 328.439 717.544 C328.439 717.92 328.135 718.224 327.759 718.224 C327.384 718.224 327.079 717.92 327.079 717.544 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_7_band_dot_7" data-name="Night lamp 7 band dot 7" d="M333.491 716.571 C333.491 716.195 333.795 715.891 334.171 715.891 C334.546 715.891 334.851 716.195 334.851 716.571 C334.851 716.946 334.546 717.251 334.171 717.251 C333.795 717.251 333.491 716.946 333.491 716.571 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_7_sheen" data-name="Night lamp 7 sheen" d="M287.7 705.7 C289.4 715.5 298.6 723.5 310.2 726.3" fill="none" stroke="#ffe2c0" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.24"/>
+    <path id="Night_lamp_7_rim_light" data-name="Night lamp 7 rim light" d="M344.5 705.2 C343.8 714.9 336.7 722.3 326.5 726.9" fill="none" stroke="#ffb878" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.38"/>
+    <path id="Night_lamp_7_rim_sheen" data-name="Night lamp 7 rim sheen" d="M283 699.8 C294.5 697.2 311.5 696.6 320.4 697.5" fill="none" stroke="#ffe6c8" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Night_lamp_8_halo" data-name="Night lamp 8 halo" d="M192.833 607.133 C192.833 577.089 217.189 552.733 247.233 552.733 C277.278 552.733 301.633 577.089 301.633 607.133 C301.633 637.178 277.278 661.533 247.233 661.533 C217.189 661.533 192.833 637.178 192.833 607.133 Z" fill="url(#radial-gradient-16)"/>
+    <path id="Night_lamp_8_shadow" data-name="Night lamp 8 shadow" d="M205.073 659.221 C205.073 655.09 223.949 651.741 247.233 651.741 C270.518 651.741 289.393 655.09 289.393 659.221 C289.393 663.352 270.518 666.701 247.233 666.701 C223.949 666.701 205.073 663.352 205.073 659.221 Z" fill="url(#radial-gradient-17)"/>
+    <path id="Night_lamp_8_bowl" data-name="Night lamp 8 bowl" d="M213.2 630.6 C213.2 646.6 227.5 657.5 247.2 657.5 C267 657.5 281.2 646.6 281.2 630.6 C267.6 634.6 226.8 634.6 213.2 630.6 Z" fill="url(#linear-gradient-41)" stroke="#1d1216" stroke-width="2.4" stroke-miterlimit="10"/>
+    <path id="Night_lamp_8_foot" data-name="Night lamp 8 foot" d="M232.953 656.841 C232.953 654.025 239.347 651.741 247.233 651.741 C255.12 651.741 261.513 654.025 261.513 656.841 C261.513 659.658 255.12 661.941 247.233 661.941 C239.347 661.941 232.953 659.658 232.953 656.841 Z" fill="url(#linear-gradient-12)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Night_lamp_8_rim" data-name="Night lamp 8 rim" d="M213.233 628.893 C213.233 625.739 228.456 623.181 247.233 623.181 C266.011 623.181 281.233 625.739 281.233 628.893 C281.233 632.048 266.011 634.605 247.233 634.605 C228.456 634.605 213.233 632.048 213.233 628.893 Z" fill="url(#linear-gradient-13)" stroke="#1d1216" stroke-width="2.2" stroke-miterlimit="10"/>
+    <path id="Night_lamp_8_oil" data-name="Night lamp 8 oil" d="M225.133 628.893 C225.133 627.079 235.028 625.609 247.233 625.609 C259.439 625.609 269.333 627.079 269.333 628.893 C269.333 630.707 259.439 632.178 247.233 632.178 C235.028 632.178 225.133 630.707 225.133 628.893 Z" fill="url(#linear-gradient-14)" stroke="#3a1a10" stroke-width="1.6" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Night_lamp_8_oil_sheen" data-name="Night lamp 8 oil sheen" d="M229.6 628.3 C240.4 630.6 254 630.6 264.9 628.3" fill="none" stroke="#f2b888" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Night_lamp_8_lip" data-name="Night lamp 8 lip" d="M237.4 630.5 C239.4 633.5 243 635 247.2 635 C251.4 635 255.1 633.5 257.1 630.5 C252.3 632.2 242.1 632.2 237.4 630.5 Z" fill="url(#linear-gradient-15)" stroke="#1d1216" stroke-width="1.7" stroke-miterlimit="10"/>
+    <path id="Night_lamp_8_lip_mouth" data-name="Night lamp 8 lip mouth" d="M243.493 632.106 C243.493 631.515 245.168 631.035 247.233 631.035 C249.299 631.035 250.973 631.515 250.973 632.106 C250.973 632.698 249.299 633.177 247.233 633.177 C245.168 633.177 243.493 632.698 243.493 632.106 Z" fill="#2a120c" opacity="0.9"/>
+    <path id="Night_lamp_8_wick" data-name="Night lamp 8 wick" d="M247.2 632.9 C246.4 630.3 246 627.2 246.4 624.3" fill="none" stroke="#2e1b12" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Night_lamp_8_flame_outer" data-name="Night lamp 8 flame outer" d="M237 625.2 C234.2 611.3 241.9 592.7 246.6 567.2 C252.5 586.9 259.9 608.9 257.4 625.2 C252.1 628.4 242.3 628.4 237 625.2 Z" fill="url(#linear-gradient-16)" opacity="0.96"/>
+    <path id="Night_lamp_8_flame_mid" data-name="Night lamp 8 flame mid" d="M240.9 625.2 C239.1 610.1 244.4 591.5 247 576.5 C250.9 590.4 255 610.1 253.6 625.2 C250.1 627.5 244.4 627.5 240.9 625.2 Z" fill="url(#linear-gradient-17)" opacity="0.94"/>
+    <path id="Night_lamp_8_flame_core" data-name="Night lamp 8 flame core" d="M244.2 625.2 C243.2 611.3 246 599.7 247.4 592.7 C249.3 599.7 250.9 612.4 250.3 625.2 C248.5 626.3 246 626.3 244.2 625.2 Z" fill="#ffffff" opacity="0.86"/>
+    <path id="Night_lamp_8_flame_smoke_1" data-name="Night lamp 8 flame smoke 1" d="M245.6 564.3 C242.3 557.3 248 552.7 246 546.9" fill="none" stroke="#e8c79a" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.11"/>
+    <path id="Night_lamp_8_flame_smoke_2" data-name="Night lamp 8 flame smoke 2" d="M248.9 564.3 C245.6 557.3 251.3 552.7 249.3 546.9" fill="none" stroke="#e8c79a" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.11"/>
+    <path id="Night_lamp_8_band" data-name="Night lamp 8 band" d="M217 638.6 C237.133 644.667 257.3 644.667 277.5 638.6" fill="none" stroke="#e8c074" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.66"/>
+    <path id="Night_lamp_8_band_dot_1" data-name="Night lamp 8 band dot 1" d="M227.319 644.285 C227.319 643.909 227.623 643.605 227.999 643.605 C228.375 643.605 228.679 643.909 228.679 644.285 C228.679 644.66 228.375 644.965 227.999 644.965 C227.623 644.965 227.319 644.66 227.319 644.285 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_8_band_dot_2" data-name="Night lamp 8 band dot 2" d="M233.73 645.258 C233.73 644.883 234.035 644.578 234.41 644.578 C234.786 644.578 235.09 644.883 235.09 645.258 C235.09 645.634 234.786 645.938 234.41 645.938 C234.035 645.938 233.73 645.634 233.73 645.258 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_8_band_dot_3" data-name="Night lamp 8 band dot 3" d="M240.142 645.932 C240.142 645.556 240.446 645.252 240.822 645.252 C241.197 645.252 241.502 645.556 241.502 645.932 C241.502 646.307 241.197 646.612 240.822 646.612 C240.446 646.612 240.142 646.307 240.142 645.932 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_8_band_dot_4" data-name="Night lamp 8 band dot 4" d="M246.553 646.172 C246.553 645.797 246.858 645.492 247.233 645.492 C247.609 645.492 247.913 645.797 247.913 646.172 C247.913 646.548 247.609 646.852 247.233 646.852 C246.858 646.852 246.553 646.548 246.553 646.172 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_8_band_dot_5" data-name="Night lamp 8 band dot 5" d="M252.965 645.932 C252.965 645.556 253.269 645.252 253.645 645.252 C254.02 645.252 254.325 645.556 254.325 645.932 C254.325 646.307 254.02 646.612 253.645 646.612 C253.269 646.612 252.965 646.307 252.965 645.932 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_8_band_dot_6" data-name="Night lamp 8 band dot 6" d="M259.376 645.258 C259.376 644.883 259.681 644.578 260.056 644.578 C260.432 644.578 260.736 644.883 260.736 645.258 C260.736 645.634 260.432 645.938 260.056 645.938 C259.681 645.938 259.376 645.634 259.376 645.258 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_8_band_dot_7" data-name="Night lamp 8 band dot 7" d="M265.788 644.285 C265.788 643.909 266.092 643.605 266.468 643.605 C266.843 643.605 267.148 643.909 267.148 644.285 C267.148 644.66 266.843 644.965 266.468 644.965 C266.092 644.965 265.788 644.66 265.788 644.285 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_8_sheen" data-name="Night lamp 8 sheen" d="M220 633.5 C221.7 643.2 230.9 651.2 242.5 654" fill="none" stroke="#ffe2c0" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.24"/>
+    <path id="Night_lamp_8_rim_light" data-name="Night lamp 8 rim light" d="M276.8 632.9 C276.1 642.6 269 650 258.8 654.6" fill="none" stroke="#ffb878" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.38"/>
+    <path id="Night_lamp_8_rim_sheen" data-name="Night lamp 8 rim sheen" d="M215.3 627.5 C226.8 624.9 243.8 624.3 252.7 625.2" fill="none" stroke="#ffe6c8" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Night_lamp_9_halo" data-name="Night lamp 9 halo" d="M151.959 516.921 C151.959 486.877 176.314 462.521 206.359 462.521 C236.403 462.521 260.759 486.877 260.759 516.921 C260.759 546.965 236.403 571.321 206.359 571.321 C176.314 571.321 151.959 546.965 151.959 516.921 Z" fill="url(#radial-gradient-18)"/>
+    <path id="Night_lamp_9_shadow" data-name="Night lamp 9 shadow" d="M164.199 569.009 C164.199 564.878 183.074 561.529 206.359 561.529 C229.643 561.529 248.519 564.878 248.519 569.009 C248.519 573.14 229.643 576.489 206.359 576.489 C183.074 576.489 164.199 573.14 164.199 569.009 Z" fill="url(#radial-gradient-19)"/>
+    <path id="Night_lamp_9_bowl" data-name="Night lamp 9 bowl" d="M172.4 540.4 C172.4 556.4 186.6 567.2 206.4 567.2 C226.1 567.2 240.4 556.4 240.4 540.4 C226.8 544.4 186 544.4 172.4 540.4 Z" fill="url(#linear-gradient-42)" stroke="#1d1216" stroke-width="2.4" stroke-miterlimit="10"/>
+    <path id="Night_lamp_9_foot" data-name="Night lamp 9 foot" d="M192.079 566.629 C192.079 563.812 198.472 561.529 206.359 561.529 C214.245 561.529 220.639 563.812 220.639 566.629 C220.639 569.446 214.245 571.729 206.359 571.729 C198.472 571.729 192.079 569.446 192.079 566.629 Z" fill="url(#linear-gradient-5)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Night_lamp_9_rim" data-name="Night lamp 9 rim" d="M172.359 538.681 C172.359 535.526 187.581 532.969 206.359 532.969 C225.136 532.969 240.359 535.526 240.359 538.681 C240.359 541.836 225.136 544.393 206.359 544.393 C187.581 544.393 172.359 541.836 172.359 538.681 Z" fill="url(#linear-gradient-6)" stroke="#1d1216" stroke-width="2.2" stroke-miterlimit="10"/>
+    <path id="Night_lamp_9_oil" data-name="Night lamp 9 oil" d="M184.259 538.681 C184.259 536.867 194.153 535.397 206.359 535.397 C218.564 535.397 228.459 536.867 228.459 538.681 C228.459 540.495 218.564 541.965 206.359 541.965 C194.153 541.965 184.259 540.495 184.259 538.681 Z" fill="url(#linear-gradient-7)" stroke="#3a1a10" stroke-width="1.6" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Night_lamp_9_oil_sheen" data-name="Night lamp 9 oil sheen" d="M188.7 538.1 C199.6 540.4 213.2 540.4 224 538.1" fill="none" stroke="#f2b888" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Night_lamp_9_lip" data-name="Night lamp 9 lip" d="M196.5 540.3 C198.5 543.3 202.1 544.8 206.4 544.8 C210.6 544.8 214.2 543.3 216.2 540.3 C211.5 542 201.3 542 196.5 540.3 Z" fill="url(#linear-gradient-8)" stroke="#1d1216" stroke-width="1.7" stroke-miterlimit="10"/>
+    <path id="Night_lamp_9_lip_mouth" data-name="Night lamp 9 lip mouth" d="M202.619 541.894 C202.619 541.302 204.293 540.823 206.359 540.823 C208.424 540.823 210.099 541.302 210.099 541.894 C210.099 542.485 208.424 542.965 206.359 542.965 C204.293 542.965 202.619 542.485 202.619 541.894 Z" fill="#2a120c" opacity="0.9"/>
+    <path id="Night_lamp_9_wick" data-name="Night lamp 9 wick" d="M206.4 542.7 C205.5 540.1 205.1 537 205.5 534.1" fill="none" stroke="#2e1b12" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Night_lamp_9_flame_outer" data-name="Night lamp 9 flame outer" d="M196.2 535 C193.3 521 201.1 502.5 205.7 477 C211.7 496.7 219 518.7 216.6 535 C211.3 538.2 201.5 538.2 196.2 535 Z" fill="url(#linear-gradient-9)" opacity="0.96"/>
+    <path id="Night_lamp_9_flame_mid" data-name="Night lamp 9 flame mid" d="M200 535 C198.2 519.9 203.5 501.3 206.2 486.2 C210 500.2 214.1 519.9 212.7 535 C209.2 537.3 203.5 537.3 200 535 Z" fill="url(#linear-gradient-10)" opacity="0.94"/>
+    <path id="Night_lamp_9_flame_core" data-name="Night lamp 9 flame core" d="M203.3 535 C202.3 521 205.1 509.4 206.6 502.5 C208.4 509.4 210 522.2 209.4 535 C207.6 536.1 205.1 536.1 203.3 535 Z" fill="#ffffff" opacity="0.86"/>
+    <path id="Night_lamp_9_flame_smoke_1" data-name="Night lamp 9 flame smoke 1" d="M204.7 474.1 C201.5 467.1 207.2 462.5 205.1 456.7" fill="none" stroke="#e8c79a" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.11"/>
+    <path id="Night_lamp_9_flame_smoke_2" data-name="Night lamp 9 flame smoke 2" d="M208 474.1 C204.7 467.1 210.4 462.5 208.4 456.7" fill="none" stroke="#e8c79a" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.11"/>
+    <path id="Night_lamp_9_band" data-name="Night lamp 9 band" d="M176.1 548.4 C196.3 554.467 216.467 554.467 236.6 548.4" fill="none" stroke="#e8c074" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.66"/>
+    <path id="Night_lamp_9_band_dot_1" data-name="Night lamp 9 band dot 1" d="M186.444 554.072 C186.444 553.697 186.749 553.392 187.124 553.392 C187.5 553.392 187.804 553.697 187.804 554.072 C187.804 554.448 187.5 554.752 187.124 554.752 C186.749 554.752 186.444 554.448 186.444 554.072 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_9_band_dot_2" data-name="Night lamp 9 band dot 2" d="M192.856 555.046 C192.856 554.67 193.16 554.366 193.536 554.366 C193.911 554.366 194.216 554.67 194.216 555.046 C194.216 555.421 193.911 555.726 193.536 555.726 C193.16 555.726 192.856 555.421 192.856 555.046 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_9_band_dot_3" data-name="Night lamp 9 band dot 3" d="M199.267 555.719 C199.267 555.344 199.572 555.039 199.947 555.039 C200.323 555.039 200.627 555.344 200.627 555.719 C200.627 556.095 200.323 556.399 199.947 556.399 C199.572 556.399 199.267 556.095 199.267 555.719 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_9_band_dot_4" data-name="Night lamp 9 band dot 4" d="M205.679 555.96 C205.679 555.584 205.983 555.28 206.359 555.28 C206.734 555.28 207.039 555.584 207.039 555.96 C207.039 556.335 206.734 556.64 206.359 556.64 C205.983 556.64 205.679 556.335 205.679 555.96 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_9_band_dot_5" data-name="Night lamp 9 band dot 5" d="M212.09 555.719 C212.09 555.344 212.394 555.039 212.77 555.039 C213.146 555.039 213.45 555.344 213.45 555.719 C213.45 556.095 213.146 556.399 212.77 556.399 C212.394 556.399 212.09 556.095 212.09 555.719 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_9_band_dot_6" data-name="Night lamp 9 band dot 6" d="M218.501 555.046 C218.501 554.67 218.806 554.366 219.181 554.366 C219.557 554.366 219.861 554.67 219.861 555.046 C219.861 555.421 219.557 555.726 219.181 555.726 C218.806 555.726 218.501 555.421 218.501 555.046 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_9_band_dot_7" data-name="Night lamp 9 band dot 7" d="M224.913 554.072 C224.913 553.697 225.217 553.392 225.593 553.392 C225.968 553.392 226.273 553.697 226.273 554.072 C226.273 554.448 225.968 554.752 225.593 554.752 C225.217 554.752 224.913 554.448 224.913 554.072 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Night_lamp_9_sheen" data-name="Night lamp 9 sheen" d="M179.2 543.3 C180.9 553 190 561 201.6 563.8" fill="none" stroke="#ffe2c0" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.24"/>
+    <path id="Night_lamp_9_rim_light" data-name="Night lamp 9 rim light" d="M235.9 542.7 C235.3 552.4 228.1 559.8 217.9 564.4" fill="none" stroke="#ffb878" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.38"/>
+    <path id="Night_lamp_9_rim_sheen" data-name="Night lamp 9 rim sheen" d="M174.4 537.3 C186 534.7 203 534.1 211.8 535" fill="none" stroke="#ffe6c8" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Dandiya_glow" data-name="Dandiya glow" d="M310 402 C310 297.066 395.066 212 500 212 C604.934 212 690 297.066 690 402 C690 506.934 604.934 592 500 592 C395.066 592 310 506.934 310 402 Z" fill="url(#radial-gradient-20)"/>
+    <path id="Dandiya_A" data-name="Dandiya A" d="M349.037 465.28 L636.878 312.232 C644.193 308.343 653.275 311.119 657.165 318.434 L657.165 318.434 C661.054 325.749 658.277 334.831 650.963 338.72 L363.122 491.768 C355.807 495.657 346.725 492.881 342.835 485.566 L342.835 485.566 C338.946 478.251 341.723 469.169 349.037 465.28 Z" fill="url(#linear-gradient-43)" stroke="#1d1216" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Dandiya_A_band_-0.72" data-name="Dandiya A band -0.72" d="M379.916 449.994 L380.622 449.618 C382.085 448.841 383.901 449.396 384.679 450.859 L395.008 470.284 C395.785 471.747 395.23 473.563 393.767 474.341 L393.061 474.717 C391.598 475.494 389.781 474.939 389.004 473.476 L378.675 454.051 C377.897 452.588 378.453 450.772 379.916 449.994 Z" fill="#2e7a4a" stroke="#1d1216" stroke-width="1.4" stroke-miterlimit="10"/>
+    <path id="Dandiya_A_band_-0.52" data-name="Dandiya A band -0.52" d="M411.349 433.281 L412.055 432.905 C413.518 432.127 415.334 432.683 416.112 434.146 L426.441 453.571 C427.218 455.033 426.663 456.85 425.2 457.628 L424.494 458.003 C423.031 458.781 421.214 458.226 420.437 456.763 L410.108 437.338 C409.33 435.875 409.886 434.059 411.349 433.281 Z" fill="#e8c074" stroke="#1d1216" stroke-width="1.4" stroke-miterlimit="10"/>
+    <path id="Dandiya_A_band_-0.32" data-name="Dandiya A band -0.32" d="M442.782 416.568 L443.488 416.192 C444.951 415.414 446.767 415.97 447.545 417.432 L457.874 436.857 C458.651 438.32 458.096 440.137 456.633 440.915 L455.927 441.29 C454.464 442.068 452.647 441.513 451.869 440.05 L441.541 420.625 C440.763 419.162 441.319 417.345 442.782 416.568 Z" fill="#2e7a4a" stroke="#1d1216" stroke-width="1.4" stroke-miterlimit="10"/>
+    <path id="Dandiya_A_band_0.32" data-name="Dandiya A band 0.32" d="M543.367 363.085 L544.073 362.71 C545.536 361.932 547.353 362.487 548.131 363.95 L558.459 383.375 C559.237 384.838 558.681 386.655 557.218 387.432 L556.512 387.808 C555.049 388.586 553.233 388.03 552.455 386.568 L542.126 367.143 C541.349 365.68 541.904 363.863 543.367 363.085 Z" fill="#2e7a4a" stroke="#1d1216" stroke-width="1.4" stroke-miterlimit="10"/>
+    <path id="Dandiya_A_band_0.52" data-name="Dandiya A band 0.52" d="M574.8 346.372 L575.506 345.997 C576.969 345.219 578.786 345.774 579.563 347.237 L589.892 366.662 C590.67 368.125 590.114 369.941 588.651 370.719 L587.945 371.095 C586.482 371.873 584.666 371.317 583.888 369.854 L573.559 350.429 C572.782 348.967 573.337 347.15 574.8 346.372 Z" fill="#e8c074" stroke="#1d1216" stroke-width="1.4" stroke-miterlimit="10"/>
+    <path id="Dandiya_A_band_0.72" data-name="Dandiya A band 0.72" d="M606.233 329.659 L606.939 329.283 C608.402 328.506 610.219 329.061 610.996 330.524 L621.325 349.949 C622.103 351.412 621.547 353.228 620.084 354.006 L619.378 354.382 C617.915 355.159 616.099 354.604 615.321 353.141 L604.992 333.716 C604.215 332.253 604.77 330.437 606.233 329.659 Z" fill="#2e7a4a" stroke="#1d1216" stroke-width="1.4" stroke-miterlimit="10"/>
+    <path id="Dandiya_A_stud_-0.62" data-name="Dandiya A stud -0.62" d="M400.358 453.811 C400.358 452.596 401.343 451.611 402.558 451.611 C403.773 451.611 404.758 452.596 404.758 453.811 C404.758 455.026 403.773 456.011 402.558 456.011 C401.343 456.011 400.358 455.026 400.358 453.811 Z" fill="#fbe6b4" stroke="#1d1216" stroke-width="0.8" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Dandiya_A_stud_-0.42" data-name="Dandiya A stud -0.42" d="M431.791 437.098 C431.791 435.883 432.776 434.898 433.991 434.898 C435.206 434.898 436.191 435.883 436.191 437.098 C436.191 438.313 435.206 439.298 433.991 439.298 C432.776 439.298 431.791 438.313 431.791 437.098 Z" fill="#fbe6b4" stroke="#1d1216" stroke-width="0.8" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Dandiya_A_stud_0.42" data-name="Dandiya A stud 0.42" d="M563.809 366.902 C563.809 365.687 564.794 364.702 566.009 364.702 C567.224 364.702 568.209 365.687 568.209 366.902 C568.209 368.117 567.224 369.102 566.009 369.102 C564.794 369.102 563.809 368.117 563.809 366.902 Z" fill="#fbe6b4" stroke="#1d1216" stroke-width="0.8" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Dandiya_A_stud_0.62" data-name="Dandiya A stud 0.62" d="M595.242 350.189 C595.242 348.974 596.227 347.989 597.442 347.989 C598.657 347.989 599.642 348.974 599.642 350.189 C599.642 351.404 598.657 352.389 597.442 352.389 C596.227 352.389 595.242 351.404 595.242 350.189 Z" fill="#fbe6b4" stroke="#1d1216" stroke-width="0.8" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Dandiya_A_cap_-1" data-name="Dandiya A cap -1" d="M330.235 485.566 C330.235 478.607 335.877 472.966 342.835 472.966 C349.794 472.966 355.435 478.607 355.435 485.566 C355.435 492.525 349.794 498.166 342.835 498.166 C335.877 498.166 330.235 492.525 330.235 485.566 Z" fill="url(#radial-gradient-21)" stroke="#1d1216" stroke-width="2.4" stroke-miterlimit="10"/>
+    <path id="Dandiya_A_knot_-1" data-name="Dandiya A knot -1" d="M338.835 485.566 C338.835 483.357 340.626 481.566 342.835 481.566 C345.044 481.566 346.835 483.357 346.835 485.566 C346.835 487.775 345.044 489.566 342.835 489.566 C340.626 489.566 338.835 487.775 338.835 485.566 Z" fill="#c23250" stroke="#6e1428" stroke-width="1.2" stroke-miterlimit="10"/>
+    <path id="Dandiya_A_ribbon_-1-1" data-name="Dandiya A ribbon -1-1" d="M342.8 485.6 C341.333 495.6 338.333 505.6 333.8 515.6" fill="none" stroke="#c23250" stroke-width="3.2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Dandiya_A_ribbon_-1-2" data-name="Dandiya A ribbon -1-2" d="M342.8 485.6 C344.133 495.6 344.633 507.6 344.3 521.6" fill="none" stroke="#c23250" stroke-width="3.2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Dandiya_A_cap_1" data-name="Dandiya A cap 1" d="M644.565 318.434 C644.565 311.475 650.206 305.834 657.165 305.834 C664.123 305.834 669.765 311.475 669.765 318.434 C669.765 325.393 664.123 331.034 657.165 331.034 C650.206 331.034 644.565 325.393 644.565 318.434 Z" fill="url(#radial-gradient-22)" stroke="#1d1216" stroke-width="2.4" stroke-miterlimit="10"/>
+    <path id="Dandiya_A_knot_1" data-name="Dandiya A knot 1" d="M653.165 318.434 C653.165 316.225 654.956 314.434 657.165 314.434 C659.374 314.434 661.165 316.225 661.165 318.434 C661.165 320.643 659.374 322.434 657.165 322.434 C654.956 322.434 653.165 320.643 653.165 318.434 Z" fill="#c23250" stroke="#6e1428" stroke-width="1.2" stroke-miterlimit="10"/>
+    <path id="Dandiya_A_ribbon_1-1" data-name="Dandiya A ribbon 1-1" d="M657.2 318.4 C655.733 328.4 655.067 338.4 655.2 348.4" fill="none" stroke="#c23250" stroke-width="3.2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Dandiya_A_ribbon_1-2" data-name="Dandiya A ribbon 1-2" d="M657.2 318.4 C658.533 328.4 661.367 340.4 665.7 354.4" fill="none" stroke="#c23250" stroke-width="3.2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Dandiya_B" data-name="Dandiya B" d="M363.122 312.232 L650.963 465.28 C658.277 469.169 661.054 478.251 657.165 485.566 L657.165 485.566 C653.275 492.881 644.193 495.657 636.878 491.768 L349.037 338.72 C341.723 334.831 338.946 325.749 342.835 318.434 L342.835 318.434 C346.725 311.119 355.807 308.343 363.122 312.232 Z" fill="url(#linear-gradient-44)" stroke="#1d1216" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Dandiya_B_band_-0.72" data-name="Dandiya B band -0.72" d="M393.061 329.283 L393.767 329.659 C395.23 330.437 395.785 332.253 395.008 333.716 L384.679 353.141 C383.901 354.604 382.085 355.159 380.622 354.382 L379.916 354.006 C378.453 353.228 377.897 351.412 378.675 349.949 L389.004 330.524 C389.781 329.061 391.598 328.506 393.061 329.283 Z" fill="#2e7a4a" stroke="#1d1216" stroke-width="1.4" stroke-miterlimit="10"/>
+    <path id="Dandiya_B_band_-0.52" data-name="Dandiya B band -0.52" d="M424.494 345.997 L425.2 346.372 C426.663 347.15 427.218 348.967 426.441 350.429 L416.112 369.854 C415.334 371.317 413.518 371.873 412.055 371.095 L411.349 370.719 C409.886 369.941 409.33 368.125 410.108 366.662 L420.437 347.237 C421.214 345.774 423.031 345.219 424.494 345.997 Z" fill="#e8c074" stroke="#1d1216" stroke-width="1.4" stroke-miterlimit="10"/>
+    <path id="Dandiya_B_band_-0.32" data-name="Dandiya B band -0.32" d="M455.927 362.71 L456.633 363.085 C458.096 363.863 458.651 365.68 457.874 367.143 L447.545 386.568 C446.767 388.03 444.951 388.586 443.488 387.808 L442.782 387.432 C441.319 386.655 440.763 384.838 441.541 383.375 L451.869 363.95 C452.647 362.487 454.464 361.932 455.927 362.71 Z" fill="#2e7a4a" stroke="#1d1216" stroke-width="1.4" stroke-miterlimit="10"/>
+    <path id="Dandiya_B_band_0.32" data-name="Dandiya B band 0.32" d="M556.512 416.192 L557.218 416.568 C558.681 417.345 559.237 419.162 558.459 420.625 L548.131 440.05 C547.353 441.513 545.536 442.068 544.073 441.29 L543.367 440.915 C541.904 440.137 541.349 438.32 542.126 436.857 L552.455 417.432 C553.233 415.97 555.049 415.414 556.512 416.192 Z" fill="#2e7a4a" stroke="#1d1216" stroke-width="1.4" stroke-miterlimit="10"/>
+    <path id="Dandiya_B_band_0.52" data-name="Dandiya B band 0.52" d="M587.945 432.905 L588.651 433.281 C590.114 434.059 590.67 435.875 589.892 437.338 L579.563 456.763 C578.786 458.226 576.969 458.781 575.506 458.003 L574.8 457.628 C573.337 456.85 572.782 455.033 573.559 453.571 L583.888 434.146 C584.666 432.683 586.482 432.127 587.945 432.905 Z" fill="#e8c074" stroke="#1d1216" stroke-width="1.4" stroke-miterlimit="10"/>
+    <path id="Dandiya_B_band_0.72" data-name="Dandiya B band 0.72" d="M619.378 449.618 L620.084 449.994 C621.547 450.772 622.103 452.588 621.325 454.051 L610.996 473.476 C610.219 474.939 608.402 475.494 606.939 474.717 L606.233 474.341 C604.77 473.563 604.215 471.747 604.992 470.284 L615.321 450.859 C616.099 449.396 617.915 448.841 619.378 449.618 Z" fill="#2e7a4a" stroke="#1d1216" stroke-width="1.4" stroke-miterlimit="10"/>
+    <path id="Dandiya_B_stud_-0.62" data-name="Dandiya B stud -0.62" d="M400.358 350.189 C400.358 348.974 401.343 347.989 402.558 347.989 C403.773 347.989 404.758 348.974 404.758 350.189 C404.758 351.404 403.773 352.389 402.558 352.389 C401.343 352.389 400.358 351.404 400.358 350.189 Z" fill="#fbe6b4" stroke="#1d1216" stroke-width="0.8" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Dandiya_B_stud_-0.42" data-name="Dandiya B stud -0.42" d="M431.791 366.902 C431.791 365.687 432.776 364.702 433.991 364.702 C435.206 364.702 436.191 365.687 436.191 366.902 C436.191 368.117 435.206 369.102 433.991 369.102 C432.776 369.102 431.791 368.117 431.791 366.902 Z" fill="#fbe6b4" stroke="#1d1216" stroke-width="0.8" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Dandiya_B_stud_0.42" data-name="Dandiya B stud 0.42" d="M563.809 437.098 C563.809 435.883 564.794 434.898 566.009 434.898 C567.224 434.898 568.209 435.883 568.209 437.098 C568.209 438.313 567.224 439.298 566.009 439.298 C564.794 439.298 563.809 438.313 563.809 437.098 Z" fill="#fbe6b4" stroke="#1d1216" stroke-width="0.8" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Dandiya_B_stud_0.62" data-name="Dandiya B stud 0.62" d="M595.242 453.811 C595.242 452.596 596.227 451.611 597.442 451.611 C598.657 451.611 599.642 452.596 599.642 453.811 C599.642 455.026 598.657 456.011 597.442 456.011 C596.227 456.011 595.242 455.026 595.242 453.811 Z" fill="#fbe6b4" stroke="#1d1216" stroke-width="0.8" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Dandiya_B_cap_-1" data-name="Dandiya B cap -1" d="M330.235 318.434 C330.235 311.475 335.877 305.834 342.835 305.834 C349.794 305.834 355.435 311.475 355.435 318.434 C355.435 325.393 349.794 331.034 342.835 331.034 C335.877 331.034 330.235 325.393 330.235 318.434 Z" fill="url(#radial-gradient-23)" stroke="#1d1216" stroke-width="2.4" stroke-miterlimit="10"/>
+    <path id="Dandiya_B_knot_-1" data-name="Dandiya B knot -1" d="M338.835 318.434 C338.835 316.225 340.626 314.434 342.835 314.434 C345.044 314.434 346.835 316.225 346.835 318.434 C346.835 320.643 345.044 322.434 342.835 322.434 C340.626 322.434 338.835 320.643 338.835 318.434 Z" fill="#c23250" stroke="#6e1428" stroke-width="1.2" stroke-miterlimit="10"/>
+    <path id="Dandiya_B_ribbon_-1-1" data-name="Dandiya B ribbon -1-1" d="M342.8 318.4 C341.333 328.4 338.333 338.4 333.8 348.4" fill="none" stroke="#c23250" stroke-width="3.2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Dandiya_B_ribbon_-1-2" data-name="Dandiya B ribbon -1-2" d="M342.8 318.4 C344.133 328.4 344.633 340.4 344.3 354.4" fill="none" stroke="#c23250" stroke-width="3.2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Dandiya_B_cap_1" data-name="Dandiya B cap 1" d="M644.565 485.566 C644.565 478.607 650.206 472.966 657.165 472.966 C664.123 472.966 669.765 478.607 669.765 485.566 C669.765 492.525 664.123 498.166 657.165 498.166 C650.206 498.166 644.565 492.525 644.565 485.566 Z" fill="url(#radial-gradient-24)" stroke="#1d1216" stroke-width="2.4" stroke-miterlimit="10"/>
+    <path id="Dandiya_B_knot_1" data-name="Dandiya B knot 1" d="M653.165 485.566 C653.165 483.357 654.956 481.566 657.165 481.566 C659.374 481.566 661.165 483.357 661.165 485.566 C661.165 487.775 659.374 489.566 657.165 489.566 C654.956 489.566 653.165 487.775 653.165 485.566 Z" fill="#c23250" stroke="#6e1428" stroke-width="1.2" stroke-miterlimit="10"/>
+    <path id="Dandiya_B_ribbon_1-1" data-name="Dandiya B ribbon 1-1" d="M657.2 485.6 C655.733 495.6 655.067 505.6 655.2 515.6" fill="none" stroke="#c23250" stroke-width="3.2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Dandiya_B_ribbon_1-2" data-name="Dandiya B ribbon 1-2" d="M657.2 485.6 C658.533 495.6 661.367 507.6 665.7 521.6" fill="none" stroke="#c23250" stroke-width="3.2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Cross_band" data-name="Cross band" d="M483 402 C483 392.611 490.611 385 500 385 C509.389 385 517 392.611 517 402 C517 411.389 509.389 419 500 419 C490.611 419 483 411.389 483 402 Z" fill="url(#radial-gradient-25)" stroke="#1d1216" stroke-width="2.6" stroke-miterlimit="10"/>
+    <path id="Cross_stud" data-name="Cross stud" d="M495 402 C495 399.239 497.239 397 500 397 C502.761 397 505 399.239 505 402 C505 404.761 502.761 407 500 407 C497.239 407 495 404.761 495 402 Z" fill="#fff3cc" stroke="#1d1216" stroke-width="1.2" stroke-miterlimit="10"/>
+    <path id="Spark_glow_1" data-name="Spark glow 1" d="M374 300 C374 293.373 379.373 288 386 288 C392.627 288 398 293.373 398 300 C398 306.627 392.627 312 386 312 C379.373 312 374 306.627 374 300 Z" fill="url(#radial-gradient-26)"/>
+    <path id="Spark_1" data-name="Spark 1" d="M383.4 300 C383.4 298.564 384.564 297.4 386 297.4 C387.436 297.4 388.6 298.564 388.6 300 C388.6 301.436 387.436 302.6 386 302.6 C384.564 302.6 383.4 301.436 383.4 300 Z" fill="#fff2c4" opacity="0.85"/>
+    <path id="Spark_glow_2" data-name="Spark glow 2" d="M604 330 C604 323.373 609.373 318 616 318 C622.627 318 628 323.373 628 330 C628 336.627 622.627 342 616 342 C609.373 342 604 336.627 604 330 Z" fill="url(#radial-gradient-27)"/>
+    <path id="Spark_2" data-name="Spark 2" d="M613.8 330 C613.8 328.785 614.785 327.8 616 327.8 C617.215 327.8 618.2 328.785 618.2 330 C618.2 331.215 617.215 332.2 616 332.2 C614.785 332.2 613.8 331.215 613.8 330 Z" fill="#fff2c4" opacity="0.85"/>
+    <path id="Spark_glow_3" data-name="Spark glow 3" d="M432 520 C432 513.373 437.373 508 444 508 C450.627 508 456 513.373 456 520 C456 526.627 450.627 532 444 532 C437.373 532 432 526.627 432 520 Z" fill="url(#radial-gradient-28)"/>
+    <path id="Spark_3" data-name="Spark 3" d="M442 520 C442 518.895 442.895 518 444 518 C445.105 518 446 518.895 446 520 C446 521.105 445.105 522 444 522 C442.895 522 442 521.105 442 520 Z" fill="#fff2c4" opacity="0.85"/>
+    <path id="Spark_glow_4" data-name="Spark glow 4" d="M558 486 C558 479.373 563.373 474 570 474 C576.627 474 582 479.373 582 486 C582 492.627 576.627 498 570 498 C563.373 498 558 492.627 558 486 Z" fill="url(#radial-gradient-29)"/>
+    <path id="Spark_4" data-name="Spark 4" d="M567.6 486 C567.6 484.675 568.675 483.6 570 483.6 C571.325 483.6 572.4 484.675 572.4 486 C572.4 487.325 571.325 488.4 570 488.4 C568.675 488.4 567.6 487.325 567.6 486 Z" fill="#fff2c4" opacity="0.85"/>
+    <path id="Spark_glow_5" data-name="Spark glow 5" d="M488 260 C488 253.373 493.373 248 500 248 C506.627 248 512 253.373 512 260 C512 266.627 506.627 272 500 272 C493.373 272 488 266.627 488 260 Z" fill="url(#radial-gradient-30)"/>
+    <path id="Spark_5" data-name="Spark 5" d="M498.2 260 C498.2 259.006 499.006 258.2 500 258.2 C500.994 258.2 501.8 259.006 501.8 260 C501.8 260.994 500.994 261.8 500 261.8 C499.006 261.8 498.2 260.994 498.2 260 Z" fill="#fff2c4" opacity="0.85"/>
+    <path id="Seal_shadow" data-name="Seal shadow" d="M715 218 C715 200.327 729.327 186 747 186 C764.673 186 779 200.327 779 218 C779 235.673 764.673 250 747 250 C729.327 250 715 235.673 715 218 Z" fill="#1d1216" opacity="0.28"/>
+    <path id="Deva_seal" data-name="Deva seal" d="M717 181 L771 181 C773.761 181 776 183.239 776 186 L776 240 C776 242.761 773.761 245 771 245 L717 245 C714.239 245 712 242.761 712 240 L712 186 C712 183.239 714.239 181 717 181 Z" fill="url(#linear-gradient-45)" stroke="#4e100e" stroke-width="2.2" stroke-miterlimit="10"/>
+    <path id="Deva_seal_inner" data-name="Deva seal inner" d="M719 185.5 L769 185.5 C770.381 185.5 771.5 186.619 771.5 188 L771.5 238 C771.5 239.381 770.381 240.5 769 240.5 L719 240.5 C717.619 240.5 716.5 239.381 716.5 238 L716.5 188 C716.5 186.619 717.619 185.5 719 185.5 Z" fill="none" stroke="#f6d9a0" stroke-width="1.4" stroke-miterlimit="10" opacity="0.78"/>
+    <text transform="matrix(1 0 0 1 744 222.18)" x="0" y="0" xml:space="preserve" font-family="&apos;ITF Devanagari&apos;, sans-serif" font-size="27" fill="#fbe6b4" text-anchor="middle"><tspan x="0" y="0">नव</tspan></text>
+    <path id="Seal_stud_-1" data-name="Seal stud -1" d="M717.4 237 C717.4 236.116 718.116 235.4 719 235.4 C719.884 235.4 720.6 236.116 720.6 237 C720.6 237.884 719.884 238.6 719 238.6 C718.116 238.6 717.4 237.884 717.4 237 Z" fill="#f6d9a0" opacity="0.7"/>
+    <path id="Seal_stud_1" data-name="Seal stud 1" d="M767.4 237 C767.4 236.116 768.116 235.4 769 235.4 C769.884 235.4 770.6 236.116 770.6 237 C770.6 237.884 769.884 238.6 769 238.6 C768.116 238.6 767.4 237.884 767.4 237 Z" fill="#f6d9a0" opacity="0.7"/>
+    <text transform="matrix(1 0 0 1 500 934)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="52" fill="#f8e8cc" letter-spacing="4.992" text-anchor="middle"><tspan x="0" y="0">NAVRATRI</tspan></text>
+    <text transform="matrix(1 0 0 1 500 970)" x="0" y="0" xml:space="preserve" font-family="&apos;ITF Devanagari&apos;, sans-serif" font-size="20" fill="#d8a468" letter-spacing="1.2" text-anchor="middle"><tspan x="0" y="0">नवरात्रि · NINE NIGHTS · ASHWIN</tspan></text>
+  </g>
+</svg>
