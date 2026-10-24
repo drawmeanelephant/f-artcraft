@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="500" x2="1000" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1a1410"/>
+      <stop offset="1" stop-color="#0b0806"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2c4650"/>
+      <stop offset="0.7" stop-color="#17282f"/>
+      <stop offset="1" stop-color="#0d181e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="500" cy="360" r="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6fd8c8" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#6fd8c8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="262" y1="298" x2="738" y2="298" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3d545e"/>
+      <stop offset="1" stop-color="#1c2a31"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="278" y1="298" x2="722" y2="298" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#12242c"/>
+      <stop offset="1" stop-color="#0a151b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="596" y1="336" x2="645" y2="336" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2faff"/>
+      <stop offset="1" stop-color="#a9c4d4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="330" y1="480" x2="670" y2="480" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1e343c"/>
+      <stop offset="1" stop-color="#101e24"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-3" cx="378" cy="480" r="36" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5ce88e" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#5ce88e" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="369" cy="479" r="7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c9ffd9"/>
+      <stop offset="0.55" stop-color="#5ce88e"/>
+      <stop offset="1" stop-color="#1f9b52"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-6" x1="206" y1="816.03" x2="794" y2="816.03" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0a1216" stop-opacity="0"/>
+      <stop offset="1" stop-color="#060c0f" stop-opacity="0.55"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="491" y1="721" x2="509" y2="721" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a4a54"/>
+      <stop offset="1" stop-color="#1b262c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="438" y1="681" x2="562" y2="681" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a4a54"/>
+      <stop offset="1" stop-color="#1b262c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="446" y1="609" x2="554" y2="609" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a4a54"/>
+      <stop offset="1" stop-color="#1b262c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x1="466" y1="533" x2="534" y2="533" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a4a54"/>
+      <stop offset="1" stop-color="#1b262c"/>
+    </linearGradient>
+  </defs>
+  <title>HAI-0436 Jiggler Jimmy — Haiku Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#5e8894" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#dcefea" stroke-width="3" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Glow_pool" data-name="Glow pool" d="M250 360 C250 244.02 361.929 150 500 150 C638.071 150 750 244.02 750 360 C750 475.98 638.071 570 500 570 C361.929 570 250 475.98 250 360 Z" fill="url(#radial-gradient-2)"/>
+    <path id="World_echo" data-name="World echo" d="M140 635 C300 540 560 560 700 380 C770 290 800 255 835 240" fill="none" stroke="#6fd8c8" stroke-width="26" stroke-linecap="round" stroke-miterlimit="10" opacity="0.08"/>
+    <path id="Screen_bezel" data-name="Screen bezel" d="M278 162 L722 162 C730.837 162 738 169.163 738 178 L738 418 C738 426.837 730.837 434 722 434 L278 434 C269.163 434 262 426.837 262 418 L262 178 C262 169.163 269.163 162 278 162 Z" fill="url(#linear-gradient-2)" stroke="#2e1f1a" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Screen" d="M286 178 L714 178 C718.418 178 722 181.582 722 186 L722 410 C722 414.418 718.418 418 714 418 L286 418 C281.582 418 278 414.418 278 410 L278 186 C278 181.582 281.582 178 286 178 Z" fill="url(#linear-gradient-3)"/>
+    <path id="Grid_v1" data-name="Grid v1" d="M340 190 L340 410" fill="none" stroke="#3a5a60" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Grid_v2" data-name="Grid v2" d="M420 190 L420 410" fill="none" stroke="#3a5a60" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Grid_v3" data-name="Grid v3" d="M500 190 L500 410" fill="none" stroke="#3a5a60" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Grid_v4" data-name="Grid v4" d="M580 190 L580 410" fill="none" stroke="#3a5a60" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Grid_v5" data-name="Grid v5" d="M660 190 L660 410" fill="none" stroke="#3a5a60" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Grid_h1" data-name="Grid h1" d="M290 245 L710 245" fill="none" stroke="#3a5a60" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Grid_h2" data-name="Grid h2" d="M290 300 L710 300" fill="none" stroke="#3a5a60" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Grid_h3" data-name="Grid h3" d="M290 355 L710 355" fill="none" stroke="#3a5a60" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Axes" d="M296 398 L296 196 M296 398 L708 398" fill="none" stroke="#5e8894" stroke-width="2" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Curve_glow" data-name="Curve glow" d="M302 382 C380 378 430 352 486 318 C552 278 610 236 700 206" fill="none" stroke="#5ce88e" stroke-width="20" stroke-linecap="round" stroke-miterlimit="10" opacity="0.12"/>
+    <path id="Curve_halo" data-name="Curve halo" d="M302 382 C380 378 430 352 486 318 C552 278 610 236 700 206" fill="none" stroke="#8ff0b4" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Curve_spine" data-name="Curve spine" d="M302 382 C380 378 430 352 486 318 C552 278 610 236 700 206" fill="none" stroke="#d6ffe4" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Data_point_1" data-name="Data point 1" d="M356 368 C356 365.791 357.791 364 360 364 C362.209 364 364 365.791 364 368 C364 370.209 362.209 372 360 372 C357.791 372 356 370.209 356 368 Z" fill="#d6ffe4" stroke="#2e1f1a" stroke-width="1.5" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Data_point_2" data-name="Data point 2" d="M440 342 C440 339.791 441.791 338 444 338 C446.209 338 448 339.791 448 342 C448 344.209 446.209 346 444 346 C441.791 346 440 344.209 440 342 Z" fill="#d6ffe4" stroke="#2e1f1a" stroke-width="1.5" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Data_point_3" data-name="Data point 3" d="M524 292 C524 289.791 525.791 288 528 288 C530.209 288 532 289.791 532 292 C532 294.209 530.209 296 528 296 C525.791 296 524 294.209 524 292 Z" fill="#d6ffe4" stroke="#2e1f1a" stroke-width="1.5" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Data_point_4" data-name="Data point 4" d="M606 244 C606 241.791 607.791 240 610 240 C612.209 240 614 241.791 614 244 C614 246.209 612.209 248 610 248 C607.791 248 606 246.209 606 244 Z" fill="#d6ffe4" stroke="#2e1f1a" stroke-width="1.5" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Data_point_5" data-name="Data point 5" d="M682 212 C682 209.791 683.791 208 686 208 C688.209 208 690 209.791 690 212 C690 214.209 688.209 216 686 216 C683.791 216 682 214.209 682 212 Z" fill="#d6ffe4" stroke="#2e1f1a" stroke-width="1.5" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Cursor_ghost__" data-name="Cursor ghost +" d="M601 293 L601 363 L618 346 L629 373 L639 369 L628 342 L650 342 Z" fill="#bfd8e4" opacity="0.16"/>
+    <path id="Cursor_ghost_-" data-name="Cursor ghost -" d="M591 299 L591 369 L608 352 L619 379 L629 375 L618 348 L640 348 Z" fill="#bfd8e4" opacity="0.12"/>
+    <path id="Cursor" d="M596 296 L596 366 L613 349 L624 376 L634 372 L623 345 L645 345 Z" fill="url(#linear-gradient-4)" stroke="#2e1f1a" stroke-width="3" stroke-linejoin="round"/>
+    <path id="Jitter_tick_1" data-name="Jitter tick 1" d="M568 306 L552 298" fill="none" stroke="#bfd8e4" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Jitter_tick_2" data-name="Jitter tick 2" d="M566 340 L548 342" fill="none" stroke="#bfd8e4" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Jitter_tick_3" data-name="Jitter tick 3" d="M652 300 L668 290" fill="none" stroke="#bfd8e4" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Jitter_tick_4" data-name="Jitter tick 4" d="M658 332 L676 334" fill="none" stroke="#bfd8e4" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Presence_chip" data-name="Presence chip" d="M358 452 L642 452 C657.464 452 670 464.536 670 480 L670 480 C670 495.464 657.464 508 642 508 L358 508 C342.536 508 330 495.464 330 480 L330 480 C330 464.536 342.536 452 358 452 Z" fill="url(#linear-gradient-5)" stroke="#4a707a" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Dot_glow" data-name="Dot glow" d="M342 480 C342 470.059 358.118 462 378 462 C397.882 462 414 470.059 414 480 C414 489.941 397.882 498 378 498 C358.118 498 342 489.941 342 480 Z" fill="url(#radial-gradient-3)"/>
+    <path id="Pulse_ring_1" data-name="Pulse ring 1" d="M356 479 C356 471.82 361.82 466 369 466 C376.18 466 382 471.82 382 479 C382 486.18 376.18 492 369 492 C361.82 492 356 486.18 356 479 Z" fill="none" stroke="#5ce88e" stroke-width="2" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Pulse_ring_2" data-name="Pulse ring 2" d="M349 479 C349 467.954 357.954 459 369 459 C380.046 459 389 467.954 389 479 C389 490.046 380.046 499 369 499 C357.954 499 349 490.046 349 479 Z" fill="none" stroke="#5ce88e" stroke-width="1.5" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Green_dot" data-name="Green dot" d="M362 479 C362 475.134 365.134 472 369 472 C372.866 472 376 475.134 376 479 C376 482.866 372.866 486 369 486 C365.134 486 362 482.866 362 479 Z" fill="url(#radial-gradient-4)"/>
+    <path id="Avatar_ring" data-name="Avatar ring" d="M596 480 C596 470.059 604.059 462 614 462 C623.941 462 632 470.059 632 480 C632 489.941 623.941 498 614 498 C604.059 498 596 489.941 596 480 Z" fill="none" stroke="#8fb3ae" stroke-width="2.5" stroke-miterlimit="10" stroke-dasharray="5 4" opacity="0.7"/>
+    <path id="Ghost_person" data-name="Ghost person" d="M604 480 C610.667 473.333 617.333 473.333 624 480 M607 490 C611.667 486 616.333 486 621 490" fill="none" stroke="#8fb3ae" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Heartbeat_run" data-name="Heartbeat run" d="M414 480 L440 480 L448 470 L458 492 L466 480 L560 480" fill="none" stroke="#5ce88e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/>
+    <path id="Floor_band" data-name="Floor band" d="M206 756 C402 801.333 598 801.333 794 756 C715.49 832.955 609.936 876.06 500 876.06 C390.064 876.06 284.51 832.955 206 756 Z" fill="url(#linear-gradient-6)"/>
+    <path id="Chair_shadow" data-name="Chair shadow" d="M392 791 C392 783.82 440.353 778 500 778 C559.647 778 608 783.82 608 791 C608 798.18 559.647 804 500 804 C440.353 804 392 798.18 392 791 Z" fill="#060c0f" opacity="0.5"/>
+    <path id="Base_spoke_1" data-name="Base spoke 1" d="M500 742 L440 776" fill="none" stroke="#26343d" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Base_spoke_2" data-name="Base spoke 2" d="M500 742 L560 776" fill="none" stroke="#26343d" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Base_spoke_3" data-name="Base spoke 3" d="M500 742 L500 786" fill="none" stroke="#26343d" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Base_spoke_4" data-name="Base spoke 4" d="M500 742 L452 762" fill="none" stroke="#26343d" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Base_spoke_5" data-name="Base spoke 5" d="M500 742 L548 762" fill="none" stroke="#26343d" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Caster_1" data-name="Caster 1" d="M432 778 C432 774.686 435.582 772 440 772 C444.418 772 448 774.686 448 778 C448 781.314 444.418 784 440 784 C435.582 784 432 781.314 432 778 Z" fill="#141d22" stroke="#2e1f1a" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Caster_2" data-name="Caster 2" d="M552 778 C552 774.686 555.582 772 560 772 C564.418 772 568 774.686 568 778 C568 781.314 564.418 784 560 784 C555.582 784 552 781.314 552 778 Z" fill="#141d22" stroke="#2e1f1a" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Caster_3" data-name="Caster 3" d="M492 788 C492 784.686 495.582 782 500 782 C504.418 782 508 784.686 508 788 C508 791.314 504.418 794 500 794 C495.582 794 492 791.314 492 788 Z" fill="#141d22" stroke="#2e1f1a" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Chair_stem" data-name="Chair stem" d="M497 694 L503 694 C506.314 694 509 696.686 509 700 L509 742 C509 745.314 506.314 748 503 748 L497 748 C493.686 748 491 745.314 491 742 L491 700 C491 696.686 493.686 694 497 694 Z" fill="url(#linear-gradient-7)" stroke="#2e1f1a" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Seat" d="M452 664 L548 664 C555.732 664 562 670.268 562 678 L562 684 C562 691.732 555.732 698 548 698 L452 698 C444.268 698 438 691.732 438 684 L438 678 C438 670.268 444.268 664 452 664 Z" fill="url(#linear-gradient-8)" stroke="#2e1f1a" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Backrest" d="M466 546 L534 546 C545.046 546 554 554.954 554 566 L554 652 C554 663.046 545.046 672 534 672 L466 672 C454.954 672 446 663.046 446 652 L446 566 C446 554.954 454.954 546 466 546 Z" fill="url(#linear-gradient-9)" stroke="#2e1f1a" stroke-width="4.5" stroke-miterlimit="10"/>
+    <path id="Headrest" d="M480 516 L520 516 C527.732 516 534 522.268 534 530 L534 536 C534 543.732 527.732 550 520 550 L480 550 C472.268 550 466 543.732 466 536 L466 530 C466 522.268 472.268 516 480 516 Z" fill="url(#linear-gradient-10)" stroke="#2e1f1a" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Backrest_sheen" data-name="Backrest sheen" d="M462 556 C456 592 456 632 462 662" fill="none" stroke="#bfd8e4" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10" opacity="0.14"/>
+    <text transform="matrix(1 0 0 1 500 898)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="21" fill="#8fb3ae" letter-spacing="1.47" text-anchor="middle"><tspan x="0" y="0">green dot pulses, human absent, curve eats the world.</tspan></text>
+    <text transform="matrix(1 0 0 1 500 948)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="56" fill="#dcefea" text-anchor="middle"><tspan x="0" y="0">JIGGLER JIMMY</tspan></text>
+  </g>
+</svg>
