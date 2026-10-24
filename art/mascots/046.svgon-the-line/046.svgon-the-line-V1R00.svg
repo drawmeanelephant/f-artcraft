@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#150f1c"/>
+      <stop offset="1" stop-color="#08060c"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5e5678"/>
+      <stop offset="0.62" stop-color="#3c3654"/>
+      <stop offset="1" stop-color="#1a1626"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="668" cy="210" r="38" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a3252"/>
+      <stop offset="1" stop-color="#1a1428"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="400" x2="0" y2="780" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4a4380"/>
+      <stop offset="0.55" stop-color="#332c5e"/>
+      <stop offset="1" stop-color="#1c1838"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-3" cx="403" cy="697" r="15" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e6cca8"/>
+      <stop offset="0.75" stop-color="#c9a888"/>
+      <stop offset="1" stop-color="#a8846a"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="667" cy="527" r="17" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e6cca8"/>
+      <stop offset="0.75" stop-color="#c9a888"/>
+      <stop offset="1" stop-color="#a8846a"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="500" cy="600" r="33" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f4dc96"/>
+      <stop offset="0.7" stop-color="#d4ac52"/>
+      <stop offset="1" stop-color="#9a782a"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-6" cx="500" cy="362" r="80" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e6cca8"/>
+      <stop offset="0.75" stop-color="#c9a888"/>
+      <stop offset="1" stop-color="#a8846a"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-3" x1="0" y1="345" x2="0" y2="390" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a3e5e"/>
+      <stop offset="0.5" stop-color="#16203a"/>
+      <stop offset="1" stop-color="#0c1224"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="418" y1="356" x2="432" y2="356" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f0d488"/>
+      <stop offset="1" stop-color="#a8842e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="568" y1="356" x2="582" y2="356" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f0d488"/>
+      <stop offset="1" stop-color="#a8842e"/>
+    </linearGradient>
+  </defs>
+  <title>Svgon The Line — Mascot Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo" data-name="Plate halo" d="M60 460 C60 216.995 256.995 20 500 20 C743.005 20 940 216.995 940 460 C940 703.005 743.005 900 500 900 C256.995 900 60 703.005 60 460 Z" fill="#7a70a0" opacity="0.08"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#100c18" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#c8c0e0" stroke-width="3" stroke-miterlimit="10" opacity="0.26"/>
+    <path id="Patina_1" data-name="Patina 1" d="M195 405 C195 363.579 247.607 330 312.5 330 C377.393 330 430 363.579 430 405 C430 446.421 377.393 480 312.5 480 C247.607 480 195 446.421 195 405 Z" fill="#4e4668" opacity="0.24"/>
+    <path id="Patina_2" data-name="Patina 2" d="M615 640 C615 601.34 667.607 570 732.5 570 C797.393 570 850 601.34 850 640 C850 678.66 797.393 710 732.5 710 C667.607 710 615 678.66 615 640 Z" fill="#262040" opacity="0.32"/>
+    <path id="Fleck_1" data-name="Fleck 1" d="M218 350.5 C218 349.119 219.119 348 220.5 348 C221.881 348 223 349.119 223 350.5 C223 351.881 221.881 353 220.5 353 C219.119 353 218 351.881 218 350.5 Z" fill="#dcd4f0" opacity="0.3"/>
+    <path id="Fleck_2" data-name="Fleck 2" d="M792 345 C792 343.343 793.343 342 795 342 C796.657 342 798 343.343 798 345 C798 346.657 796.657 348 795 348 C793.343 348 792 346.657 792 345 Z" fill="#dcd4f0" opacity="0.3"/>
+    <path id="Fleck_3" data-name="Fleck 3" d="M182 550.5 C182 549.119 183.119 548 184.5 548 C185.881 548 187 549.119 187 550.5 C187 551.881 185.881 553 184.5 553 C183.119 553 182 551.881 182 550.5 Z" fill="#dcd4f0" opacity="0.3"/>
+    <path id="Fleck_4" data-name="Fleck 4" d="M850 570.5 C850 569.119 851.119 568 852.5 568 C853.881 568 855 569.119 855 570.5 C855 571.881 853.881 573 852.5 573 C851.119 573 850 571.881 850 570.5 Z" fill="#dcd4f0" opacity="0.3"/>
+    <path id="Fleck_5" data-name="Fleck 5" d="M262 764.5 C262 763.119 263.119 762 264.5 762 C265.881 762 267 763.119 267 764.5 C267 765.881 265.881 767 264.5 767 C263.119 767 262 765.881 262 764.5 Z" fill="#dcd4f0" opacity="0.3"/>
+    <path id="Fleck_6" data-name="Fleck 6" d="M732 771 C732 769.343 733.343 768 735 768 C736.657 768 738 769.343 738 771 C738 772.657 736.657 774 735 774 C733.343 774 732 772.657 732 771 Z" fill="#dcd4f0" opacity="0.3"/>
+    <path id="Fleck_7" data-name="Fleck 7" d="M160 454.5 C160 453.119 161.119 452 162.5 452 C163.881 452 165 453.119 165 454.5 C165 455.881 163.881 457 162.5 457 C161.119 457 160 455.881 160 454.5 Z" fill="#dcd4f0" opacity="0.3"/>
+    <path id="Fleck_8" data-name="Fleck 8" d="M852 634.5 C852 633.119 853.119 632 854.5 632 C855.881 632 857 633.119 857 634.5 C857 635.881 855.881 637 854.5 637 C853.119 637 852 635.881 852 634.5 Z" fill="#dcd4f0" opacity="0.3"/>
+    <path id="Fleck_9" data-name="Fleck 9" d="M432 130.5 C432 129.119 433.119 128 434.5 128 C435.881 128 437 129.119 437 130.5 C437 131.881 435.881 133 434.5 133 C433.119 133 432 131.881 432 130.5 Z" fill="#dcd4f0" opacity="0.3"/>
+    <path id="Fleck_10" data-name="Fleck 10" d="M598 143 C598 141.343 599.343 140 601 140 C602.657 140 604 141.343 604 143 C604 144.657 602.657 146 601 146 C599.343 146 598 144.657 598 143 Z" fill="#dcd4f0" opacity="0.3"/>
+    <path id="Fleck_11" data-name="Fleck 11" d="M340 164 C340 162.895 340.895 162 342 162 C343.105 162 344 162.895 344 164 C344 165.105 343.105 166 342 166 C340.895 166 340 165.105 340 164 Z" fill="#dcd4f0" opacity="0.3"/>
+    <path id="Fleck_12" data-name="Fleck 12" d="M702 204.5 C702 203.119 703.119 202 704.5 202 C705.881 202 707 203.119 707 204.5 C707 205.881 705.881 207 704.5 207 C703.119 207 702 205.881 702 204.5 Z" fill="#dcd4f0" opacity="0.3"/>
+    <path id="Fleck_13" data-name="Fleck 13" d="M252 654 C252 652.895 252.895 652 254 652 C255.105 652 256 652.895 256 654 C256 655.105 255.105 656 254 656 C252.895 656 252 655.105 252 654 Z" fill="#dcd4f0" opacity="0.3"/>
+    <path id="Fleck_14" data-name="Fleck 14" d="M658 724.5 C658 723.119 659.119 722 660.5 722 C661.881 722 663 723.119 663 724.5 C663 725.881 661.881 727 660.5 727 C659.119 727 658 725.881 658 724.5 Z" fill="#dcd4f0" opacity="0.3"/>
+    <path id="Ghost_arc_TR" data-name="Ghost arc TR" d="M930 158 C926.257 112.067 893 73.943 848 64" fill="none" stroke="#6a5e90" stroke-width="14" stroke-linecap="round" stroke-miterlimit="10" opacity="0.1"/>
+    <path id="Ghost_arc_BL" data-name="Ghost arc BL" d="M78 778 C85.396 833.238 130.43 875.77 186 880" fill="none" stroke="#6a5e90" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" opacity="0.08"/>
+    <path id="Golden_rect_1" data-name="Golden rect 1" d="M208 200 L358 200 L358 292.705 L208 292.705 Z" fill="none" stroke="#d4ac52" stroke-width="2.5" stroke-miterlimit="10" opacity="0.24"/>
+    <path id="Golden_rect_2" data-name="Golden rect 2" d="M265.295 200 L358 200 L358 257.295 L265.295 257.295 Z" fill="none" stroke="#d4ac52" stroke-width="2.5" stroke-miterlimit="10" opacity="0.24"/>
+    <path id="Golden_rect_3" data-name="Golden rect 3" d="M300.705 200 L358 200 L358 235.41 L300.705 235.41 Z" fill="none" stroke="#d4ac52" stroke-width="2.5" stroke-miterlimit="10" opacity="0.24"/>
+    <path id="Ghost_spiral" data-name="Ghost spiral" d="M333 248 L330.8 253.9 L328 259.2 L324.6 263.9 L320.8 268.1 L316.7 271.5 L312.4 274.3 L307.9 276.4 L303.3 277.9 L298.8 278.8 L294.4 279.1 L290.2 278.8 L286.2 278 L282.5 276.8 L279 275.1 L276 273.1 L273.3 270.9 L271.1 268.4 L269.2 265.8 L267.8 263 L266.7 260.2 L266.1 257.4 L265.8 254.7 L265.9 252 L266.3 249.5 L267 247.1 L267.9 244.9 L269.1 243 L270.4 241.3 L271.9 239.8 L273.5 238.6 L275.2 237.6 L276.9 236.9 L278.7 236.4 L280.4 236.2 L282 236.1 L283.6 236.3 L285.1 236.7 L286.5 237.2 L287.7 237.9 L288.8 238.7 L289.8 239.6 L290.6 240.6 L291.3 241.6 L291.7 242.7 L292.1 243.8 L292.3 244.8 L292.3 245.9 L292.3 246.9 L292.1 247.8 L291.8 248.7 L291.4 249.5 L290.9 250.2 L290.4 250.8 L289.8 251.3 L289.1 251.8 L288.5 252.1 L287.8 252.3 L287.2 252.5 L286.5 252.5 L285.9 252.5 L285.3 252.4 L284.7 252.2 L284.2 252 L283.8 251.7" fill="none" stroke="#d4ac52" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Specimen_curve" data-name="Specimen curve" d="M700 640 C730 560 800 540 846 586" fill="none" stroke="#b8aee0" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Anchor_1" data-name="Anchor 1" d="M693 633 L707 633 L707 647 L693 647 Z" fill="#e8e2f4" stroke="#3a3256" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Anchor_2" data-name="Anchor 2" d="M839 579 L853 579 L853 593 L839 593 Z" fill="#e8e2f4" stroke="#3a3256" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Handle_line" data-name="Handle line" d="M700 640 L756 596" fill="none" stroke="#8a80b8" stroke-width="2" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Handle_knob" data-name="Handle knob" d="M750 596 C750 592.686 752.686 590 756 590 C759.314 590 762 592.686 762 596 C762 599.314 759.314 602 756 602 C752.686 602 750 599.314 750 596 Z" fill="#b8aee0" stroke="#3a3256" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Staff_rod" data-name="Staff rod" d="M668 252 L668 742" fill="none" stroke="#8a6e34" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Staff_rod_sheen" data-name="Staff rod sheen" d="M667 268 L667 720" fill="none" stroke="#c8a85a" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Staff_cap_glow" data-name="Staff cap glow" d="M616 210 C616 181.281 639.281 158 668 158 C696.719 158 720 181.281 720 210 C720 238.719 696.719 262 668 262 C639.281 262 616 238.719 616 210 Z" fill="#d4ac52" opacity="0.14"/>
+    <path id="Staff_cap" data-name="Staff cap" d="M630 210 C630 189.013 647.013 172 668 172 C688.987 172 706 189.013 706 210 C706 230.987 688.987 248 668 248 C647.013 248 630 230.987 630 210 Z" fill="url(#radial-gradient-2)" stroke="#d4ac52" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Cap_spiral" data-name="Cap spiral" d="M682 254 L678.2 252.6 L674.8 250.7 L671.7 248.5 L669.1 246 L666.9 243.3 L665.2 240.5 L663.9 237.5 L663.1 234.6 L662.7 231.7 L662.6 228.9 L662.9 226.2 L663.6 223.6 L664.5 221.3 L665.7 219.2 L667.1 217.4 L668.6 215.8 L670.3 214.5 L672.1 213.5 L673.9 212.7 L675.7 212.3 L677.5 212 L679.3 212 L680.9 212.3 L682.4 212.7 L683.9 213.3 L685.1 214 L686.2 214.9 L687.2 215.9 L688 216.9 L688.6 218 L689 219.2 L689.3 220.3 L689.4 221.4 L689.4 222.5 L689.2 223.5 L688.9 224.4 L688.6 225.3 L688.1 226 L687.5 226.7 L686.9 227.3 L686.3 227.8 L685.6 228.1 L684.9 228.4 L684.2 228.5 L683.5 228.6 L682.9 228.6 L682.2 228.4 L681.7 228.3 L681.1 228 L680.7 227.7 L680.3 227.4 L679.9 227 L679.6 226.6 L679.4 226.1 L679.3 225.7 L679.2 225.3 L679.2 224.9 L679.2 224.5 L679.3 224.1 L679.4 223.7 L679.5 223.4 L679.7 223.1 L680 222.9 L680.2 222.7" fill="none" stroke="#d4ac52" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Sleeve_L" data-name="Sleeve L" d="M410 500 C388 556 382 624 392 688 C402 702 420 702 430 690 C424 626 432 562 448 514 Z" fill="url(#linear-gradient-2)" stroke="#221a14" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Hand_L" data-name="Hand L" d="M388 697 C388 689.82 394.716 684 403 684 C411.284 684 418 689.82 418 697 C418 704.18 411.284 710 403 710 C394.716 710 388 704.18 388 697 Z" fill="url(#radial-gradient-3)" stroke="#221a14" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Robe" d="M500 428 C556 428 596 466 612 534 C626 594 634 676 628 746 C578 772 422 772 372 746 C366 676 374 594 388 534 C404 466 444 428 500 428 Z" fill="url(#linear-gradient-2)" stroke="#221a14" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Robe_shade" data-name="Robe shade" d="M566 470 C596 528 614 636 610 738 C588 750 564 758 540 762 C566 692 574 560 566 470 Z" fill="#100c28" opacity="0.45"/>
+    <path id="Hem_shade" data-name="Hem shade" d="M374 714 C430 734 570 734 626 714 L628 746 C578 772 422 772 372 746 Z" fill="#0e0a24" opacity="0.4"/>
+    <path id="Robe_trim" data-name="Robe trim" d="M500 462 L500 748" fill="none" stroke="#d4ac52" stroke-width="5" stroke-miterlimit="10" opacity="0.85"/>
+    <path id="Chevron_1" data-name="Chevron 1" d="M466 530 L500 548 L534 530" fill="none" stroke="#d4ac52" stroke-width="3" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Chevron_2" data-name="Chevron 2" d="M460 600 L500 618 L540 600" fill="none" stroke="#d4ac52" stroke-width="3" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Chevron_3" data-name="Chevron 3" d="M454 670 L500 688 L546 670" fill="none" stroke="#d4ac52" stroke-width="3" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Collar" d="M462 428 C466 398 482 384 500 384 C518 384 534 398 538 428 C526 416 512 410 500 410 C488 410 474 416 462 428 Z" fill="#2a2450" stroke="#221a14" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Sleeve_R" data-name="Sleeve R" d="M596 470 C628 478 654 496 668 522 C672 536 664 548 650 544 C636 522 616 508 594 500 Z" fill="url(#linear-gradient-2)" stroke="#221a14" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Hand_R" data-name="Hand R" d="M650 527 C650 518.716 657.611 512 667 512 C676.389 512 684 518.716 684 527 C684 535.284 676.389 542 667 542 C657.611 542 650 535.284 650 527 Z" fill="url(#radial-gradient-4)" stroke="#221a14" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Grip_marks" data-name="Grip marks" d="M668 506 L668 540" fill="none" stroke="#221a14" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Ribbon_L" data-name="Ribbon L" d="M484 630 L474 658 L492 644 Z" fill="#8a2e2e" stroke="#221a14" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Ribbon_R" data-name="Ribbon R" d="M516 630 L526 658 L508 644 Z" fill="#8a2e2e" stroke="#221a14" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Medal_glow" data-name="Medal glow" d="M456 600 C456 575.699 475.699 556 500 556 C524.301 556 544 575.699 544 600 C544 624.301 524.301 644 500 644 C475.699 644 456 624.301 456 600 Z" fill="#d4ac52" opacity="0.15"/>
+    <path id="Medal" d="M467 600 C467 581.775 481.775 567 500 567 C518.225 567 533 581.775 533 600 C533 618.225 518.225 633 500 633 C481.775 633 467 618.225 467 600 Z" fill="url(#radial-gradient-5)" stroke="#221a14" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Medal_ring" data-name="Medal ring" d="M476 600 C476 586.745 486.745 576 500 576 C513.255 576 524 586.745 524 600 C524 613.255 513.255 624 500 624 C486.745 624 476 613.255 476 600 Z" fill="none" stroke="#8a6820" stroke-width="2.5" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Valid_check" data-name="Valid check" d="M487 601 L497 611 L515 589" fill="none" stroke="#4a3a10" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Head" d="M500 282 C546 282 578 314 578 362 C578 410 544 442 500 442 C456 442 422 410 422 362 C422 314 454 282 500 282 Z" fill="url(#radial-gradient-6)" stroke="#221a14" stroke-width="4.5" stroke-miterlimit="10"/>
+    <path id="Smile" d="M472 412 C486 421 514 421 528 410" fill="none" stroke="#221a14" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Chin_shade" data-name="Chin shade" d="M456 414 C476 432 524 432 544 414 C536 436 520 442 500 442 C480 442 464 436 456 414 Z" fill="#9a7a5c" opacity="0.3"/>
+    <path id="Nose" d="M498 392 C496 400 494 406 491 412 C497 416 505 416 510 412" fill="none" stroke="#221a14" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Visor" d="M424 344 C424 330 440 322 500 322 C560 322 576 330 576 344 L576 366 C576 380 560 388 500 388 C440 388 424 380 424 366 Z" fill="url(#linear-gradient-3)" stroke="#221a14" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Visor_sheen" data-name="Visor sheen" d="M436 346 C460 336 540 336 564 346" fill="none" stroke="#9fc4e8" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.65"/>
+    <path id="Visor_edge_light" data-name="Visor edge light" d="M440 372 C470 380 530 380 560 372" fill="none" stroke="#5e7aa8" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Visor_stud_L" data-name="Visor stud L" d="M418 356 C418 351.582 421.134 348 425 348 C428.866 348 432 351.582 432 356 C432 360.418 428.866 364 425 364 C421.134 364 418 360.418 418 356 Z" fill="url(#linear-gradient-4)" stroke="#221a14" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Visor_stud_R" data-name="Visor stud R" d="M568 356 C568 351.582 571.134 348 575 348 C578.866 348 582 351.582 582 356 C582 360.418 578.866 364 575 364 C571.134 364 568 360.418 568 356 Z" fill="url(#linear-gradient-5)" stroke="#221a14" stroke-width="2.5" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 930)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="56" fill="#e2dcf4" text-anchor="middle"><tspan x="0" y="0">SVGON THE LINE</tspan></text>
+    <text transform="matrix(1 0 0 1 500 968)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="23" fill="#aea0d4" letter-spacing="4.6" text-anchor="middle"><tspan x="0" y="0">VECTOR SUPREMACIST</tspan></text>
+  </g>
+</svg>
