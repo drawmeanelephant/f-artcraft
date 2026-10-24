@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1a1410"/>
+      <stop offset="1" stop-color="#070503"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c9ac72"/>
+      <stop offset="0.55" stop-color="#96794a"/>
+      <stop offset="1" stop-color="#54402a"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="782" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a6f44"/>
+      <stop offset="1" stop-color="#4a3820"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="500" cy="399.462" r="360.561" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a7a50"/>
+      <stop offset="0.6" stop-color="#23513a"/>
+      <stop offset="1" stop-color="#123122"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-3" x1="500" y1="700" x2="500" y2="90" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4e7a3e"/>
+      <stop offset="1" stop-color="#9aa84e"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-3" cx="196.725" cy="395.537" r="30.506" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a48"/>
+      <stop offset="0.7" stop-color="#9a6e30"/>
+      <stop offset="1" stop-color="#6e4a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="196.725" cy="395.537" r="23.086" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4e38"/>
+      <stop offset="1" stop-color="#141e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="196.725" cy="395.537" r="17.315" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d8c4"/>
+      <stop offset="0.6" stop-color="#1e8ec0"/>
+      <stop offset="1" stop-color="#12486e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-6" cx="211" cy="331.329" r="31.506" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a48"/>
+      <stop offset="0.7" stop-color="#9a6e30"/>
+      <stop offset="1" stop-color="#6e4a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-7" cx="211" cy="331.329" r="23.842" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4e38"/>
+      <stop offset="1" stop-color="#141e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-8" cx="211" cy="331.329" r="17.882" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d8c4"/>
+      <stop offset="0.6" stop-color="#1e8ec0"/>
+      <stop offset="1" stop-color="#12486e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-9" cx="238.971" cy="270.351" r="32.505" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a48"/>
+      <stop offset="0.7" stop-color="#9a6e30"/>
+      <stop offset="1" stop-color="#6e4a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-10" cx="238.971" cy="270.351" r="24.598" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4e38"/>
+      <stop offset="1" stop-color="#141e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-11" cx="238.971" cy="270.351" r="18.449" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d8c4"/>
+      <stop offset="0.6" stop-color="#1e8ec0"/>
+      <stop offset="1" stop-color="#12486e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-12" cx="279.889" cy="215.543" r="33.504" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a48"/>
+      <stop offset="0.7" stop-color="#9a6e30"/>
+      <stop offset="1" stop-color="#6e4a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-13" cx="279.889" cy="215.543" r="25.354" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4e38"/>
+      <stop offset="1" stop-color="#141e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-14" cx="279.889" cy="215.543" r="19.015" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d8c4"/>
+      <stop offset="0.6" stop-color="#1e8ec0"/>
+      <stop offset="1" stop-color="#12486e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-15" cx="332.375" cy="169.665" r="34.502" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a48"/>
+      <stop offset="0.7" stop-color="#9a6e30"/>
+      <stop offset="1" stop-color="#6e4a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-16" cx="332.375" cy="169.665" r="26.11" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4e38"/>
+      <stop offset="1" stop-color="#141e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-17" cx="332.375" cy="169.665" r="19.582" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d8c4"/>
+      <stop offset="0.6" stop-color="#1e8ec0"/>
+      <stop offset="1" stop-color="#12486e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-18" cx="394.455" cy="135.167" r="35.502" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a48"/>
+      <stop offset="0.7" stop-color="#9a6e30"/>
+      <stop offset="1" stop-color="#6e4a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-19" cx="394.455" cy="135.167" r="26.866" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4e38"/>
+      <stop offset="1" stop-color="#141e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-20" cx="394.455" cy="135.167" r="20.149" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d8c4"/>
+      <stop offset="0.6" stop-color="#1e8ec0"/>
+      <stop offset="1" stop-color="#12486e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-21" cx="463.64" cy="114.056" r="36.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a48"/>
+      <stop offset="0.7" stop-color="#9a6e30"/>
+      <stop offset="1" stop-color="#6e4a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-22" cx="463.64" cy="114.056" r="27.622" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4e38"/>
+      <stop offset="1" stop-color="#141e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-23" cx="463.64" cy="114.056" r="20.716" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d8c4"/>
+      <stop offset="0.6" stop-color="#1e8ec0"/>
+      <stop offset="1" stop-color="#12486e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-24" cx="536.36" cy="114.056" r="36.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a48"/>
+      <stop offset="0.7" stop-color="#9a6e30"/>
+      <stop offset="1" stop-color="#6e4a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-25" cx="536.36" cy="114.056" r="27.622" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4e38"/>
+      <stop offset="1" stop-color="#141e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-26" cx="536.36" cy="114.056" r="20.716" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d8c4"/>
+      <stop offset="0.6" stop-color="#1e8ec0"/>
+      <stop offset="1" stop-color="#12486e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-27" cx="605.545" cy="135.167" r="35.501" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a48"/>
+      <stop offset="0.7" stop-color="#9a6e30"/>
+      <stop offset="1" stop-color="#6e4a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-28" cx="605.545" cy="135.167" r="26.866" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4e38"/>
+      <stop offset="1" stop-color="#141e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-29" cx="605.545" cy="135.167" r="20.149" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d8c4"/>
+      <stop offset="0.6" stop-color="#1e8ec0"/>
+      <stop offset="1" stop-color="#12486e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-30" cx="667.625" cy="169.665" r="34.503" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a48"/>
+      <stop offset="0.7" stop-color="#9a6e30"/>
+      <stop offset="1" stop-color="#6e4a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-31" cx="667.625" cy="169.665" r="26.11" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4e38"/>
+      <stop offset="1" stop-color="#141e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-32" cx="667.625" cy="169.665" r="19.582" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d8c4"/>
+      <stop offset="0.6" stop-color="#1e8ec0"/>
+      <stop offset="1" stop-color="#12486e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-33" cx="720.111" cy="215.543" r="33.504" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a48"/>
+      <stop offset="0.7" stop-color="#9a6e30"/>
+      <stop offset="1" stop-color="#6e4a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-34" cx="720.111" cy="215.543" r="25.354" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4e38"/>
+      <stop offset="1" stop-color="#141e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-35" cx="720.111" cy="215.543" r="19.015" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d8c4"/>
+      <stop offset="0.6" stop-color="#1e8ec0"/>
+      <stop offset="1" stop-color="#12486e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-36" cx="761.029" cy="270.351" r="32.505" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a48"/>
+      <stop offset="0.7" stop-color="#9a6e30"/>
+      <stop offset="1" stop-color="#6e4a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-37" cx="761.029" cy="270.351" r="24.598" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4e38"/>
+      <stop offset="1" stop-color="#141e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-38" cx="761.029" cy="270.351" r="18.448" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d8c4"/>
+      <stop offset="0.6" stop-color="#1e8ec0"/>
+      <stop offset="1" stop-color="#12486e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-39" cx="789" cy="331.329" r="31.505" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a48"/>
+      <stop offset="0.7" stop-color="#9a6e30"/>
+      <stop offset="1" stop-color="#6e4a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-40" cx="789" cy="331.329" r="23.842" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4e38"/>
+      <stop offset="1" stop-color="#141e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-41" cx="789" cy="331.329" r="17.882" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d8c4"/>
+      <stop offset="0.6" stop-color="#1e8ec0"/>
+      <stop offset="1" stop-color="#12486e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-42" cx="803.275" cy="395.537" r="30.506" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a48"/>
+      <stop offset="0.7" stop-color="#9a6e30"/>
+      <stop offset="1" stop-color="#6e4a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-43" cx="803.275" cy="395.537" r="23.086" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4e38"/>
+      <stop offset="1" stop-color="#141e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-44" cx="803.275" cy="395.537" r="17.314" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d8c4"/>
+      <stop offset="0.6" stop-color="#1e8ec0"/>
+      <stop offset="1" stop-color="#12486e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-45" cx="284.86" cy="364.214" r="26.64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a48"/>
+      <stop offset="0.7" stop-color="#9a6e30"/>
+      <stop offset="1" stop-color="#6e4a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-46" cx="284.86" cy="364.214" r="20.16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4e38"/>
+      <stop offset="1" stop-color="#141e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-47" cx="284.86" cy="364.214" r="15.12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d8c4"/>
+      <stop offset="0.6" stop-color="#1e8ec0"/>
+      <stop offset="1" stop-color="#12486e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-48" cx="338.405" cy="280.531" r="26.64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a48"/>
+      <stop offset="0.7" stop-color="#9a6e30"/>
+      <stop offset="1" stop-color="#6e4a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-49" cx="338.405" cy="280.531" r="20.16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4e38"/>
+      <stop offset="1" stop-color="#141e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-50" cx="338.405" cy="280.531" r="15.12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d8c4"/>
+      <stop offset="0.6" stop-color="#1e8ec0"/>
+      <stop offset="1" stop-color="#12486e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-51" cx="423.518" cy="224.614" r="26.64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a48"/>
+      <stop offset="0.7" stop-color="#9a6e30"/>
+      <stop offset="1" stop-color="#6e4a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-52" cx="423.518" cy="224.614" r="20.16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4e38"/>
+      <stop offset="1" stop-color="#141e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-53" cx="423.518" cy="224.614" r="15.12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d8c4"/>
+      <stop offset="0.6" stop-color="#1e8ec0"/>
+      <stop offset="1" stop-color="#12486e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-54" cx="526.184" cy="210.872" r="26.64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a48"/>
+      <stop offset="0.7" stop-color="#9a6e30"/>
+      <stop offset="1" stop-color="#6e4a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-55" cx="526.184" cy="210.872" r="20.16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4e38"/>
+      <stop offset="1" stop-color="#141e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-56" cx="526.184" cy="210.872" r="15.12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d8c4"/>
+      <stop offset="0.6" stop-color="#1e8ec0"/>
+      <stop offset="1" stop-color="#12486e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-57" cx="622.25" cy="248.257" r="26.64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a48"/>
+      <stop offset="0.7" stop-color="#9a6e30"/>
+      <stop offset="1" stop-color="#6e4a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-58" cx="622.25" cy="248.257" r="20.16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4e38"/>
+      <stop offset="1" stop-color="#141e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-59" cx="622.25" cy="248.257" r="15.12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d8c4"/>
+      <stop offset="0.6" stop-color="#1e8ec0"/>
+      <stop offset="1" stop-color="#12486e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-60" cx="692.951" cy="319.813" r="26.64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a48"/>
+      <stop offset="0.7" stop-color="#9a6e30"/>
+      <stop offset="1" stop-color="#6e4a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-61" cx="692.951" cy="319.813" r="20.16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4e38"/>
+      <stop offset="1" stop-color="#141e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-62" cx="692.951" cy="319.813" r="15.12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d8c4"/>
+      <stop offset="0.6" stop-color="#1e8ec0"/>
+      <stop offset="1" stop-color="#12486e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-63" cx="398.44" cy="338.965" r="18.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a48"/>
+      <stop offset="0.7" stop-color="#9a6e30"/>
+      <stop offset="1" stop-color="#6e4a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-64" cx="398.44" cy="338.965" r="14" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4e38"/>
+      <stop offset="1" stop-color="#141e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-65" cx="398.44" cy="338.965" r="10.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d8c4"/>
+      <stop offset="0.6" stop-color="#1e8ec0"/>
+      <stop offset="1" stop-color="#12486e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-66" cx="500" cy="302" r="18.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a48"/>
+      <stop offset="0.7" stop-color="#9a6e30"/>
+      <stop offset="1" stop-color="#6e4a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-67" cx="500" cy="302" r="14" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4e38"/>
+      <stop offset="1" stop-color="#141e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-68" cx="500" cy="302" r="10.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d8c4"/>
+      <stop offset="0.6" stop-color="#1e8ec0"/>
+      <stop offset="1" stop-color="#12486e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-69" cx="601.56" cy="338.965" r="18.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c89a48"/>
+      <stop offset="0.7" stop-color="#9a6e30"/>
+      <stop offset="1" stop-color="#6e4a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-70" cx="601.56" cy="338.965" r="14" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a4e38"/>
+      <stop offset="1" stop-color="#141e14"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-71" cx="601.56" cy="338.965" r="10.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46d8c4"/>
+      <stop offset="0.6" stop-color="#1e8ec0"/>
+      <stop offset="1" stop-color="#12486e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-72" cx="500" cy="679" r="101" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3e8fe0"/>
+      <stop offset="0.55" stop-color="#1e5aa8"/>
+      <stop offset="1" stop-color="#0e2e5e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-73" cx="500" cy="557" r="30.041" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a86d8"/>
+      <stop offset="1" stop-color="#143e80"/>
+    </radialGradient>
+  </defs>
+  <title>Indian Peafowl — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo" data-name="Plate halo" d="M62 460 C62 218.099 258.099 22 500 22 C741.901 22 938 218.099 938 460 C938 701.901 741.901 898 500 898 C258.099 898 62 701.901 62 460 Z" fill="#8a6e3e" opacity="0.08"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#4a3a22" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#f0dfb4" stroke-width="3" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Patina_1" data-name="Patina 1" d="M200 255 C200 219.101 253.726 190 320 190 C386.274 190 440 219.101 440 255 C440 290.899 386.274 320 320 320 C253.726 320 200 290.899 200 255 Z" fill="#d8be84" opacity="0.16"/>
+    <path id="Patina_2" data-name="Patina 2" d="M610 620 C610 586.863 661.487 560 725 560 C788.513 560 840 586.863 840 620 C840 653.137 788.513 680 725 680 C661.487 680 610 653.137 610 620 Z" fill="#d8be84" opacity="0.14"/>
+    <path id="Plate_fleck_1" data-name="Plate fleck 1" d="M190 353.5 C190 351.567 191.567 350 193.5 350 C195.433 350 197 351.567 197 353.5 C197 355.433 195.433 357 193.5 357 C191.567 357 190 355.433 190 353.5 Z" fill="#5e4a2c" opacity="0.38"/>
+    <path id="Plate_fleck_2" data-name="Plate fleck 2" d="M800 304 C800 301.791 801.791 300 804 300 C806.209 300 808 301.791 808 304 C808 306.209 806.209 308 804 308 C801.791 308 800 306.209 800 304 Z" fill="#5e4a2c" opacity="0.38"/>
+    <path id="Plate_fleck_3" data-name="Plate fleck 3" d="M160 504 C160 501.791 161.791 500 164 500 C166.209 500 168 501.791 168 504 C168 506.209 166.209 508 164 508 C161.791 508 160 506.209 160 504 Z" fill="#5e4a2c" opacity="0.38"/>
+    <path id="Plate_fleck_4" data-name="Plate fleck 4" d="M845 473.5 C845 471.567 846.567 470 848.5 470 C850.433 470 852 471.567 852 473.5 C852 475.433 850.433 477 848.5 477 C846.567 477 845 475.433 845 473.5 Z" fill="#5e4a2c" opacity="0.38"/>
+    <path id="Plate_fleck_5" data-name="Plate fleck 5" d="M250 703.5 C250 701.567 251.567 700 253.5 700 C255.433 700 257 701.567 257 703.5 C257 705.433 255.433 707 253.5 707 C251.567 707 250 705.433 250 703.5 Z" fill="#5e4a2c" opacity="0.38"/>
+    <path id="Plate_fleck_6" data-name="Plate fleck 6" d="M755 724 C755 721.791 756.791 720 759 720 C761.209 720 763 721.791 763 724 C763 726.209 761.209 728 759 728 C756.791 728 755 726.209 755 724 Z" fill="#5e4a2c" opacity="0.38"/>
+    <path id="Plate_fleck_7" data-name="Plate fleck 7" d="M145 613 C145 611.343 146.343 610 148 610 C149.657 610 151 611.343 151 613 C151 614.657 149.657 616 148 616 C146.343 616 145 614.657 145 613 Z" fill="#5e4a2c" opacity="0.38"/>
+    <path id="Plate_fleck_8" data-name="Plate fleck 8" d="M862 583 C862 581.343 863.343 580 865 580 C866.657 580 868 581.343 868 583 C868 584.657 866.657 586 865 586 C863.343 586 862 584.657 862 583 Z" fill="#5e4a2c" opacity="0.38"/>
+    <path id="Plate_fleck_9" data-name="Plate fleck 9" d="M395 108.5 C395 106.567 396.567 105 398.5 105 C400.433 105 402 106.567 402 108.5 C402 110.433 400.433 112 398.5 112 C396.567 112 395 110.433 395 108.5 Z" fill="#5e4a2c" opacity="0.38"/>
+    <path id="Plate_fleck_10" data-name="Plate fleck 10" d="M620 115 C620 113.343 621.343 112 623 112 C624.657 112 626 113.343 626 115 C626 116.657 624.657 118 623 118 C621.343 118 620 116.657 620 115 Z" fill="#5e4a2c" opacity="0.38"/>
+    <path id="Plate_fleck_11" data-name="Plate fleck 11" d="M330 821 C330 819.343 331.343 818 333 818 C334.657 818 336 819.343 336 821 C336 822.657 334.657 824 333 824 C331.343 824 330 822.657 330 821 Z" fill="#5e4a2c" opacity="0.38"/>
+    <path id="Plate_fleck_12" data-name="Plate fleck 12" d="M700 813.5 C700 811.567 701.567 810 703.5 810 C705.433 810 707 811.567 707 813.5 C707 815.433 705.433 817 703.5 817 C701.567 817 700 815.433 700 813.5 Z" fill="#5e4a2c" opacity="0.38"/>
+    <path id="Sun_glow" data-name="Sun glow" d="M340 670 C340 620.294 413.873 580 505 580 C596.127 580 670 620.294 670 670 C670 719.706 596.127 760 505 760 C413.873 760 340 719.706 340 670 Z" fill="#f4d98e" opacity="0.1"/>
+    <path id="Terrace" d="M242.8 792 C330 784 420 796 500 792 C590 788 670 796 757.2 792 C605.789 909.285 394.211 909.285 242.8 792 Z" fill="url(#linear-gradient-2)" opacity="0.9"/>
+    <path id="Baluster_1" data-name="Baluster 1" d="M300 806 L294 850" fill="none" stroke="#3e2e18" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Baluster_2" data-name="Baluster 2" d="M430 806 L424 850" fill="none" stroke="#3e2e18" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Baluster_3" data-name="Baluster 3" d="M570 806 L564 850" fill="none" stroke="#3e2e18" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Baluster_4" data-name="Baluster 4" d="M700 806 L694 850" fill="none" stroke="#3e2e18" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Sprig_1" data-name="Sprig 1" d="M268 818 C277.333 803.333 286.667 799.333 296 806" fill="none" stroke="#7a8a4e" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Sprig_2" data-name="Sprig 2" d="M724 822 C733.333 807.333 742.667 803.333 752 810" fill="none" stroke="#7a8a4e" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Sprig_3" data-name="Sprig 3" d="M648 836 C656 821.333 664 818 672 826" fill="none" stroke="#7a8a4e" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Bird_shadow" data-name="Bird shadow" d="M390 791 C390 786.029 439.249 782 500 782 C560.751 782 610 786.029 610 791 C610 795.971 560.751 800 500 800 C439.249 800 390 795.971 390 791 Z" fill="#1e1406" opacity="0.42"/>
+    <path id="Train_field" data-name="Train field" d="M500 688 C443.7 640.1 216.8 458.3 162.2 400.4 C107.7 342.6 167.5 360.4 172.8 340.9 C178 321.4 185.1 301.8 193.9 283.2 C202.6 264.7 213.2 246.4 225.2 229.4 C237.2 212.4 251 196 266 181.2 C281.1 166.3 297.7 152.4 315.4 140.2 C333 128 352.1 117.1 371.9 108.1 C391.7 99.1 412.7 91.5 434.1 86 C455.4 80.5 478 75 500 75 C522 75 544.6 80.5 565.9 86 C587.3 91.5 608.3 99.1 628.1 108.1 C647.9 117.1 667 128 684.6 140.2 C702.3 152.4 718.9 166.3 734 181.2 C749 196 762.8 212.4 774.8 229.4 C786.8 246.4 797.4 264.7 806.1 283.2 C814.9 301.8 822 321.4 827.2 340.9 C832.5 360.4 892.3 342.6 837.8 400.4 C783.2 458.3 556.3 640.1 500 688 C443.7 735.9 556.3 735.9 500 688 Z" fill="url(#radial-gradient-2)" stroke="#241812" stroke-width="4" stroke-miterlimit="10" opacity="0.94"/>
+    <path id="Train_glow" data-name="Train glow" d="M350 550 C350 483.726 417.157 430 500 430 C582.843 430 650 483.726 650 550 C650 616.274 582.843 670 500 670 C417.157 670 350 616.274 350 550 Z" fill="#6e9a4e" opacity="0.16"/>
+    <path id="Covert_1" data-name="Covert 1" d="M503.7 686.5 L477.7 619 L450.2 561.8 L421.5 514.1 L392 475.1 L361.8 443.9 L331.4 419.9 L301 402.1 L271 389.8 L241.7 382.1 L213.6 378.3 L187.1 377.4 L162.8 378.5 C157.623 379.236 153.887 383.835 154.228 389.052 C154.569 394.27 158.872 398.344 164.1 398.4 L187.6 396.4 L212.4 396.2 L238.7 398.8 L266.1 405 L294.5 415.6 L323.6 431.5 L353.2 453.6 L382.9 482.9 L412.4 520.3 L441.4 566.6 L469.4 622.6 L496.3 689.5 Z" fill="url(#linear-gradient-3)" opacity="0.55"/>
+    <path id="Covert_1_quill" data-name="Covert 1 quill" d="M500 688 C397 397 254 379 163 388" fill="none" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_2" data-name="Covert 2" d="M503.8 686.7 L480.1 614.8 L454.8 552.6 L428.2 499.6 L400.7 454.9 L372.5 417.8 L343.8 387.5 L315.1 363.3 L286.5 344.4 L258.5 330.2 L231.4 319.8 L205.6 312.6 L181.8 307.7 C176.595 307.108 171.816 310.634 170.844 315.781 C169.872 320.928 173.038 325.954 178.1 327.3 L201.5 331.1 L226 337 L251.8 345.8 L278.7 358.4 L306.2 375.4 L334.3 397.8 L362.6 426.3 L390.8 461.8 L418.6 505 L445.7 556.8 L471.6 617.9 L496.2 689.3 Z" fill="url(#linear-gradient-3)" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_2_quill" data-name="Covert 2 quill" d="M500 688 C406 380 270 331 179 317" fill="none" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_3" data-name="Covert 3" d="M503.9 686.9 L483.2 610.9 L461 544.2 L437.6 486.3 L413.2 436.3 L388.1 393.6 L362.5 357.4 L336.8 327.2 L311.1 302.3 L285.8 281.8 L261.2 265.3 L237.6 252 L215.7 241.3 C210.79 239.413 205.257 241.654 203.043 246.425 C200.828 251.197 202.689 256.868 207.3 259.4 L229.1 269 L252 280.8 L275.9 295.7 L300.6 314.4 L325.9 337.6 L351.6 366.1 L377.3 400.7 L402.7 442 L427.6 490.8 L451.7 547.7 L474.6 613.6 L496.1 689.1 Z" fill="url(#linear-gradient-3)" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_3_quill" data-name="Covert 3 quill" d="M500 688 C418 365 296 286 211 250" fill="none" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_4" data-name="Covert 4" d="M503.9 687.1 L487 607.6 L468.8 536.9 L449.5 474.6 L429.3 419.9 L408.4 372.2 L387.1 331 L365.6 295.4 L344 265 L322.8 239.1 L302.1 217.1 L282.2 198.4 L263.5 182.5 C259.22 178.993 252.907 179.62 249.4 183.9 C245.893 188.18 246.52 194.493 250.8 198 L269.8 212.8 L289.6 230.1 L310.2 250.5 L331.4 274.9 L353.1 303.8 L374.9 337.9 L396.7 377.9 L418.2 424.5 L439.1 478.2 L459.2 539.7 L478.3 609.7 L496.1 688.9 Z" fill="url(#linear-gradient-3)" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_4_quill" data-name="Covert 4 quill" d="M500 688 C433 351 330 247 257 190" fill="none" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_5" data-name="Covert 5" d="M504 687.4 L491.5 604.9 L478 530.9 L463.5 465 L448.4 406.4 L432.8 354.7 L416.8 309.2 L400.6 269.3 L384.4 234.4 L368.4 204.1 L352.7 177.6 L337.7 154.5 L323.4 134.3 C320.019 130.243 314.066 129.515 309.807 132.636 C305.547 135.758 304.449 141.654 307.3 146.1 L322.1 165.5 L337.6 187.4 L353.7 212.6 L370.2 241.7 L386.9 275.4 L403.7 314.3 L420.5 358.8 L436.9 409.8 L452.9 467.6 L468.2 533 L482.6 606.4 L496 688.6 Z" fill="url(#linear-gradient-3)" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_5_quill" data-name="Covert 5 quill" d="M500 688 C450 340 371 214 315 140" fill="none" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_6" data-name="Covert 6" d="M504 687.6 L496.4 602.9 L488.2 526.5 L479.4 457.9 L470.1 396.5 L460.5 341.8 L450.7 293.1 L440.8 250.1 L430.8 212 L420.9 178.4 L411.3 148.7 L402 122.4 L393.2 99.1 C390.864 94.468 385.374 92.391 380.557 94.318 C375.74 96.245 373.197 101.535 374.7 106.5 L384.3 129.3 L394.4 154.8 L404.8 183.6 L415.4 216.5 L426.2 253.8 L437.1 296.2 L447.8 344.3 L458.3 398.5 L468.5 459.5 L478.3 527.8 L487.5 603.9 L496 688.4 Z" fill="url(#linear-gradient-3)" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_6_quill" data-name="Covert 6 quill" d="M500 688 C469 332 419 190 383 102" fill="none" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_7" data-name="Covert 7" d="M504 687.9 L501.7 601.8 L499.3 523.9 L496.6 453.7 L493.7 390.6 L490.8 334.1 L487.7 283.6 L484.6 238.8 L481.6 198.9 L478.5 163.5 L475.5 132 L472.7 104 L470 79 C469 73.827 464.157 70.317 458.929 70.977 C453.702 71.637 449.883 76.241 450.2 81.5 L453.8 106.4 L457.7 134.1 L461.6 165.2 L465.6 200.4 L469.7 240 L473.8 284.7 L477.8 334.9 L481.7 391.3 L485.6 454.2 L489.3 524.3 L492.8 602.1 L496 688.1 Z" fill="url(#linear-gradient-3)" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_7_quill" data-name="Covert 7 quill" d="M500 688 C489 326 472 174 460 80" fill="none" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_8" data-name="Covert 8" d="M504 688.1 L507.2 602.1 L510.7 524.3 L514.4 454.2 L518.3 391.3 L522.2 334.9 L526.2 284.7 L530.3 240 L534.4 200.4 L538.4 165.2 L542.3 134.1 L546.2 106.4 L549.8 81.5 C550.117 76.241 546.298 71.637 541.071 70.977 C535.843 70.317 531 73.827 530 79 L527.3 104 L524.5 132 L521.5 163.5 L518.4 198.9 L515.4 238.8 L512.3 283.6 L509.2 334.1 L506.3 390.6 L503.4 453.7 L500.7 523.9 L498.3 601.8 L496 687.9 Z" fill="url(#linear-gradient-3)" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_8_quill" data-name="Covert 8 quill" d="M500 688 C510 326 527 174 539 80" fill="none" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_9" data-name="Covert 9" d="M504 688.4 L512.5 603.9 L521.7 527.8 L531.5 459.5 L541.7 398.5 L552.2 344.3 L562.9 296.2 L573.8 253.8 L584.6 216.5 L595.2 183.6 L605.6 154.8 L615.7 129.3 L625.3 106.5 C626.803 101.535 624.26 96.245 619.443 94.318 C614.626 92.391 609.136 94.468 606.8 99.1 L598 122.4 L588.7 148.7 L579.1 178.4 L569.2 212 L559.2 250.1 L549.3 293.1 L539.5 341.8 L529.9 396.5 L520.6 457.9 L511.8 526.5 L503.6 602.9 L496 687.6 Z" fill="url(#linear-gradient-3)" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_9_quill" data-name="Covert 9 quill" d="M500 688 C530 332 580 190 616 102" fill="none" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_10" data-name="Covert 10" d="M504 688.6 L517.4 606.4 L531.8 533 L547.1 467.6 L563.1 409.8 L579.5 358.8 L596.3 314.3 L613.1 275.4 L629.8 241.7 L646.3 212.6 L662.4 187.4 L677.9 165.5 L692.7 146.1 C695.551 141.654 694.453 135.758 690.193 132.636 C685.934 129.515 679.981 130.243 676.6 134.3 L662.3 154.5 L647.3 177.6 L631.6 204.1 L615.6 234.4 L599.4 269.3 L583.2 309.2 L567.2 354.7 L551.6 406.4 L536.5 465 L522 530.9 L508.5 604.9 L496 687.4 Z" fill="url(#linear-gradient-3)" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_10_quill" data-name="Covert 10 quill" d="M500 688 C549 340 628 214 684 140" fill="none" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_11" data-name="Covert 11" d="M503.9 688.9 L521.7 609.7 L540.8 539.7 L560.9 478.2 L581.8 424.5 L603.3 377.9 L625.1 337.9 L646.9 303.8 L668.6 274.9 L689.8 250.5 L710.4 230.1 L730.2 212.8 L749.2 198 C753.48 194.493 754.107 188.18 750.6 183.9 C747.093 179.62 740.78 178.993 736.5 182.5 L717.8 198.4 L697.9 217.1 L677.2 239.1 L656 265 L634.4 295.4 L612.9 331 L591.6 372.2 L570.7 419.9 L550.5 474.6 L531.2 536.9 L513 607.6 L496.1 687.1 Z" fill="url(#linear-gradient-3)" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_11_quill" data-name="Covert 11 quill" d="M500 688 C566 351 669 247 742 190" fill="none" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_12" data-name="Covert 12" d="M503.9 689.1 L525.4 613.6 L548.3 547.7 L572.4 490.8 L597.3 442 L622.7 400.7 L648.4 366.1 L674.1 337.6 L699.4 314.4 L724.1 295.7 L748 280.8 L770.9 269 L792.7 259.4 C797.311 256.868 799.172 251.197 796.957 246.425 C794.743 241.654 789.21 239.413 784.3 241.3 L762.4 252 L738.8 265.3 L714.2 281.8 L688.9 302.3 L663.2 327.2 L637.5 357.4 L611.9 393.6 L586.8 436.3 L562.4 486.3 L539 544.2 L516.8 610.9 L496.1 686.9 Z" fill="url(#linear-gradient-3)" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_12_quill" data-name="Covert 12 quill" d="M500 688 C581 365 703 286 788 250" fill="none" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_13" data-name="Covert 13" d="M503.8 689.3 L528.4 617.9 L554.3 556.8 L581.4 505 L609.2 461.8 L637.4 426.3 L665.7 397.8 L693.8 375.4 L721.3 358.4 L748.2 345.8 L774 337 L798.5 331.1 L821.9 327.3 C826.962 325.954 830.128 320.928 829.156 315.781 C828.184 310.634 823.405 307.108 818.2 307.7 L794.4 312.6 L768.6 319.8 L741.5 330.2 L713.5 344.4 L684.9 363.3 L656.2 387.5 L627.5 417.8 L599.3 454.9 L571.8 499.6 L545.2 552.6 L519.9 614.8 L496.2 686.7 Z" fill="url(#linear-gradient-3)" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_13_quill" data-name="Covert 13 quill" d="M500 688 C593 380 729 331 820 317" fill="none" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_14" data-name="Covert 14" d="M503.7 689.5 L530.6 622.6 L558.6 566.6 L587.6 520.3 L617.1 482.9 L646.8 453.6 L676.4 431.5 L705.5 415.6 L733.9 405 L761.3 398.8 L787.6 396.2 L812.4 396.4 L835.9 398.4 C841.128 398.344 845.431 394.27 845.772 389.052 C846.113 383.835 842.377 379.236 837.2 378.5 L812.9 377.4 L786.4 378.3 L758.3 382.1 L729 389.8 L699 402.1 L668.6 419.9 L638.2 443.9 L608 475.1 L578.5 514.1 L549.8 561.8 L522.3 619 L496.3 686.5 Z" fill="url(#linear-gradient-3)" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Covert_14_quill" data-name="Covert 14 quill" d="M500 688 C602 397 745 379 836 388" fill="none" stroke="#2e4e26" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Ocellus_T1_halo" data-name="Ocellus T1 halo" d="M171.166 395.537 C171.166 378.689 182.609 365.03 196.725 365.03 C210.841 365.03 222.285 378.689 222.285 395.537 C222.285 412.385 210.841 426.043 196.725 426.043 C182.609 426.043 171.166 412.385 171.166 395.537 Z" fill="url(#radial-gradient-3)" opacity="0.88"/>
+    <path id="Ocellus_T1_ring" data-name="Ocellus T1 ring" d="M177.762 395.537 C177.762 382.787 186.252 372.451 196.725 372.451 C207.199 372.451 215.689 382.787 215.689 395.537 C215.689 408.287 207.199 418.623 196.725 418.623 C186.252 418.623 177.762 408.287 177.762 395.537 Z" fill="url(#radial-gradient-4)"/>
+    <path id="Ocellus_T1_heart" data-name="Ocellus T1 heart" d="M196.725 378.222 C209.093 381.52 209.093 397.186 196.725 412.851 C184.358 397.186 184.358 381.52 196.725 378.222 Z" fill="url(#radial-gradient-5)"/>
+    <path id="Ocellus_T1_pupil" data-name="Ocellus T1 pupil" d="M193.015 395.949 C193.015 392.989 194.676 390.59 196.725 390.59 C198.774 390.59 200.436 392.989 200.436 395.949 C200.436 398.909 198.774 401.308 196.725 401.308 C194.676 401.308 193.015 398.909 193.015 395.949 Z" fill="#0e2440"/>
+    <path id="Ocellus_T2_halo" data-name="Ocellus T2 halo" d="M184.603 331.329 C184.603 313.929 196.422 299.823 211 299.823 C225.578 299.823 237.396 313.929 237.396 331.329 C237.396 348.729 225.578 362.834 211 362.834 C196.422 362.834 184.603 348.729 184.603 331.329 Z" fill="url(#radial-gradient-6)" opacity="0.88"/>
+    <path id="Ocellus_T2_ring" data-name="Ocellus T2 ring" d="M191.415 331.329 C191.415 318.161 200.184 307.487 211 307.487 C221.816 307.487 230.584 318.161 230.584 331.329 C230.584 344.496 221.816 355.171 211 355.171 C200.184 355.171 191.415 344.496 191.415 331.329 Z" fill="url(#radial-gradient-7)"/>
+    <path id="Ocellus_T2_heart" data-name="Ocellus T2 heart" d="M211 313.447 C223.772 316.853 223.772 333.032 211 349.21 C198.227 333.032 198.227 316.853 211 313.447 Z" fill="url(#radial-gradient-8)"/>
+    <path id="Ocellus_T2_pupil" data-name="Ocellus T2 pupil" d="M207.168 331.755 C207.168 328.698 208.884 326.22 211 326.22 C213.116 326.22 214.832 328.698 214.832 331.755 C214.832 334.811 213.116 337.289 211 337.289 C208.884 337.289 207.168 334.811 207.168 331.755 Z" fill="#0e2440"/>
+    <path id="Ocellus_T3_halo" data-name="Ocellus T3 halo" d="M211.737 270.351 C211.737 252.399 223.93 237.847 238.971 237.847 C254.011 237.847 266.204 252.399 266.204 270.351 C266.204 288.303 254.011 302.856 238.971 302.856 C223.93 302.856 211.737 288.303 211.737 270.351 Z" fill="url(#radial-gradient-9)" opacity="0.88"/>
+    <path id="Ocellus_T3_ring" data-name="Ocellus T3 ring" d="M218.765 270.351 C218.765 256.766 227.811 245.753 238.971 245.753 C250.13 245.753 259.176 256.766 259.176 270.351 C259.176 283.936 250.13 294.949 238.971 294.949 C227.811 294.949 218.765 283.936 218.765 270.351 Z" fill="url(#radial-gradient-10)"/>
+    <path id="Ocellus_T3_heart" data-name="Ocellus T3 heart" d="M238.971 251.903 C252.148 255.417 252.148 272.108 238.971 288.8 C225.793 272.108 225.793 255.417 238.971 251.903 Z" fill="url(#radial-gradient-11)"/>
+    <path id="Ocellus_T3_pupil" data-name="Ocellus T3 pupil" d="M235.017 270.79 C235.017 267.637 236.787 265.08 238.971 265.08 C241.154 265.08 242.924 267.637 242.924 270.79 C242.924 273.944 241.154 276.501 238.971 276.501 C236.787 276.501 235.017 273.944 235.017 270.79 Z" fill="#0e2440"/>
+    <path id="Ocellus_T4_halo" data-name="Ocellus T4 halo" d="M251.819 215.543 C251.819 197.039 264.387 182.039 279.889 182.039 C295.392 182.039 307.96 197.039 307.96 215.543 C307.96 234.046 295.392 249.046 279.889 249.046 C264.387 249.046 251.819 234.046 251.819 215.543 Z" fill="url(#radial-gradient-12)" opacity="0.88"/>
+    <path id="Ocellus_T4_ring" data-name="Ocellus T4 ring" d="M259.063 215.543 C259.063 201.54 268.387 190.189 279.889 190.189 C291.392 190.189 300.716 201.54 300.716 215.543 C300.716 229.545 291.392 240.897 279.889 240.897 C268.387 240.897 259.063 229.545 259.063 215.543 Z" fill="url(#radial-gradient-13)"/>
+    <path id="Ocellus_T4_heart" data-name="Ocellus T4 heart" d="M279.889 196.527 C293.472 200.149 293.472 217.354 279.889 234.558 C266.307 217.354 266.307 200.149 279.889 196.527 Z" fill="url(#radial-gradient-14)"/>
+    <path id="Ocellus_T4_pupil" data-name="Ocellus T4 pupil" d="M275.815 215.995 C275.815 212.745 277.639 210.11 279.889 210.11 C282.14 210.11 283.964 212.745 283.964 215.995 C283.964 219.246 282.14 221.881 279.889 221.881 C277.639 221.881 275.815 219.246 275.815 215.995 Z" fill="#0e2440"/>
+    <path id="Ocellus_T5_halo" data-name="Ocellus T5 halo" d="M303.467 169.665 C303.467 150.61 316.41 135.162 332.375 135.162 C348.34 135.162 361.282 150.61 361.282 169.665 C361.282 188.72 348.34 204.167 332.375 204.167 C316.41 204.167 303.467 188.72 303.467 169.665 Z" fill="url(#radial-gradient-15)" opacity="0.88"/>
+    <path id="Ocellus_T5_ring" data-name="Ocellus T5 ring" d="M310.928 169.665 C310.928 155.245 320.53 143.555 332.375 143.555 C344.22 143.555 353.822 155.245 353.822 169.665 C353.822 184.085 344.22 195.775 332.375 195.775 C320.53 195.775 310.928 184.085 310.928 169.665 Z" fill="url(#radial-gradient-16)"/>
+    <path id="Ocellus_T5_heart" data-name="Ocellus T5 heart" d="M332.375 150.082 C346.363 153.812 346.363 171.53 332.375 189.247 C318.387 171.53 318.387 153.812 332.375 150.082 Z" fill="url(#radial-gradient-17)"/>
+    <path id="Ocellus_T5_pupil" data-name="Ocellus T5 pupil" d="M328.179 170.131 C328.179 166.784 330.057 164.07 332.375 164.07 C334.693 164.07 336.571 166.784 336.571 170.131 C336.571 173.479 334.693 176.192 332.375 176.192 C330.057 176.192 328.179 173.479 328.179 170.131 Z" fill="#0e2440"/>
+    <path id="Ocellus_T6_halo" data-name="Ocellus T6 halo" d="M364.711 135.167 C364.711 115.56 378.028 99.665 394.455 99.665 C410.883 99.665 424.2 115.56 424.2 135.167 C424.2 154.774 410.883 170.668 394.455 170.668 C378.028 170.668 364.711 154.774 364.711 135.167 Z" fill="url(#radial-gradient-18)" opacity="0.88"/>
+    <path id="Ocellus_T6_ring" data-name="Ocellus T6 ring" d="M372.387 135.167 C372.387 120.329 382.267 108.301 394.455 108.301 C406.643 108.301 416.524 120.329 416.524 135.167 C416.524 150.004 406.643 162.033 394.455 162.033 C382.267 162.033 372.387 150.004 372.387 135.167 Z" fill="url(#radial-gradient-19)"/>
+    <path id="Ocellus_T6_heart" data-name="Ocellus T6 heart" d="M394.455 115.017 C408.848 118.855 408.848 137.086 394.455 155.316 C380.063 137.086 380.063 118.855 394.455 115.017 Z" fill="url(#radial-gradient-20)"/>
+    <path id="Ocellus_T6_pupil" data-name="Ocellus T6 pupil" d="M390.137 135.646 C390.137 132.202 392.071 129.41 394.455 129.41 C396.84 129.41 398.773 132.202 398.773 135.646 C398.773 139.091 396.84 141.883 394.455 141.883 C392.071 141.883 390.137 139.091 390.137 135.646 Z" fill="#0e2440"/>
+    <path id="Ocellus_T7_halo" data-name="Ocellus T7 halo" d="M433.058 114.056 C433.058 93.897 446.75 77.555 463.64 77.555 C480.529 77.555 494.221 93.897 494.221 114.056 C494.221 134.214 480.529 150.556 463.64 150.556 C446.75 150.556 433.058 134.214 433.058 114.056 Z" fill="url(#radial-gradient-21)" opacity="0.88"/>
+    <path id="Ocellus_T7_ring" data-name="Ocellus T7 ring" d="M440.95 114.056 C440.95 98.8 451.109 86.434 463.64 86.434 C476.171 86.434 486.329 98.8 486.329 114.056 C486.329 129.311 476.171 141.678 463.64 141.678 C451.109 141.678 440.95 129.311 440.95 114.056 Z" fill="url(#radial-gradient-22)"/>
+    <path id="Ocellus_T7_heart" data-name="Ocellus T7 heart" d="M463.64 93.339 C478.437 97.285 478.437 116.029 463.64 134.772 C448.842 116.029 448.842 97.285 463.64 93.339 Z" fill="url(#radial-gradient-23)"/>
+    <path id="Ocellus_T7_pupil" data-name="Ocellus T7 pupil" d="M459.201 114.549 C459.201 111.007 461.188 108.137 463.64 108.137 C466.092 108.137 468.079 111.007 468.079 114.549 C468.079 118.09 466.092 120.961 463.64 120.961 C461.188 120.961 459.201 118.09 459.201 114.549 Z" fill="#0e2440"/>
+    <path id="Ocellus_T8_halo" data-name="Ocellus T8 halo" d="M505.779 114.056 C505.779 93.897 519.471 77.555 536.36 77.555 C553.25 77.555 566.942 93.897 566.942 114.056 C566.942 134.214 553.25 150.556 536.36 150.556 C519.471 150.556 505.779 134.214 505.779 114.056 Z" fill="url(#radial-gradient-24)" opacity="0.88"/>
+    <path id="Ocellus_T8_ring" data-name="Ocellus T8 ring" d="M513.671 114.056 C513.671 98.8 523.829 86.434 536.36 86.434 C548.891 86.434 559.05 98.8 559.05 114.056 C559.05 129.311 548.891 141.678 536.36 141.678 C523.829 141.678 513.671 129.311 513.671 114.056 Z" fill="url(#radial-gradient-25)"/>
+    <path id="Ocellus_T8_heart" data-name="Ocellus T8 heart" d="M536.36 93.339 C551.158 97.285 551.158 116.029 536.36 134.772 C521.563 116.029 521.563 97.285 536.36 93.339 Z" fill="url(#radial-gradient-26)"/>
+    <path id="Ocellus_T8_pupil" data-name="Ocellus T8 pupil" d="M531.921 114.549 C531.921 111.007 533.908 108.137 536.36 108.137 C538.812 108.137 540.799 111.007 540.799 114.549 C540.799 118.09 538.812 120.961 536.36 120.961 C533.908 120.961 531.921 118.09 531.921 114.549 Z" fill="#0e2440"/>
+    <path id="Ocellus_T9_halo" data-name="Ocellus T9 halo" d="M575.8 135.167 C575.8 115.56 589.117 99.665 605.545 99.665 C621.972 99.665 635.289 115.56 635.289 135.167 C635.289 154.774 621.972 170.668 605.545 170.668 C589.117 170.668 575.8 154.774 575.8 135.167 Z" fill="url(#radial-gradient-27)" opacity="0.88"/>
+    <path id="Ocellus_T9_ring" data-name="Ocellus T9 ring" d="M583.476 135.167 C583.476 120.329 593.357 108.301 605.545 108.301 C617.733 108.301 627.613 120.329 627.613 135.167 C627.613 150.004 617.733 162.033 605.545 162.033 C593.357 162.033 583.476 150.004 583.476 135.167 Z" fill="url(#radial-gradient-28)"/>
+    <path id="Ocellus_T9_heart" data-name="Ocellus T9 heart" d="M605.545 115.017 C619.937 118.855 619.937 137.086 605.545 155.316 C591.152 137.086 591.152 118.855 605.545 115.017 Z" fill="url(#radial-gradient-29)"/>
+    <path id="Ocellus_T9_pupil" data-name="Ocellus T9 pupil" d="M601.227 135.646 C601.227 132.202 603.16 129.41 605.545 129.41 C607.929 129.41 609.863 132.202 609.863 135.646 C609.863 139.091 607.929 141.883 605.545 141.883 C603.16 141.883 601.227 139.091 601.227 135.646 Z" fill="#0e2440"/>
+    <path id="Ocellus_T10_halo" data-name="Ocellus T10 halo" d="M638.717 169.665 C638.717 150.61 651.66 135.162 667.625 135.162 C683.59 135.162 696.533 150.61 696.533 169.665 C696.533 188.72 683.59 204.167 667.625 204.167 C651.66 204.167 638.717 188.72 638.717 169.665 Z" fill="url(#radial-gradient-30)" opacity="0.88"/>
+    <path id="Ocellus_T10_ring" data-name="Ocellus T10 ring" d="M646.178 169.665 C646.178 155.245 655.78 143.555 667.625 143.555 C679.47 143.555 689.072 155.245 689.072 169.665 C689.072 184.085 679.47 195.775 667.625 195.775 C655.78 195.775 646.178 184.085 646.178 169.665 Z" fill="url(#radial-gradient-31)"/>
+    <path id="Ocellus_T10_heart" data-name="Ocellus T10 heart" d="M667.625 150.082 C681.612 153.812 681.612 171.53 667.625 189.247 C653.638 171.53 653.638 153.812 667.625 150.082 Z" fill="url(#radial-gradient-32)"/>
+    <path id="Ocellus_T10_pupil" data-name="Ocellus T10 pupil" d="M663.429 170.131 C663.429 166.784 665.307 164.07 667.625 164.07 C669.943 164.07 671.821 166.784 671.821 170.131 C671.821 173.479 669.943 176.192 667.625 176.192 C665.307 176.192 663.429 173.479 663.429 170.131 Z" fill="#0e2440"/>
+    <path id="Ocellus_T11_halo" data-name="Ocellus T11 halo" d="M692.04 215.543 C692.04 197.039 704.608 182.039 720.111 182.039 C735.613 182.039 748.181 197.039 748.181 215.543 C748.181 234.046 735.613 249.046 720.111 249.046 C704.608 249.046 692.04 234.046 692.04 215.543 Z" fill="url(#radial-gradient-33)" opacity="0.88"/>
+    <path id="Ocellus_T11_ring" data-name="Ocellus T11 ring" d="M699.284 215.543 C699.284 201.54 708.608 190.189 720.111 190.189 C731.613 190.189 740.937 201.54 740.937 215.543 C740.937 229.545 731.613 240.897 720.111 240.897 C708.608 240.897 699.284 229.545 699.284 215.543 Z" fill="url(#radial-gradient-34)"/>
+    <path id="Ocellus_T11_heart" data-name="Ocellus T11 heart" d="M720.111 196.527 C733.693 200.149 733.693 217.354 720.111 234.558 C706.528 217.354 706.528 200.149 720.111 196.527 Z" fill="url(#radial-gradient-35)"/>
+    <path id="Ocellus_T11_pupil" data-name="Ocellus T11 pupil" d="M716.036 215.995 C716.036 212.745 717.86 210.11 720.111 210.11 C722.361 210.11 724.185 212.745 724.185 215.995 C724.185 219.246 722.361 221.881 720.111 221.881 C717.86 221.881 716.036 219.246 716.036 215.995 Z" fill="#0e2440"/>
+    <path id="Ocellus_T12_halo" data-name="Ocellus T12 halo" d="M733.796 270.351 C733.796 252.399 745.989 237.847 761.029 237.847 C776.07 237.847 788.263 252.399 788.263 270.351 C788.263 288.303 776.07 302.856 761.029 302.856 C745.989 302.856 733.796 288.303 733.796 270.351 Z" fill="url(#radial-gradient-36)" opacity="0.88"/>
+    <path id="Ocellus_T12_ring" data-name="Ocellus T12 ring" d="M740.824 270.351 C740.824 256.766 749.87 245.753 761.029 245.753 C772.189 245.753 781.235 256.766 781.235 270.351 C781.235 283.936 772.189 294.949 761.029 294.949 C749.87 294.949 740.824 283.936 740.824 270.351 Z" fill="url(#radial-gradient-37)"/>
+    <path id="Ocellus_T12_heart" data-name="Ocellus T12 heart" d="M761.029 251.903 C774.207 255.417 774.207 272.108 761.029 288.8 C747.852 272.108 747.852 255.417 761.029 251.903 Z" fill="url(#radial-gradient-38)"/>
+    <path id="Ocellus_T12_pupil" data-name="Ocellus T12 pupil" d="M757.076 270.79 C757.076 267.637 758.846 265.08 761.029 265.08 C763.213 265.08 764.983 267.637 764.983 270.79 C764.983 273.944 763.213 276.501 761.029 276.501 C758.846 276.501 757.076 273.944 757.076 270.79 Z" fill="#0e2440"/>
+    <path id="Ocellus_T13_halo" data-name="Ocellus T13 halo" d="M762.604 331.329 C762.604 313.929 774.422 299.823 789 299.823 C803.578 299.823 815.397 313.929 815.397 331.329 C815.397 348.729 803.578 362.834 789 362.834 C774.422 362.834 762.604 348.729 762.604 331.329 Z" fill="url(#radial-gradient-39)" opacity="0.88"/>
+    <path id="Ocellus_T13_ring" data-name="Ocellus T13 ring" d="M769.416 331.329 C769.416 318.161 778.184 307.487 789 307.487 C799.816 307.487 808.585 318.161 808.585 331.329 C808.585 344.496 799.816 355.171 789 355.171 C778.184 355.171 769.416 344.496 769.416 331.329 Z" fill="url(#radial-gradient-40)"/>
+    <path id="Ocellus_T13_heart" data-name="Ocellus T13 heart" d="M789 313.447 C801.773 316.853 801.773 333.032 789 349.21 C776.228 333.032 776.228 316.853 789 313.447 Z" fill="url(#radial-gradient-41)"/>
+    <path id="Ocellus_T13_pupil" data-name="Ocellus T13 pupil" d="M785.168 331.755 C785.168 328.698 786.884 326.22 789 326.22 C791.116 326.22 792.832 328.698 792.832 331.755 C792.832 334.811 791.116 337.289 789 337.289 C786.884 337.289 785.168 334.811 785.168 331.755 Z" fill="#0e2440"/>
+    <path id="Ocellus_T14_halo" data-name="Ocellus T14 halo" d="M777.715 395.537 C777.715 378.689 789.159 365.03 803.275 365.03 C817.391 365.03 828.834 378.689 828.834 395.537 C828.834 412.385 817.391 426.043 803.275 426.043 C789.159 426.043 777.715 412.385 777.715 395.537 Z" fill="url(#radial-gradient-42)" opacity="0.88"/>
+    <path id="Ocellus_T14_ring" data-name="Ocellus T14 ring" d="M784.311 395.537 C784.311 382.787 792.801 372.451 803.275 372.451 C813.748 372.451 822.238 382.787 822.238 395.537 C822.238 408.287 813.748 418.623 803.275 418.623 C792.801 418.623 784.311 408.287 784.311 395.537 Z" fill="url(#radial-gradient-43)"/>
+    <path id="Ocellus_T14_heart" data-name="Ocellus T14 heart" d="M803.275 378.222 C815.642 381.52 815.642 397.186 803.275 412.851 C790.907 397.186 790.907 381.52 803.275 378.222 Z" fill="url(#radial-gradient-44)"/>
+    <path id="Ocellus_T14_pupil" data-name="Ocellus T14 pupil" d="M799.564 395.949 C799.564 392.989 801.226 390.59 803.275 390.59 C805.324 390.59 806.985 392.989 806.985 395.949 C806.985 398.909 805.324 401.308 803.275 401.308 C801.226 401.308 799.564 398.909 799.564 395.949 Z" fill="#0e2440"/>
+    <path id="Ocellus_M1_halo" data-name="Ocellus M1 halo" d="M262.54 364.214 C262.54 349.501 272.533 337.574 284.86 337.574 C297.187 337.574 307.18 349.501 307.18 364.214 C307.18 378.926 297.187 390.854 284.86 390.854 C272.533 390.854 262.54 378.926 262.54 364.214 Z" fill="url(#radial-gradient-45)" opacity="0.88"/>
+    <path id="Ocellus_M1_ring" data-name="Ocellus M1 ring" d="M268.3 364.214 C268.3 353.079 275.714 344.054 284.86 344.054 C294.006 344.054 301.42 353.079 301.42 364.214 C301.42 375.348 294.006 384.374 284.86 384.374 C275.714 384.374 268.3 375.348 268.3 364.214 Z" fill="url(#radial-gradient-46)"/>
+    <path id="Ocellus_M1_heart" data-name="Ocellus M1 heart" d="M284.86 349.094 C295.66 351.974 295.66 365.654 284.86 379.334 C274.06 365.654 274.06 351.974 284.86 349.094 Z" fill="url(#radial-gradient-47)"/>
+    <path id="Ocellus_M1_pupil" data-name="Ocellus M1 pupil" d="M281.62 364.574 C281.62 361.989 283.071 359.894 284.86 359.894 C286.649 359.894 288.1 361.989 288.1 364.574 C288.1 367.158 286.649 369.254 284.86 369.254 C283.071 369.254 281.62 367.158 281.62 364.574 Z" fill="#0e2440"/>
+    <path id="Ocellus_M2_halo" data-name="Ocellus M2 halo" d="M316.085 280.531 C316.085 265.818 326.078 253.891 338.405 253.891 C350.732 253.891 360.725 265.818 360.725 280.531 C360.725 295.243 350.732 307.171 338.405 307.171 C326.078 307.171 316.085 295.243 316.085 280.531 Z" fill="url(#radial-gradient-48)" opacity="0.88"/>
+    <path id="Ocellus_M2_ring" data-name="Ocellus M2 ring" d="M321.845 280.531 C321.845 269.396 329.259 260.371 338.405 260.371 C347.551 260.371 354.965 269.396 354.965 280.531 C354.965 291.665 347.551 300.691 338.405 300.691 C329.259 300.691 321.845 291.665 321.845 280.531 Z" fill="url(#radial-gradient-49)"/>
+    <path id="Ocellus_M2_heart" data-name="Ocellus M2 heart" d="M338.405 265.411 C349.205 268.291 349.205 281.971 338.405 295.651 C327.605 281.971 327.605 268.291 338.405 265.411 Z" fill="url(#radial-gradient-50)"/>
+    <path id="Ocellus_M2_pupil" data-name="Ocellus M2 pupil" d="M335.165 280.891 C335.165 278.306 336.616 276.211 338.405 276.211 C340.194 276.211 341.645 278.306 341.645 280.891 C341.645 283.475 340.194 285.571 338.405 285.571 C336.616 285.571 335.165 283.475 335.165 280.891 Z" fill="#0e2440"/>
+    <path id="Ocellus_M3_halo" data-name="Ocellus M3 halo" d="M401.198 224.614 C401.198 209.901 411.191 197.974 423.518 197.974 C435.845 197.974 445.838 209.901 445.838 224.614 C445.838 239.326 435.845 251.254 423.518 251.254 C411.191 251.254 401.198 239.326 401.198 224.614 Z" fill="url(#radial-gradient-51)" opacity="0.88"/>
+    <path id="Ocellus_M3_ring" data-name="Ocellus M3 ring" d="M406.958 224.614 C406.958 213.479 414.372 204.454 423.518 204.454 C432.664 204.454 440.078 213.479 440.078 224.614 C440.078 235.748 432.664 244.774 423.518 244.774 C414.372 244.774 406.958 235.748 406.958 224.614 Z" fill="url(#radial-gradient-52)"/>
+    <path id="Ocellus_M3_heart" data-name="Ocellus M3 heart" d="M423.518 209.494 C434.318 212.374 434.318 226.054 423.518 239.734 C412.718 226.054 412.718 212.374 423.518 209.494 Z" fill="url(#radial-gradient-53)"/>
+    <path id="Ocellus_M3_pupil" data-name="Ocellus M3 pupil" d="M420.278 224.974 C420.278 222.389 421.729 220.294 423.518 220.294 C425.308 220.294 426.758 222.389 426.758 224.974 C426.758 227.558 425.308 229.654 423.518 229.654 C421.729 229.654 420.278 227.558 420.278 224.974 Z" fill="#0e2440"/>
+    <path id="Ocellus_M4_halo" data-name="Ocellus M4 halo" d="M503.864 210.872 C503.864 196.159 513.857 184.232 526.184 184.232 C538.511 184.232 548.504 196.159 548.504 210.872 C548.504 225.585 538.511 237.512 526.184 237.512 C513.857 237.512 503.864 225.585 503.864 210.872 Z" fill="url(#radial-gradient-54)" opacity="0.88"/>
+    <path id="Ocellus_M4_ring" data-name="Ocellus M4 ring" d="M509.624 210.872 C509.624 199.738 517.039 190.712 526.184 190.712 C535.33 190.712 542.744 199.738 542.744 210.872 C542.744 222.006 535.33 231.032 526.184 231.032 C517.039 231.032 509.624 222.006 509.624 210.872 Z" fill="url(#radial-gradient-55)"/>
+    <path id="Ocellus_M4_heart" data-name="Ocellus M4 heart" d="M526.184 195.752 C536.984 198.632 536.984 212.312 526.184 225.992 C515.384 212.312 515.384 198.632 526.184 195.752 Z" fill="url(#radial-gradient-56)"/>
+    <path id="Ocellus_M4_pupil" data-name="Ocellus M4 pupil" d="M522.944 211.232 C522.944 208.648 524.395 206.552 526.184 206.552 C527.974 206.552 529.424 208.648 529.424 211.232 C529.424 213.817 527.974 215.912 526.184 215.912 C524.395 215.912 522.944 213.817 522.944 211.232 Z" fill="#0e2440"/>
+    <path id="Ocellus_M5_halo" data-name="Ocellus M5 halo" d="M599.93 248.257 C599.93 233.544 609.923 221.617 622.25 221.617 C634.577 221.617 644.57 233.544 644.57 248.257 C644.57 262.97 634.577 274.897 622.25 274.897 C609.923 274.897 599.93 262.97 599.93 248.257 Z" fill="url(#radial-gradient-57)" opacity="0.88"/>
+    <path id="Ocellus_M5_ring" data-name="Ocellus M5 ring" d="M605.69 248.257 C605.69 237.123 613.104 228.097 622.25 228.097 C631.396 228.097 638.81 237.123 638.81 248.257 C638.81 259.391 631.396 268.417 622.25 268.417 C613.104 268.417 605.69 259.391 605.69 248.257 Z" fill="url(#radial-gradient-58)"/>
+    <path id="Ocellus_M5_heart" data-name="Ocellus M5 heart" d="M622.25 233.137 C633.05 236.017 633.05 249.697 622.25 263.377 C611.45 249.697 611.45 236.017 622.25 233.137 Z" fill="url(#radial-gradient-59)"/>
+    <path id="Ocellus_M5_pupil" data-name="Ocellus M5 pupil" d="M619.01 248.617 C619.01 246.032 620.461 243.937 622.25 243.937 C624.039 243.937 625.49 246.032 625.49 248.617 C625.49 251.201 624.039 253.297 622.25 253.297 C620.461 253.297 619.01 251.201 619.01 248.617 Z" fill="#0e2440"/>
+    <path id="Ocellus_M6_halo" data-name="Ocellus M6 halo" d="M670.631 319.813 C670.631 305.1 680.624 293.173 692.951 293.173 C705.278 293.173 715.271 305.1 715.271 319.813 C715.271 334.526 705.278 346.453 692.951 346.453 C680.624 346.453 670.631 334.526 670.631 319.813 Z" fill="url(#radial-gradient-60)" opacity="0.88"/>
+    <path id="Ocellus_M6_ring" data-name="Ocellus M6 ring" d="M676.391 319.813 C676.391 308.679 683.805 299.653 692.951 299.653 C702.096 299.653 709.511 308.679 709.511 319.813 C709.511 330.947 702.096 339.973 692.951 339.973 C683.805 339.973 676.391 330.947 676.391 319.813 Z" fill="url(#radial-gradient-61)"/>
+    <path id="Ocellus_M6_heart" data-name="Ocellus M6 heart" d="M692.951 304.693 C703.751 307.573 703.751 321.253 692.951 334.933 C682.151 321.253 682.151 307.573 692.951 304.693 Z" fill="url(#radial-gradient-62)"/>
+    <path id="Ocellus_M6_pupil" data-name="Ocellus M6 pupil" d="M689.711 320.173 C689.711 317.589 691.161 315.493 692.951 315.493 C694.74 315.493 696.191 317.589 696.191 320.173 C696.191 322.758 694.74 324.853 692.951 324.853 C691.161 324.853 689.711 322.758 689.711 320.173 Z" fill="#0e2440"/>
+    <path id="Ocellus_I1_halo" data-name="Ocellus I1 halo" d="M382.94 338.965 C382.94 328.748 389.879 320.465 398.44 320.465 C407 320.465 413.94 328.748 413.94 338.965 C413.94 349.182 407 357.465 398.44 357.465 C389.879 357.465 382.94 349.182 382.94 338.965 Z" fill="url(#radial-gradient-63)" opacity="0.88"/>
+    <path id="Ocellus_I1_ring" data-name="Ocellus I1 ring" d="M386.94 338.965 C386.94 331.233 392.088 324.965 398.44 324.965 C404.791 324.965 409.94 331.233 409.94 338.965 C409.94 346.697 404.791 352.965 398.44 352.965 C392.088 352.965 386.94 346.697 386.94 338.965 Z" fill="url(#radial-gradient-64)"/>
+    <path id="Ocellus_I1_heart" data-name="Ocellus I1 heart" d="M398.44 328.465 C405.94 330.465 405.94 339.965 398.44 349.465 C390.94 339.965 390.94 330.465 398.44 328.465 Z" fill="url(#radial-gradient-65)"/>
+    <path id="Ocellus_I1_pupil" data-name="Ocellus I1 pupil" d="M396.19 339.215 C396.19 337.42 397.197 335.965 398.44 335.965 C399.682 335.965 400.69 337.42 400.69 339.215 C400.69 341.01 399.682 342.465 398.44 342.465 C397.197 342.465 396.19 341.01 396.19 339.215 Z" fill="#0e2440"/>
+    <path id="Ocellus_I2_halo" data-name="Ocellus I2 halo" d="M484.5 302 C484.5 291.783 491.44 283.5 500 283.5 C508.56 283.5 515.5 291.783 515.5 302 C515.5 312.217 508.56 320.5 500 320.5 C491.44 320.5 484.5 312.217 484.5 302 Z" fill="url(#radial-gradient-66)" opacity="0.88"/>
+    <path id="Ocellus_I2_ring" data-name="Ocellus I2 ring" d="M488.5 302 C488.5 294.268 493.649 288 500 288 C506.351 288 511.5 294.268 511.5 302 C511.5 309.732 506.351 316 500 316 C493.649 316 488.5 309.732 488.5 302 Z" fill="url(#radial-gradient-67)"/>
+    <path id="Ocellus_I2_heart" data-name="Ocellus I2 heart" d="M500 291.5 C507.5 293.5 507.5 303 500 312.5 C492.5 303 492.5 293.5 500 291.5 Z" fill="url(#radial-gradient-68)"/>
+    <path id="Ocellus_I2_pupil" data-name="Ocellus I2 pupil" d="M497.75 302.25 C497.75 300.455 498.757 299 500 299 C501.243 299 502.25 300.455 502.25 302.25 C502.25 304.045 501.243 305.5 500 305.5 C498.757 305.5 497.75 304.045 497.75 302.25 Z" fill="#0e2440"/>
+    <path id="Ocellus_I3_halo" data-name="Ocellus I3 halo" d="M586.06 338.965 C586.06 328.748 593 320.465 601.56 320.465 C610.121 320.465 617.06 328.748 617.06 338.965 C617.06 349.182 610.121 357.465 601.56 357.465 C593 357.465 586.06 349.182 586.06 338.965 Z" fill="url(#radial-gradient-69)" opacity="0.88"/>
+    <path id="Ocellus_I3_ring" data-name="Ocellus I3 ring" d="M590.06 338.965 C590.06 331.233 595.209 324.965 601.56 324.965 C607.912 324.965 613.06 331.233 613.06 338.965 C613.06 346.697 607.912 352.965 601.56 352.965 C595.209 352.965 590.06 346.697 590.06 338.965 Z" fill="url(#radial-gradient-70)"/>
+    <path id="Ocellus_I3_heart" data-name="Ocellus I3 heart" d="M601.56 328.465 C609.06 330.465 609.06 339.965 601.56 349.465 C594.06 339.965 594.06 330.465 601.56 328.465 Z" fill="url(#radial-gradient-71)"/>
+    <path id="Ocellus_I3_pupil" data-name="Ocellus I3 pupil" d="M599.31 339.215 C599.31 337.42 600.318 335.965 601.56 335.965 C602.803 335.965 603.81 337.42 603.81 339.215 C603.81 341.01 602.803 342.465 601.56 342.465 C600.318 342.465 599.31 341.01 599.31 339.215 Z" fill="#0e2440"/>
+    <path id="Leg_1" data-name="Leg 1" d="M480 752 L475 794" fill="none" stroke="#241810" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Leg_2" data-name="Leg 2" d="M520 752 L515 794" fill="none" stroke="#241810" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Toe_1.1" data-name="Toe 1.1" d="M466 794 L459 800" fill="none" stroke="#3e2e1c" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Toe_1.2" data-name="Toe 1.2" d="M475 794 L479 800" fill="none" stroke="#3e2e1c" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Toe_1.3" data-name="Toe 1.3" d="M484 794 L491 800" fill="none" stroke="#3e2e1c" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Toe_2.1" data-name="Toe 2.1" d="M506 794 L499 800" fill="none" stroke="#3e2e1c" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Toe_2.2" data-name="Toe 2.2" d="M515 794 L519 800" fill="none" stroke="#3e2e1c" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Toe_2.3" data-name="Toe 2.3" d="M524 794 L531 800" fill="none" stroke="#3e2e1c" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Body" d="M500 578 C507 578 516.5 579 521 584 C525.5 589 525 599 527 608 C529 617 529.5 627.7 533 638 C536.5 648.3 544.2 657.7 548 670 C551.8 682.3 555.3 699 556 712 C556.7 725 556 738 552 748 C548 758 540.7 766.7 532 772 C523.3 777.3 510.7 780 500 780 C489.3 780 476.7 777.3 468 772 C459.3 766.7 452 758 448 748 C444 738 443.3 725 444 712 C444.7 699 448.2 682.3 452 670 C455.8 657.7 463.5 648.3 467 638 C470.5 627.7 471 617 473 608 C475 599 474.5 589 479 584 C483.5 579 493 578 500 578 Z" fill="url(#radial-gradient-72)" stroke="#241812" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Breast_light" data-name="Breast light" d="M458 658 C458 631.49 476.804 610 500 610 C523.196 610 542 631.49 542 658 C542 684.51 523.196 706 500 706 C476.804 706 458 684.51 458 658 Z" fill="#5ec4f0" opacity="0.22"/>
+    <path id="Belly_shade" data-name="Belly shade" d="M450 750 C450 741.163 472.386 734 500 734 C527.614 734 550 741.163 550 750 C550 758.837 527.614 766 500 766 C472.386 766 450 758.837 450 750 Z" fill="#0a2040" opacity="0.35"/>
+    <path id="Wing_L" data-name="Wing L" d="M454 640 C449.3 638.3 440 655.7 438 668 C436 680.3 438.7 702.3 442 714 C445.3 725.7 453.3 736 458 738 C462.7 740 468.7 736 470 726 C471.3 716 468.7 692.3 466 678 C463.3 663.7 458.7 641.7 454 640 Z" fill="#122a50" stroke="#241812" stroke-width="2.5" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Wing_bar_-1.0" data-name="Wing bar -1.0" d="M460 668 C449.333 670.667 443.333 674 442 678" fill="none" stroke="#c89848" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Wing_bar_-1.1" data-name="Wing bar -1.1" d="M460 692 C449.333 694.667 443.333 698 442 702" fill="none" stroke="#c89848" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Wing_bar_-1.2" data-name="Wing bar -1.2" d="M460 714 C449.333 716.667 443.333 720 442 724" fill="none" stroke="#c89848" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Wing_R" data-name="Wing R" d="M546 640 C550.7 638.3 560 655.7 562 668 C564 680.3 561.3 702.3 558 714 C554.7 725.7 546.7 736 542 738 C537.3 740 531.3 736 530 726 C528.7 716 531.3 692.3 534 678 C536.7 663.7 541.3 641.7 546 640 Z" fill="#122a50" stroke="#241812" stroke-width="2.5" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Wing_bar_1.0" data-name="Wing bar 1.0" d="M540 668 C550.667 670.667 556.667 674 558 678" fill="none" stroke="#c89848" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Wing_bar_1.1" data-name="Wing bar 1.1" d="M540 692 C550.667 694.667 556.667 698 558 702" fill="none" stroke="#c89848" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Wing_bar_1.2" data-name="Wing bar 1.2" d="M540 714 C550.667 716.667 556.667 720 558 724" fill="none" stroke="#c89848" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Head" d="M500 528 C508 528 519 529.3 524 534 C529 538.7 530.3 548.7 530 556 C529.7 563.3 527 573 522 578 C517 583 507.3 586 500 586 C492.7 586 483 583 478 578 C473 573 470.3 563.3 470 556 C469.7 548.7 471 538.7 476 534 C481 529.3 492 528 500 528 Z" fill="url(#radial-gradient-73)" stroke="#241812" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Head_light" data-name="Head light" d="M484 546 C484 540.477 489.82 536 497 536 C504.18 536 510 540.477 510 546 C510 551.523 504.18 556 497 556 C489.82 556 484 551.523 484 546 Z" fill="#7ad4f4" opacity="0.25"/>
+    <path id="Eye_L" data-name="Eye L" d="M483 554.5 C483 552.015 484.791 550 487 550 C489.209 550 491 552.015 491 554.5 C491 556.985 489.209 559 487 559 C484.791 559 483 556.985 483 554.5 Z" fill="#0a1626"/>
+    <path id="Brow_L" data-name="Brow L" d="M493 540 C487.667 537.333 482.667 538 478 542" fill="none" stroke="#f2f6ee" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Cheek_L" data-name="Cheek L" d="M492 566 C487.333 568.667 483 568 479 564" fill="none" stroke="#f2f6ee" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Eye_R" data-name="Eye R" d="M509 554.5 C509 552.015 510.791 550 513 550 C515.209 550 517 552.015 517 554.5 C517 556.985 515.209 559 513 559 C510.791 559 509 556.985 509 554.5 Z" fill="#0a1626"/>
+    <path id="Brow_R" data-name="Brow R" d="M507 540 C512.333 537.333 517.333 538 522 542" fill="none" stroke="#f2f6ee" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Cheek_R" data-name="Cheek R" d="M508 566 C512.667 568.667 517 568 521 564" fill="none" stroke="#f2f6ee" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Beak" d="M493 578 L507 578 L500 594 Z" fill="#1e1410"/>
+    <path id="Crest_shaft_1" data-name="Crest shaft 1" d="M496 528 L489 510" fill="none" stroke="#123260" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Crest_fan_1" data-name="Crest fan 1" d="M481 506 C481 502.686 484.582 500 489 500 C493.418 500 497 502.686 497 506 C497 509.314 493.418 512 489 512 C484.582 512 481 509.314 481 506 Z" fill="#3a86d8" stroke="#0e2a4e" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Crest_shaft_2" data-name="Crest shaft 2" d="M500 528 L500 506" fill="none" stroke="#123260" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Crest_fan_2" data-name="Crest fan 2" d="M492 502 C492 498.686 495.582 496 500 496 C504.418 496 508 498.686 508 502 C508 505.314 504.418 508 500 508 C495.582 508 492 505.314 492 502 Z" fill="#3a86d8" stroke="#0e2a4e" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Crest_shaft_3" data-name="Crest shaft 3" d="M504 528 L511 510" fill="none" stroke="#123260" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Crest_fan_3" data-name="Crest fan 3" d="M503 506 C503 502.686 506.582 500 511 500 C515.418 500 519 502.686 519 506 C519 509.314 515.418 512 511 512 C506.582 512 503 509.314 503 506 Z" fill="#3a86d8" stroke="#0e2a4e" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Plate_rim" data-name="Plate rim" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="none" stroke="#3a2e18" stroke-width="6" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 962)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="52" fill="#ede3bc" text-anchor="middle"><tspan x="0" y="0">INDIAN PEAFOWL</tspan></text>
+  </g>
+</svg>
