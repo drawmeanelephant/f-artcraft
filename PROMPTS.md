@@ -254,11 +254,12 @@ Four sub-series live under `art/`:
   monkey · rooster · dog · pig.
 - **`chinese-festivals/` — Festival Seals.** One emblem per festival, warm
   ink and a festival-specific palette, with the date line in the second
-  line. Shipped: spring-festival · lantern-festival · dragon-boat. Still
-  open: qingming · qixi · mid-autumn.
+  line. Shipped: spring-festival · lantern-festival · dragon-boat ·
+  qingming · qixi · mid-autumn. (Roster complete.)
 - **`indian-festivals/` — Festival Seals.** Diya, rangoli, torana and
-  marigold vocabulary; no deities in scene, no flags. Shipped: diwali.
-  Still open: holi · navratri · ganesh-chaturthi · raksha-bandhan · onam.
+  marigold vocabulary; no deities in scene, no flags. Shipped: diwali ·
+  holi · navratri · ganesh-chaturthi · raksha-bandhan · onam. (Roster
+  complete.)
 - **`indian-symbols/` — Yantra plates.** One symbol per plate on a deep
   field, gold geometry: om · mandala · lotus · peacock · kalash · rangoli.
 
@@ -279,3 +280,12 @@ political symbols anywhere in the series.
   Baseline verdict: shading standard is set (portrait, bunny v2, Jolly set);
   recurring risks are clipped geometry at canvas edges and shapes reading
   flatter inside badges than in free compositions.
+- **Orient festival roster completion (qingming · qixi · mid-autumn · holi ·
+  navratri · ganesh-chaturthi · raksha-bandhan · onam):** per-piece notes in
+  the commit messages; series-wide lessons: circles straddling a silhouette
+  edge read as beads (umbrella scallops, mooncake) — build scalloped edges as
+  single bump paths; the staged kit swallow/magpie needed redraws at plate
+  scale (floating ears, penguin breasts); splash blobs must speak the same
+  soft-puff language as the clouds around them; kit radial gradients take
+  stop pairs only, no focus tuple. `inside()` guards caught two rim hangs,
+  `check_rim.py` caught a third before any commit.

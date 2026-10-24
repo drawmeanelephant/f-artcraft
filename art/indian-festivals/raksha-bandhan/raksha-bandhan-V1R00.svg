@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#200a14"/>
+      <stop offset="1" stop-color="#08030a"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="390" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7e2440" stop-opacity="0.11"/>
+      <stop offset="1" stop-color="#7e2440" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="40" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4a1024"/>
+      <stop offset="1" stop-color="#160510"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="86" y1="46" x2="914" y2="874" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2cc8e"/>
+      <stop offset="0.5" stop-color="#b0804a"/>
+      <stop offset="1" stop-color="#e8bc78"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="458" cy="408" r="230" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e88a9a" stop-opacity="0.16"/>
+      <stop offset="0.55" stop-color="#e88a9a" stop-opacity="0.056"/>
+      <stop offset="1" stop-color="#e88a9a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="458" cy="581" r="172" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000" stop-opacity="0.36"/>
+      <stop offset="0.6" stop-color="#000000" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-4" x1="0" y1="328" x2="0" y2="488" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fbe6b4"/>
+      <stop offset="1" stop-color="#e8c074"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0" y1="328" x2="0" y2="488" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e85a6e"/>
+      <stop offset="1" stop-color="#c22b46"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="386" y1="336" x2="530" y2="480" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fbe6b4"/>
+      <stop offset="1" stop-color="#8e5a1e"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-4" cx="458" cy="408" r="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fbe4a8"/>
+      <stop offset="0.55" stop-color="#e8be6a"/>
+      <stop offset="1" stop-color="#8e5a1e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="610" cy="408" r="7.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a8b4"/>
+      <stop offset="0.6" stop-color="#c22b46"/>
+      <stop offset="1" stop-color="#6e1428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-6" cx="594.947" cy="473.95" r="7.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8d8b0"/>
+      <stop offset="0.6" stop-color="#e8c074"/>
+      <stop offset="1" stop-color="#6e4a1a"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-7" cx="552.77" cy="526.838" r="7.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a8b4"/>
+      <stop offset="0.6" stop-color="#c22b46"/>
+      <stop offset="1" stop-color="#6e1428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-8" cx="491.823" cy="556.189" r="7.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8d8b0"/>
+      <stop offset="0.6" stop-color="#e8c074"/>
+      <stop offset="1" stop-color="#6e4a1a"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-9" cx="424.177" cy="556.189" r="7.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a8b4"/>
+      <stop offset="0.6" stop-color="#c22b46"/>
+      <stop offset="1" stop-color="#6e1428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-10" cx="363.23" cy="526.838" r="7.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8d8b0"/>
+      <stop offset="0.6" stop-color="#e8c074"/>
+      <stop offset="1" stop-color="#6e4a1a"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-11" cx="321.053" cy="473.95" r="7.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a8b4"/>
+      <stop offset="0.6" stop-color="#c22b46"/>
+      <stop offset="1" stop-color="#6e1428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-12" cx="306" cy="408" r="7.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8d8b0"/>
+      <stop offset="0.6" stop-color="#e8c074"/>
+      <stop offset="1" stop-color="#6e4a1a"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-13" cx="321.053" cy="342.05" r="7.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a8b4"/>
+      <stop offset="0.6" stop-color="#c22b46"/>
+      <stop offset="1" stop-color="#6e1428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-14" cx="363.23" cy="289.162" r="7.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8d8b0"/>
+      <stop offset="0.6" stop-color="#e8c074"/>
+      <stop offset="1" stop-color="#6e4a1a"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-15" cx="424.177" cy="259.811" r="7.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a8b4"/>
+      <stop offset="0.6" stop-color="#c22b46"/>
+      <stop offset="1" stop-color="#6e1428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-16" cx="491.823" cy="259.811" r="7.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8d8b0"/>
+      <stop offset="0.6" stop-color="#e8c074"/>
+      <stop offset="1" stop-color="#6e4a1a"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-17" cx="552.77" cy="289.162" r="7.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a8b4"/>
+      <stop offset="0.6" stop-color="#c22b46"/>
+      <stop offset="1" stop-color="#6e1428"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-18" cx="594.947" cy="342.05" r="7.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8d8b0"/>
+      <stop offset="0.6" stop-color="#e8c074"/>
+      <stop offset="1" stop-color="#6e4a1a"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-19" cx="577" cy="569" r="11" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e85a6e"/>
+      <stop offset="1" stop-color="#c22b46"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-20" cx="686" cy="718" r="104" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-7" x1="0" y1="616" x2="0" y2="712" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2cc78"/>
+      <stop offset="0.5" stop-color="#c89648"/>
+      <stop offset="1" stop-color="#7a521e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="0" y1="634" x2="0" y2="668" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e84838"/>
+      <stop offset="1" stop-color="#8e1414"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-21" cx="686" cy="657" r="26" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e84838" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#e84838" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-22" cx="612" cy="637.36" r="41.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffc46b" stop-opacity="0.26"/>
+      <stop offset="0.42" stop-color="#ff8a3c" stop-opacity="0.078"/>
+      <stop offset="1" stop-color="#ff8a3c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-23" cx="612" cy="677.192" r="32.24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1d1216" stop-opacity="0.38"/>
+      <stop offset="0.55" stop-color="#1d1216" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#1d1216" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-9" x1="590.2" y1="654" x2="635.9" y2="675.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d9915e"/>
+      <stop offset="0.4" stop-color="#a85c34"/>
+      <stop offset="1" stop-color="#5e2a18"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x1="0" y1="671.5" x2="0" y2="675.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a4626"/>
+      <stop offset="1" stop-color="#4a2014"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-11" x1="0" y1="649.6" x2="0" y2="658.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2ae7c"/>
+      <stop offset="0.45" stop-color="#d08452"/>
+      <stop offset="1" stop-color="#9e5230"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-12" x1="0" y1="651.4" x2="0" y2="656.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4a2414"/>
+      <stop offset="0.55" stop-color="#2e1410"/>
+      <stop offset="1" stop-color="#1c0b08"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-13" x1="0" y1="655.1" x2="0" y2="658.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f6c094"/>
+      <stop offset="0.6" stop-color="#ce8250"/>
+      <stop offset="1" stop-color="#8e4426"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-14" x1="0" y1="605.2" x2="0" y2="651.2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff4c6"/>
+      <stop offset="0.34" stop-color="#ffd264"/>
+      <stop offset="0.66" stop-color="#ff9e3c"/>
+      <stop offset="0.86" stop-color="#f2712c"/>
+      <stop offset="1" stop-color="#de4a22"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-15" x1="0" y1="614.4" x2="0" y2="651.2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.45" stop-color="#fff6c8"/>
+      <stop offset="0.8" stop-color="#ffe08a"/>
+      <stop offset="1" stop-color="#ffc85e"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-24" cx="340" cy="250" r="11" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd98a" stop-opacity="0.34"/>
+      <stop offset="0.55" stop-color="#ffd98a" stop-opacity="0.119"/>
+      <stop offset="1" stop-color="#ffd98a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-25" cx="640" cy="380" r="11" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd98a" stop-opacity="0.34"/>
+      <stop offset="0.55" stop-color="#ffd98a" stop-opacity="0.119"/>
+      <stop offset="1" stop-color="#ffd98a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-26" cx="300" cy="500" r="11" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd98a" stop-opacity="0.34"/>
+      <stop offset="0.55" stop-color="#ffd98a" stop-opacity="0.119"/>
+      <stop offset="1" stop-color="#ffd98a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-27" cx="620" cy="520" r="11" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd98a" stop-opacity="0.34"/>
+      <stop offset="0.55" stop-color="#ffd98a" stop-opacity="0.119"/>
+      <stop offset="1" stop-color="#ffd98a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-16" x1="712" y1="181" x2="776" y2="245" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c0473a"/>
+      <stop offset="1" stop-color="#7e1f1b"/>
+    </linearGradient>
+  </defs>
+  <title>Raksha Bandhan — Festival Seal</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Backdrop_glow" data-name="Backdrop glow" d="M110 460 C110 244.609 284.609 70 500 70 C715.391 70 890 244.609 890 460 C890 675.391 715.391 850 500 850 C284.609 850 110 675.391 110 460 Z" fill="url(#radial-gradient-1)"/>
+    <path id="Backdrop_dust_1" data-name="Backdrop dust 1" d="M632.9 170.7 C632.9 170.258 633.258 169.9 633.7 169.9 C634.142 169.9 634.5 170.258 634.5 170.7 C634.5 171.142 634.142 171.5 633.7 171.5 C633.258 171.5 632.9 171.142 632.9 170.7 Z" fill="#f6e3b8" opacity="0.14"/>
+    <path id="Backdrop_dust_2" data-name="Backdrop dust 2" d="M208.9 561.35 C208.9 560.936 209.236 560.6 209.65 560.6 C210.064 560.6 210.4 560.936 210.4 561.35 C210.4 561.764 210.064 562.1 209.65 562.1 C209.236 562.1 208.9 561.764 208.9 561.35 Z" fill="#e85a6e" opacity="0.21"/>
+    <path id="Backdrop_dust_3" data-name="Backdrop dust 3" d="M510 649.1 C510 648.548 510.448 648.1 511 648.1 C511.552 648.1 512 648.548 512 649.1 C512 649.652 511.552 650.1 511 650.1 C510.448 650.1 510 649.652 510 649.1 Z" fill="#f6e3b8" opacity="0.19"/>
+    <path id="Backdrop_dust_4" data-name="Backdrop dust 4" d="M158.3 282.6 C158.3 282.158 158.658 281.8 159.1 281.8 C159.542 281.8 159.9 282.158 159.9 282.6 C159.9 283.042 159.542 283.4 159.1 283.4 C158.658 283.4 158.3 283.042 158.3 282.6 Z" fill="#e85a6e" opacity="0.21"/>
+    <path id="Backdrop_dust_5" data-name="Backdrop dust 5" d="M646.5 319.6 C646.5 319.158 646.858 318.8 647.3 318.8 C647.742 318.8 648.1 319.158 648.1 319.6 C648.1 320.042 647.742 320.4 647.3 320.4 C646.858 320.4 646.5 320.042 646.5 319.6 Z" fill="#f6e3b8" opacity="0.09"/>
+    <path id="Backdrop_dust_6" data-name="Backdrop dust 6" d="M698.5 807.65 C698.5 807.015 699.015 806.5 699.65 806.5 C700.285 806.5 700.8 807.015 700.8 807.65 C700.8 808.285 700.285 808.8 699.65 808.8 C699.015 808.8 698.5 808.285 698.5 807.65 Z" fill="#e85a6e" opacity="0.15"/>
+    <path id="Backdrop_dust_7" data-name="Backdrop dust 7" d="M163.3 619.9 C163.3 619.569 163.569 619.3 163.9 619.3 C164.231 619.3 164.5 619.569 164.5 619.9 C164.5 620.231 164.231 620.5 163.9 620.5 C163.569 620.5 163.3 620.231 163.3 619.9 Z" fill="#f6e3b8" opacity="0.17"/>
+    <path id="Backdrop_dust_8" data-name="Backdrop dust 8" d="M409 274.65 C409 274.346 409.246 274.1 409.55 274.1 C409.854 274.1 410.1 274.346 410.1 274.65 C410.1 274.954 409.854 275.2 409.55 275.2 C409.246 275.2 409 274.954 409 274.65 Z" fill="#e85a6e" opacity="0.19"/>
+    <path id="Backdrop_dust_9" data-name="Backdrop dust 9" d="M741.5 496.05 C741.5 495.746 741.746 495.5 742.05 495.5 C742.354 495.5 742.6 495.746 742.6 496.05 C742.6 496.354 742.354 496.6 742.05 496.6 C741.746 496.6 741.5 496.354 741.5 496.05 Z" fill="#f6e3b8" opacity="0.1"/>
+    <path id="Backdrop_dust_10" data-name="Backdrop dust 10" d="M303.3 280.9 C303.3 280.403 303.703 280 304.2 280 C304.697 280 305.1 280.403 305.1 280.9 C305.1 281.397 304.697 281.8 304.2 281.8 C303.703 281.8 303.3 281.397 303.3 280.9 Z" fill="#e85a6e" opacity="0.19"/>
+    <path id="Backdrop_dust_11" data-name="Backdrop dust 11" d="M624.8 88.3 C624.8 87.969 625.069 87.7 625.4 87.7 C625.731 87.7 626 87.969 626 88.3 C626 88.631 625.731 88.9 625.4 88.9 C625.069 88.9 624.8 88.631 624.8 88.3 Z" fill="#f6e3b8" opacity="0.16"/>
+    <path id="Backdrop_dust_12" data-name="Backdrop dust 12" d="M393.3 734.85 C393.3 734.491 393.591 734.2 393.95 734.2 C394.309 734.2 394.6 734.491 394.6 734.85 C394.6 735.209 394.309 735.5 393.95 735.5 C393.591 735.5 393.3 735.209 393.3 734.85 Z" fill="#e85a6e" opacity="0.09"/>
+    <path id="Backdrop_dust_13" data-name="Backdrop dust 13" d="M547.9 403.6 C547.9 403.269 548.169 403 548.5 403 C548.831 403 549.1 403.269 549.1 403.6 C549.1 403.931 548.831 404.2 548.5 404.2 C548.169 404.2 547.9 403.931 547.9 403.6 Z" fill="#f6e3b8" opacity="0.21"/>
+    <path id="Backdrop_dust_14" data-name="Backdrop dust 14" d="M856.8 504.75 C856.8 504.391 857.091 504.1 857.45 504.1 C857.809 504.1 858.1 504.391 858.1 504.75 C858.1 505.109 857.809 505.4 857.45 505.4 C857.091 505.4 856.8 505.109 856.8 504.75 Z" fill="#e85a6e" opacity="0.12"/>
+    <path id="Backdrop_dust_15" data-name="Backdrop dust 15" d="M221.1 287.65 C221.1 287.291 221.391 287 221.75 287 C222.109 287 222.4 287.291 222.4 287.65 C222.4 288.009 222.109 288.3 221.75 288.3 C221.391 288.3 221.1 288.009 221.1 287.65 Z" fill="#f6e3b8" opacity="0.09"/>
+    <path id="Backdrop_dust_16" data-name="Backdrop dust 16" d="M229.1 491.2 C229.1 490.813 229.413 490.5 229.8 490.5 C230.187 490.5 230.5 490.813 230.5 491.2 C230.5 491.587 230.187 491.9 229.8 491.9 C229.413 491.9 229.1 491.587 229.1 491.2 Z" fill="#e85a6e" opacity="0.14"/>
+    <path id="Backdrop_dust_17" data-name="Backdrop dust 17" d="M315.2 745.95 C315.2 745.425 315.625 745 316.15 745 C316.675 745 317.1 745.425 317.1 745.95 C317.1 746.475 316.675 746.9 316.15 746.9 C315.625 746.9 315.2 746.475 315.2 745.95 Z" fill="#f6e3b8" opacity="0.1"/>
+    <path id="Backdrop_dust_18" data-name="Backdrop dust 18" d="M532 219.3 C532 218.913 532.313 218.6 532.7 218.6 C533.087 218.6 533.4 218.913 533.4 219.3 C533.4 219.687 533.087 220 532.7 220 C532.313 220 532 219.687 532 219.3 Z" fill="#e85a6e" opacity="0.15"/>
+    <path id="Backdrop_dust_19" data-name="Backdrop dust 19" d="M112.4 360.1 C112.4 359.603 112.803 359.2 113.3 359.2 C113.797 359.2 114.2 359.603 114.2 360.1 C114.2 360.597 113.797 361 113.3 361 C112.803 361 112.4 360.597 112.4 360.1 Z" fill="#f6e3b8" opacity="0.1"/>
+    <path id="Backdrop_dust_20" data-name="Backdrop dust 20" d="M232.1 323.6 C232.1 323.269 232.369 323 232.7 323 C233.031 323 233.3 323.269 233.3 323.6 C233.3 323.931 233.031 324.2 232.7 324.2 C232.369 324.2 232.1 323.931 232.1 323.6 Z" fill="#e85a6e" opacity="0.18"/>
+    <path id="Backdrop_dust_21" data-name="Backdrop dust 21" d="M623.1 562.95 C623.1 562.646 623.346 562.4 623.65 562.4 C623.954 562.4 624.2 562.646 624.2 562.95 C624.2 563.254 623.954 563.5 623.65 563.5 C623.346 563.5 623.1 563.254 623.1 562.95 Z" fill="#f6e3b8" opacity="0.22"/>
+    <path id="Backdrop_dust_22" data-name="Backdrop dust 22" d="M643.2 173.2 C643.2 172.813 643.513 172.5 643.9 172.5 C644.287 172.5 644.6 172.813 644.6 173.2 C644.6 173.587 644.287 173.9 643.9 173.9 C643.513 173.9 643.2 173.587 643.2 173.2 Z" fill="#e85a6e" opacity="0.09"/>
+    <path id="Backdrop_dust_23" data-name="Backdrop dust 23" d="M388.6 761.85 C388.6 761.325 389.025 760.9 389.55 760.9 C390.075 760.9 390.5 761.325 390.5 761.85 C390.5 762.375 390.075 762.8 389.55 762.8 C389.025 762.8 388.6 762.375 388.6 761.85 Z" fill="#f6e3b8" opacity="0.21"/>
+    <path id="Backdrop_dust_24" data-name="Backdrop dust 24" d="M474.4 369.95 C474.4 369.591 474.691 369.3 475.05 369.3 C475.409 369.3 475.7 369.591 475.7 369.95 C475.7 370.309 475.409 370.6 475.05 370.6 C474.691 370.6 474.4 370.309 474.4 369.95 Z" fill="#e85a6e" opacity="0.19"/>
+    <path id="Backdrop_dust_25" data-name="Backdrop dust 25" d="M674.6 346.55 C674.6 346.081 674.981 345.7 675.45 345.7 C675.919 345.7 676.3 346.081 676.3 346.55 C676.3 347.019 675.919 347.4 675.45 347.4 C674.981 347.4 674.6 347.019 674.6 346.55 Z" fill="#f6e3b8" opacity="0.17"/>
+    <path id="Backdrop_dust_26" data-name="Backdrop dust 26" d="M690.9 531 C690.9 530.724 691.124 530.5 691.4 530.5 C691.676 530.5 691.9 530.724 691.9 531 C691.9 531.276 691.676 531.5 691.4 531.5 C691.124 531.5 690.9 531.276 690.9 531 Z" fill="#e85a6e" opacity="0.13"/>
+    <path id="Backdrop_dust_27" data-name="Backdrop dust 27" d="M629.1 95.6 C629.1 95.158 629.458 94.8 629.9 94.8 C630.342 94.8 630.7 95.158 630.7 95.6 C630.7 96.042 630.342 96.4 629.9 96.4 C629.458 96.4 629.1 96.042 629.1 95.6 Z" fill="#f6e3b8" opacity="0.2"/>
+    <path id="Backdrop_dust_28" data-name="Backdrop dust 28" d="M762.1 679.75 C762.1 679.391 762.391 679.1 762.75 679.1 C763.109 679.1 763.4 679.391 763.4 679.75 C763.4 680.109 763.109 680.4 762.75 680.4 C762.391 680.4 762.1 680.109 762.1 679.75 Z" fill="#e85a6e" opacity="0.12"/>
+    <path id="Backdrop_dust_29" data-name="Backdrop dust 29" d="M859.5 293.3 C859.5 292.803 859.903 292.4 860.4 292.4 C860.897 292.4 861.3 292.803 861.3 293.3 C861.3 293.797 860.897 294.2 860.4 294.2 C859.903 294.2 859.5 293.797 859.5 293.3 Z" fill="#f6e3b8" opacity="0.15"/>
+    <path id="Backdrop_dust_30" data-name="Backdrop dust 30" d="M280.7 156.7 C280.7 156.313 281.013 156 281.4 156 C281.787 156 282.1 156.313 282.1 156.7 C282.1 157.087 281.787 157.4 281.4 157.4 C281.013 157.4 280.7 157.087 280.7 156.7 Z" fill="#e85a6e" opacity="0.19"/>
+    <path id="Backdrop_dust_31" data-name="Backdrop dust 31" d="M245.6 270.2 C245.6 269.703 246.003 269.3 246.5 269.3 C246.997 269.3 247.4 269.703 247.4 270.2 C247.4 270.697 246.997 271.1 246.5 271.1 C246.003 271.1 245.6 270.697 245.6 270.2 Z" fill="#f6e3b8" opacity="0.11"/>
+    <path id="Backdrop_dust_32" data-name="Backdrop dust 32" d="M143.3 436.5 C143.3 436.113 143.613 435.8 144 435.8 C144.387 435.8 144.7 436.113 144.7 436.5 C144.7 436.887 144.387 437.2 144 437.2 C143.613 437.2 143.3 436.887 143.3 436.5 Z" fill="#e85a6e" opacity="0.16"/>
+    <path id="Backdrop_dust_33" data-name="Backdrop dust 33" d="M534.6 589.25 C534.6 588.946 534.846 588.7 535.15 588.7 C535.454 588.7 535.7 588.946 535.7 589.25 C535.7 589.554 535.454 589.8 535.15 589.8 C534.846 589.8 534.6 589.554 534.6 589.25 Z" fill="#f6e3b8" opacity="0.21"/>
+    <path id="Backdrop_dust_34" data-name="Backdrop dust 34" d="M112.4 544.15 C112.4 543.515 112.915 543 113.55 543 C114.185 543 114.7 543.515 114.7 544.15 C114.7 544.785 114.185 545.3 113.55 545.3 C112.915 545.3 112.4 544.785 112.4 544.15 Z" fill="#e85a6e" opacity="0.12"/>
+    <path id="Backdrop_dust_35" data-name="Backdrop dust 35" d="M415.3 818.05 C415.3 817.691 415.591 817.4 415.95 817.4 C416.309 817.4 416.6 817.691 416.6 818.05 C416.6 818.409 416.309 818.7 415.95 818.7 C415.591 818.7 415.3 818.409 415.3 818.05 Z" fill="#f6e3b8" opacity="0.12"/>
+    <path id="Backdrop_dust_36" data-name="Backdrop dust 36" d="M148.2 471.5 C148.2 471.113 148.513 470.8 148.9 470.8 C149.287 470.8 149.6 471.113 149.6 471.5 C149.6 471.887 149.287 472.2 148.9 472.2 C148.513 472.2 148.2 471.887 148.2 471.5 Z" fill="#e85a6e" opacity="0.18"/>
+    <path id="Backdrop_dust_37" data-name="Backdrop dust 37" d="M714 429.45 C714 429.146 714.246 428.9 714.55 428.9 C714.854 428.9 715.1 429.146 715.1 429.45 C715.1 429.754 714.854 430 714.55 430 C714.246 430 714 429.754 714 429.45 Z" fill="#f6e3b8" opacity="0.08"/>
+    <path id="Backdrop_dust_38" data-name="Backdrop dust 38" d="M185.7 646.9 C185.7 646.513 186.013 646.2 186.4 646.2 C186.787 646.2 187.1 646.513 187.1 646.9 C187.1 647.287 186.787 647.6 186.4 647.6 C186.013 647.6 185.7 647.287 185.7 646.9 Z" fill="#e85a6e" opacity="0.13"/>
+    <path id="Backdrop_dust_39" data-name="Backdrop dust 39" d="M708.1 138.75 C708.1 138.446 708.346 138.2 708.65 138.2 C708.954 138.2 709.2 138.446 709.2 138.75 C709.2 139.054 708.954 139.3 708.65 139.3 C708.346 139.3 708.1 139.054 708.1 138.75 Z" fill="#f6e3b8" opacity="0.09"/>
+    <path id="Backdrop_dust_40" data-name="Backdrop dust 40" d="M689.1 308.85 C689.1 308.436 689.436 308.1 689.85 308.1 C690.264 308.1 690.6 308.436 690.6 308.85 C690.6 309.264 690.264 309.6 689.85 309.6 C689.436 309.6 689.1 309.264 689.1 308.85 Z" fill="#e85a6e" opacity="0.1"/>
+    <path id="Plate_shadow" data-name="Plate shadow" d="M86 466 C86 237.354 271.354 52 500 52 C728.646 52 914 237.354 914 466 C914 694.646 728.646 880 500 880 C271.354 880 86 694.646 86 466 Z" fill="#1d1216" opacity="0.3"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#linear-gradient-2)" stroke="#380e1e" stroke-width="10" stroke-miterlimit="10"/>
+    <path id="Plate_rim" data-name="Plate rim" d="M86 460 C86 231.354 271.354 46 500 46 C728.646 46 914 231.354 914 460 C914 688.646 728.646 874 500 874 C271.354 874 86 688.646 86 460 Z" fill="none" stroke="#e8c074" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M110 460 C110 244.609 284.609 70 500 70 C715.391 70 890 244.609 890 460 C890 675.391 715.391 850 500 850 C284.609 850 110 675.391 110 460 Z" fill="none" stroke="#e8c074" stroke-width="2" stroke-miterlimit="10" opacity="0.62"/>
+    <path id="Disc_dust_1" data-name="Disc dust 1" d="M429.8 203.55 C429.8 203.081 430.181 202.7 430.65 202.7 C431.119 202.7 431.5 203.081 431.5 203.55 C431.5 204.019 431.119 204.4 430.65 204.4 C430.181 204.4 429.8 204.019 429.8 203.55 Z" fill="#f6e3b8" opacity="0.2"/>
+    <path id="Disc_dust_2" data-name="Disc dust 2" d="M455.5 235.4 C455.5 234.737 456.037 234.2 456.7 234.2 C457.363 234.2 457.9 234.737 457.9 235.4 C457.9 236.063 457.363 236.6 456.7 236.6 C456.037 236.6 455.5 236.063 455.5 235.4 Z" fill="#f2a33c" opacity="0.27"/>
+    <path id="Disc_dust_3" data-name="Disc dust 3" d="M509.5 665.2 C509.5 664.924 509.724 664.7 510 664.7 C510.276 664.7 510.5 664.924 510.5 665.2 C510.5 665.476 510.276 665.7 510 665.7 C509.724 665.7 509.5 665.476 509.5 665.2 Z" fill="#e85a6e" opacity="0.15"/>
+    <path id="Disc_dust_4" data-name="Disc dust 4" d="M484.7 229.15 C484.7 228.46 485.26 227.9 485.95 227.9 C486.64 227.9 487.2 228.46 487.2 229.15 C487.2 229.84 486.64 230.4 485.95 230.4 C485.26 230.4 484.7 229.84 484.7 229.15 Z" fill="#f6e3b8" opacity="0.28"/>
+    <path id="Disc_dust_5" data-name="Disc dust 5" d="M347.4 233.6 C347.4 233.324 347.624 233.1 347.9 233.1 C348.176 233.1 348.4 233.324 348.4 233.6 C348.4 233.876 348.176 234.1 347.9 234.1 C347.624 234.1 347.4 233.876 347.4 233.6 Z" fill="#f2a33c" opacity="0.13"/>
+    <path id="Disc_dust_6" data-name="Disc dust 6" d="M205.3 280.35 C205.3 279.77 205.77 279.3 206.35 279.3 C206.93 279.3 207.4 279.77 207.4 280.35 C207.4 280.93 206.93 281.4 206.35 281.4 C205.77 281.4 205.3 280.93 205.3 280.35 Z" fill="#e85a6e" opacity="0.22"/>
+    <path id="Disc_dust_7" data-name="Disc dust 7" d="M347.3 469.25 C347.3 468.67 347.77 468.2 348.35 468.2 C348.93 468.2 349.4 468.67 349.4 469.25 C349.4 469.83 348.93 470.3 348.35 470.3 C347.77 470.3 347.3 469.83 347.3 469.25 Z" fill="#f6e3b8" opacity="0.12"/>
+    <path id="Disc_dust_8" data-name="Disc dust 8" d="M488.2 225.55 C488.2 224.86 488.76 224.3 489.45 224.3 C490.14 224.3 490.7 224.86 490.7 225.55 C490.7 226.24 490.14 226.8 489.45 226.8 C488.76 226.8 488.2 226.24 488.2 225.55 Z" fill="#f2a33c" opacity="0.12"/>
+    <path id="Disc_dust_9" data-name="Disc dust 9" d="M200.9 621.25 C200.9 620.449 201.549 619.8 202.35 619.8 C203.151 619.8 203.8 620.449 203.8 621.25 C203.8 622.051 203.151 622.7 202.35 622.7 C201.549 622.7 200.9 622.051 200.9 621.25 Z" fill="#e85a6e" opacity="0.27"/>
+    <path id="Disc_dust_10" data-name="Disc dust 10" d="M258 216.95 C258 216.425 258.425 216 258.95 216 C259.475 216 259.9 216.425 259.9 216.95 C259.9 217.475 259.475 217.9 258.95 217.9 C258.425 217.9 258 217.475 258 216.95 Z" fill="#f6e3b8" opacity="0.16"/>
+    <path id="Disc_dust_11" data-name="Disc dust 11" d="M585.6 770.7 C585.6 770.369 585.869 770.1 586.2 770.1 C586.531 770.1 586.8 770.369 586.8 770.7 C586.8 771.031 586.531 771.3 586.2 771.3 C585.869 771.3 585.6 771.031 585.6 770.7 Z" fill="#f2a33c" opacity="0.14"/>
+    <path id="Disc_dust_12" data-name="Disc dust 12" d="M461.3 184.5 C461.3 184.058 461.658 183.7 462.1 183.7 C462.542 183.7 462.9 184.058 462.9 184.5 C462.9 184.942 462.542 185.3 462.1 185.3 C461.658 185.3 461.3 184.942 461.3 184.5 Z" fill="#e85a6e" opacity="0.21"/>
+    <path id="Disc_dust_13" data-name="Disc dust 13" d="M792 487 C792 486.337 792.537 485.8 793.2 485.8 C793.863 485.8 794.4 486.337 794.4 487 C794.4 487.663 793.863 488.2 793.2 488.2 C792.537 488.2 792 487.663 792 487 Z" fill="#f6e3b8" opacity="0.26"/>
+    <path id="Disc_dust_14" data-name="Disc dust 14" d="M723.9 695 C723.9 694.503 724.303 694.1 724.8 694.1 C725.297 694.1 725.7 694.503 725.7 695 C725.7 695.497 725.297 695.9 724.8 695.9 C724.303 695.9 723.9 695.497 723.9 695 Z" fill="#f2a33c" opacity="0.21"/>
+    <path id="Disc_dust_15" data-name="Disc dust 15" d="M702.3 644.9 C702.3 644.292 702.792 643.8 703.4 643.8 C704.008 643.8 704.5 644.292 704.5 644.9 C704.5 645.508 704.008 646 703.4 646 C702.792 646 702.3 645.508 702.3 644.9 Z" fill="#e85a6e" opacity="0.24"/>
+    <path id="Disc_dust_16" data-name="Disc dust 16" d="M264 691.2 C264 690.703 264.403 690.3 264.9 690.3 C265.397 690.3 265.8 690.703 265.8 691.2 C265.8 691.697 265.397 692.1 264.9 692.1 C264.403 692.1 264 691.697 264 691.2 Z" fill="#f6e3b8" opacity="0.1"/>
+    <path id="Disc_dust_17" data-name="Disc dust 17" d="M615.2 437.5 C615.2 436.892 615.692 436.4 616.3 436.4 C616.908 436.4 617.4 436.892 617.4 437.5 C617.4 438.108 616.908 438.6 616.3 438.6 C615.692 438.6 615.2 438.108 615.2 437.5 Z" fill="#f2a33c" opacity="0.15"/>
+    <path id="Disc_dust_18" data-name="Disc dust 18" d="M509.9 123.9 C509.9 123.182 510.482 122.6 511.2 122.6 C511.918 122.6 512.5 123.182 512.5 123.9 C512.5 124.618 511.918 125.2 511.2 125.2 C510.482 125.2 509.9 124.618 509.9 123.9 Z" fill="#e85a6e" opacity="0.12"/>
+    <path id="Disc_dust_19" data-name="Disc dust 19" d="M346 232.35 C346 231.77 346.47 231.3 347.05 231.3 C347.63 231.3 348.1 231.77 348.1 232.35 C348.1 232.93 347.63 233.4 347.05 233.4 C346.47 233.4 346 232.93 346 232.35 Z" fill="#f6e3b8" opacity="0.16"/>
+    <path id="Disc_dust_20" data-name="Disc dust 20" d="M633.2 386 C633.2 385.724 633.424 385.5 633.7 385.5 C633.976 385.5 634.2 385.724 634.2 386 C634.2 386.276 633.976 386.5 633.7 386.5 C633.424 386.5 633.2 386.276 633.2 386 Z" fill="#f2a33c" opacity="0.24"/>
+    <path id="Disc_dust_21" data-name="Disc dust 21" d="M462.5 293.65 C462.5 293.346 462.746 293.1 463.05 293.1 C463.354 293.1 463.6 293.346 463.6 293.65 C463.6 293.954 463.354 294.2 463.05 294.2 C462.746 294.2 462.5 293.954 462.5 293.65 Z" fill="#e85a6e" opacity="0.24"/>
+    <path id="Disc_dust_22" data-name="Disc dust 22" d="M785.9 266.1 C785.9 265.492 786.392 265 787 265 C787.608 265 788.1 265.492 788.1 266.1 C788.1 266.708 787.608 267.2 787 267.2 C786.392 267.2 785.9 266.708 785.9 266.1 Z" fill="#f6e3b8" opacity="0.22"/>
+    <path id="Disc_dust_23" data-name="Disc dust 23" d="M319.4 741.5 C319.4 741.113 319.713 740.8 320.1 740.8 C320.487 740.8 320.8 741.113 320.8 741.5 C320.8 741.887 320.487 742.2 320.1 742.2 C319.713 742.2 319.4 741.887 319.4 741.5 Z" fill="#f2a33c" opacity="0.19"/>
+    <path id="Disc_dust_24" data-name="Disc dust 24" d="M365.1 444.65 C365.1 444.015 365.615 443.5 366.25 443.5 C366.885 443.5 367.4 444.015 367.4 444.65 C367.4 445.285 366.885 445.8 366.25 445.8 C365.615 445.8 365.1 445.285 365.1 444.65 Z" fill="#e85a6e" opacity="0.15"/>
+    <path id="Disc_dust_25" data-name="Disc dust 25" d="M713.1 393.95 C713.1 393.646 713.346 393.4 713.65 393.4 C713.954 393.4 714.2 393.646 714.2 393.95 C714.2 394.254 713.954 394.5 713.65 394.5 C713.346 394.5 713.1 394.254 713.1 393.95 Z" fill="#f6e3b8" opacity="0.13"/>
+    <path id="Disc_dust_26" data-name="Disc dust 26" d="M665.8 571.7 C665.8 570.872 666.472 570.2 667.3 570.2 C668.128 570.2 668.8 570.872 668.8 571.7 C668.8 572.528 668.128 573.2 667.3 573.2 C666.472 573.2 665.8 572.528 665.8 571.7 Z" fill="#f2a33c" opacity="0.25"/>
+    <path id="Disc_dust_27" data-name="Disc dust 27" d="M627 631.95 C627 631.646 627.246 631.4 627.55 631.4 C627.854 631.4 628.1 631.646 628.1 631.95 C628.1 632.254 627.854 632.5 627.55 632.5 C627.246 632.5 627 632.254 627 631.95 Z" fill="#e85a6e" opacity="0.12"/>
+    <path id="Disc_dust_28" data-name="Disc dust 28" d="M254 181.35 C254 180.825 254.425 180.4 254.95 180.4 C255.475 180.4 255.9 180.825 255.9 181.35 C255.9 181.875 255.475 182.3 254.95 182.3 C254.425 182.3 254 181.875 254 181.35 Z" fill="#f6e3b8" opacity="0.24"/>
+    <path id="Disc_dust_29" data-name="Disc dust 29" d="M752.5 504.95 C752.5 504.481 752.881 504.1 753.35 504.1 C753.819 504.1 754.2 504.481 754.2 504.95 C754.2 505.419 753.819 505.8 753.35 505.8 C752.881 505.8 752.5 505.419 752.5 504.95 Z" fill="#f2a33c" opacity="0.12"/>
+    <path id="Disc_dust_30" data-name="Disc dust 30" d="M461.2 533.9 C461.2 533.292 461.692 532.8 462.3 532.8 C462.908 532.8 463.4 533.292 463.4 533.9 C463.4 534.508 462.908 535 462.3 535 C461.692 535 461.2 534.508 461.2 533.9 Z" fill="#e85a6e" opacity="0.25"/>
+    <path id="Disc_dust_31" data-name="Disc dust 31" d="M630.3 352.65 C630.3 352.346 630.546 352.1 630.85 352.1 C631.154 352.1 631.4 352.346 631.4 352.65 C631.4 352.954 631.154 353.2 630.85 353.2 C630.546 353.2 630.3 352.954 630.3 352.65 Z" fill="#f6e3b8" opacity="0.26"/>
+    <path id="Disc_dust_32" data-name="Disc dust 32" d="M226 629.75 C226 629.004 226.604 628.4 227.35 628.4 C228.096 628.4 228.7 629.004 228.7 629.75 C228.7 630.496 228.096 631.1 227.35 631.1 C226.604 631.1 226 630.496 226 629.75 Z" fill="#f2a33c" opacity="0.12"/>
+    <path id="Disc_dust_33" data-name="Disc dust 33" d="M370.4 779.65 C370.4 779.346 370.646 779.1 370.95 779.1 C371.254 779.1 371.5 779.346 371.5 779.65 C371.5 779.954 371.254 780.2 370.95 780.2 C370.646 780.2 370.4 779.954 370.4 779.65 Z" fill="#e85a6e" opacity="0.16"/>
+    <path id="Disc_dust_34" data-name="Disc dust 34" d="M286.1 500.95 C286.1 500.149 286.749 499.5 287.55 499.5 C288.351 499.5 289 500.149 289 500.95 C289 501.751 288.351 502.4 287.55 502.4 C286.749 502.4 286.1 501.751 286.1 500.95 Z" fill="#f6e3b8" opacity="0.22"/>
+    <path id="Disc_dust_35" data-name="Disc dust 35" d="M364.3 377.25 C364.3 376.836 364.636 376.5 365.05 376.5 C365.464 376.5 365.8 376.836 365.8 377.25 C365.8 377.664 365.464 378 365.05 378 C364.636 378 364.3 377.664 364.3 377.25 Z" fill="#f2a33c" opacity="0.15"/>
+    <path id="Disc_dust_36" data-name="Disc dust 36" d="M722.7 517.6 C722.7 516.882 723.282 516.3 724 516.3 C724.718 516.3 725.3 516.882 725.3 517.6 C725.3 518.318 724.718 518.9 724 518.9 C723.282 518.9 722.7 518.318 722.7 517.6 Z" fill="#e85a6e" opacity="0.23"/>
+    <path id="Disc_dust_37" data-name="Disc dust 37" d="M169.1 313 C169.1 312.227 169.727 311.6 170.5 311.6 C171.273 311.6 171.9 312.227 171.9 313 C171.9 313.773 171.273 314.4 170.5 314.4 C169.727 314.4 169.1 313.773 169.1 313 Z" fill="#f6e3b8" opacity="0.14"/>
+    <path id="Disc_dust_38" data-name="Disc dust 38" d="M335.5 267.2 C335.5 266.537 336.037 266 336.7 266 C337.363 266 337.9 266.537 337.9 267.2 C337.9 267.863 337.363 268.4 336.7 268.4 C336.037 268.4 335.5 267.863 335.5 267.2 Z" fill="#f2a33c" opacity="0.23"/>
+    <path id="Disc_dust_39" data-name="Disc dust 39" d="M672.8 196.65 C672.8 195.904 673.404 195.3 674.15 195.3 C674.896 195.3 675.5 195.904 675.5 196.65 C675.5 197.396 674.896 198 674.15 198 C673.404 198 672.8 197.396 672.8 196.65 Z" fill="#e85a6e" opacity="0.22"/>
+    <path id="Disc_dust_40" data-name="Disc dust 40" d="M665.5 667.3 C665.5 666.969 665.769 666.7 666.1 666.7 C666.431 666.7 666.7 666.969 666.7 667.3 C666.7 667.631 666.431 667.9 666.1 667.9 C665.769 667.9 665.5 667.631 665.5 667.3 Z" fill="#f6e3b8" opacity="0.18"/>
+    <path id="Disc_dust_41" data-name="Disc dust 41" d="M405.4 625.4 C405.4 624.792 405.892 624.3 406.5 624.3 C407.108 624.3 407.6 624.792 407.6 625.4 C407.6 626.008 407.108 626.5 406.5 626.5 C405.892 626.5 405.4 626.008 405.4 625.4 Z" fill="#f2a33c" opacity="0.25"/>
+    <path id="Disc_dust_42" data-name="Disc dust 42" d="M170.2 339.3 C170.2 338.913 170.513 338.6 170.9 338.6 C171.287 338.6 171.6 338.913 171.6 339.3 C171.6 339.687 171.287 340 170.9 340 C170.513 340 170.2 339.687 170.2 339.3 Z" fill="#e85a6e" opacity="0.24"/>
+    <path id="Disc_dust_43" data-name="Disc dust 43" d="M555.5 760.15 C555.5 759.349 556.149 758.7 556.95 758.7 C557.751 758.7 558.4 759.349 558.4 760.15 C558.4 760.951 557.751 761.6 556.95 761.6 C556.149 761.6 555.5 760.951 555.5 760.15 Z" fill="#f6e3b8" opacity="0.24"/>
+    <path id="Disc_dust_44" data-name="Disc dust 44" d="M552.8 527.65 C552.8 526.904 553.404 526.3 554.15 526.3 C554.896 526.3 555.5 526.904 555.5 527.65 C555.5 528.396 554.896 529 554.15 529 C553.404 529 552.8 528.396 552.8 527.65 Z" fill="#f2a33c" opacity="0.17"/>
+    <path id="Disc_dust_45" data-name="Disc dust 45" d="M433.3 720.1 C433.3 719.713 433.613 719.4 434 719.4 C434.387 719.4 434.7 719.713 434.7 720.1 C434.7 720.487 434.387 720.8 434 720.8 C433.613 720.8 433.3 720.487 433.3 720.1 Z" fill="#e85a6e" opacity="0.23"/>
+    <path id="Disc_dust_46" data-name="Disc dust 46" d="M829.5 327 C829.5 326.337 830.037 325.8 830.7 325.8 C831.363 325.8 831.9 326.337 831.9 327 C831.9 327.663 831.363 328.2 830.7 328.2 C830.037 328.2 829.5 327.663 829.5 327 Z" fill="#f6e3b8" opacity="0.23"/>
+    <path id="Disc_dust_47" data-name="Disc dust 47" d="M315.6 296 C315.6 295.448 316.048 295 316.6 295 C317.152 295 317.6 295.448 317.6 296 C317.6 296.552 317.152 297 316.6 297 C316.048 297 315.6 296.552 315.6 296 Z" fill="#f2a33c" opacity="0.27"/>
+    <path id="Disc_dust_48" data-name="Disc dust 48" d="M322.7 241.75 C322.7 241.004 323.304 240.4 324.05 240.4 C324.796 240.4 325.4 241.004 325.4 241.75 C325.4 242.496 324.796 243.1 324.05 243.1 C323.304 243.1 322.7 242.496 322.7 241.75 Z" fill="#e85a6e" opacity="0.27"/>
+    <path id="Disc_dust_49" data-name="Disc dust 49" d="M264.6 160.3 C264.6 159.692 265.092 159.2 265.7 159.2 C266.308 159.2 266.8 159.692 266.8 160.3 C266.8 160.908 266.308 161.4 265.7 161.4 C265.092 161.4 264.6 160.908 264.6 160.3 Z" fill="#f6e3b8" opacity="0.26"/>
+    <path id="Disc_dust_50" data-name="Disc dust 50" d="M716.2 224.85 C716.2 224.104 716.804 223.5 717.55 223.5 C718.296 223.5 718.9 224.104 718.9 224.85 C718.9 225.596 718.296 226.2 717.55 226.2 C716.804 226.2 716.2 225.596 716.2 224.85 Z" fill="#f2a33c" opacity="0.23"/>
+    <path id="Disc_dust_51" data-name="Disc dust 51" d="M294.9 222.5 C294.9 222.224 295.124 222 295.4 222 C295.676 222 295.9 222.224 295.9 222.5 C295.9 222.776 295.676 223 295.4 223 C295.124 223 294.9 222.776 294.9 222.5 Z" fill="#e85a6e" opacity="0.23"/>
+    <path id="Disc_dust_52" data-name="Disc dust 52" d="M577.5 189.2 C577.5 188.427 578.127 187.8 578.9 187.8 C579.673 187.8 580.3 188.427 580.3 189.2 C580.3 189.973 579.673 190.6 578.9 190.6 C578.127 190.6 577.5 189.973 577.5 189.2 Z" fill="#f6e3b8" opacity="0.16"/>
+    <path id="Disc_dust_53" data-name="Disc dust 53" d="M154.8 465 C154.8 464.337 155.337 463.8 156 463.8 C156.663 463.8 157.2 464.337 157.2 465 C157.2 465.663 156.663 466.2 156 466.2 C155.337 466.2 154.8 465.663 154.8 465 Z" fill="#f2a33c" opacity="0.18"/>
+    <path id="Disc_dust_54" data-name="Disc dust 54" d="M582.7 605.05 C582.7 604.249 583.349 603.6 584.15 603.6 C584.951 603.6 585.6 604.249 585.6 605.05 C585.6 605.851 584.951 606.5 584.15 606.5 C583.349 606.5 582.7 605.851 582.7 605.05 Z" fill="#e85a6e" opacity="0.25"/>
+    <path id="Disc_dust_55" data-name="Disc dust 55" d="M646.8 434.05 C646.8 433.304 647.404 432.7 648.15 432.7 C648.896 432.7 649.5 433.304 649.5 434.05 C649.5 434.796 648.896 435.4 648.15 435.4 C647.404 435.4 646.8 434.796 646.8 434.05 Z" fill="#f6e3b8" opacity="0.27"/>
+    <path id="Disc_dust_56" data-name="Disc dust 56" d="M354.8 131.4 C354.8 130.958 355.158 130.6 355.6 130.6 C356.042 130.6 356.4 130.958 356.4 131.4 C356.4 131.842 356.042 132.2 355.6 132.2 C355.158 132.2 354.8 131.842 354.8 131.4 Z" fill="#f2a33c" opacity="0.27"/>
+    <path id="Disc_dust_57" data-name="Disc dust 57" d="M554.4 769.4 C554.4 769.069 554.669 768.8 555 768.8 C555.331 768.8 555.6 769.069 555.6 769.4 C555.6 769.731 555.331 770 555 770 C554.669 770 554.4 769.731 554.4 769.4 Z" fill="#e85a6e" opacity="0.25"/>
+    <path id="Disc_dust_58" data-name="Disc dust 58" d="M538.6 116.7 C538.6 116.148 539.048 115.7 539.6 115.7 C540.152 115.7 540.6 116.148 540.6 116.7 C540.6 117.252 540.152 117.7 539.6 117.7 C539.048 117.7 538.6 117.252 538.6 116.7 Z" fill="#f6e3b8" opacity="0.1"/>
+    <path id="Disc_dust_59" data-name="Disc dust 59" d="M544.6 130.35 C544.6 129.825 545.025 129.4 545.55 129.4 C546.075 129.4 546.5 129.825 546.5 130.35 C546.5 130.875 546.075 131.3 545.55 131.3 C545.025 131.3 544.6 130.875 544.6 130.35 Z" fill="#f2a33c" opacity="0.19"/>
+    <path id="Disc_dust_60" data-name="Disc dust 60" d="M428.8 271.1 C428.8 270.272 429.472 269.6 430.3 269.6 C431.128 269.6 431.8 270.272 431.8 271.1 C431.8 271.928 431.128 272.6 430.3 272.6 C429.472 272.6 428.8 271.928 428.8 271.1 Z" fill="#e85a6e" opacity="0.24"/>
+    <path id="Rim_relight" data-name="Rim relight" d="M86 460 C86 231.354 271.354 46 500 46 C728.646 46 914 231.354 914 460 C914 688.646 728.646 874 500 874 C271.354 874 86 688.646 86 460 Z" fill="none" stroke="url(#linear-gradient-3)" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Tick_1" data-name="Tick 1" d="M500 82 L500 64" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_2" data-name="Tick 2" d="M597.8 94.9 L602.5 77.5" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_3" data-name="Tick 3" d="M689 132.6 L698 117.1" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_4" data-name="Tick 4" d="M767.3 192.7 L780 180" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_5" data-name="Tick 5" d="M827.4 271 L842.9 262" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_6" data-name="Tick 6" d="M865.1 362.2 L882.5 357.5" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_7" data-name="Tick 7" d="M878 460 L896 460" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_8" data-name="Tick 8" d="M865.1 557.8 L882.5 562.5" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_9" data-name="Tick 9" d="M827.4 649 L842.9 658" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_10" data-name="Tick 10" d="M767.3 727.3 L780 740" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_11" data-name="Tick 11" d="M689 787.4 L698 802.9" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_12" data-name="Tick 12" d="M597.8 825.1 L602.5 842.5" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_13" data-name="Tick 13" d="M500 838 L500 856" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_14" data-name="Tick 14" d="M402.2 825.1 L397.5 842.5" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_15" data-name="Tick 15" d="M311 787.4 L302 802.9" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_16" data-name="Tick 16" d="M232.7 727.3 L220 740" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_17" data-name="Tick 17" d="M172.6 649 L157.1 658" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_18" data-name="Tick 18" d="M134.9 557.8 L117.5 562.5" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_19" data-name="Tick 19" d="M122 460 L104 460" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_20" data-name="Tick 20" d="M134.9 362.2 L117.5 357.5" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_21" data-name="Tick 21" d="M172.6 271 L157.1 262" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_22" data-name="Tick 22" d="M232.7 192.7 L220 180" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_23" data-name="Tick 23" d="M311 132.6 L302 117.1" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_24" data-name="Tick 24" d="M402.2 94.9 L397.5 77.5" fill="none" stroke="#b08656" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Rakhi_glow" data-name="Rakhi glow" d="M228 408 C228 280.975 330.975 178 458 178 C585.025 178 688 280.975 688 408 C688 535.025 585.025 638 458 638 C330.975 638 228 535.025 228 408 Z" fill="url(#radial-gradient-2)"/>
+    <path id="Rakhi_shadow" data-name="Rakhi shadow" d="M286 581 C286 555.043 363.007 534 458 534 C552.993 534 630 555.043 630 581 C630 606.957 552.993 628 458 628 C363.007 628 286 606.957 286 581 Z" fill="url(#radial-gradient-3)"/>
+    <path id="Rakhi_loop_1" data-name="Rakhi loop 1" d="M524 408 C546.4 419 581.6 414.8 604 408 C581.6 401.2 546.4 397 524 408 Z" fill="url(#linear-gradient-4)" stroke="#6e4a1a" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_2" data-name="Rakhi loop 2" d="M522.1 423.8 C541.2 439.8 576.4 444.2 599.8 442.9 C579.6 431 546.5 418.5 522.1 423.8 Z" fill="url(#linear-gradient-5)" stroke="#6e1428" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_3" data-name="Rakhi loop 3" d="M516.4 438.7 C531.2 458.8 564.3 471.5 587.3 475.8 C570.6 459.4 541.4 439.3 516.4 438.7 Z" fill="url(#linear-gradient-4)" stroke="#6e4a1a" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_4" data-name="Rakhi loop 4" d="M507.4 451.8 C516.9 474.9 546 495.1 567.3 504.8 C555 484.9 531.5 458.4 507.4 451.8 Z" fill="url(#linear-gradient-5)" stroke="#6e1428" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_5" data-name="Rakhi loop 5" d="M495.5 462.3 C499.2 487 522.6 513.6 540.9 528.2 C533.8 505.8 517.3 474.5 495.5 462.3 Z" fill="url(#linear-gradient-4)" stroke="#6e4a1a" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_6" data-name="Rakhi loop 6" d="M481.4 469.7 C479.1 494.6 495.5 526 509.8 544.5 C508.2 521.1 499.6 486.8 481.4 469.7 Z" fill="url(#linear-gradient-5)" stroke="#6e1428" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_7" data-name="Rakhi loop 7" d="M466 473.5 C457.7 497.1 466.1 531.5 475.6 552.9 C479.7 529.9 479.6 494.4 466 473.5 Z" fill="url(#linear-gradient-4)" stroke="#6e4a1a" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_8" data-name="Rakhi loop 8" d="M450 473.5 C436.4 494.4 436.3 529.9 440.4 552.9 C449.9 531.5 458.3 497.1 450 473.5 Z" fill="url(#linear-gradient-5)" stroke="#6e1428" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_9" data-name="Rakhi loop 9" d="M434.6 469.7 C416.4 486.8 407.8 521.1 406.2 544.5 C420.5 526 436.9 494.6 434.6 469.7 Z" fill="url(#linear-gradient-4)" stroke="#6e4a1a" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_10" data-name="Rakhi loop 10" d="M420.5 462.3 C398.7 474.5 382.2 505.8 375.1 528.2 C393.4 513.6 416.8 487 420.5 462.3 Z" fill="url(#linear-gradient-5)" stroke="#6e1428" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_11" data-name="Rakhi loop 11" d="M408.6 451.8 C384.5 458.4 361 484.9 348.7 504.8 C370 495.1 399.1 474.9 408.6 451.8 Z" fill="url(#linear-gradient-4)" stroke="#6e4a1a" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_12" data-name="Rakhi loop 12" d="M399.6 438.7 C374.6 439.3 345.4 459.4 328.7 475.8 C351.7 471.5 384.8 458.8 399.6 438.7 Z" fill="url(#linear-gradient-5)" stroke="#6e1428" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_13" data-name="Rakhi loop 13" d="M393.9 423.8 C369.5 418.5 336.4 431 316.2 442.9 C339.6 444.2 374.8 439.8 393.9 423.8 Z" fill="url(#linear-gradient-4)" stroke="#6e4a1a" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_14" data-name="Rakhi loop 14" d="M392 408 C369.6 397 334.4 401.2 312 408 C334.4 414.8 369.6 419 392 408 Z" fill="url(#linear-gradient-5)" stroke="#6e1428" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_15" data-name="Rakhi loop 15" d="M393.9 392.2 C374.8 376.2 339.6 371.8 316.2 373.1 C336.4 385 369.5 397.5 393.9 392.2 Z" fill="url(#linear-gradient-4)" stroke="#6e4a1a" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_16" data-name="Rakhi loop 16" d="M399.6 377.3 C384.8 357.2 351.7 344.5 328.7 340.2 C345.4 356.6 374.6 376.7 399.6 377.3 Z" fill="url(#linear-gradient-5)" stroke="#6e1428" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_17" data-name="Rakhi loop 17" d="M408.6 364.2 C399.1 341.1 370 320.9 348.7 311.2 C361 331.1 384.5 357.6 408.6 364.2 Z" fill="url(#linear-gradient-4)" stroke="#6e4a1a" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_18" data-name="Rakhi loop 18" d="M420.5 353.7 C416.8 329 393.4 302.4 375.1 287.8 C382.2 310.2 398.7 341.5 420.5 353.7 Z" fill="url(#linear-gradient-5)" stroke="#6e1428" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_19" data-name="Rakhi loop 19" d="M434.6 346.3 C436.9 321.4 420.5 290 406.2 271.5 C407.8 294.9 416.4 329.2 434.6 346.3 Z" fill="url(#linear-gradient-4)" stroke="#6e4a1a" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_20" data-name="Rakhi loop 20" d="M450 342.5 C458.3 318.9 449.9 284.5 440.4 263.1 C436.3 286.1 436.4 321.6 450 342.5 Z" fill="url(#linear-gradient-5)" stroke="#6e1428" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_21" data-name="Rakhi loop 21" d="M466 342.5 C479.6 321.6 479.7 286.1 475.6 263.1 C466.1 284.5 457.7 318.9 466 342.5 Z" fill="url(#linear-gradient-4)" stroke="#6e4a1a" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_22" data-name="Rakhi loop 22" d="M481.4 346.3 C499.6 329.2 508.2 294.9 509.8 271.5 C495.5 290 479.1 321.4 481.4 346.3 Z" fill="url(#linear-gradient-5)" stroke="#6e1428" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_23" data-name="Rakhi loop 23" d="M495.5 353.7 C517.3 341.5 533.8 310.2 540.9 287.8 C522.6 302.4 499.2 329 495.5 353.7 Z" fill="url(#linear-gradient-4)" stroke="#6e4a1a" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_24" data-name="Rakhi loop 24" d="M507.4 364.2 C531.5 357.6 555 331.1 567.3 311.2 C546 320.9 516.9 341.1 507.4 364.2 Z" fill="url(#linear-gradient-5)" stroke="#6e1428" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_25" data-name="Rakhi loop 25" d="M516.4 377.3 C541.4 376.7 570.6 356.6 587.3 340.2 C564.3 344.5 531.2 357.2 516.4 377.3 Z" fill="url(#linear-gradient-4)" stroke="#6e4a1a" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_loop_26" data-name="Rakhi loop 26" d="M522.1 392.2 C546.5 397.5 579.6 385 599.8 373.1 C576.4 371.8 541.2 376.2 522.1 392.2 Z" fill="url(#linear-gradient-5)" stroke="#6e1428" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Rakhi_binding" data-name="Rakhi binding" d="M386 408 C386 368.235 418.235 336 458 336 C497.765 336 530 368.235 530 408 C530 447.765 497.765 480 458 480 C418.235 480 386 447.765 386 408 Z" fill="none" stroke="url(#linear-gradient-6)" stroke-width="12" stroke-miterlimit="10"/>
+    <path id="Rakhi_binding_thread" data-name="Rakhi binding thread" d="M386 408 C386 368.235 418.235 336 458 336 C497.765 336 530 368.235 530 408 C530 447.765 497.765 480 458 480 C418.235 480 386 447.765 386 408 Z" fill="none" stroke="#6e4a1a" stroke-width="1.4" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Binding_wrap_1" data-name="Binding wrap 1" d="M523.4 417.2 L535.2 418.9" fill="none" stroke="#8e6a2e" stroke-width="2" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Binding_wrap_2" data-name="Binding wrap 2" d="M514.9 441.5 L525.2 447.6" fill="none" stroke="#8e6a2e" stroke-width="2" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Binding_wrap_3" data-name="Binding wrap 3" d="M497.7 460.7 L504.9 470.3" fill="none" stroke="#8e6a2e" stroke-width="2" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Binding_wrap_4" data-name="Binding wrap 4" d="M474.5 471.9 L477.5 483.5" fill="none" stroke="#8e6a2e" stroke-width="2" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Binding_wrap_5" data-name="Binding wrap 5" d="M448.8 473.4 L447.1 485.2" fill="none" stroke="#8e6a2e" stroke-width="2" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Binding_wrap_6" data-name="Binding wrap 6" d="M424.5 464.9 L418.4 475.2" fill="none" stroke="#8e6a2e" stroke-width="2" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Binding_wrap_7" data-name="Binding wrap 7" d="M405.3 447.7 L395.7 454.9" fill="none" stroke="#8e6a2e" stroke-width="2" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Binding_wrap_8" data-name="Binding wrap 8" d="M394.1 424.5 L382.5 427.5" fill="none" stroke="#8e6a2e" stroke-width="2" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Binding_wrap_9" data-name="Binding wrap 9" d="M392.6 398.8 L380.8 397.1" fill="none" stroke="#8e6a2e" stroke-width="2" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Binding_wrap_10" data-name="Binding wrap 10" d="M401.1 374.5 L390.8 368.4" fill="none" stroke="#8e6a2e" stroke-width="2" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Binding_wrap_11" data-name="Binding wrap 11" d="M418.3 355.3 L411.1 345.7" fill="none" stroke="#8e6a2e" stroke-width="2" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Binding_wrap_12" data-name="Binding wrap 12" d="M441.5 344.1 L438.5 332.5" fill="none" stroke="#8e6a2e" stroke-width="2" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Binding_wrap_13" data-name="Binding wrap 13" d="M467.2 342.6 L468.9 330.8" fill="none" stroke="#8e6a2e" stroke-width="2" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Binding_wrap_14" data-name="Binding wrap 14" d="M491.5 351.1 L497.6 340.8" fill="none" stroke="#8e6a2e" stroke-width="2" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Binding_wrap_15" data-name="Binding wrap 15" d="M510.7 368.3 L520.3 361.1" fill="none" stroke="#8e6a2e" stroke-width="2" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Binding_wrap_16" data-name="Binding wrap 16" d="M521.9 391.5 L533.5 388.5" fill="none" stroke="#8e6a2e" stroke-width="2" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Medallion" d="M400 408 C400 375.967 425.967 350 458 350 C490.033 350 516 375.967 516 408 C516 440.033 490.033 466 458 466 C425.967 466 400 440.033 400 408 Z" fill="url(#radial-gradient-4)" stroke="#1d1216" stroke-width="3.4" stroke-miterlimit="10"/>
+    <path id="Medallion_ring" data-name="Medallion ring" d="M412 408 C412 382.595 432.595 362 458 362 C483.405 362 504 382.595 504 408 C504 433.405 483.405 454 458 454 C432.595 454 412 433.405 412 408 Z" fill="none" stroke="#8e5a1e" stroke-width="1.8" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Medallion_emboss_petal_1" data-name="Medallion emboss petal 1" d="M442.2 387.55 C442.2 380.619 449.296 375 458.05 375 C466.804 375 473.9 380.619 473.9 387.55 C473.9 394.481 466.804 400.1 458.05 400.1 C449.296 400.1 442.2 394.481 442.2 387.55 Z" fill="#c88a3e" opacity="0.8"/>
+    <path id="Medallion_emboss_petal_2" data-name="Medallion emboss petal 2" d="M461.242 382.342 C466.143 377.441 475.134 378.486 481.324 384.676 C487.514 390.866 488.559 399.857 483.658 404.758 C478.757 409.659 469.766 408.614 463.576 402.424 C457.386 396.234 456.341 387.243 461.242 382.342 Z" fill="#c88a3e" opacity="0.8"/>
+    <path id="Medallion_emboss_petal_3" data-name="Medallion emboss petal 3" d="M478.45 392.2 C485.381 392.2 491 399.296 491 408.05 C491 416.804 485.381 423.9 478.45 423.9 C471.519 423.9 465.9 416.804 465.9 408.05 C465.9 399.296 471.519 392.2 478.45 392.2 Z" fill="#c88a3e" opacity="0.8"/>
+    <path id="Medallion_emboss_petal_4" data-name="Medallion emboss petal 4" d="M483.658 411.242 C488.559 416.143 487.514 425.134 481.324 431.324 C475.134 437.514 466.143 438.559 461.242 433.658 C456.341 428.757 457.386 419.766 463.576 413.576 C469.766 407.386 478.757 406.341 483.658 411.242 Z" fill="#c88a3e" opacity="0.8"/>
+    <path id="Medallion_emboss_petal_5" data-name="Medallion emboss petal 5" d="M473.9 428.45 C473.9 435.381 466.804 441 458.05 441 C449.296 441 442.2 435.381 442.2 428.45 C442.2 421.519 449.296 415.9 458.05 415.9 C466.804 415.9 473.9 421.519 473.9 428.45 Z" fill="#c88a3e" opacity="0.8"/>
+    <path id="Medallion_emboss_petal_6" data-name="Medallion emboss petal 6" d="M454.758 433.658 C449.857 438.559 440.866 437.514 434.676 431.324 C428.486 425.134 427.441 416.143 432.342 411.242 C437.243 406.341 446.234 407.386 452.424 413.576 C458.614 419.766 459.659 428.757 454.758 433.658 Z" fill="#c88a3e" opacity="0.8"/>
+    <path id="Medallion_emboss_petal_7" data-name="Medallion emboss petal 7" d="M437.55 423.9 C430.619 423.9 425 416.804 425 408.05 C425 399.296 430.619 392.2 437.55 392.2 C444.481 392.2 450.1 399.296 450.1 408.05 C450.1 416.804 444.481 423.9 437.55 423.9 Z" fill="#c88a3e" opacity="0.8"/>
+    <path id="Medallion_emboss_petal_8" data-name="Medallion emboss petal 8" d="M432.342 404.758 C427.441 399.857 428.486 390.866 434.676 384.676 C440.866 378.486 449.857 377.441 454.758 382.342 C459.659 387.243 458.614 396.234 452.424 402.424 C446.234 408.614 437.243 409.659 432.342 404.758 Z" fill="#c88a3e" opacity="0.8"/>
+    <path id="Medallion_emboss_core" data-name="Medallion emboss core" d="M451.4 408 C451.4 404.355 454.355 401.4 458 401.4 C461.645 401.4 464.6 404.355 464.6 408 C464.6 411.645 461.645 414.6 458 414.6 C454.355 414.6 451.4 411.645 451.4 408 Z" fill="#7a4a16"/>
+    <path id="Medallion_emboss_stamen_1" data-name="Medallion emboss stamen 1" d="M461.431 400.525 C461.431 399.42 462.327 398.525 463.431 398.525 C464.536 398.525 465.431 399.42 465.431 400.525 C465.431 401.629 464.536 402.525 463.431 402.525 C462.327 402.525 461.431 401.629 461.431 400.525 Z" fill="#f8e3a8"/>
+    <path id="Medallion_emboss_stamen_2" data-name="Medallion emboss stamen 2" d="M464.788 410.855 C464.788 409.751 465.683 408.855 466.788 408.855 C467.892 408.855 468.788 409.751 468.788 410.855 C468.788 411.96 467.892 412.855 466.788 412.855 C465.683 412.855 464.788 411.96 464.788 410.855 Z" fill="#f8e3a8"/>
+    <path id="Medallion_emboss_stamen_3" data-name="Medallion emboss stamen 3" d="M456 417.24 C456 416.135 456.895 415.24 458 415.24 C459.105 415.24 460 416.135 460 417.24 C460 418.345 459.105 419.24 458 419.24 C456.895 419.24 456 418.345 456 417.24 Z" fill="#f8e3a8"/>
+    <path id="Medallion_emboss_stamen_4" data-name="Medallion emboss stamen 4" d="M447.212 410.855 C447.212 409.751 448.108 408.855 449.212 408.855 C450.317 408.855 451.212 409.751 451.212 410.855 C451.212 411.96 450.317 412.855 449.212 412.855 C448.108 412.855 447.212 411.96 447.212 410.855 Z" fill="#f8e3a8"/>
+    <path id="Medallion_emboss_stamen_5" data-name="Medallion emboss stamen 5" d="M450.569 400.525 C450.569 399.42 451.464 398.525 452.569 398.525 C453.673 398.525 454.569 399.42 454.569 400.525 C454.569 401.629 453.673 402.525 452.569 402.525 C451.464 402.525 450.569 401.629 450.569 400.525 Z" fill="#f8e3a8"/>
+    <path id="Medallion_mirror_1" data-name="Medallion mirror 1" d="M496.569 432 C496.569 430.343 497.912 429 499.569 429 C501.226 429 502.569 430.343 502.569 432 C502.569 433.657 501.226 435 499.569 435 C497.912 435 496.569 433.657 496.569 432 Z" fill="#fff6d8" stroke="#6e4a1a" stroke-width="0.9" stroke-miterlimit="10"/>
+    <path id="Medallion_mirror_2" data-name="Medallion mirror 2" d="M455 456 C455 454.343 456.343 453 458 453 C459.657 453 461 454.343 461 456 C461 457.657 459.657 459 458 459 C456.343 459 455 457.657 455 456 Z" fill="#fff6d8" stroke="#6e4a1a" stroke-width="0.9" stroke-miterlimit="10"/>
+    <path id="Medallion_mirror_3" data-name="Medallion mirror 3" d="M413.431 432 C413.431 430.343 414.774 429 416.431 429 C418.088 429 419.431 430.343 419.431 432 C419.431 433.657 418.088 435 416.431 435 C414.774 435 413.431 433.657 413.431 432 Z" fill="#fff6d8" stroke="#6e4a1a" stroke-width="0.9" stroke-miterlimit="10"/>
+    <path id="Medallion_mirror_4" data-name="Medallion mirror 4" d="M413.431 384 C413.431 382.343 414.774 381 416.431 381 C418.088 381 419.431 382.343 419.431 384 C419.431 385.657 418.088 387 416.431 387 C414.774 387 413.431 385.657 413.431 384 Z" fill="#fff6d8" stroke="#6e4a1a" stroke-width="0.9" stroke-miterlimit="10"/>
+    <path id="Medallion_mirror_5" data-name="Medallion mirror 5" d="M455 360 C455 358.343 456.343 357 458 357 C459.657 357 461 358.343 461 360 C461 361.657 459.657 363 458 363 C456.343 363 455 361.657 455 360 Z" fill="#fff6d8" stroke="#6e4a1a" stroke-width="0.9" stroke-miterlimit="10"/>
+    <path id="Medallion_mirror_6" data-name="Medallion mirror 6" d="M496.569 384 C496.569 382.343 497.912 381 499.569 381 C501.226 381 502.569 382.343 502.569 384 C502.569 385.657 501.226 387 499.569 387 C497.912 387 496.569 385.657 496.569 384 Z" fill="#fff6d8" stroke="#6e4a1a" stroke-width="0.9" stroke-miterlimit="10"/>
+    <path id="Bead_1" data-name="Bead 1" d="M602.5 408 C602.5 403.858 605.858 400.5 610 400.5 C614.142 400.5 617.5 403.858 617.5 408 C617.5 412.142 614.142 415.5 610 415.5 C605.858 415.5 602.5 412.142 602.5 408 Z" fill="url(#radial-gradient-5)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10"/>
+    <path id="Bead_2" data-name="Bead 2" d="M587.447 473.95 C587.447 469.808 590.805 466.45 594.947 466.45 C599.089 466.45 602.447 469.808 602.447 473.95 C602.447 478.092 599.089 481.45 594.947 481.45 C590.805 481.45 587.447 478.092 587.447 473.95 Z" fill="url(#radial-gradient-6)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10"/>
+    <path id="Bead_3" data-name="Bead 3" d="M545.27 526.838 C545.27 522.696 548.628 519.338 552.77 519.338 C556.913 519.338 560.27 522.696 560.27 526.838 C560.27 530.981 556.913 534.338 552.77 534.338 C548.628 534.338 545.27 530.981 545.27 526.838 Z" fill="url(#radial-gradient-7)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10"/>
+    <path id="Bead_4" data-name="Bead 4" d="M484.323 556.189 C484.323 552.047 487.681 548.689 491.823 548.689 C495.965 548.689 499.323 552.047 499.323 556.189 C499.323 560.331 495.965 563.689 491.823 563.689 C487.681 563.689 484.323 560.331 484.323 556.189 Z" fill="url(#radial-gradient-8)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10"/>
+    <path id="Bead_5" data-name="Bead 5" d="M416.677 556.189 C416.677 552.047 420.035 548.689 424.177 548.689 C428.319 548.689 431.677 552.047 431.677 556.189 C431.677 560.331 428.319 563.689 424.177 563.689 C420.035 563.689 416.677 560.331 416.677 556.189 Z" fill="url(#radial-gradient-9)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10"/>
+    <path id="Bead_6" data-name="Bead 6" d="M355.73 526.838 C355.73 522.696 359.087 519.338 363.23 519.338 C367.372 519.338 370.73 522.696 370.73 526.838 C370.73 530.981 367.372 534.338 363.23 534.338 C359.087 534.338 355.73 530.981 355.73 526.838 Z" fill="url(#radial-gradient-10)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10"/>
+    <path id="Bead_7" data-name="Bead 7" d="M313.553 473.95 C313.553 469.808 316.911 466.45 321.053 466.45 C325.195 466.45 328.553 469.808 328.553 473.95 C328.553 478.092 325.195 481.45 321.053 481.45 C316.911 481.45 313.553 478.092 313.553 473.95 Z" fill="url(#radial-gradient-11)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10"/>
+    <path id="Bead_8" data-name="Bead 8" d="M298.5 408 C298.5 403.858 301.858 400.5 306 400.5 C310.142 400.5 313.5 403.858 313.5 408 C313.5 412.142 310.142 415.5 306 415.5 C301.858 415.5 298.5 412.142 298.5 408 Z" fill="url(#radial-gradient-12)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10"/>
+    <path id="Bead_9" data-name="Bead 9" d="M313.553 342.05 C313.553 337.908 316.911 334.55 321.053 334.55 C325.195 334.55 328.553 337.908 328.553 342.05 C328.553 346.192 325.195 349.55 321.053 349.55 C316.911 349.55 313.553 346.192 313.553 342.05 Z" fill="url(#radial-gradient-13)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10"/>
+    <path id="Bead_10" data-name="Bead 10" d="M355.73 289.162 C355.73 285.019 359.087 281.662 363.23 281.662 C367.372 281.662 370.73 285.019 370.73 289.162 C370.73 293.304 367.372 296.662 363.23 296.662 C359.087 296.662 355.73 293.304 355.73 289.162 Z" fill="url(#radial-gradient-14)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10"/>
+    <path id="Bead_11" data-name="Bead 11" d="M416.677 259.811 C416.677 255.669 420.035 252.311 424.177 252.311 C428.319 252.311 431.677 255.669 431.677 259.811 C431.677 263.953 428.319 267.311 424.177 267.311 C420.035 267.311 416.677 263.953 416.677 259.811 Z" fill="url(#radial-gradient-15)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10"/>
+    <path id="Bead_12" data-name="Bead 12" d="M484.323 259.811 C484.323 255.669 487.681 252.311 491.823 252.311 C495.965 252.311 499.323 255.669 499.323 259.811 C499.323 263.953 495.965 267.311 491.823 267.311 C487.681 267.311 484.323 263.953 484.323 259.811 Z" fill="url(#radial-gradient-16)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10"/>
+    <path id="Bead_13" data-name="Bead 13" d="M545.27 289.162 C545.27 285.019 548.628 281.662 552.77 281.662 C556.913 281.662 560.27 285.019 560.27 289.162 C560.27 293.304 556.913 296.662 552.77 296.662 C548.628 296.662 545.27 293.304 545.27 289.162 Z" fill="url(#radial-gradient-17)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10"/>
+    <path id="Bead_14" data-name="Bead 14" d="M587.447 342.05 C587.447 337.908 590.805 334.55 594.947 334.55 C599.089 334.55 602.447 337.908 602.447 342.05 C602.447 346.192 599.089 349.55 594.947 349.55 C590.805 349.55 587.447 346.192 587.447 342.05 Z" fill="url(#radial-gradient-18)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10"/>
+    <path id="Thread_tail_A" data-name="Thread tail A" d="M466 482 C490 534 523.333 566.667 566 580" fill="none" stroke="#c22b46" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Thread_tail_B" data-name="Thread tail B" d="M484 474 C508 524.667 541.333 556 584 568" fill="none" stroke="#e85a6e" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Thread_tail_A_gold" data-name="Thread tail A gold" d="M466 482 C490 534 523.333 566.667 566 580" fill="none" stroke="#e8c074" stroke-width="1.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Tail_knot" data-name="Tail knot" d="M566 569 C566 564.029 570.925 560 577 560 C583.075 560 588 564.029 588 569 C588 573.971 583.075 578 577 578 C570.925 578 566 573.971 566 569 Z" fill="url(#radial-gradient-19)" stroke="#6e1428" stroke-width="2.2" stroke-miterlimit="10"/>
+    <path id="Tail_fringe_1" data-name="Tail fringe 1" d="M576 570 C582.4 579.333 585.733 588 586 596" fill="none" stroke="#c22b46" stroke-width="3.4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Tail_fringe_2" data-name="Tail fringe 2" d="M576 570 C586.4 574.667 593.067 578.667 596 582" fill="none" stroke="#c22b46" stroke-width="3.4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Tail_fringe_3" data-name="Tail fringe 3" d="M576 570 C580.8 583.333 582.8 596 582 608" fill="none" stroke="#c22b46" stroke-width="3.4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Thali_shadow" data-name="Thali shadow" d="M582 718 C582 700.327 628.562 686 686 686 C743.438 686 790 700.327 790 718 C790 735.673 743.438 750 686 750 C628.562 750 582 735.673 582 718 Z" fill="url(#radial-gradient-20)"/>
+    <path id="Thali" d="M580 664 C580 637.49 627.458 616 686 616 C744.542 616 792 637.49 792 664 C792 690.51 744.542 712 686 712 C627.458 712 580 690.51 580 664 Z" fill="url(#linear-gradient-7)" stroke="#1d1216" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Thali_rim" data-name="Thali rim" d="M588 664 C588 641.356 631.876 623 686 623 C740.124 623 784 641.356 784 664 C784 686.644 740.124 705 686 705 C631.876 705 588 686.644 588 664 Z" fill="none" stroke="#fbe4a8" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Kumkum_heap" data-name="Kumkum heap" d="M668 668 C678.667 645.333 689.333 645.333 700 668 Z" fill="url(#linear-gradient-8)" stroke="#5e0e0e" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Kumkum_glow" data-name="Kumkum glow" d="M660 657 C660 648.716 671.641 642 686 642 C700.359 642 712 648.716 712 657 C712 665.284 700.359 672 686 672 C671.641 672 660 665.284 660 657 Z" fill="url(#radial-gradient-21)"/>
+    <path id="Rice_1" data-name="Rice 1" d="M702.905 675.478 C702.856 674.54 704.336 673.701 706.211 673.602 C708.086 673.504 709.646 674.184 709.695 675.122 C709.744 676.06 708.264 676.899 706.389 676.998 C704.514 677.096 702.954 676.416 702.905 675.478 Z" fill="#fbefd8" stroke="#b8a070" stroke-width="0.8" stroke-miterlimit="10"/>
+    <path id="Rice_2" data-name="Rice 2" d="M711.305 659.363 C710.984 658.481 712.154 657.245 713.919 656.603 C715.683 655.96 717.374 656.155 717.695 657.037 C718.016 657.919 716.846 659.155 715.081 659.797 C713.317 660.44 711.626 660.245 711.305 659.363 Z" fill="#fbefd8" stroke="#b8a070" stroke-width="0.8" stroke-miterlimit="10"/>
+    <path id="Rice_3" data-name="Rice 3" d="M715.785 653.793 C716.091 652.905 717.778 652.681 719.553 653.293 C721.329 653.904 722.52 655.119 722.215 656.007 C721.909 656.895 720.222 657.119 718.447 656.507 C716.671 655.896 715.48 654.681 715.785 653.793 Z" fill="#fbefd8" stroke="#b8a070" stroke-width="0.8" stroke-miterlimit="10"/>
+    <path id="Rice_4" data-name="Rice 4" d="M691.132 675.737 C690.873 674.835 692.126 673.683 693.931 673.166 C695.736 672.648 697.409 672.96 697.668 673.863 C697.927 674.765 696.674 675.917 694.869 676.434 C693.064 676.952 691.391 676.64 691.132 675.737 Z" fill="#fbefd8" stroke="#b8a070" stroke-width="0.8" stroke-miterlimit="10"/>
+    <path id="Rice_5" data-name="Rice 5" d="M707.405 675.422 C707.454 674.484 709.014 673.804 710.889 673.902 C712.764 674.001 714.244 674.84 714.195 675.778 C714.146 676.716 712.586 677.396 710.711 677.298 C708.836 677.199 707.356 676.36 707.405 675.422 Z" fill="#fbefd8" stroke="#b8a070" stroke-width="0.8" stroke-miterlimit="10"/>
+    <path id="Rice_6" data-name="Rice 6" d="M690.581 644.399 C691.106 643.62 692.794 643.841 694.351 644.891 C695.907 645.941 696.744 647.423 696.219 648.201 C695.694 648.98 694.006 648.759 692.449 647.709 C690.893 646.659 690.056 645.177 690.581 644.399 Z" fill="#fbefd8" stroke="#b8a070" stroke-width="0.8" stroke-miterlimit="10"/>
+    <path id="Rice_7" data-name="Rice 7" d="M712.126 649.782 C712.462 648.905 714.156 648.74 715.909 649.413 C717.662 650.086 718.811 651.342 718.474 652.218 C718.138 653.095 716.444 653.26 714.691 652.587 C712.938 651.914 711.789 650.658 712.126 649.782 Z" fill="#fbefd8" stroke="#b8a070" stroke-width="0.8" stroke-miterlimit="10"/>
+    <path id="Rice_8" data-name="Rice 8" d="M729.017 652.602 C728.519 651.806 729.407 650.353 730.999 649.358 C732.592 648.363 734.286 648.202 734.783 648.998 C735.281 649.794 734.393 651.247 732.801 652.242 C731.208 653.237 729.514 653.398 729.017 652.602 Z" fill="#fbefd8" stroke="#b8a070" stroke-width="0.8" stroke-miterlimit="10"/>
+    <path id="Rice_9" data-name="Rice 9" d="M766.226 675.482 C766.562 674.605 768.256 674.44 770.009 675.113 C771.762 675.786 772.911 677.042 772.574 677.918 C772.238 678.795 770.544 678.96 768.791 678.287 C767.038 677.614 765.889 676.358 766.226 675.482 Z" fill="#fbefd8" stroke="#b8a070" stroke-width="0.8" stroke-miterlimit="10"/>
+    <path id="Rice_10" data-name="Rice 10" d="M692.381 668.401 C691.856 667.623 692.693 666.141 694.249 665.091 C695.806 664.041 697.494 663.82 698.019 664.599 C698.544 665.377 697.707 666.859 696.151 667.909 C694.594 668.959 692.906 669.18 692.381 668.401 Z" fill="#fbefd8" stroke="#b8a070" stroke-width="0.8" stroke-miterlimit="10"/>
+    <path id="Rice_11" data-name="Rice 11" d="M728.001 664.041 C728.017 663.102 729.552 662.367 731.43 662.4 C733.307 662.433 734.816 663.221 734.799 664.159 C734.783 665.098 733.248 665.833 731.37 665.8 C729.493 665.767 727.984 664.979 728.001 664.041 Z" fill="#fbefd8" stroke="#b8a070" stroke-width="0.8" stroke-miterlimit="10"/>
+    <path id="Rice_12" data-name="Rice 12" d="M690.452 645.41 C690.615 644.485 692.246 644 694.095 644.326 C695.944 644.652 697.311 645.666 697.148 646.59 C696.985 647.515 695.354 648 693.505 647.674 C691.656 647.348 690.289 646.334 690.452 645.41 Z" fill="#fbefd8" stroke="#b8a070" stroke-width="0.8" stroke-miterlimit="10"/>
+    <path id="Rice_13" data-name="Rice 13" d="M704.319 654.963 C704.715 654.112 706.417 654.066 708.118 654.859 C709.82 655.653 710.878 656.986 710.481 657.837 C710.085 658.688 708.383 658.734 706.682 657.941 C704.98 657.147 703.922 655.814 704.319 654.963 Z" fill="#fbefd8" stroke="#b8a070" stroke-width="0.8" stroke-miterlimit="10"/>
+    <path id="Rice_14" data-name="Rice 14" d="M725.244 657.29 C724.833 656.447 725.867 655.095 727.555 654.272 C729.242 653.449 730.944 653.466 731.356 654.31 C731.767 655.153 730.733 656.505 729.045 657.328 C727.358 658.151 725.656 658.134 725.244 657.29 Z" fill="#fbefd8" stroke="#b8a070" stroke-width="0.8" stroke-miterlimit="10"/>
+    <path id="Thali_diya_halo" data-name="Thali diya halo" d="M570.4 637.36 C570.4 614.385 589.025 595.76 612 595.76 C634.975 595.76 653.6 614.385 653.6 637.36 C653.6 660.335 634.975 678.96 612 678.96 C589.025 678.96 570.4 660.335 570.4 637.36 Z" fill="url(#radial-gradient-22)"/>
+    <path id="Thali_diya_shadow" data-name="Thali diya shadow" d="M579.76 677.192 C579.76 674.033 594.194 671.472 612 671.472 C629.806 671.472 644.24 674.033 644.24 677.192 C644.24 680.351 629.806 682.912 612 682.912 C594.194 682.912 579.76 680.351 579.76 677.192 Z" fill="url(#radial-gradient-23)"/>
+    <path id="Thali_diya_bowl" data-name="Thali diya bowl" d="M586 655.3 C586 667.5 596.9 675.8 612 675.8 C627.1 675.8 638 667.5 638 655.3 C627.6 658.4 596.4 658.4 586 655.3 Z" fill="url(#linear-gradient-9)" stroke="#1d1216" stroke-width="2.4" stroke-miterlimit="10"/>
+    <path id="Thali_diya_foot" data-name="Thali diya foot" d="M601.08 675.372 C601.08 673.218 605.969 671.472 612 671.472 C618.031 671.472 622.92 673.218 622.92 675.372 C622.92 677.526 618.031 679.272 612 679.272 C605.969 679.272 601.08 677.526 601.08 675.372 Z" fill="url(#linear-gradient-10)" stroke="#1d1216" stroke-width="1.6" stroke-miterlimit="10" opacity="0.92"/>
+    <path id="Thali_diya_rim" data-name="Thali diya rim" d="M586 654 C586 651.588 597.641 649.632 612 649.632 C626.359 649.632 638 651.588 638 654 C638 656.412 626.359 658.368 612 658.368 C597.641 658.368 586 656.412 586 654 Z" fill="url(#linear-gradient-11)" stroke="#1d1216" stroke-width="2.2" stroke-miterlimit="10"/>
+    <path id="Thali_diya_oil" data-name="Thali diya oil" d="M595.1 654 C595.1 652.613 602.666 651.488 612 651.488 C621.334 651.488 628.9 652.613 628.9 654 C628.9 655.387 621.334 656.512 612 656.512 C602.666 656.512 595.1 655.387 595.1 654 Z" fill="url(#linear-gradient-12)" stroke="#3a1a10" stroke-width="1.6" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Thali_diya_oil_sheen" data-name="Thali diya oil sheen" d="M598.5 653.6 C606.8 655.3 617.2 655.3 625.5 653.6" fill="none" stroke="#f2b888" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Thali_diya_lip" data-name="Thali diya lip" d="M604.5 655.2 C606 657.5 608.8 658.7 612 658.7 C615.2 658.7 618 657.5 619.5 655.2 C615.9 656.5 608.1 656.5 604.5 655.2 Z" fill="url(#linear-gradient-13)" stroke="#1d1216" stroke-width="1.7" stroke-miterlimit="10"/>
+    <path id="Thali_diya_lip_mouth" data-name="Thali diya lip mouth" d="M609.14 656.457 C609.14 656.005 610.42 655.638 612 655.638 C613.58 655.638 614.86 656.005 614.86 656.457 C614.86 656.909 613.58 657.276 612 657.276 C610.42 657.276 609.14 656.909 609.14 656.457 Z" fill="#2a120c" opacity="0.9"/>
+    <path id="Thali_diya_wick" data-name="Thali diya wick" d="M612 657.1 C611.4 655.1 611.1 652.7 611.4 650.5" fill="none" stroke="#2e1b12" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Thali_diya_flame_outer" data-name="Thali diya flame outer" d="M604.2 651.2 C602 640.1 607.9 625.4 611.5 605.2 C616.1 620.8 621.7 638.3 619.8 651.2 C615.7 653.7 608.3 653.7 604.2 651.2 Z" fill="url(#linear-gradient-14)" opacity="0.96"/>
+    <path id="Thali_diya_flame_mid" data-name="Thali diya flame mid" d="M607.2 651.2 C605.8 639.2 609.8 624.5 611.8 612.5 C614.8 623.6 617.9 639.2 616.8 651.2 C614.2 653 609.8 653 607.2 651.2 Z" fill="url(#linear-gradient-15)" opacity="0.94"/>
+    <path id="Thali_diya_flame_core" data-name="Thali diya flame core" d="M609.7 651.2 C608.9 640.1 611.1 630.9 612.2 625.4 C613.6 630.9 614.8 641 614.3 651.2 C612.9 652.1 611.1 652.1 609.7 651.2 Z" fill="#ffffff" opacity="0.86"/>
+    <path id="Thali_diya_flame_smoke_1" data-name="Thali diya flame smoke 1" d="M610.8 602.9 C608.3 597.3 612.6 593.7 611.1 589.1" fill="none" stroke="#e8c79a" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.11"/>
+    <path id="Thali_diya_flame_smoke_2" data-name="Thali diya flame smoke 2" d="M613.2 602.9 C610.8 597.3 615.1 593.7 613.6 589.1" fill="none" stroke="#e8c79a" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.11"/>
+    <path id="Thali_diya_band" data-name="Thali diya band" d="M588.9 661.4 C604.3 666.067 619.7 666.067 635.1 661.4" fill="none" stroke="#e8c074" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.66"/>
+    <path id="Thali_diya_band_dot_1" data-name="Thali diya band dot 1" d="M596.771 665.77 C596.771 665.483 597.004 665.25 597.291 665.25 C597.579 665.25 597.811 665.483 597.811 665.77 C597.811 666.057 597.579 666.29 597.291 666.29 C597.004 666.29 596.771 666.057 596.771 665.77 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Thali_diya_band_dot_2" data-name="Thali diya band dot 2" d="M601.674 666.514 C601.674 666.227 601.907 665.994 602.194 665.994 C602.481 665.994 602.714 666.227 602.714 666.514 C602.714 666.801 602.481 667.034 602.194 667.034 C601.907 667.034 601.674 666.801 601.674 666.514 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Thali_diya_band_dot_3" data-name="Thali diya band dot 3" d="M606.577 667.029 C606.577 666.742 606.81 666.509 607.097 666.509 C607.384 666.509 607.617 666.742 607.617 667.029 C607.617 667.317 607.384 667.549 607.097 667.549 C606.81 667.549 606.577 667.317 606.577 667.029 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Thali_diya_band_dot_4" data-name="Thali diya band dot 4" d="M611.48 667.213 C611.48 666.926 611.713 666.693 612 666.693 C612.287 666.693 612.52 666.926 612.52 667.213 C612.52 667.5 612.287 667.733 612 667.733 C611.713 667.733 611.48 667.5 611.48 667.213 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Thali_diya_band_dot_5" data-name="Thali diya band dot 5" d="M616.383 667.029 C616.383 666.742 616.616 666.509 616.903 666.509 C617.19 666.509 617.423 666.742 617.423 667.029 C617.423 667.317 617.19 667.549 616.903 667.549 C616.616 667.549 616.383 667.317 616.383 667.029 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Thali_diya_band_dot_6" data-name="Thali diya band dot 6" d="M621.286 666.514 C621.286 666.227 621.519 665.994 621.806 665.994 C622.093 665.994 622.326 666.227 622.326 666.514 C622.326 666.801 622.093 667.034 621.806 667.034 C621.519 667.034 621.286 666.801 621.286 666.514 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Thali_diya_band_dot_7" data-name="Thali diya band dot 7" d="M626.189 665.77 C626.189 665.483 626.421 665.25 626.709 665.25 C626.996 665.25 627.229 665.483 627.229 665.77 C627.229 666.057 626.996 666.29 626.709 666.29 C626.421 666.29 626.189 666.057 626.189 665.77 Z" fill="#fbe6b4" opacity="0.52"/>
+    <path id="Thali_diya_sheen" data-name="Thali diya sheen" d="M591.2 657.5 C592.5 664.9 599.5 671 608.4 673.2" fill="none" stroke="#ffe2c0" stroke-width="2.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.24"/>
+    <path id="Thali_diya_rim_light" data-name="Thali diya rim light" d="M634.6 657.1 C634.1 664.5 628.6 670.2 620.8 673.7" fill="none" stroke="#ffb878" stroke-width="1.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.38"/>
+    <path id="Thali_diya_rim_sheen" data-name="Thali diya rim sheen" d="M587.6 652.9 C596.4 650.9 609.4 650.5 616.2 651.2" fill="none" stroke="#ffe6c8" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Season_marigold_1_petal_0-0" data-name="Season marigold 1 petal 0-0" d="M256.8 648 C256.8 644.244 260.964 641.2 266.1 641.2 C271.236 641.2 275.4 644.244 275.4 648 C275.4 651.756 271.236 654.8 266.1 654.8 C260.964 654.8 256.8 651.756 256.8 648 Z" fill="#a8480e" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_0-1" data-name="Season marigold 1 petal 0-1" d="M255.774 651.676 C257.803 648.515 262.951 648.203 267.274 650.978 C271.596 653.753 273.455 658.564 271.426 661.724 C269.397 664.885 264.249 665.197 259.926 662.422 C255.604 659.647 253.745 654.836 255.774 651.676 Z" fill="#a8480e" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_0-2" data-name="Season marigold 1 petal 0-2" d="M252.843 654.137 C256.261 652.58 260.758 655.106 262.888 659.78 C265.018 664.454 263.974 669.505 260.557 671.063 C257.139 672.62 252.642 670.094 250.512 665.42 C248.382 660.746 249.426 655.695 252.843 654.137 Z" fill="#a8480e" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_0-3" data-name="Season marigold 1 petal 0-3" d="M249.026 654.695 C252.744 655.231 255.163 659.786 254.43 664.87 C253.698 669.954 250.091 673.641 246.374 673.105 C242.656 672.569 240.237 668.014 240.97 662.93 C241.702 657.846 245.309 654.159 249.026 654.695 Z" fill="#a8480e" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_0-4" data-name="Season marigold 1 petal 0-4" d="M245.489 653.171 C248.328 655.629 247.903 660.77 244.54 664.652 C241.177 668.534 236.15 669.688 233.311 667.229 C230.472 664.771 230.897 659.63 234.26 655.748 C237.623 651.866 242.65 650.712 245.489 653.171 Z" fill="#a8480e" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_0-5" data-name="Season marigold 1 petal 0-5" d="M243.422 649.874 C244.482 653.477 241.347 657.573 236.42 659.023 C231.493 660.474 226.639 658.729 225.578 655.126 C224.518 651.523 227.653 647.427 232.58 645.977 C237.507 644.526 242.361 646.271 243.422 649.874 Z" fill="#a8480e" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_0-6" data-name="Season marigold 1 petal 0-6" d="M243.422 646.026 C242.361 649.629 237.507 651.374 232.58 649.923 C227.653 648.473 224.518 644.377 225.578 640.774 C226.639 637.171 231.493 635.426 236.42 636.877 C241.347 638.327 244.482 642.423 243.422 646.026 Z" fill="#a8480e" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_0-7" data-name="Season marigold 1 petal 0-7" d="M245.489 642.829 C242.65 645.288 237.623 644.134 234.26 640.252 C230.897 636.37 230.472 631.229 233.311 628.771 C236.15 626.312 241.177 627.466 244.54 631.348 C247.903 635.23 248.328 640.371 245.489 642.829 Z" fill="#a8480e" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_0-8" data-name="Season marigold 1 petal 0-8" d="M249.026 641.205 C245.309 641.741 241.702 638.054 240.97 632.97 C240.237 627.886 242.656 623.331 246.374 622.795 C250.091 622.259 253.698 625.946 254.43 631.03 C255.163 636.114 252.744 640.669 249.026 641.205 Z" fill="#a8480e" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_0-9" data-name="Season marigold 1 petal 0-9" d="M252.843 641.763 C249.426 640.205 248.382 635.154 250.512 630.48 C252.642 625.806 257.139 623.28 260.557 624.837 C263.974 626.395 265.018 631.446 262.888 636.12 C260.758 640.794 256.261 643.32 252.843 641.763 Z" fill="#a8480e" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_0-10" data-name="Season marigold 1 petal 0-10" d="M255.774 644.324 C253.745 641.164 255.604 636.353 259.926 633.578 C264.249 630.803 269.397 631.115 271.426 634.276 C273.455 637.436 271.596 642.247 267.274 645.022 C262.951 647.797 257.803 647.485 255.774 644.324 Z" fill="#a8480e" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_1-0" data-name="Season marigold 1 petal 1-0" d="M254.338 649.205 C255.023 646.816 258.225 645.638 261.49 646.574 C264.755 647.511 266.847 650.206 266.162 652.595 C265.477 654.984 262.275 656.162 259.01 655.226 C255.745 654.289 253.653 651.594 254.338 649.205 Z" fill="#e8791f" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_1-1" data-name="Season marigold 1 petal 1-1" d="M252.511 651.701 C254.571 650.312 257.781 651.468 259.681 654.284 C261.58 657.1 261.449 660.509 259.389 661.899 C257.329 663.288 254.119 662.132 252.219 659.316 C250.32 656.5 250.451 653.091 252.511 651.701 Z" fill="#e8791f" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_1-2" data-name="Season marigold 1 petal 1-2" d="M249.493 652.484 C251.965 652.743 253.68 655.692 253.325 659.07 C252.97 662.448 250.679 664.976 248.207 664.716 C245.735 664.457 244.02 661.508 244.375 658.13 C244.73 654.752 247.021 652.224 249.493 652.484 Z" fill="#e8791f" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_1-3" data-name="Season marigold 1 petal 1-3" d="M246.774 651.128 C248.5 652.916 247.919 656.278 245.476 658.637 C243.033 660.996 239.652 661.46 237.926 659.672 C236.2 657.884 236.781 654.522 239.224 652.163 C241.667 649.804 245.048 649.34 246.774 651.128 Z" fill="#e8791f" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_1-4" data-name="Season marigold 1 petal 1-4" d="M245.485 648.271 C245.658 650.75 243.052 652.952 239.664 653.189 C236.276 653.426 233.388 651.608 233.215 649.129 C233.042 646.65 235.648 644.448 239.036 644.211 C242.424 643.974 245.312 645.792 245.485 648.271 Z" fill="#e8791f" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_1-5" data-name="Season marigold 1 petal 1-5" d="M246.425 645.315 C244.965 647.326 241.553 647.337 238.805 645.341 C236.057 643.344 235.014 640.096 236.475 638.085 C237.935 636.074 241.347 636.063 244.095 638.059 C246.843 640.056 247.886 643.304 246.425 645.315 Z" fill="#e8791f" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_1-6" data-name="Season marigold 1 petal 1-6" d="M248.938 643.667 C246.526 644.269 243.905 642.084 243.084 638.789 C242.262 635.493 243.551 632.334 245.962 631.733 C248.374 631.131 250.995 633.316 251.816 636.611 C252.638 639.907 251.349 643.066 248.938 643.667 Z" fill="#e8791f" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_1-7" data-name="Season marigold 1 petal 1-7" d="M251.954 643.928 C249.72 642.838 249.116 639.48 250.605 636.427 C252.094 633.375 255.112 631.783 257.346 632.872 C259.58 633.962 260.184 637.32 258.695 640.373 C257.206 643.425 254.188 645.017 251.954 643.928 Z" fill="#e8791f" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_1-8" data-name="Season marigold 1 petal 1-8" d="M254.132 646.201 C253.121 643.931 254.817 640.971 257.92 639.589 C261.023 638.208 264.357 638.928 265.368 641.199 C266.379 643.469 264.683 646.429 261.58 647.811 C258.477 649.192 255.143 648.472 254.132 646.201 Z" fill="#e8791f" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_2-0" data-name="Season marigold 1 petal 2-0" d="M251.982 649.226 C252.657 648.15 254.398 648.027 255.872 648.952 C257.346 649.876 257.993 651.498 257.318 652.574 C256.643 653.65 254.902 653.773 253.428 652.848 C251.954 651.924 251.307 650.302 251.982 649.226 Z" fill="#f6b45c" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_2-1" data-name="Season marigold 1 petal 2-1" d="M249.865 650.352 C251.135 650.399 252.112 651.846 252.048 653.584 C251.985 655.323 250.904 656.694 249.635 656.648 C248.365 656.601 247.388 655.154 247.452 653.416 C247.515 651.677 248.596 650.306 249.865 650.352 Z" fill="#f6b45c" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_2-2" data-name="Season marigold 1 petal 2-2" d="M247.934 649.026 C248.528 650.149 247.764 651.719 246.226 652.533 C244.689 653.347 242.961 653.097 242.366 651.974 C241.772 650.851 242.536 649.281 244.074 648.467 C245.611 647.653 247.339 647.903 247.934 649.026 Z" fill="#f6b45c" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_2-3" data-name="Season marigold 1 petal 2-3" d="M248.018 646.774 C247.343 647.85 245.602 647.973 244.128 647.048 C242.654 646.124 242.007 644.502 242.682 643.426 C243.357 642.35 245.098 642.227 246.572 643.152 C248.046 644.076 248.693 645.698 248.018 646.774 Z" fill="#f6b45c" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_2-4" data-name="Season marigold 1 petal 2-4" d="M250.035 645.648 C248.765 645.601 247.788 644.154 247.852 642.416 C247.915 640.677 248.996 639.306 250.265 639.352 C251.535 639.399 252.512 640.846 252.448 642.584 C252.385 644.323 251.304 645.694 250.035 645.648 Z" fill="#f6b45c" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_petal_2-5" data-name="Season marigold 1 petal 2-5" d="M252.066 646.874 C251.472 645.751 252.236 644.181 253.774 643.367 C255.311 642.553 257.039 642.803 257.634 643.926 C258.228 645.049 257.464 646.619 255.926 647.433 C254.389 648.247 252.661 647.997 252.066 646.874 Z" fill="#f6b45c" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_1_core" data-name="Season marigold 1 core" d="M246.28 648 C246.28 645.946 247.946 644.28 250 644.28 C252.054 644.28 253.72 645.946 253.72 648 C253.72 650.054 252.054 651.72 250 651.72 C247.946 651.72 246.28 650.054 246.28 648 Z" fill="#6e3208"/>
+    <path id="Season_marigold_B_0_petal_0-0" data-name="Season marigold B 0 petal 0-0" d="M306.6 694 C306.6 691.459 309.421 689.4 312.9 689.4 C316.379 689.4 319.2 691.459 319.2 694 C319.2 696.541 316.379 698.6 312.9 698.6 C309.421 698.6 306.6 696.541 306.6 694 Z" fill="#c9661a" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_0-1" data-name="Season marigold B 0 petal 0-1" d="M305.898 696.496 C307.271 694.359 310.757 694.149 313.685 696.029 C316.613 697.909 317.874 701.166 316.502 703.304 C315.129 705.441 311.643 705.651 308.715 703.771 C305.787 701.891 304.526 698.634 305.898 696.496 Z" fill="#c9661a" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_0-2" data-name="Season marigold B 0 petal 0-2" d="M303.887 698.167 C306.199 697.114 309.243 698.826 310.686 701.992 C312.129 705.159 311.424 708.579 309.113 709.633 C306.801 710.686 303.757 708.974 302.314 705.808 C300.871 702.641 301.576 699.221 303.887 698.167 Z" fill="#c9661a" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_0-3" data-name="Season marigold B 0 petal 0-3" d="M301.299 698.564 C303.813 698.927 305.449 702.012 304.953 705.456 C304.457 708.9 302.016 711.398 299.501 711.036 C296.987 710.673 295.351 707.588 295.847 704.144 C296.343 700.7 298.784 698.202 301.299 698.564 Z" fill="#c9661a" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_0-4" data-name="Season marigold B 0 petal 0-4" d="M298.925 697.438 C300.845 699.101 300.555 702.582 298.277 705.212 C295.999 707.842 292.595 708.625 290.675 706.962 C288.755 705.299 289.045 701.818 291.323 699.188 C293.601 696.558 297.005 695.775 298.925 697.438 Z" fill="#c9661a" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_0-5" data-name="Season marigold B 0 petal 0-5" d="M297.544 695.321 C298.261 697.758 296.137 700.53 292.799 701.513 C289.461 702.495 286.174 701.316 285.456 698.879 C284.739 696.442 286.863 693.67 290.201 692.687 C293.539 691.705 296.826 692.884 297.544 695.321 Z" fill="#c9661a" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_0-6" data-name="Season marigold B 0 petal 0-6" d="M297.544 692.679 C296.826 695.116 293.539 696.295 290.201 695.313 C286.863 694.33 284.739 691.558 285.456 689.121 C286.174 686.684 289.461 685.505 292.799 686.487 C296.137 687.47 298.261 690.242 297.544 692.679 Z" fill="#c9661a" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_0-7" data-name="Season marigold B 0 petal 0-7" d="M298.925 690.462 C297.005 692.125 293.601 691.342 291.323 688.712 C289.045 686.082 288.755 682.601 290.675 680.938 C292.595 679.275 295.999 680.058 298.277 682.688 C300.555 685.318 300.845 688.799 298.925 690.462 Z" fill="#c9661a" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_0-8" data-name="Season marigold B 0 petal 0-8" d="M301.299 689.436 C298.784 689.798 296.343 687.3 295.847 683.856 C295.351 680.412 296.987 677.327 299.501 676.964 C302.016 676.602 304.457 679.1 304.953 682.544 C305.449 685.988 303.813 689.073 301.299 689.436 Z" fill="#c9661a" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_0-9" data-name="Season marigold B 0 petal 0-9" d="M303.887 689.733 C301.576 688.679 300.871 685.259 302.314 682.092 C303.757 678.926 306.801 677.214 309.113 678.267 C311.424 679.321 312.129 682.741 310.686 685.908 C309.243 689.074 306.199 690.786 303.887 689.733 Z" fill="#c9661a" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_0-10" data-name="Season marigold B 0 petal 0-10" d="M305.898 691.504 C304.526 689.366 305.787 686.109 308.715 684.229 C311.643 682.349 315.129 682.559 316.502 684.696 C317.874 686.834 316.613 690.091 313.685 691.971 C310.757 693.851 307.271 693.641 305.898 691.504 Z" fill="#c9661a" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_1-0" data-name="Season marigold B 0 petal 1-0" d="M304.961 694.806 C305.425 693.187 307.587 692.386 309.791 693.018 C311.994 693.65 313.404 695.475 312.939 697.094 C312.475 698.713 310.313 699.514 308.109 698.882 C305.906 698.25 304.496 696.425 304.961 694.806 Z" fill="#f2a33c" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_1-1" data-name="Season marigold B 0 petal 1-1" d="M303.729 696.509 C305.126 695.568 307.297 696.344 308.579 698.244 C309.86 700.145 309.767 702.449 308.371 703.391 C306.974 704.332 304.803 703.556 303.521 701.656 C302.24 699.755 302.333 697.451 303.729 696.509 Z" fill="#f2a33c" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_1-2" data-name="Season marigold B 0 petal 1-2" d="M301.684 697.023 C303.359 697.199 304.523 699.189 304.283 701.469 C304.044 703.748 302.491 705.453 300.816 705.277 C299.141 705.101 297.977 703.111 298.217 700.831 C298.456 698.552 300.009 696.847 301.684 697.023 Z" fill="#f2a33c" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_1-3" data-name="Season marigold B 0 petal 1-3" d="M299.835 696.167 C301.005 697.379 300.617 699.652 298.969 701.244 C297.32 702.836 295.035 703.145 293.865 701.933 C292.695 700.721 293.083 698.448 294.731 696.856 C296.38 695.264 298.665 694.955 299.835 696.167 Z" fill="#f2a33c" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_1-4" data-name="Season marigold B 0 petal 1-4" d="M298.99 694.161 C299.107 695.841 297.349 697.333 295.063 697.493 C292.776 697.652 290.828 696.42 290.71 694.739 C290.593 693.059 292.351 691.567 294.637 691.407 C296.924 691.248 298.872 692.48 298.99 694.161 Z" fill="#f2a33c" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_1-5" data-name="Season marigold B 0 petal 1-5" d="M299.507 692.189 C298.517 693.552 296.212 693.565 294.357 692.218 C292.503 690.87 291.802 688.673 292.793 687.311 C293.783 685.948 296.088 685.935 297.943 687.282 C299.797 688.63 300.498 690.827 299.507 692.189 Z" fill="#f2a33c" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_1-6" data-name="Season marigold B 0 petal 1-6" d="M301.254 691.077 C299.62 691.484 297.845 690.012 297.291 687.788 C296.736 685.564 297.612 683.431 299.246 683.023 C300.88 682.616 302.655 684.088 303.209 686.312 C303.764 688.536 302.888 690.669 301.254 691.077 Z" fill="#f2a33c" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_1-7" data-name="Season marigold B 0 petal 1-7" d="M303.331 691.28 C301.817 690.542 301.404 688.273 302.409 686.213 C303.413 684.153 305.455 683.082 306.969 683.82 C308.483 684.558 308.896 686.827 307.891 688.887 C306.887 690.947 304.845 692.018 303.331 691.28 Z" fill="#f2a33c" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_1-8" data-name="Season marigold B 0 petal 1-8" d="M304.759 692.738 C304.074 691.199 305.216 689.196 307.309 688.264 C309.403 687.331 311.656 687.823 312.341 689.362 C313.026 690.901 311.884 692.904 309.791 693.836 C307.697 694.769 305.444 694.277 304.759 692.738 Z" fill="#f2a33c" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_2-0" data-name="Season marigold B 0 petal 2-0" d="M303.329 694.807 C303.784 694.082 304.968 694.006 305.974 694.637 C306.98 695.268 307.426 696.367 306.971 697.093 C306.516 697.818 305.332 697.894 304.326 697.263 C303.32 696.632 302.874 695.533 303.329 694.807 Z" fill="#f8ce84" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_2-1" data-name="Season marigold B 0 petal 2-1" d="M301.929 695.501 C302.784 695.533 303.442 696.52 303.399 697.707 C303.355 698.893 302.627 699.83 301.771 699.799 C300.916 699.767 300.258 698.78 300.301 697.593 C300.345 696.407 301.073 695.47 301.929 695.501 Z" fill="#f8ce84" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_2-2" data-name="Season marigold B 0 petal 2-2" d="M300.65 694.744 C301.051 695.5 300.525 696.564 299.475 697.12 C298.426 697.675 297.25 697.513 296.85 696.756 C296.449 696 296.975 694.936 298.025 694.38 C299.074 693.825 300.25 693.987 300.65 694.744 Z" fill="#f8ce84" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_2-3" data-name="Season marigold B 0 petal 2-3" d="M300.671 693.193 C300.216 693.918 299.032 693.994 298.026 693.363 C297.02 692.732 296.574 691.633 297.029 690.907 C297.484 690.182 298.668 690.106 299.674 690.737 C300.68 691.368 301.126 692.467 300.671 693.193 Z" fill="#f8ce84" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_2-4" data-name="Season marigold B 0 petal 2-4" d="M302.071 692.399 C301.216 692.367 300.558 691.38 300.601 690.193 C300.645 689.007 301.373 688.07 302.229 688.101 C303.084 688.133 303.742 689.12 303.699 690.307 C303.655 691.493 302.927 692.43 302.071 692.399 Z" fill="#f8ce84" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_petal_2-5" data-name="Season marigold B 0 petal 2-5" d="M303.35 693.256 C302.949 692.5 303.475 691.436 304.525 690.88 C305.574 690.325 306.75 690.487 307.15 691.244 C307.551 692 307.025 693.064 305.975 693.62 C304.926 694.175 303.75 694.013 303.35 693.256 Z" fill="#f8ce84" stroke="#8a4010" stroke-miterlimit="10" opacity="0.96"/>
+    <path id="Season_marigold_B_0_core" data-name="Season marigold B 0 core" d="M299.48 694 C299.48 692.608 300.608 691.48 302 691.48 C303.392 691.48 304.52 692.608 304.52 694 C304.52 695.392 303.392 696.52 302 696.52 C300.608 696.52 299.48 695.392 299.48 694 Z" fill="#6e3208"/>
+    <path id="Marigold_leaf" data-name="Marigold leaf" d="M282 676 C270.2 678.1 263.9 691.1 262.3 701.2 C271.7 697.2 282.8 688 282 676 Z" fill="#2f6b3a" stroke="#163a1e" stroke-width="1.8" stroke-miterlimit="10"/>
+    <path id="Marigold_leaf_vein" data-name="Marigold leaf vein" d="M282 676 L265.1 697.7" fill="none" stroke="#9ac98e" stroke-width="1.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Fallen_petal_1" data-name="Fallen petal 1" d="M341.072 324 C339.691 321.609 341.674 317.879 345.5 315.67 C349.326 313.461 353.547 313.609 354.928 316 C356.309 318.391 354.326 322.121 350.5 324.33 C346.674 326.539 342.453 326.391 341.072 324 Z" fill="#f2a33c" opacity="0.55"/>
+    <path id="Fallen_petal_2" data-name="Fallen petal 2" d="M615.872 294.858 C617.647 292.742 621.829 293.33 625.214 296.17 C628.599 299.01 629.903 303.027 628.128 305.142 C626.353 307.258 622.171 306.67 618.786 303.83 C615.401 300.99 614.097 296.973 615.872 294.858 Z" fill="#f2a33c" opacity="0.55"/>
+    <path id="Fallen_petal_3" data-name="Fallen petal 3" d="M572.273 615.929 C572.987 613.262 577.026 612.027 581.294 613.17 C585.562 614.314 588.442 617.403 587.727 620.071 C587.013 622.738 582.974 623.973 578.706 622.83 C574.438 621.686 571.558 618.597 572.273 615.929 Z" fill="#f2a33c" opacity="0.55"/>
+    <path id="Spark_glow_1" data-name="Spark glow 1" d="M329 250 C329 243.925 333.925 239 340 239 C346.075 239 351 243.925 351 250 C351 256.075 346.075 261 340 261 C333.925 261 329 256.075 329 250 Z" fill="url(#radial-gradient-24)"/>
+    <path id="Spark_1" data-name="Spark 1" d="M337.8 250 C337.8 248.785 338.785 247.8 340 247.8 C341.215 247.8 342.2 248.785 342.2 250 C342.2 251.215 341.215 252.2 340 252.2 C338.785 252.2 337.8 251.215 337.8 250 Z" fill="#fff2c4" opacity="0.85"/>
+    <path id="Spark_glow_2" data-name="Spark glow 2" d="M629 380 C629 373.925 633.925 369 640 369 C646.075 369 651 373.925 651 380 C651 386.075 646.075 391 640 391 C633.925 391 629 386.075 629 380 Z" fill="url(#radial-gradient-25)"/>
+    <path id="Spark_2" data-name="Spark 2" d="M638 380 C638 378.895 638.895 378 640 378 C641.105 378 642 378.895 642 380 C642 381.105 641.105 382 640 382 C638.895 382 638 381.105 638 380 Z" fill="#fff2c4" opacity="0.85"/>
+    <path id="Spark_glow_3" data-name="Spark glow 3" d="M289 500 C289 493.925 293.925 489 300 489 C306.075 489 311 493.925 311 500 C311 506.075 306.075 511 300 511 C293.925 511 289 506.075 289 500 Z" fill="url(#radial-gradient-26)"/>
+    <path id="Spark_3" data-name="Spark 3" d="M298.2 500 C298.2 499.006 299.006 498.2 300 498.2 C300.994 498.2 301.8 499.006 301.8 500 C301.8 500.994 300.994 501.8 300 501.8 C299.006 501.8 298.2 500.994 298.2 500 Z" fill="#fff2c4" opacity="0.85"/>
+    <path id="Spark_glow_4" data-name="Spark glow 4" d="M609 520 C609 513.925 613.925 509 620 509 C626.075 509 631 513.925 631 520 C631 526.075 626.075 531 620 531 C613.925 531 609 526.075 609 520 Z" fill="url(#radial-gradient-27)"/>
+    <path id="Spark_4" data-name="Spark 4" d="M617.8 520 C617.8 518.785 618.785 517.8 620 517.8 C621.215 517.8 622.2 518.785 622.2 520 C622.2 521.215 621.215 522.2 620 522.2 C618.785 522.2 617.8 521.215 617.8 520 Z" fill="#fff2c4" opacity="0.85"/>
+    <path id="Seal_shadow" data-name="Seal shadow" d="M715 218 C715 200.327 729.327 186 747 186 C764.673 186 779 200.327 779 218 C779 235.673 764.673 250 747 250 C729.327 250 715 235.673 715 218 Z" fill="#1d1216" opacity="0.28"/>
+    <path id="Deva_seal" data-name="Deva seal" d="M717 181 L771 181 C773.761 181 776 183.239 776 186 L776 240 C776 242.761 773.761 245 771 245 L717 245 C714.239 245 712 242.761 712 240 L712 186 C712 183.239 714.239 181 717 181 Z" fill="url(#linear-gradient-16)" stroke="#4e100e" stroke-width="2.2" stroke-miterlimit="10"/>
+    <path id="Deva_seal_inner" data-name="Deva seal inner" d="M719 185.5 L769 185.5 C770.381 185.5 771.5 186.619 771.5 188 L771.5 238 C771.5 239.381 770.381 240.5 769 240.5 L719 240.5 C717.619 240.5 716.5 239.381 716.5 238 L716.5 188 C716.5 186.619 717.619 185.5 719 185.5 Z" fill="none" stroke="#f6d9a0" stroke-width="1.4" stroke-miterlimit="10" opacity="0.78"/>
+    <text transform="matrix(1 0 0 1 744 221.5)" x="0" y="0" xml:space="preserve" font-family="&apos;ITF Devanagari&apos;, sans-serif" font-size="25" fill="#fbe6b4" text-anchor="middle"><tspan x="0" y="0">रक्षा</tspan></text>
+    <path id="Seal_stud_-1" data-name="Seal stud -1" d="M717.4 237 C717.4 236.116 718.116 235.4 719 235.4 C719.884 235.4 720.6 236.116 720.6 237 C720.6 237.884 719.884 238.6 719 238.6 C718.116 238.6 717.4 237.884 717.4 237 Z" fill="#f6d9a0" opacity="0.7"/>
+    <path id="Seal_stud_1" data-name="Seal stud 1" d="M767.4 237 C767.4 236.116 768.116 235.4 769 235.4 C769.884 235.4 770.6 236.116 770.6 237 C770.6 237.884 769.884 238.6 769 238.6 C768.116 238.6 767.4 237.884 767.4 237 Z" fill="#f6d9a0" opacity="0.7"/>
+    <text transform="matrix(1 0 0 1 500 934)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="48" fill="#f8e4cc" letter-spacing="2.304" text-anchor="middle"><tspan x="0" y="0">RAKSHA BANDHAN</tspan></text>
+    <text transform="matrix(1 0 0 1 500 970)" x="0" y="0" xml:space="preserve" font-family="&apos;ITF Devanagari&apos;, sans-serif" font-size="20" fill="#d8a0a8" letter-spacing="1" text-anchor="middle"><tspan x="0" y="0">रक्षा बंधन · SHRAVAN PURNIMA</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a0e22"/>
+      <stop offset="1" stop-color="#0a040a"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="390" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a2a5e" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#8a2a5e" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="40" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3c1230"/>
+      <stop offset="1" stop-color="#140518"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="86" y1="46" x2="914" y2="874" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f0c88e"/>
+      <stop offset="0.5" stop-color="#b87a4e"/>
+      <stop offset="1" stop-color="#e8b878"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="330" cy="360" r="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8408a" stop-opacity="0.2"/>
+      <stop offset="0.55" stop-color="#d8408a" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#d8408a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="330" cy="370" r="148" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8408a" stop-opacity="0.78"/>
+      <stop offset="0.55" stop-color="#d8408a" stop-opacity="0.52"/>
+      <stop offset="1" stop-color="#d8408a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="277.825" cy="329.414" r="48.578" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8408a" stop-opacity="0.52"/>
+      <stop offset="0.6" stop-color="#d8408a" stop-opacity="0.286"/>
+      <stop offset="1" stop-color="#d8408a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="240.673" cy="413.533" r="51.413" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8408a" stop-opacity="0.52"/>
+      <stop offset="0.6" stop-color="#d8408a" stop-opacity="0.286"/>
+      <stop offset="1" stop-color="#d8408a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-6" cx="279.138" cy="397.789" r="54.503" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8408a" stop-opacity="0.52"/>
+      <stop offset="0.6" stop-color="#d8408a" stop-opacity="0.286"/>
+      <stop offset="1" stop-color="#d8408a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-7" cx="433.03" cy="407.291" r="70.235" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8408a" stop-opacity="0.52"/>
+      <stop offset="0.6" stop-color="#d8408a" stop-opacity="0.286"/>
+      <stop offset="1" stop-color="#d8408a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-8" cx="428.096" cy="435.995" r="62.559" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8408a" stop-opacity="0.52"/>
+      <stop offset="0.6" stop-color="#d8408a" stop-opacity="0.286"/>
+      <stop offset="1" stop-color="#d8408a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-9" cx="194.92" cy="369.111" r="51.439" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8408a" stop-opacity="0.52"/>
+      <stop offset="0.6" stop-color="#d8408a" stop-opacity="0.286"/>
+      <stop offset="1" stop-color="#d8408a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-10" cx="369.895" cy="448.873" r="51.013" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8408a" stop-opacity="0.52"/>
+      <stop offset="0.6" stop-color="#d8408a" stop-opacity="0.286"/>
+      <stop offset="1" stop-color="#d8408a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-11" cx="238.507" cy="448.473" r="39.441" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8408a" stop-opacity="0.52"/>
+      <stop offset="0.6" stop-color="#d8408a" stop-opacity="0.286"/>
+      <stop offset="1" stop-color="#d8408a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-12" cx="307.498" cy="446.335" r="39.914" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8408a" stop-opacity="0.52"/>
+      <stop offset="0.6" stop-color="#d8408a" stop-opacity="0.286"/>
+      <stop offset="1" stop-color="#d8408a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-13" cx="416.898" cy="344.716" r="61.932" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8408a" stop-opacity="0.52"/>
+      <stop offset="0.6" stop-color="#d8408a" stop-opacity="0.286"/>
+      <stop offset="1" stop-color="#d8408a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-14" cx="325.174" cy="444.242" r="53.57" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8408a" stop-opacity="0.52"/>
+      <stop offset="0.6" stop-color="#d8408a" stop-opacity="0.286"/>
+      <stop offset="1" stop-color="#d8408a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-15" cx="298.522" cy="462.665" r="65.74" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8408a" stop-opacity="0.52"/>
+      <stop offset="0.6" stop-color="#d8408a" stop-opacity="0.286"/>
+      <stop offset="1" stop-color="#d8408a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-16" cx="682" cy="316" r="170" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2b33c" stop-opacity="0.2"/>
+      <stop offset="0.55" stop-color="#f2b33c" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#f2b33c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-17" cx="682" cy="320" r="126" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2b33c" stop-opacity="0.8"/>
+      <stop offset="0.55" stop-color="#f2b33c" stop-opacity="0.54"/>
+      <stop offset="1" stop-color="#f2b33c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-18" cx="663.025" cy="265.264" r="42.111" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2b33c" stop-opacity="0.54"/>
+      <stop offset="0.6" stop-color="#f2b33c" stop-opacity="0.297"/>
+      <stop offset="1" stop-color="#f2b33c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-19" cx="597.211" cy="289.607" r="41.51" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2b33c" stop-opacity="0.54"/>
+      <stop offset="0.6" stop-color="#f2b33c" stop-opacity="0.297"/>
+      <stop offset="1" stop-color="#f2b33c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-20" cx="632.763" cy="240.803" r="38.176" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2b33c" stop-opacity="0.54"/>
+      <stop offset="0.6" stop-color="#f2b33c" stop-opacity="0.297"/>
+      <stop offset="1" stop-color="#f2b33c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-21" cx="675.666" cy="348.345" r="39.626" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2b33c" stop-opacity="0.54"/>
+      <stop offset="0.6" stop-color="#f2b33c" stop-opacity="0.297"/>
+      <stop offset="1" stop-color="#f2b33c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-22" cx="678.127" cy="270.452" r="54.552" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2b33c" stop-opacity="0.54"/>
+      <stop offset="0.6" stop-color="#f2b33c" stop-opacity="0.297"/>
+      <stop offset="1" stop-color="#f2b33c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-23" cx="769.152" cy="309.584" r="46.263" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2b33c" stop-opacity="0.54"/>
+      <stop offset="0.6" stop-color="#f2b33c" stop-opacity="0.297"/>
+      <stop offset="1" stop-color="#f2b33c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-24" cx="729.934" cy="321.759" r="49.482" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2b33c" stop-opacity="0.54"/>
+      <stop offset="0.6" stop-color="#f2b33c" stop-opacity="0.297"/>
+      <stop offset="1" stop-color="#f2b33c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-25" cx="696.151" cy="260.3" r="52.92" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2b33c" stop-opacity="0.54"/>
+      <stop offset="0.6" stop-color="#f2b33c" stop-opacity="0.297"/>
+      <stop offset="1" stop-color="#f2b33c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-26" cx="634.571" cy="322.264" r="48.585" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2b33c" stop-opacity="0.54"/>
+      <stop offset="0.6" stop-color="#f2b33c" stop-opacity="0.297"/>
+      <stop offset="1" stop-color="#f2b33c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-27" cx="759.113" cy="363.522" r="42.104" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2b33c" stop-opacity="0.54"/>
+      <stop offset="0.6" stop-color="#f2b33c" stop-opacity="0.297"/>
+      <stop offset="1" stop-color="#f2b33c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-28" cx="682.797" cy="286.655" r="44.031" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2b33c" stop-opacity="0.54"/>
+      <stop offset="0.6" stop-color="#f2b33c" stop-opacity="0.297"/>
+      <stop offset="1" stop-color="#f2b33c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-29" cx="520" cy="590" r="175" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58b868" stop-opacity="0.18"/>
+      <stop offset="0.55" stop-color="#58b868" stop-opacity="0.063"/>
+      <stop offset="1" stop-color="#58b868" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-30" cx="520" cy="592" r="136" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58b868" stop-opacity="0.74"/>
+      <stop offset="0.55" stop-color="#58b868" stop-opacity="0.48"/>
+      <stop offset="1" stop-color="#58b868" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-31" cx="542.814" cy="524.726" r="46.268" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58b868" stop-opacity="0.48"/>
+      <stop offset="0.6" stop-color="#58b868" stop-opacity="0.264"/>
+      <stop offset="1" stop-color="#58b868" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-32" cx="504.278" cy="511.3" r="42.363" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58b868" stop-opacity="0.48"/>
+      <stop offset="0.6" stop-color="#58b868" stop-opacity="0.264"/>
+      <stop offset="1" stop-color="#58b868" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-33" cx="615.284" cy="569.66" r="67.687" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58b868" stop-opacity="0.48"/>
+      <stop offset="0.6" stop-color="#58b868" stop-opacity="0.264"/>
+      <stop offset="1" stop-color="#58b868" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-34" cx="457.951" cy="596.334" r="56.363" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58b868" stop-opacity="0.48"/>
+      <stop offset="0.6" stop-color="#58b868" stop-opacity="0.264"/>
+      <stop offset="1" stop-color="#58b868" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-35" cx="449.152" cy="652.851" r="60.276" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58b868" stop-opacity="0.48"/>
+      <stop offset="0.6" stop-color="#58b868" stop-opacity="0.264"/>
+      <stop offset="1" stop-color="#58b868" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-36" cx="457.005" cy="607.877" r="52.601" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58b868" stop-opacity="0.48"/>
+      <stop offset="0.6" stop-color="#58b868" stop-opacity="0.264"/>
+      <stop offset="1" stop-color="#58b868" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-37" cx="561.08" cy="528.892" r="59.942" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58b868" stop-opacity="0.48"/>
+      <stop offset="0.6" stop-color="#58b868" stop-opacity="0.264"/>
+      <stop offset="1" stop-color="#58b868" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-38" cx="535.666" cy="623.288" r="42.637" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58b868" stop-opacity="0.48"/>
+      <stop offset="0.6" stop-color="#58b868" stop-opacity="0.264"/>
+      <stop offset="1" stop-color="#58b868" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-39" cx="486.78" cy="520.631" r="32.845" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58b868" stop-opacity="0.48"/>
+      <stop offset="0.6" stop-color="#58b868" stop-opacity="0.264"/>
+      <stop offset="1" stop-color="#58b868" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-40" cx="515.311" cy="685.723" r="33.979" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58b868" stop-opacity="0.48"/>
+      <stop offset="0.6" stop-color="#58b868" stop-opacity="0.264"/>
+      <stop offset="1" stop-color="#58b868" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-41" cx="521.227" cy="663.571" r="45.826" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58b868" stop-opacity="0.48"/>
+      <stop offset="0.6" stop-color="#58b868" stop-opacity="0.264"/>
+      <stop offset="1" stop-color="#58b868" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-42" cx="528.237" cy="621.864" r="35.841" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58b868" stop-opacity="0.48"/>
+      <stop offset="0.6" stop-color="#58b868" stop-opacity="0.264"/>
+      <stop offset="1" stop-color="#58b868" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-43" cx="240" cy="596" r="66" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a5ac8" stop-opacity="0.56"/>
+      <stop offset="0.55" stop-color="#8a5ac8" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#8a5ac8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-44" cx="217.287" cy="582.978" r="21.087" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a5ac8" stop-opacity="0.32"/>
+      <stop offset="0.6" stop-color="#8a5ac8" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#8a5ac8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-45" cx="220.354" cy="553.698" r="16.554" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a5ac8" stop-opacity="0.32"/>
+      <stop offset="0.6" stop-color="#8a5ac8" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#8a5ac8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-46" cx="293.745" cy="589.81" r="19.345" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a5ac8" stop-opacity="0.32"/>
+      <stop offset="0.6" stop-color="#8a5ac8" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#8a5ac8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-47" cx="225.346" cy="616.861" r="29.846" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a5ac8" stop-opacity="0.32"/>
+      <stop offset="0.6" stop-color="#8a5ac8" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#8a5ac8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-48" cx="278.873" cy="574.176" r="14.973" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a5ac8" stop-opacity="0.32"/>
+      <stop offset="0.6" stop-color="#8a5ac8" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#8a5ac8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-49" cx="272.913" cy="597.632" r="28.813" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a5ac8" stop-opacity="0.32"/>
+      <stop offset="0.6" stop-color="#8a5ac8" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#8a5ac8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-50" cx="218.573" cy="585.705" r="14.673" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a5ac8" stop-opacity="0.32"/>
+      <stop offset="0.6" stop-color="#8a5ac8" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#8a5ac8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-51" cx="219.741" cy="588.997" r="32.441" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a5ac8" stop-opacity="0.32"/>
+      <stop offset="0.6" stop-color="#8a5ac8" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#8a5ac8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-52" cx="754" cy="570" r="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8703c" stop-opacity="0.56"/>
+      <stop offset="0.55" stop-color="#e8703c" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#e8703c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-53" cx="738.95" cy="552.335" r="18.15" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8703c" stop-opacity="0.32"/>
+      <stop offset="0.6" stop-color="#e8703c" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#e8703c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-54" cx="771.372" cy="585.225" r="24.472" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8703c" stop-opacity="0.32"/>
+      <stop offset="0.6" stop-color="#e8703c" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#e8703c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-55" cx="767.702" cy="548.922" r="24.802" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8703c" stop-opacity="0.32"/>
+      <stop offset="0.6" stop-color="#e8703c" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#e8703c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-56" cx="760.629" cy="554.946" r="12.829" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8703c" stop-opacity="0.32"/>
+      <stop offset="0.6" stop-color="#e8703c" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#e8703c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-57" cx="747.046" cy="581.671" r="18.746" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8703c" stop-opacity="0.32"/>
+      <stop offset="0.6" stop-color="#e8703c" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#e8703c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-58" cx="785.692" cy="568.783" r="14.092" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8703c" stop-opacity="0.32"/>
+      <stop offset="0.6" stop-color="#e8703c" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#e8703c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-59" cx="759.719" cy="554.347" r="25.719" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8703c" stop-opacity="0.32"/>
+      <stop offset="0.6" stop-color="#e8703c" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#e8703c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-60" cx="773.738" cy="600.104" r="17.338" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8703c" stop-opacity="0.32"/>
+      <stop offset="0.6" stop-color="#e8703c" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#e8703c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-4" x1="0" y1="459" x2="0" y2="481" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8f0f8"/>
+      <stop offset="1" stop-color="#5ab4d0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0" y1="291" x2="0" y2="309" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8f0f8"/>
+      <stop offset="1" stop-color="#5ab4d0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0" y1="628" x2="0" y2="652" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8f0f8"/>
+      <stop offset="1" stop-color="#5ab4d0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="0" y1="633" x2="0" y2="647" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8f0f8"/>
+      <stop offset="1" stop-color="#5ab4d0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="0" y1="442" x2="0" y2="454" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8f0f8"/>
+      <stop offset="1" stop-color="#5ab4d0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="712" y1="181" x2="776" y2="245" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c0473a"/>
+      <stop offset="1" stop-color="#7e1f1b"/>
+    </linearGradient>
+  </defs>
+  <title>Holi — Festival Seal</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Backdrop_glow" data-name="Backdrop glow" d="M110 460 C110 244.609 284.609 70 500 70 C715.391 70 890 244.609 890 460 C890 675.391 715.391 850 500 850 C284.609 850 110 675.391 110 460 Z" fill="url(#radial-gradient-1)"/>
+    <path id="Backdrop_dust_1" data-name="Backdrop dust 1" d="M473.6 175.4 C473.6 174.958 473.958 174.6 474.4 174.6 C474.842 174.6 475.2 174.958 475.2 175.4 C475.2 175.842 474.842 176.2 474.4 176.2 C473.958 176.2 473.6 175.842 473.6 175.4 Z" fill="#f2b33c" opacity="0.13"/>
+    <path id="Backdrop_dust_2" data-name="Backdrop dust 2" d="M234.7 648.9 C234.7 648.569 234.969 648.3 235.3 648.3 C235.631 648.3 235.9 648.569 235.9 648.9 C235.9 649.231 235.631 649.5 235.3 649.5 C234.969 649.5 234.7 649.231 234.7 648.9 Z" fill="#d8408a" opacity="0.11"/>
+    <path id="Backdrop_dust_3" data-name="Backdrop dust 3" d="M452.4 462.35 C452.4 461.881 452.781 461.5 453.25 461.5 C453.719 461.5 454.1 461.881 454.1 462.35 C454.1 462.819 453.719 463.2 453.25 463.2 C452.781 463.2 452.4 462.819 452.4 462.35 Z" fill="#8a5ac8" opacity="0.15"/>
+    <path id="Backdrop_dust_4" data-name="Backdrop dust 4" d="M767 371.75 C767 371.281 767.381 370.9 767.85 370.9 C768.319 370.9 768.7 371.281 768.7 371.75 C768.7 372.219 768.319 372.6 767.85 372.6 C767.381 372.6 767 372.219 767 371.75 Z" fill="#f2b33c" opacity="0.15"/>
+    <path id="Backdrop_dust_5" data-name="Backdrop dust 5" d="M539.9 626 C539.9 625.448 540.348 625 540.9 625 C541.452 625 541.9 625.448 541.9 626 C541.9 626.552 541.452 627 540.9 627 C540.348 627 539.9 626.552 539.9 626 Z" fill="#d8408a" opacity="0.18"/>
+    <path id="Backdrop_dust_6" data-name="Backdrop dust 6" d="M804.2 425.9 C804.2 425.458 804.558 425.1 805 425.1 C805.442 425.1 805.8 425.458 805.8 425.9 C805.8 426.342 805.442 426.7 805 426.7 C804.558 426.7 804.2 426.342 804.2 425.9 Z" fill="#8a5ac8" opacity="0.22"/>
+    <path id="Backdrop_dust_7" data-name="Backdrop dust 7" d="M534.9 687.45 C534.9 686.87 535.37 686.4 535.95 686.4 C536.53 686.4 537 686.87 537 687.45 C537 688.03 536.53 688.5 535.95 688.5 C535.37 688.5 534.9 688.03 534.9 687.45 Z" fill="#f2b33c" opacity="0.16"/>
+    <path id="Backdrop_dust_8" data-name="Backdrop dust 8" d="M194.3 505.15 C194.3 504.625 194.725 504.2 195.25 504.2 C195.775 504.2 196.2 504.625 196.2 505.15 C196.2 505.675 195.775 506.1 195.25 506.1 C194.725 506.1 194.3 505.675 194.3 505.15 Z" fill="#d8408a" opacity="0.12"/>
+    <path id="Backdrop_dust_9" data-name="Backdrop dust 9" d="M843.6 626.55 C843.6 625.86 844.16 625.3 844.85 625.3 C845.54 625.3 846.1 625.86 846.1 626.55 C846.1 627.24 845.54 627.8 844.85 627.8 C844.16 627.8 843.6 627.24 843.6 626.55 Z" fill="#8a5ac8" opacity="0.24"/>
+    <path id="Backdrop_dust_10" data-name="Backdrop dust 10" d="M265.5 697.5 C265.5 697.003 265.903 696.6 266.4 696.6 C266.897 696.6 267.3 697.003 267.3 697.5 C267.3 697.997 266.897 698.4 266.4 698.4 C265.903 698.4 265.5 697.997 265.5 697.5 Z" fill="#f2b33c" opacity="0.2"/>
+    <path id="Backdrop_dust_11" data-name="Backdrop dust 11" d="M490.5 453 C490.5 452.669 490.769 452.4 491.1 452.4 C491.431 452.4 491.7 452.669 491.7 453 C491.7 453.331 491.431 453.6 491.1 453.6 C490.769 453.6 490.5 453.331 490.5 453 Z" fill="#d8408a" opacity="0.21"/>
+    <path id="Backdrop_dust_12" data-name="Backdrop dust 12" d="M463.8 496 C463.8 495.503 464.203 495.1 464.7 495.1 C465.197 495.1 465.6 495.503 465.6 496 C465.6 496.497 465.197 496.9 464.7 496.9 C464.203 496.9 463.8 496.497 463.8 496 Z" fill="#8a5ac8" opacity="0.12"/>
+    <path id="Backdrop_dust_13" data-name="Backdrop dust 13" d="M169.4 508.55 C169.4 507.915 169.915 507.4 170.55 507.4 C171.185 507.4 171.7 507.915 171.7 508.55 C171.7 509.185 171.185 509.7 170.55 509.7 C169.915 509.7 169.4 509.185 169.4 508.55 Z" fill="#f2b33c" opacity="0.1"/>
+    <path id="Backdrop_dust_14" data-name="Backdrop dust 14" d="M817.5 695.7 C817.5 695.037 818.037 694.5 818.7 694.5 C819.363 694.5 819.9 695.037 819.9 695.7 C819.9 696.363 819.363 696.9 818.7 696.9 C818.037 696.9 817.5 696.363 817.5 695.7 Z" fill="#d8408a" opacity="0.08"/>
+    <path id="Backdrop_dust_15" data-name="Backdrop dust 15" d="M714 439.8 C714 439.303 714.403 438.9 714.9 438.9 C715.397 438.9 715.8 439.303 715.8 439.8 C715.8 440.297 715.397 440.7 714.9 440.7 C714.403 440.7 714 440.297 714 439.8 Z" fill="#8a5ac8" opacity="0.18"/>
+    <path id="Backdrop_dust_16" data-name="Backdrop dust 16" d="M353.1 251.7 C353.1 251.258 353.458 250.9 353.9 250.9 C354.342 250.9 354.7 251.258 354.7 251.7 C354.7 252.142 354.342 252.5 353.9 252.5 C353.458 252.5 353.1 252.142 353.1 251.7 Z" fill="#f2b33c" opacity="0.22"/>
+    <path id="Backdrop_dust_17" data-name="Backdrop dust 17" d="M390.5 722.1 C390.5 721.548 390.948 721.1 391.5 721.1 C392.052 721.1 392.5 721.548 392.5 722.1 C392.5 722.652 392.052 723.1 391.5 723.1 C390.948 723.1 390.5 722.652 390.5 722.1 Z" fill="#d8408a" opacity="0.08"/>
+    <path id="Backdrop_dust_18" data-name="Backdrop dust 18" d="M175.5 441 C175.5 440.337 176.037 439.8 176.7 439.8 C177.363 439.8 177.9 440.337 177.9 441 C177.9 441.663 177.363 442.2 176.7 442.2 C176.037 442.2 175.5 441.663 175.5 441 Z" fill="#8a5ac8" opacity="0.12"/>
+    <path id="Backdrop_dust_19" data-name="Backdrop dust 19" d="M669.7 634.45 C669.7 634.146 669.946 633.9 670.25 633.9 C670.554 633.9 670.8 634.146 670.8 634.45 C670.8 634.754 670.554 635 670.25 635 C669.946 635 669.7 634.754 669.7 634.45 Z" fill="#f2b33c" opacity="0.21"/>
+    <path id="Backdrop_dust_20" data-name="Backdrop dust 20" d="M642.2 212.85 C642.2 212.436 642.536 212.1 642.95 212.1 C643.364 212.1 643.7 212.436 643.7 212.85 C643.7 213.264 643.364 213.6 642.95 213.6 C642.536 213.6 642.2 213.264 642.2 212.85 Z" fill="#d8408a" opacity="0.12"/>
+    <path id="Backdrop_dust_21" data-name="Backdrop dust 21" d="M340.9 392.55 C340.9 392.136 341.236 391.8 341.65 391.8 C342.064 391.8 342.4 392.136 342.4 392.55 C342.4 392.964 342.064 393.3 341.65 393.3 C341.236 393.3 340.9 392.964 340.9 392.55 Z" fill="#8a5ac8" opacity="0.18"/>
+    <path id="Backdrop_dust_22" data-name="Backdrop dust 22" d="M507.3 469.1 C507.3 468.713 507.613 468.4 508 468.4 C508.387 468.4 508.7 468.713 508.7 469.1 C508.7 469.487 508.387 469.8 508 469.8 C507.613 469.8 507.3 469.487 507.3 469.1 Z" fill="#f2b33c" opacity="0.2"/>
+    <path id="Backdrop_dust_23" data-name="Backdrop dust 23" d="M338.6 369.35 C338.6 368.825 339.025 368.4 339.55 368.4 C340.075 368.4 340.5 368.825 340.5 369.35 C340.5 369.875 340.075 370.3 339.55 370.3 C339.025 370.3 338.6 369.875 338.6 369.35 Z" fill="#d8408a" opacity="0.18"/>
+    <path id="Backdrop_dust_24" data-name="Backdrop dust 24" d="M448 578.2 C448 577.924 448.224 577.7 448.5 577.7 C448.776 577.7 449 577.924 449 578.2 C449 578.476 448.776 578.7 448.5 578.7 C448.224 578.7 448 578.476 448 578.2 Z" fill="#8a5ac8" opacity="0.23"/>
+    <path id="Backdrop_dust_25" data-name="Backdrop dust 25" d="M417.8 249.85 C417.8 249.27 418.27 248.8 418.85 248.8 C419.43 248.8 419.9 249.27 419.9 249.85 C419.9 250.43 419.43 250.9 418.85 250.9 C418.27 250.9 417.8 250.43 417.8 249.85 Z" fill="#f2b33c" opacity="0.21"/>
+    <path id="Backdrop_dust_26" data-name="Backdrop dust 26" d="M677.5 564.5 C677.5 564.113 677.813 563.8 678.2 563.8 C678.587 563.8 678.9 564.113 678.9 564.5 C678.9 564.887 678.587 565.2 678.2 565.2 C677.813 565.2 677.5 564.887 677.5 564.5 Z" fill="#d8408a" opacity="0.23"/>
+    <path id="Backdrop_dust_27" data-name="Backdrop dust 27" d="M750.1 563.9 C750.1 563.237 750.637 562.7 751.3 562.7 C751.963 562.7 752.5 563.237 752.5 563.9 C752.5 564.563 751.963 565.1 751.3 565.1 C750.637 565.1 750.1 564.563 750.1 563.9 Z" fill="#8a5ac8" opacity="0.21"/>
+    <path id="Backdrop_dust_28" data-name="Backdrop dust 28" d="M509 87.2 C509 86.869 509.269 86.6 509.6 86.6 C509.931 86.6 510.2 86.869 510.2 87.2 C510.2 87.531 509.931 87.8 509.6 87.8 C509.269 87.8 509 87.531 509 87.2 Z" fill="#f2b33c" opacity="0.18"/>
+    <path id="Backdrop_dust_29" data-name="Backdrop dust 29" d="M605.6 462.5 C605.6 461.948 606.048 461.5 606.6 461.5 C607.152 461.5 607.6 461.948 607.6 462.5 C607.6 463.052 607.152 463.5 606.6 463.5 C606.048 463.5 605.6 463.052 605.6 462.5 Z" fill="#d8408a" opacity="0.12"/>
+    <path id="Backdrop_dust_30" data-name="Backdrop dust 30" d="M262.7 617.65 C262.7 617.236 263.036 616.9 263.45 616.9 C263.864 616.9 264.2 617.236 264.2 617.65 C264.2 618.064 263.864 618.4 263.45 618.4 C263.036 618.4 262.7 618.064 262.7 617.65 Z" fill="#8a5ac8" opacity="0.21"/>
+    <path id="Backdrop_dust_31" data-name="Backdrop dust 31" d="M590.8 261.15 C590.8 260.791 591.091 260.5 591.45 260.5 C591.809 260.5 592.1 260.791 592.1 261.15 C592.1 261.509 591.809 261.8 591.45 261.8 C591.091 261.8 590.8 261.509 590.8 261.15 Z" fill="#f2b33c" opacity="0.11"/>
+    <path id="Backdrop_dust_32" data-name="Backdrop dust 32" d="M331.3 531.2 C331.3 530.703 331.703 530.3 332.2 530.3 C332.697 530.3 333.1 530.703 333.1 531.2 C333.1 531.697 332.697 532.1 332.2 532.1 C331.703 532.1 331.3 531.697 331.3 531.2 Z" fill="#d8408a" opacity="0.16"/>
+    <path id="Backdrop_dust_33" data-name="Backdrop dust 33" d="M631.2 489.75 C631.2 489.115 631.715 488.6 632.35 488.6 C632.985 488.6 633.5 489.115 633.5 489.75 C633.5 490.385 632.985 490.9 632.35 490.9 C631.715 490.9 631.2 490.385 631.2 489.75 Z" fill="#8a5ac8" opacity="0.12"/>
+    <path id="Backdrop_dust_34" data-name="Backdrop dust 34" d="M228.3 513.95 C228.3 513.591 228.591 513.3 228.95 513.3 C229.309 513.3 229.6 513.591 229.6 513.95 C229.6 514.309 229.309 514.6 228.95 514.6 C228.591 514.6 228.3 514.309 228.3 513.95 Z" fill="#f2b33c" opacity="0.09"/>
+    <path id="Backdrop_dust_35" data-name="Backdrop dust 35" d="M730.3 477.9 C730.3 477.403 730.703 477 731.2 477 C731.697 477 732.1 477.403 732.1 477.9 C732.1 478.397 731.697 478.8 731.2 478.8 C730.703 478.8 730.3 478.397 730.3 477.9 Z" fill="#d8408a" opacity="0.21"/>
+    <path id="Backdrop_dust_36" data-name="Backdrop dust 36" d="M395.7 310.35 C395.7 309.881 396.081 309.5 396.55 309.5 C397.019 309.5 397.4 309.881 397.4 310.35 C397.4 310.819 397.019 311.2 396.55 311.2 C396.081 311.2 395.7 310.819 395.7 310.35 Z" fill="#8a5ac8" opacity="0.16"/>
+    <path id="Backdrop_dust_37" data-name="Backdrop dust 37" d="M738.6 327.25 C738.6 326.67 739.07 326.2 739.65 326.2 C740.23 326.2 740.7 326.67 740.7 327.25 C740.7 327.83 740.23 328.3 739.65 328.3 C739.07 328.3 738.6 327.83 738.6 327.25 Z" fill="#f2b33c" opacity="0.19"/>
+    <path id="Backdrop_dust_38" data-name="Backdrop dust 38" d="M355.7 712.3 C355.7 711.748 356.148 711.3 356.7 711.3 C357.252 711.3 357.7 711.748 357.7 712.3 C357.7 712.852 357.252 713.3 356.7 713.3 C356.148 713.3 355.7 712.852 355.7 712.3 Z" fill="#d8408a" opacity="0.22"/>
+    <path id="Backdrop_dust_39" data-name="Backdrop dust 39" d="M728.6 611.35 C728.6 610.66 729.16 610.1 729.85 610.1 C730.54 610.1 731.1 610.66 731.1 611.35 C731.1 612.04 730.54 612.6 729.85 612.6 C729.16 612.6 728.6 612.04 728.6 611.35 Z" fill="#8a5ac8" opacity="0.16"/>
+    <path id="Backdrop_dust_40" data-name="Backdrop dust 40" d="M732.5 588.4 C732.5 587.958 732.858 587.6 733.3 587.6 C733.742 587.6 734.1 587.958 734.1 588.4 C734.1 588.842 733.742 589.2 733.3 589.2 C732.858 589.2 732.5 588.842 732.5 588.4 Z" fill="#f2b33c" opacity="0.18"/>
+    <path id="Plate_shadow" data-name="Plate shadow" d="M86 466 C86 237.354 271.354 52 500 52 C728.646 52 914 237.354 914 466 C914 694.646 728.646 880 500 880 C271.354 880 86 694.646 86 466 Z" fill="#1d1216" opacity="0.3"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#linear-gradient-2)" stroke="#401028" stroke-width="10" stroke-miterlimit="10"/>
+    <path id="Plate_rim" data-name="Plate rim" d="M86 460 C86 231.354 271.354 46 500 46 C728.646 46 914 231.354 914 460 C914 688.646 728.646 874 500 874 C271.354 874 86 688.646 86 460 Z" fill="none" stroke="#e8c074" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M110 460 C110 244.609 284.609 70 500 70 C715.391 70 890 244.609 890 460 C890 675.391 715.391 850 500 850 C284.609 850 110 675.391 110 460 Z" fill="none" stroke="#e8c074" stroke-width="2" stroke-miterlimit="10" opacity="0.62"/>
+    <path id="Disc_dust_1" data-name="Disc dust 1" d="M337.2 298.45 C337.2 297.981 337.581 297.6 338.05 297.6 C338.519 297.6 338.9 297.981 338.9 298.45 C338.9 298.919 338.519 299.3 338.05 299.3 C337.581 299.3 337.2 298.919 337.2 298.45 Z" fill="#f2b33c" opacity="0.18"/>
+    <path id="Disc_dust_2" data-name="Disc dust 2" d="M384 235.9 C384 235.403 384.403 235 384.9 235 C385.397 235 385.8 235.403 385.8 235.9 C385.8 236.397 385.397 236.8 384.9 236.8 C384.403 236.8 384 236.397 384 235.9 Z" fill="#d8408a" opacity="0.14"/>
+    <path id="Disc_dust_3" data-name="Disc dust 3" d="M395.7 464.35 C395.7 463.66 396.26 463.1 396.95 463.1 C397.64 463.1 398.2 463.66 398.2 464.35 C398.2 465.04 397.64 465.6 396.95 465.6 C396.26 465.6 395.7 465.04 395.7 464.35 Z" fill="#58b868" opacity="0.28"/>
+    <path id="Disc_dust_4" data-name="Disc dust 4" d="M785.1 706.9 C785.1 706.237 785.637 705.7 786.3 705.7 C786.963 705.7 787.5 706.237 787.5 706.9 C787.5 707.563 786.963 708.1 786.3 708.1 C785.637 708.1 785.1 707.563 785.1 706.9 Z" fill="#8a5ac8" opacity="0.2"/>
+    <path id="Disc_dust_5" data-name="Disc dust 5" d="M750.8 442 C750.8 441.613 751.113 441.3 751.5 441.3 C751.887 441.3 752.2 441.613 752.2 442 C752.2 442.387 751.887 442.7 751.5 442.7 C751.113 442.7 750.8 442.387 750.8 442 Z" fill="#f2b33c" opacity="0.24"/>
+    <path id="Disc_dust_6" data-name="Disc dust 6" d="M304 596.5 C304 595.672 304.672 595 305.5 595 C306.328 595 307 595.672 307 596.5 C307 597.328 306.328 598 305.5 598 C304.672 598 304 597.328 304 596.5 Z" fill="#d8408a" opacity="0.12"/>
+    <path id="Disc_dust_7" data-name="Disc dust 7" d="M430.1 761.4 C430.1 761.069 430.369 760.8 430.7 760.8 C431.031 760.8 431.3 761.069 431.3 761.4 C431.3 761.731 431.031 762 430.7 762 C430.369 762 430.1 761.731 430.1 761.4 Z" fill="#58b868" opacity="0.29"/>
+    <path id="Disc_dust_8" data-name="Disc dust 8" d="M185.5 375.95 C185.5 375.536 185.836 375.2 186.25 375.2 C186.664 375.2 187 375.536 187 375.95 C187 376.364 186.664 376.7 186.25 376.7 C185.836 376.7 185.5 376.364 185.5 375.95 Z" fill="#8a5ac8" opacity="0.21"/>
+    <path id="Disc_dust_9" data-name="Disc dust 9" d="M291.1 500.85 C291.1 500.104 291.704 499.5 292.45 499.5 C293.196 499.5 293.8 500.104 293.8 500.85 C293.8 501.596 293.196 502.2 292.45 502.2 C291.704 502.2 291.1 501.596 291.1 500.85 Z" fill="#f2b33c" opacity="0.26"/>
+    <path id="Disc_dust_10" data-name="Disc dust 10" d="M457.3 498.65 C457.3 498.181 457.681 497.8 458.15 497.8 C458.619 497.8 459 498.181 459 498.65 C459 499.119 458.619 499.5 458.15 499.5 C457.681 499.5 457.3 499.119 457.3 498.65 Z" fill="#d8408a" opacity="0.15"/>
+    <path id="Disc_dust_11" data-name="Disc dust 11" d="M834.1 482.75 C834.1 482.446 834.346 482.2 834.65 482.2 C834.954 482.2 835.2 482.446 835.2 482.75 C835.2 483.054 834.954 483.3 834.65 483.3 C834.346 483.3 834.1 483.054 834.1 482.75 Z" fill="#58b868" opacity="0.19"/>
+    <path id="Disc_dust_12" data-name="Disc dust 12" d="M602.8 84.65 C602.8 84.015 603.315 83.5 603.95 83.5 C604.585 83.5 605.1 84.015 605.1 84.65 C605.1 85.285 604.585 85.8 603.95 85.8 C603.315 85.8 602.8 85.285 602.8 84.65 Z" fill="#8a5ac8" opacity="0.26"/>
+    <path id="Disc_dust_13" data-name="Disc dust 13" d="M371.3 326.6 C371.3 326.103 371.703 325.7 372.2 325.7 C372.697 325.7 373.1 326.103 373.1 326.6 C373.1 327.097 372.697 327.5 372.2 327.5 C371.703 327.5 371.3 327.097 371.3 326.6 Z" fill="#f2b33c" opacity="0.12"/>
+    <path id="Disc_dust_14" data-name="Disc dust 14" d="M590 813.05 C590 812.746 590.246 812.5 590.55 812.5 C590.854 812.5 591.1 812.746 591.1 813.05 C591.1 813.354 590.854 813.6 590.55 813.6 C590.246 813.6 590 813.354 590 813.05 Z" fill="#d8408a" opacity="0.16"/>
+    <path id="Disc_dust_15" data-name="Disc dust 15" d="M362.1 447.7 C362.1 446.927 362.727 446.3 363.5 446.3 C364.273 446.3 364.9 446.927 364.9 447.7 C364.9 448.473 364.273 449.1 363.5 449.1 C362.727 449.1 362.1 448.473 362.1 447.7 Z" fill="#58b868" opacity="0.17"/>
+    <path id="Disc_dust_16" data-name="Disc dust 16" d="M195 366.95 C195 366.425 195.425 366 195.95 366 C196.475 366 196.9 366.425 196.9 366.95 C196.9 367.475 196.475 367.9 195.95 367.9 C195.425 367.9 195 367.475 195 366.95 Z" fill="#8a5ac8" opacity="0.2"/>
+    <path id="Disc_dust_17" data-name="Disc dust 17" d="M840.8 327.35 C840.8 326.77 841.27 326.3 841.85 326.3 C842.43 326.3 842.9 326.77 842.9 327.35 C842.9 327.93 842.43 328.4 841.85 328.4 C841.27 328.4 840.8 327.93 840.8 327.35 Z" fill="#f2b33c" opacity="0.12"/>
+    <path id="Disc_dust_18" data-name="Disc dust 18" d="M434.1 462.8 C434.1 462.303 434.503 461.9 435 461.9 C435.497 461.9 435.9 462.303 435.9 462.8 C435.9 463.297 435.497 463.7 435 463.7 C434.503 463.7 434.1 463.297 434.1 462.8 Z" fill="#d8408a" opacity="0.27"/>
+    <path id="Disc_dust_19" data-name="Disc dust 19" d="M516.5 826.25 C516.5 825.946 516.746 825.7 517.05 825.7 C517.354 825.7 517.6 825.946 517.6 826.25 C517.6 826.554 517.354 826.8 517.05 826.8 C516.746 826.8 516.5 826.554 516.5 826.25 Z" fill="#58b868" opacity="0.29"/>
+    <path id="Disc_dust_20" data-name="Disc dust 20" d="M553.7 571.7 C553.7 571.313 554.013 571 554.4 571 C554.787 571 555.1 571.313 555.1 571.7 C555.1 572.087 554.787 572.4 554.4 572.4 C554.013 572.4 553.7 572.087 553.7 571.7 Z" fill="#8a5ac8" opacity="0.17"/>
+    <path id="Disc_dust_21" data-name="Disc dust 21" d="M587.8 618.2 C587.8 617.758 588.158 617.4 588.6 617.4 C589.042 617.4 589.4 617.758 589.4 618.2 C589.4 618.642 589.042 619 588.6 619 C588.158 619 587.8 618.642 587.8 618.2 Z" fill="#f2b33c" opacity="0.18"/>
+    <path id="Disc_dust_22" data-name="Disc dust 22" d="M531 609.75 C531 609.17 531.47 608.7 532.05 608.7 C532.63 608.7 533.1 609.17 533.1 609.75 C533.1 610.33 532.63 610.8 532.05 610.8 C531.47 610.8 531 610.33 531 609.75 Z" fill="#d8408a" opacity="0.18"/>
+    <path id="Disc_dust_23" data-name="Disc dust 23" d="M338.5 315.45 C338.5 315.091 338.791 314.8 339.15 314.8 C339.509 314.8 339.8 315.091 339.8 315.45 C339.8 315.809 339.509 316.1 339.15 316.1 C338.791 316.1 338.5 315.809 338.5 315.45 Z" fill="#58b868" opacity="0.14"/>
+    <path id="Disc_dust_24" data-name="Disc dust 24" d="M611.6 574.75 C611.6 574.225 612.025 573.8 612.55 573.8 C613.075 573.8 613.5 574.225 613.5 574.75 C613.5 575.275 613.075 575.7 612.55 575.7 C612.025 575.7 611.6 575.275 611.6 574.75 Z" fill="#8a5ac8" opacity="0.19"/>
+    <path id="Disc_dust_25" data-name="Disc dust 25" d="M476.8 221.65 C476.8 221.291 477.091 221 477.45 221 C477.809 221 478.1 221.291 478.1 221.65 C478.1 222.009 477.809 222.3 477.45 222.3 C477.091 222.3 476.8 222.009 476.8 221.65 Z" fill="#f2b33c" opacity="0.16"/>
+    <path id="Disc_dust_26" data-name="Disc dust 26" d="M646.9 601.4 C646.9 601.013 647.213 600.7 647.6 600.7 C647.987 600.7 648.3 601.013 648.3 601.4 C648.3 601.787 647.987 602.1 647.6 602.1 C647.213 602.1 646.9 601.787 646.9 601.4 Z" fill="#d8408a" opacity="0.18"/>
+    <path id="Disc_dust_27" data-name="Disc dust 27" d="M201.5 658.6 C201.5 658.048 201.948 657.6 202.5 657.6 C203.052 657.6 203.5 658.048 203.5 658.6 C203.5 659.152 203.052 659.6 202.5 659.6 C201.948 659.6 201.5 659.152 201.5 658.6 Z" fill="#58b868" opacity="0.11"/>
+    <path id="Disc_dust_28" data-name="Disc dust 28" d="M485.2 536.85 C485.2 536.381 485.581 536 486.05 536 C486.519 536 486.9 536.381 486.9 536.85 C486.9 537.319 486.519 537.7 486.05 537.7 C485.581 537.7 485.2 537.319 485.2 536.85 Z" fill="#8a5ac8" opacity="0.14"/>
+    <path id="Disc_dust_29" data-name="Disc dust 29" d="M729.3 628.65 C729.3 628.125 729.725 627.7 730.25 627.7 C730.775 627.7 731.2 628.125 731.2 628.65 C731.2 629.175 730.775 629.6 730.25 629.6 C729.725 629.6 729.3 629.175 729.3 628.65 Z" fill="#f2b33c" opacity="0.27"/>
+    <path id="Disc_dust_30" data-name="Disc dust 30" d="M781.5 617.3 C781.5 616.692 781.992 616.2 782.6 616.2 C783.208 616.2 783.7 616.692 783.7 617.3 C783.7 617.908 783.208 618.4 782.6 618.4 C781.992 618.4 781.5 617.908 781.5 617.3 Z" fill="#d8408a" opacity="0.28"/>
+    <path id="Disc_dust_31" data-name="Disc dust 31" d="M784 686.95 C784 686.315 784.515 685.8 785.15 685.8 C785.785 685.8 786.3 686.315 786.3 686.95 C786.3 687.585 785.785 688.1 785.15 688.1 C784.515 688.1 784 687.585 784 686.95 Z" fill="#58b868" opacity="0.27"/>
+    <path id="Disc_dust_32" data-name="Disc dust 32" d="M436.4 563.65 C436.4 563.346 436.646 563.1 436.95 563.1 C437.254 563.1 437.5 563.346 437.5 563.65 C437.5 563.954 437.254 564.2 436.95 564.2 C436.646 564.2 436.4 563.954 436.4 563.65 Z" fill="#8a5ac8" opacity="0.11"/>
+    <path id="Disc_dust_33" data-name="Disc dust 33" d="M722.4 725.5 C722.4 724.782 722.982 724.2 723.7 724.2 C724.418 724.2 725 724.782 725 725.5 C725 726.218 724.418 726.8 723.7 726.8 C722.982 726.8 722.4 726.218 722.4 725.5 Z" fill="#f2b33c" opacity="0.23"/>
+    <path id="Disc_dust_34" data-name="Disc dust 34" d="M151.1 520.6 C151.1 520.213 151.413 519.9 151.8 519.9 C152.187 519.9 152.5 520.213 152.5 520.6 C152.5 520.987 152.187 521.3 151.8 521.3 C151.413 521.3 151.1 520.987 151.1 520.6 Z" fill="#d8408a" opacity="0.2"/>
+    <path id="Disc_dust_35" data-name="Disc dust 35" d="M375.9 753.8 C375.9 753.248 376.348 752.8 376.9 752.8 C377.452 752.8 377.9 753.248 377.9 753.8 C377.9 754.352 377.452 754.8 376.9 754.8 C376.348 754.8 375.9 754.352 375.9 753.8 Z" fill="#58b868" opacity="0.26"/>
+    <path id="Disc_dust_36" data-name="Disc dust 36" d="M608.6 791.25 C608.6 790.449 609.249 789.8 610.05 789.8 C610.851 789.8 611.5 790.449 611.5 791.25 C611.5 792.051 610.851 792.7 610.05 792.7 C609.249 792.7 608.6 792.051 608.6 791.25 Z" fill="#8a5ac8" opacity="0.2"/>
+    <path id="Disc_dust_37" data-name="Disc dust 37" d="M432 456.35 C432 455.77 432.47 455.3 433.05 455.3 C433.63 455.3 434.1 455.77 434.1 456.35 C434.1 456.93 433.63 457.4 433.05 457.4 C432.47 457.4 432 456.93 432 456.35 Z" fill="#f2b33c" opacity="0.28"/>
+    <path id="Disc_dust_38" data-name="Disc dust 38" d="M374.1 414.15 C374.1 413.846 374.346 413.6 374.65 413.6 C374.954 413.6 375.2 413.846 375.2 414.15 C375.2 414.454 374.954 414.7 374.65 414.7 C374.346 414.7 374.1 414.454 374.1 414.15 Z" fill="#d8408a" opacity="0.16"/>
+    <path id="Disc_dust_39" data-name="Disc dust 39" d="M650 561.35 C650 560.66 650.56 560.1 651.25 560.1 C651.94 560.1 652.5 560.66 652.5 561.35 C652.5 562.04 651.94 562.6 651.25 562.6 C650.56 562.6 650 562.04 650 561.35 Z" fill="#58b868" opacity="0.12"/>
+    <path id="Disc_dust_40" data-name="Disc dust 40" d="M361.5 712.4 C361.5 712.069 361.769 711.8 362.1 711.8 C362.431 711.8 362.7 712.069 362.7 712.4 C362.7 712.731 362.431 713 362.1 713 C361.769 713 361.5 712.731 361.5 712.4 Z" fill="#8a5ac8" opacity="0.28"/>
+    <path id="Disc_dust_41" data-name="Disc dust 41" d="M847.5 534.3 C847.5 533.527 848.127 532.9 848.9 532.9 C849.673 532.9 850.3 533.527 850.3 534.3 C850.3 535.073 849.673 535.7 848.9 535.7 C848.127 535.7 847.5 535.073 847.5 534.3 Z" fill="#f2b33c" opacity="0.11"/>
+    <path id="Disc_dust_42" data-name="Disc dust 42" d="M712.2 148.8 C712.2 148.082 712.782 147.5 713.5 147.5 C714.218 147.5 714.8 148.082 714.8 148.8 C714.8 149.518 714.218 150.1 713.5 150.1 C712.782 150.1 712.2 149.518 712.2 148.8 Z" fill="#d8408a" opacity="0.22"/>
+    <path id="Disc_dust_43" data-name="Disc dust 43" d="M403.1 564.55 C403.1 564.081 403.481 563.7 403.95 563.7 C404.419 563.7 404.8 564.081 404.8 564.55 C404.8 565.019 404.419 565.4 403.95 565.4 C403.481 565.4 403.1 565.019 403.1 564.55 Z" fill="#58b868" opacity="0.25"/>
+    <path id="Disc_dust_44" data-name="Disc dust 44" d="M690.7 684.25 C690.7 683.615 691.215 683.1 691.85 683.1 C692.485 683.1 693 683.615 693 684.25 C693 684.885 692.485 685.4 691.85 685.4 C691.215 685.4 690.7 684.885 690.7 684.25 Z" fill="#8a5ac8" opacity="0.17"/>
+    <path id="Disc_dust_45" data-name="Disc dust 45" d="M688.8 551.75 C688.8 551.115 689.315 550.6 689.95 550.6 C690.585 550.6 691.1 551.115 691.1 551.75 C691.1 552.385 690.585 552.9 689.95 552.9 C689.315 552.9 688.8 552.385 688.8 551.75 Z" fill="#f2b33c" opacity="0.24"/>
+    <path id="Disc_dust_46" data-name="Disc dust 46" d="M269.2 477.45 C269.2 476.815 269.715 476.3 270.35 476.3 C270.985 476.3 271.5 476.815 271.5 477.45 C271.5 478.085 270.985 478.6 270.35 478.6 C269.715 478.6 269.2 478.085 269.2 477.45 Z" fill="#d8408a" opacity="0.11"/>
+    <path id="Disc_dust_47" data-name="Disc dust 47" d="M448.2 730 C448.2 729.227 448.827 728.6 449.6 728.6 C450.373 728.6 451 729.227 451 730 C451 730.773 450.373 731.4 449.6 731.4 C448.827 731.4 448.2 730.773 448.2 730 Z" fill="#58b868" opacity="0.17"/>
+    <path id="Disc_dust_48" data-name="Disc dust 48" d="M293.1 746.7 C293.1 746.369 293.369 746.1 293.7 746.1 C294.031 746.1 294.3 746.369 294.3 746.7 C294.3 747.031 294.031 747.3 293.7 747.3 C293.369 747.3 293.1 747.031 293.1 746.7 Z" fill="#8a5ac8" opacity="0.22"/>
+    <path id="Disc_dust_49" data-name="Disc dust 49" d="M799.6 226.65 C799.6 226.236 799.936 225.9 800.35 225.9 C800.764 225.9 801.1 226.236 801.1 226.65 C801.1 227.064 800.764 227.4 800.35 227.4 C799.936 227.4 799.6 227.064 799.6 226.65 Z" fill="#f2b33c" opacity="0.24"/>
+    <path id="Disc_dust_50" data-name="Disc dust 50" d="M412.9 362.75 C412.9 362.391 413.191 362.1 413.55 362.1 C413.909 362.1 414.2 362.391 414.2 362.75 C414.2 363.109 413.909 363.4 413.55 363.4 C413.191 363.4 412.9 363.109 412.9 362.75 Z" fill="#d8408a" opacity="0.13"/>
+    <path id="Disc_dust_51" data-name="Disc dust 51" d="M194.4 316.2 C194.4 315.427 195.027 314.8 195.8 314.8 C196.573 314.8 197.2 315.427 197.2 316.2 C197.2 316.973 196.573 317.6 195.8 317.6 C195.027 317.6 194.4 316.973 194.4 316.2 Z" fill="#58b868" opacity="0.3"/>
+    <path id="Disc_dust_52" data-name="Disc dust 52" d="M237.2 689.1 C237.2 688.327 237.827 687.7 238.6 687.7 C239.373 687.7 240 688.327 240 689.1 C240 689.873 239.373 690.5 238.6 690.5 C237.827 690.5 237.2 689.873 237.2 689.1 Z" fill="#8a5ac8" opacity="0.27"/>
+    <path id="Disc_dust_53" data-name="Disc dust 53" d="M782.2 575.15 C782.2 574.681 782.581 574.3 783.05 574.3 C783.519 574.3 783.9 574.681 783.9 575.15 C783.9 575.619 783.519 576 783.05 576 C782.581 576 782.2 575.619 782.2 575.15 Z" fill="#f2b33c" opacity="0.25"/>
+    <path id="Disc_dust_54" data-name="Disc dust 54" d="M610.2 213.9 C610.2 213.624 610.424 213.4 610.7 213.4 C610.976 213.4 611.2 213.624 611.2 213.9 C611.2 214.176 610.976 214.4 610.7 214.4 C610.424 214.4 610.2 214.176 610.2 213.9 Z" fill="#d8408a" opacity="0.21"/>
+    <path id="Disc_dust_55" data-name="Disc dust 55" d="M778.3 385.95 C778.3 385.591 778.591 385.3 778.95 385.3 C779.309 385.3 779.6 385.591 779.6 385.95 C779.6 386.309 779.309 386.6 778.95 386.6 C778.591 386.6 778.3 386.309 778.3 385.95 Z" fill="#58b868" opacity="0.15"/>
+    <path id="Disc_dust_56" data-name="Disc dust 56" d="M473.5 197.85 C473.5 197.27 473.97 196.8 474.55 196.8 C475.13 196.8 475.6 197.27 475.6 197.85 C475.6 198.43 475.13 198.9 474.55 198.9 C473.97 198.9 473.5 198.43 473.5 197.85 Z" fill="#8a5ac8" opacity="0.24"/>
+    <path id="Disc_dust_57" data-name="Disc dust 57" d="M553.7 259.6 C553.7 259.324 553.924 259.1 554.2 259.1 C554.476 259.1 554.7 259.324 554.7 259.6 C554.7 259.876 554.476 260.1 554.2 260.1 C553.924 260.1 553.7 259.876 553.7 259.6 Z" fill="#f2b33c" opacity="0.19"/>
+    <path id="Disc_dust_58" data-name="Disc dust 58" d="M449.5 557.05 C449.5 556.636 449.836 556.3 450.25 556.3 C450.664 556.3 451 556.636 451 557.05 C451 557.464 450.664 557.8 450.25 557.8 C449.836 557.8 449.5 557.464 449.5 557.05 Z" fill="#d8408a" opacity="0.21"/>
+    <path id="Disc_dust_59" data-name="Disc dust 59" d="M175.1 435.8 C175.1 435.413 175.413 435.1 175.8 435.1 C176.187 435.1 176.5 435.413 176.5 435.8 C176.5 436.187 176.187 436.5 175.8 436.5 C175.413 436.5 175.1 436.187 175.1 435.8 Z" fill="#58b868" opacity="0.29"/>
+    <path id="Disc_dust_60" data-name="Disc dust 60" d="M441.6 567.15 C441.6 566.791 441.891 566.5 442.25 566.5 C442.609 566.5 442.9 566.791 442.9 567.15 C442.9 567.509 442.609 567.8 442.25 567.8 C441.891 567.8 441.6 567.509 441.6 567.15 Z" fill="#8a5ac8" opacity="0.29"/>
+    <path id="Disc_dust_61" data-name="Disc dust 61" d="M280.5 785.05 C280.5 784.581 280.881 784.2 281.35 784.2 C281.819 784.2 282.2 784.581 282.2 785.05 C282.2 785.519 281.819 785.9 281.35 785.9 C280.881 785.9 280.5 785.519 280.5 785.05 Z" fill="#f2b33c" opacity="0.11"/>
+    <path id="Disc_dust_62" data-name="Disc dust 62" d="M184.4 292.7 C184.4 292.092 184.892 291.6 185.5 291.6 C186.108 291.6 186.6 292.092 186.6 292.7 C186.6 293.308 186.108 293.8 185.5 293.8 C184.892 293.8 184.4 293.308 184.4 292.7 Z" fill="#d8408a" opacity="0.15"/>
+    <path id="Disc_dust_63" data-name="Disc dust 63" d="M875.1 511.15 C875.1 510.515 875.615 510 876.25 510 C876.885 510 877.4 510.515 877.4 511.15 C877.4 511.785 876.885 512.3 876.25 512.3 C875.615 512.3 875.1 511.785 875.1 511.15 Z" fill="#58b868" opacity="0.12"/>
+    <path id="Disc_dust_64" data-name="Disc dust 64" d="M655.4 371.4 C655.4 370.737 655.937 370.2 656.6 370.2 C657.263 370.2 657.8 370.737 657.8 371.4 C657.8 372.063 657.263 372.6 656.6 372.6 C655.937 372.6 655.4 372.063 655.4 371.4 Z" fill="#8a5ac8" opacity="0.23"/>
+    <path id="Disc_dust_65" data-name="Disc dust 65" d="M245.6 675.5 C245.6 674.892 246.092 674.4 246.7 674.4 C247.308 674.4 247.8 674.892 247.8 675.5 C247.8 676.108 247.308 676.6 246.7 676.6 C246.092 676.6 245.6 676.108 245.6 675.5 Z" fill="#f2b33c" opacity="0.19"/>
+    <path id="Disc_dust_66" data-name="Disc dust 66" d="M156.4 460.55 C156.4 459.749 157.049 459.1 157.85 459.1 C158.651 459.1 159.3 459.749 159.3 460.55 C159.3 461.351 158.651 462 157.85 462 C157.049 462 156.4 461.351 156.4 460.55 Z" fill="#d8408a" opacity="0.14"/>
+    <path id="Disc_dust_67" data-name="Disc dust 67" d="M226.9 717.95 C226.9 717.315 227.415 716.8 228.05 716.8 C228.685 716.8 229.2 717.315 229.2 717.95 C229.2 718.585 228.685 719.1 228.05 719.1 C227.415 719.1 226.9 718.585 226.9 717.95 Z" fill="#58b868" opacity="0.23"/>
+    <path id="Disc_dust_68" data-name="Disc dust 68" d="M276.9 537.85 C276.9 537.27 277.37 536.8 277.95 536.8 C278.53 536.8 279 537.27 279 537.85 C279 538.43 278.53 538.9 277.95 538.9 C277.37 538.9 276.9 538.43 276.9 537.85 Z" fill="#8a5ac8" opacity="0.24"/>
+    <path id="Disc_dust_69" data-name="Disc dust 69" d="M372.2 579.4 C372.2 578.682 372.782 578.1 373.5 578.1 C374.218 578.1 374.8 578.682 374.8 579.4 C374.8 580.118 374.218 580.7 373.5 580.7 C372.782 580.7 372.2 580.118 372.2 579.4 Z" fill="#f2b33c" opacity="0.1"/>
+    <path id="Disc_dust_70" data-name="Disc dust 70" d="M802.8 230.85 C802.8 230.215 803.315 229.7 803.95 229.7 C804.585 229.7 805.1 230.215 805.1 230.85 C805.1 231.485 804.585 232 803.95 232 C803.315 232 802.8 231.485 802.8 230.85 Z" fill="#d8408a" opacity="0.19"/>
+    <path id="Rim_relight" data-name="Rim relight" d="M86 460 C86 231.354 271.354 46 500 46 C728.646 46 914 231.354 914 460 C914 688.646 728.646 874 500 874 C271.354 874 86 688.646 86 460 Z" fill="none" stroke="url(#linear-gradient-3)" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Tick_1" data-name="Tick 1" d="M500 82 L500 64" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_2" data-name="Tick 2" d="M597.8 94.9 L602.5 77.5" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_3" data-name="Tick 3" d="M689 132.6 L698 117.1" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_4" data-name="Tick 4" d="M767.3 192.7 L780 180" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_5" data-name="Tick 5" d="M827.4 271 L842.9 262" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_6" data-name="Tick 6" d="M865.1 362.2 L882.5 357.5" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_7" data-name="Tick 7" d="M878 460 L896 460" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_8" data-name="Tick 8" d="M865.1 557.8 L882.5 562.5" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_9" data-name="Tick 9" d="M827.4 649 L842.9 658" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_10" data-name="Tick 10" d="M767.3 727.3 L780 740" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_11" data-name="Tick 11" d="M689 787.4 L698 802.9" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_12" data-name="Tick 12" d="M597.8 825.1 L602.5 842.5" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_13" data-name="Tick 13" d="M500 838 L500 856" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_14" data-name="Tick 14" d="M402.2 825.1 L397.5 842.5" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_15" data-name="Tick 15" d="M311 787.4 L302 802.9" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_16" data-name="Tick 16" d="M232.7 727.3 L220 740" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_17" data-name="Tick 17" d="M172.6 649 L157.1 658" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_18" data-name="Tick 18" d="M134.9 557.8 L117.5 562.5" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_19" data-name="Tick 19" d="M122 460 L104 460" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_20" data-name="Tick 20" d="M134.9 362.2 L117.5 357.5" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_21" data-name="Tick 21" d="M172.6 271 L157.1 262" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_22" data-name="Tick 22" d="M232.7 192.7 L220 180" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_23" data-name="Tick 23" d="M311 132.6 L302 117.1" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Tick_24" data-name="Tick 24" d="M402.2 94.9 L397.5 77.5" fill="none" stroke="#b8865e" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Glow_magenta" data-name="Glow magenta" d="M140 360 C140 255.066 225.066 170 330 170 C434.934 170 520 255.066 520 360 C520 464.934 434.934 550 330 550 C225.066 550 140 464.934 140 360 Z" fill="url(#radial-gradient-2)"/>
+    <path id="Gulal_magenta_heart" data-name="Gulal magenta heart" d="M182 370 C182 296.436 248.262 236.8 330 236.8 C411.738 236.8 478 296.436 478 370 C478 443.564 411.738 503.2 330 503.2 C248.262 503.2 182 443.564 182 370 Z" fill="url(#radial-gradient-3)"/>
+    <path id="Gulal_magenta_puff_1" data-name="Gulal magenta puff 1" d="M229.247 329.414 C229.247 305.268 250.996 285.693 277.825 285.693 C304.654 285.693 326.404 305.268 326.404 329.414 C326.404 353.56 304.654 373.134 277.825 373.134 C250.996 373.134 229.247 353.56 229.247 329.414 Z" fill="url(#radial-gradient-4)"/>
+    <path id="Gulal_magenta_puff_2" data-name="Gulal magenta puff 2" d="M189.259 413.533 C189.259 387.977 212.278 367.26 240.673 367.26 C269.068 367.26 292.086 387.977 292.086 413.533 C292.086 439.088 269.068 459.805 240.673 459.805 C212.278 459.805 189.259 439.088 189.259 413.533 Z" fill="url(#radial-gradient-5)"/>
+    <path id="Gulal_magenta_puff_3" data-name="Gulal magenta puff 3" d="M224.635 397.789 C224.635 370.698 249.037 348.736 279.138 348.736 C309.24 348.736 333.641 370.698 333.641 397.789 C333.641 424.88 309.24 446.842 279.138 446.842 C249.037 446.842 224.635 424.88 224.635 397.789 Z" fill="url(#radial-gradient-6)"/>
+    <path id="Gulal_magenta_puff_4" data-name="Gulal magenta puff 4" d="M362.795 407.291 C362.795 372.38 394.24 344.08 433.03 344.08 C471.819 344.08 503.264 372.38 503.264 407.291 C503.264 442.201 471.819 470.502 433.03 470.502 C394.24 470.502 362.795 442.201 362.795 407.291 Z" fill="url(#radial-gradient-7)"/>
+    <path id="Gulal_magenta_puff_5" data-name="Gulal magenta puff 5" d="M365.536 435.995 C365.536 404.899 393.545 379.691 428.096 379.691 C462.646 379.691 490.655 404.899 490.655 435.995 C490.655 467.09 462.646 492.298 428.096 492.298 C393.545 492.298 365.536 467.09 365.536 435.995 Z" fill="url(#radial-gradient-8)"/>
+    <path id="Gulal_magenta_puff_6" data-name="Gulal magenta puff 6" d="M143.481 369.111 C143.481 343.543 166.511 322.816 194.92 322.816 C223.329 322.816 246.359 343.543 246.359 369.111 C246.359 394.679 223.329 415.406 194.92 415.406 C166.511 415.406 143.481 394.679 143.481 369.111 Z" fill="url(#radial-gradient-9)"/>
+    <path id="Gulal_magenta_puff_7" data-name="Gulal magenta puff 7" d="M318.882 448.873 C318.882 423.517 341.721 402.962 369.895 402.962 C398.068 402.962 420.907 423.517 420.907 448.873 C420.907 474.229 398.068 494.785 369.895 494.785 C341.721 494.785 318.882 474.229 318.882 448.873 Z" fill="url(#radial-gradient-10)"/>
+    <path id="Gulal_magenta_puff_8" data-name="Gulal magenta puff 8" d="M199.066 448.473 C199.066 428.869 216.724 412.977 238.507 412.977 C260.289 412.977 277.947 428.869 277.947 448.473 C277.947 468.078 260.289 483.97 238.507 483.97 C216.724 483.97 199.066 468.078 199.066 448.473 Z" fill="url(#radial-gradient-11)"/>
+    <path id="Gulal_magenta_puff_9" data-name="Gulal magenta puff 9" d="M267.584 446.335 C267.584 426.496 285.454 410.413 307.498 410.413 C329.542 410.413 347.411 426.496 347.411 446.335 C347.411 466.174 329.542 482.257 307.498 482.257 C285.454 482.257 267.584 466.174 267.584 446.335 Z" fill="url(#radial-gradient-12)"/>
+    <path id="Gulal_magenta_puff_10" data-name="Gulal magenta puff 10" d="M354.965 344.716 C354.965 313.932 382.693 288.977 416.898 288.977 C451.102 288.977 478.83 313.932 478.83 344.716 C478.83 375.5 451.102 400.455 416.898 400.455 C382.693 400.455 354.965 375.5 354.965 344.716 Z" fill="url(#radial-gradient-13)"/>
+    <path id="Gulal_magenta_puff_11" data-name="Gulal magenta puff 11" d="M271.604 444.242 C271.604 417.615 295.588 396.029 325.174 396.029 C354.76 396.029 378.744 417.615 378.744 444.242 C378.744 470.869 354.76 492.455 325.174 492.455 C295.588 492.455 271.604 470.869 271.604 444.242 Z" fill="url(#radial-gradient-14)"/>
+    <path id="Gulal_magenta_puff_12" data-name="Gulal magenta puff 12" d="M232.782 462.665 C232.782 429.989 262.215 403.499 298.522 403.499 C334.83 403.499 364.263 429.989 364.263 462.665 C364.263 495.342 334.83 521.831 298.522 521.831 C262.215 521.831 232.782 495.342 232.782 462.665 Z" fill="url(#radial-gradient-15)"/>
+    <path id="Gulal_magenta_grain_1" data-name="Gulal magenta grain 1" d="M409.7 414.4 C409.7 413.461 410.461 412.7 411.4 412.7 C412.339 412.7 413.1 413.461 413.1 414.4 C413.1 415.339 412.339 416.1 411.4 416.1 C410.461 416.1 409.7 415.339 409.7 414.4 Z" fill="#d8408a" opacity="0.72"/>
+    <path id="Gulal_magenta_grain_2" data-name="Gulal magenta grain 2" d="M436.932 424.575 C436.932 423.691 437.648 422.975 438.532 422.975 C439.416 422.975 440.132 423.691 440.132 424.575 C440.132 425.459 439.416 426.175 438.532 426.175 C437.648 426.175 436.932 425.459 436.932 424.575 Z" fill="#d8408a" opacity="0.69"/>
+    <path id="Gulal_magenta_grain_3" data-name="Gulal magenta grain 3" d="M438.184 434.75 C438.184 433.922 438.856 433.25 439.684 433.25 C440.513 433.25 441.184 433.922 441.184 434.75 C441.184 435.578 440.513 436.25 439.684 436.25 C438.856 436.25 438.184 435.578 438.184 434.75 Z" fill="#d8408a" opacity="0.66"/>
+    <path id="Gulal_magenta_grain_4" data-name="Gulal magenta grain 4" d="M465.668 444.925 C465.668 444.152 466.295 443.525 467.068 443.525 C467.841 443.525 468.468 444.152 468.468 444.925 C468.468 445.698 467.841 446.325 467.068 446.325 C466.295 446.325 465.668 445.698 465.668 444.925 Z" fill="#d8408a" opacity="0.63"/>
+    <path id="Gulal_magenta_grain_5" data-name="Gulal magenta grain 5" d="M492.646 455.1 C492.646 454.382 493.228 453.8 493.946 453.8 C494.664 453.8 495.246 454.382 495.246 455.1 C495.246 455.818 494.664 456.4 493.946 456.4 C493.228 456.4 492.646 455.818 492.646 455.1 Z" fill="#d8408a" opacity="0.6"/>
+    <path id="Gulal_magenta_grain_6" data-name="Gulal magenta grain 6" d="M493.903 465.275 C493.903 464.612 494.44 464.075 495.103 464.075 C495.766 464.075 496.303 464.612 496.303 465.275 C496.303 465.938 495.766 466.475 495.103 466.475 C494.44 466.475 493.903 465.938 493.903 465.275 Z" fill="#d8408a" opacity="0.57"/>
+    <path id="Gulal_magenta_grain_7" data-name="Gulal magenta grain 7" d="M521.636 475.45 C521.636 474.842 522.129 474.35 522.736 474.35 C523.344 474.35 523.836 474.842 523.836 475.45 C523.836 476.058 523.344 476.55 522.736 476.55 C522.129 476.55 521.636 476.058 521.636 475.45 Z" fill="#d8408a" opacity="0.54"/>
+    <path id="Gulal_magenta_grain_8" data-name="Gulal magenta grain 8" d="M548.357 485.625 C548.357 485.073 548.805 484.625 549.357 484.625 C549.91 484.625 550.357 485.073 550.357 485.625 C550.357 486.177 549.91 486.625 549.357 486.625 C548.805 486.625 548.357 486.177 548.357 485.625 Z" fill="#d8408a" opacity="0.51"/>
+    <path id="Gulal_magenta_grain_9" data-name="Gulal magenta grain 9" d="M549.624 495.8 C549.624 495.303 550.027 494.9 550.524 494.9 C551.021 494.9 551.424 495.303 551.424 495.8 C551.424 496.297 551.021 496.7 550.524 496.7 C550.027 496.7 549.624 496.297 549.624 495.8 Z" fill="#d8408a" opacity="0.48"/>
+    <path id="Glow_marigold" data-name="Glow marigold" d="M512 316 C512 222.112 588.112 146 682 146 C775.888 146 852 222.112 852 316 C852 409.888 775.888 486 682 486 C588.112 486 512 409.888 512 316 Z" fill="url(#radial-gradient-16)"/>
+    <path id="Gulal_marigold_heart" data-name="Gulal marigold heart" d="M556 320 C556 257.371 612.412 206.6 682 206.6 C751.588 206.6 808 257.371 808 320 C808 382.629 751.588 433.4 682 433.4 C612.412 433.4 556 382.629 556 320 Z" fill="url(#radial-gradient-17)"/>
+    <path id="Gulal_marigold_puff_1" data-name="Gulal marigold puff 1" d="M620.914 265.264 C620.914 244.333 639.768 227.364 663.025 227.364 C686.283 227.364 705.137 244.333 705.137 265.264 C705.137 286.196 686.283 303.165 663.025 303.165 C639.768 303.165 620.914 286.196 620.914 265.264 Z" fill="url(#radial-gradient-18)"/>
+    <path id="Gulal_marigold_puff_2" data-name="Gulal marigold puff 2" d="M555.702 289.607 C555.702 268.975 574.286 252.249 597.211 252.249 C620.136 252.249 638.721 268.975 638.721 289.607 C638.721 310.24 620.136 326.966 597.211 326.966 C574.286 326.966 555.702 310.24 555.702 289.607 Z" fill="url(#radial-gradient-19)"/>
+    <path id="Gulal_marigold_puff_3" data-name="Gulal marigold puff 3" d="M594.587 240.803 C594.587 221.827 611.679 206.445 632.763 206.445 C653.847 206.445 670.938 221.827 670.938 240.803 C670.938 259.778 653.847 275.161 632.763 275.161 C611.679 275.161 594.587 259.778 594.587 240.803 Z" fill="url(#radial-gradient-20)"/>
+    <path id="Gulal_marigold_puff_4" data-name="Gulal marigold puff 4" d="M636.039 348.345 C636.039 328.648 653.781 312.681 675.666 312.681 C697.551 312.681 715.292 328.648 715.292 348.345 C715.292 368.041 697.551 384.008 675.666 384.008 C653.781 384.008 636.039 368.041 636.039 348.345 Z" fill="url(#radial-gradient-21)"/>
+    <path id="Gulal_marigold_puff_5" data-name="Gulal marigold puff 5" d="M623.575 270.452 C623.575 243.337 647.999 221.355 678.127 221.355 C708.255 221.355 732.679 243.337 732.679 270.452 C732.679 297.568 708.255 319.549 678.127 319.549 C647.999 319.549 623.575 297.568 623.575 270.452 Z" fill="url(#radial-gradient-22)"/>
+    <path id="Gulal_marigold_puff_6" data-name="Gulal marigold puff 6" d="M722.889 309.584 C722.889 286.588 743.602 267.947 769.152 267.947 C794.703 267.947 815.415 286.588 815.415 309.584 C815.415 332.579 794.703 351.22 769.152 351.22 C743.602 351.22 722.889 332.579 722.889 309.584 Z" fill="url(#radial-gradient-23)"/>
+    <path id="Gulal_marigold_puff_7" data-name="Gulal marigold puff 7" d="M680.451 321.759 C680.451 297.164 702.605 277.225 729.934 277.225 C757.262 277.225 779.416 297.164 779.416 321.759 C779.416 346.355 757.262 366.293 729.934 366.293 C702.605 366.293 680.451 346.355 680.451 321.759 Z" fill="url(#radial-gradient-24)"/>
+    <path id="Gulal_marigold_puff_8" data-name="Gulal marigold puff 8" d="M643.231 260.3 C643.231 233.996 666.924 212.673 696.151 212.673 C725.378 212.673 749.071 233.996 749.071 260.3 C749.071 286.604 725.378 307.928 696.151 307.928 C666.924 307.928 643.231 286.604 643.231 260.3 Z" fill="url(#radial-gradient-25)"/>
+    <path id="Gulal_marigold_puff_9" data-name="Gulal marigold puff 9" d="M585.985 322.264 C585.985 298.115 607.738 278.538 634.571 278.538 C661.404 278.538 683.156 298.115 683.156 322.264 C683.156 346.414 661.404 365.991 634.571 365.991 C607.738 365.991 585.985 346.414 585.985 322.264 Z" fill="url(#radial-gradient-26)"/>
+    <path id="Gulal_marigold_puff_10" data-name="Gulal marigold puff 10" d="M717.01 363.522 C717.01 342.595 735.86 325.629 759.113 325.629 C782.367 325.629 801.217 342.595 801.217 363.522 C801.217 384.45 782.367 401.416 759.113 401.416 C735.86 401.416 717.01 384.45 717.01 363.522 Z" fill="url(#radial-gradient-27)"/>
+    <path id="Gulal_marigold_puff_11" data-name="Gulal marigold puff 11" d="M638.766 286.655 C638.766 264.768 658.479 247.026 682.797 247.026 C707.115 247.026 726.829 264.768 726.829 286.655 C726.829 308.541 707.115 326.283 682.797 326.283 C658.479 326.283 638.766 308.541 638.766 286.655 Z" fill="url(#radial-gradient-28)"/>
+    <path id="Gulal_marigold_grain_1" data-name="Gulal marigold grain 1" d="M749.6 357.8 C749.6 356.861 750.361 356.1 751.3 356.1 C752.239 356.1 753 356.861 753 357.8 C753 358.739 752.239 359.5 751.3 359.5 C750.361 359.5 749.6 358.739 749.6 357.8 Z" fill="#f2b33c" opacity="0.72"/>
+    <path id="Gulal_marigold_grain_2" data-name="Gulal marigold grain 2" d="M774.082 366.462 C774.082 365.579 774.798 364.862 775.682 364.862 C776.566 364.862 777.282 365.579 777.282 366.462 C777.282 367.346 776.566 368.062 775.682 368.062 C774.798 368.062 774.082 367.346 774.082 366.462 Z" fill="#f2b33c" opacity="0.69"/>
+    <path id="Gulal_marigold_grain_3" data-name="Gulal marigold grain 3" d="M772.584 375.125 C772.584 374.297 773.256 373.625 774.084 373.625 C774.913 373.625 775.584 374.297 775.584 375.125 C775.584 375.953 774.913 376.625 774.084 376.625 C773.256 376.625 772.584 375.953 772.584 375.125 Z" fill="#f2b33c" opacity="0.66"/>
+    <path id="Gulal_marigold_grain_4" data-name="Gulal marigold grain 4" d="M797.318 383.788 C797.318 383.014 797.945 382.388 798.718 382.388 C799.491 382.388 800.118 383.014 800.118 383.788 C800.118 384.561 799.491 385.188 798.718 385.188 C797.945 385.188 797.318 384.561 797.318 383.788 Z" fill="#f2b33c" opacity="0.63"/>
+    <path id="Gulal_marigold_grain_5" data-name="Gulal marigold grain 5" d="M821.546 392.45 C821.546 391.732 822.128 391.15 822.846 391.15 C823.564 391.15 824.146 391.732 824.146 392.45 C824.146 393.168 823.564 393.75 822.846 393.75 C822.128 393.75 821.546 393.168 821.546 392.45 Z" fill="#f2b33c" opacity="0.6"/>
+    <path id="Gulal_marigold_grain_6" data-name="Gulal marigold grain 6" d="M820.053 401.113 C820.053 400.45 820.59 399.913 821.253 399.913 C821.916 399.913 822.453 400.45 822.453 401.113 C822.453 401.775 821.916 402.312 821.253 402.312 C820.59 402.312 820.053 401.775 820.053 401.113 Z" fill="#f2b33c" opacity="0.57"/>
+    <path id="Gulal_marigold_grain_7" data-name="Gulal marigold grain 7" d="M845.036 409.775 C845.036 409.167 845.529 408.675 846.136 408.675 C846.744 408.675 847.236 409.167 847.236 409.775 C847.236 410.383 846.744 410.875 846.136 410.875 C845.529 410.875 845.036 410.383 845.036 409.775 Z" fill="#f2b33c" opacity="0.54"/>
+    <path id="Gulal_marigold_grain_8" data-name="Gulal marigold grain 8" d="M869.007 418.438 C869.007 417.885 869.455 417.438 870.007 417.438 C870.56 417.438 871.007 417.885 871.007 418.438 C871.007 418.99 870.56 419.438 870.007 419.438 C869.455 419.438 869.007 418.99 869.007 418.438 Z" fill="#f2b33c" opacity="0.51"/>
+    <path id="Gulal_marigold_grain_9" data-name="Gulal marigold grain 9" d="M867.524 427.1 C867.524 426.603 867.927 426.2 868.424 426.2 C868.921 426.2 869.324 426.603 869.324 427.1 C869.324 427.597 868.921 428 868.424 428 C867.927 428 867.524 427.597 867.524 427.1 Z" fill="#f2b33c" opacity="0.48"/>
+    <path id="Glow_green" data-name="Glow green" d="M345 590 C345 493.35 423.35 415 520 415 C616.65 415 695 493.35 695 590 C695 686.65 616.65 765 520 765 C423.35 765 345 686.65 345 590 Z" fill="url(#radial-gradient-29)"/>
+    <path id="Gulal_green_heart" data-name="Gulal green heart" d="M384 592 C384 524.4 444.889 469.6 520 469.6 C595.111 469.6 656 524.4 656 592 C656 659.6 595.111 714.4 520 714.4 C444.889 714.4 384 659.6 384 592 Z" fill="url(#radial-gradient-30)"/>
+    <path id="Gulal_green_puff_1" data-name="Gulal green puff 1" d="M496.547 524.726 C496.547 501.729 517.261 483.085 542.814 483.085 C568.367 483.085 589.082 501.729 589.082 524.726 C589.082 547.724 568.367 566.367 542.814 566.367 C517.261 566.367 496.547 547.724 496.547 524.726 Z" fill="url(#radial-gradient-31)"/>
+    <path id="Gulal_green_puff_2" data-name="Gulal green puff 2" d="M461.915 511.3 C461.915 490.243 480.882 473.173 504.278 473.173 C527.675 473.173 546.641 490.243 546.641 511.3 C546.641 532.356 527.675 549.426 504.278 549.426 C480.882 549.426 461.915 532.356 461.915 511.3 Z" fill="url(#radial-gradient-32)"/>
+    <path id="Gulal_green_puff_3" data-name="Gulal green puff 3" d="M547.597 569.66 C547.597 536.016 577.902 508.742 615.284 508.742 C652.666 508.742 682.971 536.016 682.971 569.66 C682.971 603.304 652.666 630.578 615.284 630.578 C577.902 630.578 547.597 603.304 547.597 569.66 Z" fill="url(#radial-gradient-33)"/>
+    <path id="Gulal_green_puff_4" data-name="Gulal green puff 4" d="M401.588 596.334 C401.588 568.319 426.823 545.608 457.951 545.608 C489.079 545.608 514.314 568.319 514.314 596.334 C514.314 624.349 489.079 647.06 457.951 647.06 C426.823 647.06 401.588 624.349 401.588 596.334 Z" fill="url(#radial-gradient-34)"/>
+    <path id="Gulal_green_puff_5" data-name="Gulal green puff 5" d="M388.876 652.851 C388.876 622.891 415.863 598.603 449.152 598.603 C482.442 598.603 509.429 622.891 509.429 652.851 C509.429 682.812 482.442 707.1 449.152 707.1 C415.863 707.1 388.876 682.812 388.876 652.851 Z" fill="url(#radial-gradient-35)"/>
+    <path id="Gulal_green_puff_6" data-name="Gulal green puff 6" d="M404.403 607.877 C404.403 581.731 427.954 560.536 457.005 560.536 C486.056 560.536 509.606 581.731 509.606 607.877 C509.606 634.023 486.056 655.218 457.005 655.218 C427.954 655.218 404.403 634.023 404.403 607.877 Z" fill="url(#radial-gradient-36)"/>
+    <path id="Gulal_green_puff_7" data-name="Gulal green puff 7" d="M501.137 528.892 C501.137 499.097 527.974 474.944 561.08 474.944 C594.185 474.944 621.022 499.097 621.022 528.892 C621.022 558.686 594.185 582.84 561.08 582.84 C527.974 582.84 501.137 558.686 501.137 528.892 Z" fill="url(#radial-gradient-37)"/>
+    <path id="Gulal_green_puff_8" data-name="Gulal green puff 8" d="M493.03 623.288 C493.03 602.095 512.119 584.915 535.666 584.915 C559.214 584.915 578.303 602.095 578.303 623.288 C578.303 644.48 559.214 661.661 535.666 661.661 C512.119 661.661 493.03 644.48 493.03 623.288 Z" fill="url(#radial-gradient-38)"/>
+    <path id="Gulal_green_puff_9" data-name="Gulal green puff 9" d="M453.935 520.631 C453.935 504.305 468.64 491.071 486.78 491.071 C504.92 491.071 519.625 504.305 519.625 520.631 C519.625 536.957 504.92 550.192 486.78 550.192 C468.64 550.192 453.935 536.957 453.935 520.631 Z" fill="url(#radial-gradient-39)"/>
+    <path id="Gulal_green_puff_10" data-name="Gulal green puff 10" d="M481.332 685.723 C481.332 668.833 496.545 655.141 515.311 655.141 C534.078 655.141 549.291 668.833 549.291 685.723 C549.291 702.612 534.078 716.304 515.311 716.304 C496.545 716.304 481.332 702.612 481.332 685.723 Z" fill="url(#radial-gradient-40)"/>
+    <path id="Gulal_green_puff_11" data-name="Gulal green puff 11" d="M475.401 663.571 C475.401 640.793 495.918 622.328 521.227 622.328 C546.535 622.328 567.052 640.793 567.052 663.571 C567.052 686.349 546.535 704.814 521.227 704.814 C495.918 704.814 475.401 686.349 475.401 663.571 Z" fill="url(#radial-gradient-41)"/>
+    <path id="Gulal_green_puff_12" data-name="Gulal green puff 12" d="M492.395 621.864 C492.395 604.049 508.442 589.607 528.237 589.607 C548.031 589.607 564.078 604.049 564.078 621.864 C564.078 639.679 548.031 654.121 528.237 654.121 C508.442 654.121 492.395 639.679 492.395 621.864 Z" fill="url(#radial-gradient-42)"/>
+    <path id="Gulal_green_grain_1" data-name="Gulal green grain 1" d="M593.1 632.8 C593.1 631.861 593.861 631.1 594.8 631.1 C595.739 631.1 596.5 631.861 596.5 632.8 C596.5 633.739 595.739 634.5 594.8 634.5 C593.861 634.5 593.1 633.739 593.1 632.8 Z" fill="#58b868" opacity="0.72"/>
+    <path id="Gulal_green_grain_2" data-name="Gulal green grain 2" d="M618.832 642.15 C618.832 641.266 619.548 640.55 620.432 640.55 C621.316 640.55 622.032 641.266 622.032 642.15 C622.032 643.034 621.316 643.75 620.432 643.75 C619.548 643.75 618.832 643.034 618.832 642.15 Z" fill="#58b868" opacity="0.69"/>
+    <path id="Gulal_green_grain_3" data-name="Gulal green grain 3" d="M618.584 651.5 C618.584 650.672 619.256 650 620.084 650 C620.913 650 621.584 650.672 621.584 651.5 C621.584 652.328 620.913 653 620.084 653 C619.256 653 618.584 652.328 618.584 651.5 Z" fill="#58b868" opacity="0.66"/>
+    <path id="Gulal_green_grain_4" data-name="Gulal green grain 4" d="M644.568 660.85 C644.568 660.077 645.195 659.45 645.968 659.45 C646.741 659.45 647.368 660.077 647.368 660.85 C647.368 661.623 646.741 662.25 645.968 662.25 C645.195 662.25 644.568 661.623 644.568 660.85 Z" fill="#58b868" opacity="0.63"/>
+    <path id="Gulal_green_grain_5" data-name="Gulal green grain 5" d="M670.046 670.2 C670.046 669.482 670.628 668.9 671.346 668.9 C672.064 668.9 672.646 669.482 672.646 670.2 C672.646 670.918 672.064 671.5 671.346 671.5 C670.628 671.5 670.046 670.918 670.046 670.2 Z" fill="#58b868" opacity="0.6"/>
+    <path id="Gulal_green_grain_6" data-name="Gulal green grain 6" d="M669.803 679.55 C669.803 678.887 670.34 678.35 671.003 678.35 C671.666 678.35 672.203 678.887 672.203 679.55 C672.203 680.213 671.666 680.75 671.003 680.75 C670.34 680.75 669.803 680.213 669.803 679.55 Z" fill="#58b868" opacity="0.57"/>
+    <path id="Gulal_green_grain_7" data-name="Gulal green grain 7" d="M696.036 688.9 C696.036 688.292 696.529 687.8 697.136 687.8 C697.744 687.8 698.236 688.292 698.236 688.9 C698.236 689.508 697.744 690 697.136 690 C696.529 690 696.036 689.508 696.036 688.9 Z" fill="#58b868" opacity="0.54"/>
+    <path id="Gulal_green_grain_8" data-name="Gulal green grain 8" d="M721.257 698.25 C721.257 697.698 721.705 697.25 722.257 697.25 C722.81 697.25 723.257 697.698 723.257 698.25 C723.257 698.802 722.81 699.25 722.257 699.25 C721.705 699.25 721.257 698.802 721.257 698.25 Z" fill="#58b868" opacity="0.51"/>
+    <path id="Gulal_green_grain_9" data-name="Gulal green grain 9" d="M721.024 707.6 C721.024 707.103 721.427 706.7 721.924 706.7 C722.421 706.7 722.824 707.103 722.824 707.6 C722.824 708.097 722.421 708.5 721.924 708.5 C721.427 708.5 721.024 708.097 721.024 707.6 Z" fill="#58b868" opacity="0.48"/>
+    <path id="Splash_violet_heart" data-name="Splash violet heart" d="M174 596 C174 564.652 203.549 539.24 240 539.24 C276.451 539.24 306 564.652 306 596 C306 627.348 276.451 652.76 240 652.76 C203.549 652.76 174 627.348 174 596 Z" fill="url(#radial-gradient-43)"/>
+    <path id="Splash_violet_puff_1" data-name="Splash violet puff 1" d="M196.2 582.978 C196.2 572.497 205.641 564 217.287 564 C228.933 564 238.374 572.497 238.374 582.978 C238.374 593.46 228.933 601.957 217.287 601.957 C205.641 601.957 196.2 593.46 196.2 582.978 Z" fill="url(#radial-gradient-44)"/>
+    <path id="Splash_violet_puff_2" data-name="Splash violet puff 2" d="M203.8 553.698 C203.8 545.47 211.211 538.8 220.354 538.8 C229.496 538.8 236.907 545.47 236.907 553.698 C236.907 561.926 229.496 568.596 220.354 568.596 C211.211 568.596 203.8 561.926 203.8 553.698 Z" fill="url(#radial-gradient-45)"/>
+    <path id="Splash_violet_puff_3" data-name="Splash violet puff 3" d="M274.4 589.81 C274.4 580.195 283.061 572.4 293.745 572.4 C304.429 572.4 313.09 580.195 313.09 589.81 C313.09 599.426 304.429 607.221 293.745 607.221 C283.061 607.221 274.4 599.426 274.4 589.81 Z" fill="url(#radial-gradient-46)"/>
+    <path id="Splash_violet_puff_4" data-name="Splash violet puff 4" d="M195.5 616.861 C195.5 602.026 208.862 590 225.346 590 C241.829 590 255.191 602.026 255.191 616.861 C255.191 631.696 241.829 643.722 225.346 643.722 C208.862 643.722 195.5 631.696 195.5 616.861 Z" fill="url(#radial-gradient-47)"/>
+    <path id="Splash_violet_puff_5" data-name="Splash violet puff 5" d="M263.9 574.176 C263.9 566.733 270.604 560.7 278.873 560.7 C287.142 560.7 293.846 566.733 293.846 574.176 C293.846 581.618 287.142 587.651 278.873 587.651 C270.604 587.651 263.9 581.618 263.9 574.176 Z" fill="url(#radial-gradient-48)"/>
+    <path id="Splash_violet_puff_6" data-name="Splash violet puff 6" d="M244.1 597.632 C244.1 583.31 257 571.7 272.913 571.7 C288.827 571.7 301.727 583.31 301.727 597.632 C301.727 611.954 288.827 623.564 272.913 623.564 C257 623.564 244.1 611.954 244.1 597.632 Z" fill="url(#radial-gradient-49)"/>
+    <path id="Splash_violet_puff_7" data-name="Splash violet puff 7" d="M203.9 585.705 C203.9 578.412 210.469 572.5 218.573 572.5 C226.676 572.5 233.245 578.412 233.245 585.705 C233.245 592.998 226.676 598.911 218.573 598.911 C210.469 598.911 203.9 592.998 203.9 585.705 Z" fill="url(#radial-gradient-50)"/>
+    <path id="Splash_violet_puff_8" data-name="Splash violet puff 8" d="M187.3 588.997 C187.3 572.872 201.824 559.8 219.741 559.8 C237.657 559.8 252.182 572.872 252.182 588.997 C252.182 605.122 237.657 618.193 219.741 618.193 C201.824 618.193 187.3 605.122 187.3 588.997 Z" fill="url(#radial-gradient-51)"/>
+    <path id="Splash_violet_dot_1" data-name="Splash violet dot 1" d="M150.1 571.219 C150.1 569.938 151.138 568.9 152.419 568.9 C153.7 568.9 154.738 569.938 154.738 571.219 C154.738 572.5 153.7 573.538 152.419 573.538 C151.138 573.538 150.1 572.5 150.1 571.219 Z" fill="#8a5ac8" opacity="0.58"/>
+    <path id="Splash_violet_dot_2" data-name="Splash violet dot 2" d="M333.7 578.041 C333.7 576.582 334.882 575.4 336.341 575.4 C337.8 575.4 338.982 576.582 338.982 578.041 C338.982 579.5 337.8 580.682 336.341 580.682 C334.882 580.682 333.7 579.5 333.7 578.041 Z" fill="#8a5ac8" opacity="0.58"/>
+    <path id="Splash_violet_dot_3" data-name="Splash violet dot 3" d="M270 521.947 C270 520.209 271.409 518.8 273.147 518.8 C274.885 518.8 276.294 520.209 276.294 521.947 C276.294 523.685 274.885 525.094 273.147 525.094 C271.409 525.094 270 523.685 270 521.947 Z" fill="#8a5ac8" opacity="0.58"/>
+    <path id="Splash_violet_dot_4" data-name="Splash violet dot 4" d="M158.4 629.937 C158.4 629.088 159.088 628.4 159.937 628.4 C160.786 628.4 161.474 629.088 161.474 629.937 C161.474 630.786 160.786 631.474 159.937 631.474 C159.088 631.474 158.4 630.786 158.4 629.937 Z" fill="#8a5ac8" opacity="0.58"/>
+    <path id="Splash_violet_dot_5" data-name="Splash violet dot 5" d="M268.9 538.019 C268.9 536.738 269.938 535.7 271.219 535.7 C272.5 535.7 273.538 536.738 273.538 538.019 C273.538 539.3 272.5 540.338 271.219 540.338 C269.938 540.338 268.9 539.3 268.9 538.019 Z" fill="#8a5ac8" opacity="0.58"/>
+    <path id="Splash_violet_dot_6" data-name="Splash violet dot 6" d="M292.6 516.457 C292.6 515.1 293.7 514 295.057 514 C296.414 514 297.514 515.1 297.514 516.457 C297.514 517.814 296.414 518.914 295.057 518.914 C293.7 518.914 292.6 517.814 292.6 516.457 Z" fill="#8a5ac8" opacity="0.58"/>
+    <path id="Splash_violet_dot_7" data-name="Splash violet dot 7" d="M188.4 549.787 C188.4 548.303 189.603 547.1 191.087 547.1 C192.571 547.1 193.774 548.303 193.774 549.787 C193.774 551.271 192.571 552.474 191.087 552.474 C189.603 552.474 188.4 551.271 188.4 549.787 Z" fill="#8a5ac8" opacity="0.58"/>
+    <path id="Splash_violet_dot_8" data-name="Splash violet dot 8" d="M196.5 690.633 C196.5 689.124 197.724 687.9 199.233 687.9 C200.742 687.9 201.966 689.124 201.966 690.633 C201.966 692.142 200.742 693.366 199.233 693.366 C197.724 693.366 196.5 692.142 196.5 690.633 Z" fill="#8a5ac8" opacity="0.58"/>
+    <path id="Splash_violet_dot_9" data-name="Splash violet dot 9" d="M169.1 546.159 C169.1 545.132 169.932 544.3 170.959 544.3 C171.986 544.3 172.818 545.132 172.818 546.159 C172.818 547.186 171.986 548.018 170.959 548.018 C169.932 548.018 169.1 547.186 169.1 546.159 Z" fill="#8a5ac8" opacity="0.58"/>
+    <path id="Splash_violet_dot_10" data-name="Splash violet dot 10" d="M352.3 611.625 C352.3 610.065 353.565 608.8 355.125 608.8 C356.685 608.8 357.95 610.065 357.95 611.625 C357.95 613.185 356.685 614.45 355.125 614.45 C353.565 614.45 352.3 613.185 352.3 611.625 Z" fill="#8a5ac8" opacity="0.58"/>
+    <path id="Splash_orange_heart" data-name="Splash orange heart" d="M698 570 C698 543.402 723.072 521.84 754 521.84 C784.928 521.84 810 543.402 810 570 C810 596.598 784.928 618.16 754 618.16 C723.072 618.16 698 596.598 698 570 Z" fill="url(#radial-gradient-52)"/>
+    <path id="Splash_orange_puff_1" data-name="Splash orange puff 1" d="M720.8 552.335 C720.8 543.313 728.926 536 738.95 536 C748.974 536 757.1 543.313 757.1 552.335 C757.1 561.357 748.974 568.67 738.95 568.67 C728.926 568.67 720.8 561.357 720.8 552.335 Z" fill="url(#radial-gradient-53)"/>
+    <path id="Splash_orange_puff_2" data-name="Splash orange puff 2" d="M746.9 585.225 C746.9 573.061 757.857 563.2 771.372 563.2 C784.888 563.2 795.845 573.061 795.845 585.225 C795.845 597.389 784.888 607.25 771.372 607.25 C757.857 607.25 746.9 597.389 746.9 585.225 Z" fill="url(#radial-gradient-54)"/>
+    <path id="Splash_orange_puff_3" data-name="Splash orange puff 3" d="M742.9 548.922 C742.9 536.594 754.004 526.6 767.702 526.6 C781.399 526.6 792.503 536.594 792.503 548.922 C792.503 561.249 781.399 571.243 767.702 571.243 C754.004 571.243 742.9 561.249 742.9 548.922 Z" fill="url(#radial-gradient-55)"/>
+    <path id="Splash_orange_puff_4" data-name="Splash orange puff 4" d="M747.8 554.946 C747.8 548.569 753.544 543.4 760.629 543.4 C767.714 543.4 773.457 548.569 773.457 554.946 C773.457 561.322 767.714 566.491 760.629 566.491 C753.544 566.491 747.8 561.322 747.8 554.946 Z" fill="url(#radial-gradient-56)"/>
+    <path id="Splash_orange_puff_5" data-name="Splash orange puff 5" d="M728.3 581.671 C728.3 572.354 736.693 564.8 747.046 564.8 C757.399 564.8 765.792 572.354 765.792 581.671 C765.792 590.989 757.399 598.543 747.046 598.543 C736.693 598.543 728.3 590.989 728.3 581.671 Z" fill="url(#radial-gradient-57)"/>
+    <path id="Splash_orange_puff_6" data-name="Splash orange puff 6" d="M771.6 568.783 C771.6 561.778 777.909 556.1 785.692 556.1 C793.475 556.1 799.785 561.778 799.785 568.783 C799.785 575.788 793.475 581.466 785.692 581.466 C777.909 581.466 771.6 575.788 771.6 568.783 Z" fill="url(#radial-gradient-58)"/>
+    <path id="Splash_orange_puff_7" data-name="Splash orange puff 7" d="M734 554.347 C734 541.563 745.515 531.2 759.719 531.2 C773.923 531.2 785.437 541.563 785.437 554.347 C785.437 567.13 773.923 577.493 759.719 577.493 C745.515 577.493 734 567.13 734 554.347 Z" fill="url(#radial-gradient-59)"/>
+    <path id="Splash_orange_puff_8" data-name="Splash orange puff 8" d="M756.4 600.104 C756.4 591.486 764.163 584.5 773.738 584.5 C783.314 584.5 791.076 591.486 791.076 600.104 C791.076 608.722 783.314 615.709 773.738 615.709 C764.163 615.709 756.4 608.722 756.4 600.104 Z" fill="url(#radial-gradient-60)"/>
+    <path id="Splash_orange_dot_1" data-name="Splash orange dot 1" d="M845.5 580.471 C845.5 578.885 846.785 577.6 848.371 577.6 C849.957 577.6 851.242 578.885 851.242 580.471 C851.242 582.057 849.957 583.342 848.371 583.342 C846.785 583.342 845.5 582.057 845.5 580.471 Z" fill="#e8703c" opacity="0.58"/>
+    <path id="Splash_orange_dot_2" data-name="Splash orange dot 2" d="M744.9 631.685 C744.9 629.871 746.371 628.4 748.185 628.4 C749.999 628.4 751.47 629.871 751.47 631.685 C751.47 633.499 749.999 634.97 748.185 634.97 C746.371 634.97 744.9 633.499 744.9 631.685 Z" fill="#e8703c" opacity="0.58"/>
+    <path id="Splash_orange_dot_3" data-name="Splash orange dot 3" d="M736.1 654.351 C736.1 653.273 736.973 652.4 738.051 652.4 C739.129 652.4 740.002 653.273 740.002 654.351 C740.002 655.429 739.129 656.302 738.051 656.302 C736.973 656.302 736.1 655.429 736.1 654.351 Z" fill="#e8703c" opacity="0.58"/>
+    <path id="Splash_orange_dot_4" data-name="Splash orange dot 4" d="M830.1 611.989 C830.1 610.835 831.035 609.9 832.189 609.9 C833.343 609.9 834.278 610.835 834.278 611.989 C834.278 613.143 833.343 614.078 832.189 614.078 C831.035 614.078 830.1 613.143 830.1 611.989 Z" fill="#e8703c" opacity="0.58"/>
+    <path id="Splash_orange_dot_5" data-name="Splash orange dot 5" d="M808.3 615.471 C808.3 613.885 809.585 612.6 811.171 612.6 C812.757 612.6 814.042 613.885 814.042 615.471 C814.042 617.057 812.757 618.342 811.171 618.342 C809.585 618.342 808.3 617.057 808.3 615.471 Z" fill="#e8703c" opacity="0.58"/>
+    <path id="Splash_orange_dot_6" data-name="Splash orange dot 6" d="M824 515.725 C824 514.165 825.265 512.9 826.825 512.9 C828.385 512.9 829.65 514.165 829.65 515.725 C829.65 517.285 828.385 518.55 826.825 518.55 C825.265 518.55 824 517.285 824 515.725 Z" fill="#e8703c" opacity="0.58"/>
+    <path id="Splash_orange_dot_7" data-name="Splash orange dot 7" d="M821 632.871 C821 631.285 822.285 630 823.871 630 C825.457 630 826.742 631.285 826.742 632.871 C826.742 634.457 825.457 635.742 823.871 635.742 C822.285 635.742 821 634.457 821 632.871 Z" fill="#e8703c" opacity="0.58"/>
+    <path id="Splash_orange_dot_8" data-name="Splash orange dot 8" d="M689.2 622.057 C689.2 620.7 690.3 619.6 691.657 619.6 C693.014 619.6 694.114 620.7 694.114 622.057 C694.114 623.414 693.014 624.514 691.657 624.514 C690.3 624.514 689.2 623.414 689.2 622.057 Z" fill="#e8703c" opacity="0.58"/>
+    <path id="Splash_orange_dot_9" data-name="Splash orange dot 9" d="M702 597.259 C702 596.232 702.832 595.4 703.859 595.4 C704.886 595.4 705.718 596.232 705.718 597.259 C705.718 598.286 704.886 599.118 703.859 599.118 C702.832 599.118 702 598.286 702 597.259 Z" fill="#e8703c" opacity="0.58"/>
+    <path id="Splash_orange_dot_10" data-name="Splash orange dot 10" d="M808.1 587.337 C808.1 586.488 808.788 585.8 809.637 585.8 C810.486 585.8 811.174 586.488 811.174 587.337 C811.174 588.186 810.486 588.874 809.637 588.874 C808.788 588.874 808.1 588.186 808.1 587.337 Z" fill="#e8703c" opacity="0.58"/>
+    <path id="Throw_arc_A_grain_1" data-name="Throw arc A grain 1" d="M392.5 415.187 C392.5 412.985 394.285 411.2 396.487 411.2 C398.689 411.2 400.474 412.985 400.474 415.187 C400.474 417.389 398.689 419.174 396.487 419.174 C394.285 419.174 392.5 417.389 392.5 415.187 Z" fill="#f2b33c" opacity="0.49"/>
+    <path id="Throw_arc_A_grain_2" data-name="Throw arc A grain 2" d="M402 408.686 C402 407.258 403.158 406.1 404.586 406.1 C406.014 406.1 407.172 407.258 407.172 408.686 C407.172 410.114 406.014 411.272 404.586 411.272 C403.158 411.272 402 410.114 402 408.686 Z" fill="#f2b33c" opacity="0.53"/>
+    <path id="Throw_arc_A_grain_3" data-name="Throw arc A grain 3" d="M411.6 384.609 C411.6 383.279 412.679 382.2 414.009 382.2 C415.34 382.2 416.418 383.279 416.418 384.609 C416.418 385.94 415.34 387.018 414.009 387.018 C412.679 387.018 411.6 385.94 411.6 384.609 Z" fill="#f2b33c" opacity="0.57"/>
+    <path id="Throw_arc_A_grain_4" data-name="Throw arc A grain 4" d="M445.2 383.352 C445.2 382.329 446.029 381.5 447.052 381.5 C448.074 381.5 448.903 382.329 448.903 383.352 C448.903 384.374 448.074 385.203 447.052 385.203 C446.029 385.203 445.2 384.374 445.2 383.352 Z" fill="#f2b33c" opacity="0.61"/>
+    <path id="Throw_arc_A_grain_5" data-name="Throw arc A grain 5" d="M442 374.744 C442 373.007 443.407 371.6 445.144 371.6 C446.88 371.6 448.287 373.007 448.287 374.744 C448.287 376.48 446.88 377.887 445.144 377.887 C443.407 377.887 442 376.48 442 374.744 Z" fill="#f2b33c" opacity="0.73"/>
+    <path id="Throw_arc_A_grain_6" data-name="Throw arc A grain 6" d="M477.8 358.424 C477.8 357.417 478.617 356.6 479.624 356.6 C480.632 356.6 481.449 357.417 481.449 358.424 C481.449 359.432 480.632 360.249 479.624 360.249 C478.617 360.249 477.8 359.432 477.8 358.424 Z" fill="#f2b33c" opacity="0.37"/>
+    <path id="Throw_arc_A_grain_7" data-name="Throw arc A grain 7" d="M471.5 344.145 C471.5 342.74 472.64 341.6 474.045 341.6 C475.451 341.6 476.59 342.74 476.59 344.145 C476.59 345.551 475.451 346.69 474.045 346.69 C472.64 346.69 471.5 345.551 471.5 344.145 Z" fill="#f2b33c" opacity="0.73"/>
+    <path id="Throw_arc_A_grain_8" data-name="Throw arc A grain 8" d="M504.7 340.434 C504.7 339.532 505.432 338.8 506.334 338.8 C507.236 338.8 507.968 339.532 507.968 340.434 C507.968 341.336 507.236 342.068 506.334 342.068 C505.432 342.068 504.7 341.336 504.7 340.434 Z" fill="#f2b33c" opacity="0.69"/>
+    <path id="Throw_arc_A_grain_9" data-name="Throw arc A grain 9" d="M514.6 335.52 C514.6 334.625 515.325 333.9 516.22 333.9 C517.115 333.9 517.841 334.625 517.841 335.52 C517.841 336.415 517.115 337.141 516.22 337.141 C515.325 337.141 514.6 336.415 514.6 335.52 Z" fill="#f2b33c" opacity="0.57"/>
+    <path id="Throw_arc_A_grain_10" data-name="Throw arc A grain 10" d="M538.4 337.433 C538.4 336.366 539.266 335.5 540.333 335.5 C541.401 335.5 542.266 336.366 542.266 337.433 C542.266 338.501 541.401 339.366 540.333 339.366 C539.266 339.366 538.4 338.501 538.4 337.433 Z" fill="#f2b33c" opacity="0.69"/>
+    <path id="Throw_arc_A_grain_11" data-name="Throw arc A grain 11" d="M543 329.798 C543 328.032 544.432 326.6 546.198 326.6 C547.964 326.6 549.396 328.032 549.396 329.798 C549.396 331.564 547.964 332.996 546.198 332.996 C544.432 332.996 543 331.564 543 329.798 Z" fill="#f2b33c" opacity="0.57"/>
+    <path id="Throw_arc_A_grain_12" data-name="Throw arc A grain 12" d="M549.4 339.406 C549.4 338.353 550.253 337.5 551.306 337.5 C552.359 337.5 553.212 338.353 553.212 339.406 C553.212 340.459 552.359 341.312 551.306 341.312 C550.253 341.312 549.4 340.459 549.4 339.406 Z" fill="#f2b33c" opacity="0.45"/>
+    <path id="Throw_arc_A_grain_13" data-name="Throw arc A grain 13" d="M561.7 334.036 C561.7 332.525 562.925 331.3 564.436 331.3 C565.946 331.3 567.171 332.525 567.171 334.036 C567.171 335.546 565.946 336.771 564.436 336.771 C562.925 336.771 561.7 335.546 561.7 334.036 Z" fill="#f2b33c" opacity="0.57"/>
+    <path id="Throw_arc_A_grain_14" data-name="Throw arc A grain 14" d="M575.2 355.482 C575.2 353.228 577.028 351.4 579.282 351.4 C581.536 351.4 583.364 353.228 583.364 355.482 C583.364 357.736 581.536 359.564 579.282 359.564 C577.028 359.564 575.2 357.736 575.2 355.482 Z" fill="#f2b33c" opacity="0.37"/>
+    <path id="Throw_arc_A_grain_15" data-name="Throw arc A grain 15" d="M584.5 344.7 C584.5 343.264 585.664 342.1 587.1 342.1 C588.535 342.1 589.699 343.264 589.699 344.7 C589.699 346.135 588.535 347.299 587.1 347.299 C585.664 347.299 584.5 346.135 584.5 344.7 Z" fill="#f2b33c" opacity="0.41"/>
+    <path id="Throw_arc_B_grain_1" data-name="Throw arc B grain 1" d="M435.2 489.793 C435.2 487.422 437.122 485.5 439.493 485.5 C441.864 485.5 443.786 487.422 443.786 489.793 C443.786 492.164 441.864 494.086 439.493 494.086 C437.122 494.086 435.2 492.164 435.2 489.793 Z" fill="#d8408a" opacity="0.35"/>
+    <path id="Throw_arc_B_grain_2" data-name="Throw arc B grain 2" d="M437.7 493.342 C437.7 490.723 439.823 488.6 442.442 488.6 C445.06 488.6 447.183 490.723 447.183 493.342 C447.183 495.96 445.06 498.083 442.442 498.083 C439.823 498.083 437.7 495.96 437.7 493.342 Z" fill="#d8408a" opacity="0.55"/>
+    <path id="Throw_arc_B_grain_3" data-name="Throw arc B grain 3" d="M440.9 481.313 C440.9 479.318 442.518 477.7 444.513 477.7 C446.508 477.7 448.126 479.318 448.126 481.313 C448.126 483.308 446.508 484.926 444.513 484.926 C442.518 484.926 440.9 483.308 440.9 481.313 Z" fill="#d8408a" opacity="0.59"/>
+    <path id="Throw_arc_B_grain_4" data-name="Throw arc B grain 4" d="M426.4 503.117 C426.4 501.009 428.109 499.3 430.217 499.3 C432.325 499.3 434.034 501.009 434.034 503.117 C434.034 505.225 432.325 506.934 430.217 506.934 C428.109 506.934 426.4 505.225 426.4 503.117 Z" fill="#d8408a" opacity="0.55"/>
+    <path id="Throw_arc_B_grain_5" data-name="Throw arc B grain 5" d="M445.3 504.684 C445.3 502.373 447.173 500.5 449.484 500.5 C451.795 500.5 453.668 502.373 453.668 504.684 C453.668 506.995 451.795 508.868 449.484 508.868 C447.173 508.868 445.3 506.995 445.3 504.684 Z" fill="#d8408a" opacity="0.67"/>
+    <path id="Throw_arc_B_grain_6" data-name="Throw arc B grain 6" d="M457.9 486.326 C457.9 484.158 459.658 482.4 461.826 482.4 C463.994 482.4 465.751 484.158 465.751 486.326 C465.751 488.494 463.994 490.251 461.826 490.251 C459.658 490.251 457.9 488.494 457.9 486.326 Z" fill="#d8408a" opacity="0.39"/>
+    <path id="Throw_arc_B_grain_7" data-name="Throw arc B grain 7" d="M442.3 487.08 C442.3 485.821 443.321 484.8 444.58 484.8 C445.839 484.8 446.86 485.821 446.86 487.08 C446.86 488.339 445.839 489.36 444.58 489.36 C443.321 489.36 442.3 488.339 442.3 487.08 Z" fill="#d8408a" opacity="0.67"/>
+    <path id="Throw_arc_B_grain_8" data-name="Throw arc B grain 8" d="M447 512.323 C447 509.659 449.159 507.5 451.823 507.5 C454.487 507.5 456.646 509.659 456.646 512.323 C456.646 514.987 454.487 517.146 451.823 517.146 C449.159 517.146 447 514.987 447 512.323 Z" fill="#d8408a" opacity="0.39"/>
+    <path id="Throw_arc_B_grain_9" data-name="Throw arc B grain 9" d="M462.3 506.842 C462.3 505.328 463.528 504.1 465.042 504.1 C466.557 504.1 467.785 505.328 467.785 506.842 C467.785 508.357 466.557 509.585 465.042 509.585 C463.528 509.585 462.3 508.357 462.3 506.842 Z" fill="#d8408a" opacity="0.67"/>
+    <path id="Throw_arc_B_grain_10" data-name="Throw arc B grain 10" d="M454 507.631 C454 506.62 454.82 505.8 455.831 505.8 C456.843 505.8 457.662 506.62 457.662 507.631 C457.662 508.643 456.843 509.462 455.831 509.462 C454.82 509.462 454 508.643 454 507.631 Z" fill="#d8408a" opacity="0.71"/>
+    <path id="Throw_arc_B_grain_11" data-name="Throw arc B grain 11" d="M465.4 531.877 C465.4 529.957 466.957 528.4 468.877 528.4 C470.797 528.4 472.354 529.957 472.354 531.877 C472.354 533.797 470.797 535.354 468.877 535.354 C466.957 535.354 465.4 533.797 465.4 531.877 Z" fill="#d8408a" opacity="0.43"/>
+    <path id="Throw_arc_C_grain_1" data-name="Throw arc C grain 1" d="M609.8 510.499 C609.8 507.959 611.859 505.9 614.399 505.9 C616.939 505.9 618.998 507.959 618.998 510.499 C618.998 513.039 616.939 515.098 614.399 515.098 C611.859 515.098 609.8 513.039 609.8 510.499 Z" fill="#58b868" opacity="0.53"/>
+    <path id="Throw_arc_C_grain_2" data-name="Throw arc C grain 2" d="M631.5 492.697 C631.5 490.766 633.066 489.2 634.997 489.2 C636.929 489.2 638.494 490.766 638.494 492.697 C638.494 494.629 636.929 496.194 634.997 496.194 C633.066 496.194 631.5 494.629 631.5 492.697 Z" fill="#58b868" opacity="0.57"/>
+    <path id="Throw_arc_C_grain_3" data-name="Throw arc C grain 3" d="M619.3 494.016 C619.3 491.356 621.456 489.2 624.116 489.2 C626.776 489.2 628.933 491.356 628.933 494.016 C628.933 496.676 626.776 498.833 624.116 498.833 C621.456 498.833 619.3 496.676 619.3 494.016 Z" fill="#58b868" opacity="0.69"/>
+    <path id="Throw_arc_C_grain_4" data-name="Throw arc C grain 4" d="M632.8 480.985 C632.8 478.453 634.853 476.4 637.385 476.4 C639.918 476.4 641.97 478.453 641.97 480.985 C641.97 483.518 639.918 485.57 637.385 485.57 C634.853 485.57 632.8 483.518 632.8 480.985 Z" fill="#58b868" opacity="0.49"/>
+    <path id="Throw_arc_C_grain_5" data-name="Throw arc C grain 5" d="M646.7 458.224 C646.7 457.217 647.517 456.4 648.524 456.4 C649.532 456.4 650.349 457.217 650.349 458.224 C650.349 459.232 649.532 460.049 648.524 460.049 C647.517 460.049 646.7 459.232 646.7 458.224 Z" fill="#58b868" opacity="0.53"/>
+    <path id="Throw_arc_C_grain_6" data-name="Throw arc C grain 6" d="M665.9 457.327 C665.9 455.876 667.076 454.7 668.527 454.7 C669.978 454.7 671.154 455.876 671.154 457.327 C671.154 458.778 669.978 459.954 668.527 459.954 C667.076 459.954 665.9 458.778 665.9 457.327 Z" fill="#58b868" opacity="0.41"/>
+    <path id="Throw_arc_C_grain_7" data-name="Throw arc C grain 7" d="M667.5 473.315 C667.5 472.202 668.402 471.3 669.515 471.3 C670.628 471.3 671.53 472.202 671.53 473.315 C671.53 474.428 670.628 475.33 669.515 475.33 C668.402 475.33 667.5 474.428 667.5 473.315 Z" fill="#58b868" opacity="0.61"/>
+    <path id="Throw_arc_C_grain_8" data-name="Throw arc C grain 8" d="M681.5 468.609 C681.5 467.279 682.579 466.2 683.909 466.2 C685.24 466.2 686.318 467.279 686.318 468.609 C686.318 469.94 685.24 471.018 683.909 471.018 C682.579 471.018 681.5 469.94 681.5 468.609 Z" fill="#58b868" opacity="0.41"/>
+    <path id="Throw_arc_C_grain_9" data-name="Throw arc C grain 9" d="M667.2 471.861 C667.2 470.944 667.944 470.2 668.861 470.2 C669.779 470.2 670.522 470.944 670.522 471.861 C670.522 472.779 669.779 473.522 668.861 473.522 C667.944 473.522 667.2 472.779 667.2 471.861 Z" fill="#58b868" opacity="0.69"/>
+    <path id="Throw_arc_C_grain_10" data-name="Throw arc C grain 10" d="M689.9 471.029 C689.9 470.074 690.674 469.3 691.629 469.3 C692.584 469.3 693.358 470.074 693.358 471.029 C693.358 471.984 692.584 472.758 691.629 472.758 C690.674 472.758 689.9 471.984 689.9 471.029 Z" fill="#58b868" opacity="0.65"/>
+    <path id="Throw_arc_C_grain_11" data-name="Throw arc C grain 11" d="M680.1 477.059 C680.1 475.646 681.246 474.5 682.659 474.5 C684.072 474.5 685.218 475.646 685.218 477.059 C685.218 478.472 684.072 479.618 682.659 479.618 C681.246 479.618 680.1 478.472 680.1 477.059 Z" fill="#58b868" opacity="0.69"/>
+    <path id="Throw_arc_C_grain_12" data-name="Throw arc C grain 12" d="M706.7 490.528 C706.7 489.408 707.608 488.5 708.728 488.5 C709.849 488.5 710.757 489.408 710.757 490.528 C710.757 491.649 709.849 492.557 708.728 492.557 C707.608 492.557 706.7 491.649 706.7 490.528 Z" fill="#58b868" opacity="0.57"/>
+    <path id="Droplet_1" data-name="Droplet 1" d="M300 459 C307.9 467.8 306.8 476.1 300 476.8 C293.2 476.1 292.1 467.8 300 459 Z" fill="url(#linear-gradient-4)" opacity="0.58"/>
+    <path id="Droplet_2" data-name="Droplet 2" d="M586 291 C592.5 298.2 591.6 304.9 586 305.6 C580.4 304.9 579.5 298.2 586 291 Z" fill="url(#linear-gradient-5)" opacity="0.52"/>
+    <path id="Droplet_3" data-name="Droplet 3" d="M700 628 C708.6 637.6 707.4 646.6 700 647.4 C692.6 646.6 691.4 637.6 700 628 Z" fill="url(#linear-gradient-6)" opacity="0.56"/>
+    <path id="Droplet_4" data-name="Droplet 4" d="M430 633 C435 638.6 434.3 643.9 430 644.3 C425.7 643.9 425 638.6 430 633 Z" fill="url(#linear-gradient-7)" opacity="0.48"/>
+    <path id="Droplet_5" data-name="Droplet 5" d="M628 442 C632.3 446.8 631.7 451.3 628 451.7 C624.3 451.3 623.7 446.8 628 442 Z" fill="url(#linear-gradient-8)" opacity="0.44"/>
+    <path id="Stray_grain_1" data-name="Stray grain 1" d="M202.2 330.854 C202.2 329.444 203.344 328.3 204.754 328.3 C206.165 328.3 207.309 329.444 207.309 330.854 C207.309 332.265 206.165 333.409 204.754 333.409 C203.344 333.409 202.2 332.265 202.2 330.854 Z" fill="#d8408a" opacity="0.36"/>
+    <path id="Stray_grain_2" data-name="Stray grain 2" d="M772.9 598.809 C772.9 596.871 774.471 595.3 776.409 595.3 C778.346 595.3 779.917 596.871 779.917 598.809 C779.917 600.746 778.346 602.317 776.409 602.317 C774.471 602.317 772.9 600.746 772.9 598.809 Z" fill="#f2b33c" opacity="0.35"/>
+    <path id="Stray_grain_3" data-name="Stray grain 3" d="M626.4 159.952 C626.4 158.653 627.453 157.6 628.752 157.6 C630.05 157.6 631.103 158.653 631.103 159.952 C631.103 161.25 630.05 162.303 628.752 162.303 C627.453 162.303 626.4 161.25 626.4 159.952 Z" fill="#58b868" opacity="0.62"/>
+    <path id="Stray_grain_4" data-name="Stray grain 4" d="M722.2 166.369 C722.2 164.784 723.484 163.5 725.069 163.5 C726.654 163.5 727.938 164.784 727.938 166.369 C727.938 167.954 726.654 169.238 725.069 169.238 C723.484 169.238 722.2 167.954 722.2 166.369 Z" fill="#8a5ac8" opacity="0.43"/>
+    <path id="Stray_grain_5" data-name="Stray grain 5" d="M148.7 482.73 C148.7 480.67 150.37 479 152.43 479 C154.489 479 156.159 480.67 156.159 482.73 C156.159 484.789 154.489 486.459 152.43 486.459 C150.37 486.459 148.7 484.789 148.7 482.73 Z" fill="#e8703c" opacity="0.62"/>
+    <path id="Stray_grain_6" data-name="Stray grain 6" d="M184.2 340.05 C184.2 338.807 185.207 337.8 186.45 337.8 C187.693 337.8 188.7 338.807 188.7 340.05 C188.7 341.293 187.693 342.3 186.45 342.3 C185.207 342.3 184.2 341.293 184.2 340.05 Z" fill="#d8408a" opacity="0.63"/>
+    <path id="Stray_grain_7" data-name="Stray grain 7" d="M515.9 728.623 C515.9 726.732 517.432 725.2 519.323 725.2 C521.213 725.2 522.746 726.732 522.746 728.623 C522.746 730.513 521.213 732.046 519.323 732.046 C517.432 732.046 515.9 730.513 515.9 728.623 Z" fill="#f2b33c" opacity="0.4"/>
+    <path id="Stray_grain_8" data-name="Stray grain 8" d="M765 241.379 C765 239.789 766.289 238.5 767.879 238.5 C769.47 238.5 770.759 239.789 770.759 241.379 C770.759 242.97 769.47 244.259 767.879 244.259 C766.289 244.259 765 242.97 765 241.379 Z" fill="#58b868" opacity="0.37"/>
+    <path id="Stray_grain_9" data-name="Stray grain 9" d="M385.7 136.88 C385.7 135.676 386.676 134.7 387.88 134.7 C389.084 134.7 390.06 135.676 390.06 136.88 C390.06 138.084 389.084 139.06 387.88 139.06 C386.676 139.06 385.7 138.084 385.7 136.88 Z" fill="#8a5ac8" opacity="0.54"/>
+    <path id="Stray_grain_10" data-name="Stray grain 10" d="M824.5 400.743 C824.5 399.173 825.773 397.9 827.343 397.9 C828.913 397.9 830.186 399.173 830.186 400.743 C830.186 402.313 828.913 403.586 827.343 403.586 C825.773 403.586 824.5 402.313 824.5 400.743 Z" fill="#e8703c" opacity="0.35"/>
+    <path id="Stray_grain_11" data-name="Stray grain 11" d="M723.9 627.495 C723.9 625.289 725.689 623.5 727.895 623.5 C730.101 623.5 731.89 625.289 731.89 627.495 C731.89 629.701 730.101 631.49 727.895 631.49 C725.689 631.49 723.9 629.701 723.9 627.495 Z" fill="#d8408a" opacity="0.6"/>
+    <path id="Stray_grain_12" data-name="Stray grain 12" d="M687.9 274.412 C687.9 273.356 688.756 272.5 689.812 272.5 C690.868 272.5 691.724 273.356 691.724 274.412 C691.724 275.468 690.868 276.324 689.812 276.324 C688.756 276.324 687.9 275.468 687.9 274.412 Z" fill="#f2b33c" opacity="0.53"/>
+    <path id="Stray_grain_13" data-name="Stray grain 13" d="M473.8 483.158 C473.8 480.972 475.572 479.2 477.758 479.2 C479.945 479.2 481.717 480.972 481.717 483.158 C481.717 485.345 479.945 487.117 477.758 487.117 C475.572 487.117 473.8 485.345 473.8 483.158 Z" fill="#58b868" opacity="0.36"/>
+    <path id="Stray_grain_14" data-name="Stray grain 14" d="M780.6 428.613 C780.6 427.335 781.635 426.3 782.913 426.3 C784.19 426.3 785.225 427.335 785.225 428.613 C785.225 429.89 784.19 430.925 782.913 430.925 C781.635 430.925 780.6 429.89 780.6 428.613 Z" fill="#8a5ac8" opacity="0.39"/>
+    <path id="Stray_grain_15" data-name="Stray grain 15" d="M273.4 599.062 C273.4 597.758 274.458 596.7 275.762 596.7 C277.066 596.7 278.124 597.758 278.124 599.062 C278.124 600.366 277.066 601.424 275.762 601.424 C274.458 601.424 273.4 600.366 273.4 599.062 Z" fill="#e8703c" opacity="0.3"/>
+    <path id="Stray_grain_16" data-name="Stray grain 16" d="M461.5 203.959 C461.5 202.656 462.556 201.6 463.859 201.6 C465.162 201.6 466.219 202.656 466.219 203.959 C466.219 205.262 465.162 206.319 463.859 206.319 C462.556 206.319 461.5 205.262 461.5 203.959 Z" fill="#d8408a" opacity="0.45"/>
+    <path id="Stray_grain_17" data-name="Stray grain 17" d="M433.4 630.937 C433.4 629.204 434.804 627.8 436.537 627.8 C438.269 627.8 439.674 629.204 439.674 630.937 C439.674 632.669 438.269 634.074 436.537 634.074 C434.804 634.074 433.4 632.669 433.4 630.937 Z" fill="#f2b33c" opacity="0.54"/>
+    <path id="Stray_grain_18" data-name="Stray grain 18" d="M177.3 396.121 C177.3 394.287 178.787 392.8 180.621 392.8 C182.456 392.8 183.943 394.287 183.943 396.121 C183.943 397.956 182.456 399.443 180.621 399.443 C178.787 399.443 177.3 397.956 177.3 396.121 Z" fill="#58b868" opacity="0.41"/>
+    <path id="Stray_grain_19" data-name="Stray grain 19" d="M492.9 321.764 C492.9 320.293 494.093 319.1 495.564 319.1 C497.035 319.1 498.227 320.293 498.227 321.764 C498.227 323.235 497.035 324.427 495.564 324.427 C494.093 324.427 492.9 323.235 492.9 321.764 Z" fill="#8a5ac8" opacity="0.42"/>
+    <path id="Stray_grain_20" data-name="Stray grain 20" d="M671.9 296.344 C671.9 294.829 673.129 293.6 674.644 293.6 C676.16 293.6 677.388 294.829 677.388 296.344 C677.388 297.86 676.16 299.088 674.644 299.088 C673.129 299.088 671.9 297.86 671.9 296.344 Z" fill="#e8703c" opacity="0.33"/>
+    <path id="Stray_grain_21" data-name="Stray grain 21" d="M312.1 166.29 C312.1 164.804 313.304 163.6 314.79 163.6 C316.275 163.6 317.479 164.804 317.479 166.29 C317.479 167.775 316.275 168.979 314.79 168.979 C313.304 168.979 312.1 167.775 312.1 166.29 Z" fill="#d8408a" opacity="0.4"/>
+    <path id="Stray_grain_22" data-name="Stray grain 22" d="M579.2 240.727 C579.2 238.669 580.869 237 582.927 237 C584.985 237 586.654 238.669 586.654 240.727 C586.654 242.785 584.985 244.454 582.927 244.454 C580.869 244.454 579.2 242.785 579.2 240.727 Z" fill="#f2b33c" opacity="0.55"/>
+    <path id="Stray_grain_24" data-name="Stray grain 24" d="M218.1 411.333 C218.1 409.547 219.547 408.1 221.333 408.1 C223.119 408.1 224.566 409.547 224.566 411.333 C224.566 413.119 223.119 414.566 221.333 414.566 C219.547 414.566 218.1 413.119 218.1 411.333 Z" fill="#8a5ac8" opacity="0.57"/>
+    <path id="Stray_grain_25" data-name="Stray grain 25" d="M365.8 177.77 C365.8 176.13 367.13 174.8 368.77 174.8 C370.411 174.8 371.741 176.13 371.741 177.77 C371.741 179.411 370.411 180.741 368.77 180.741 C367.13 180.741 365.8 179.411 365.8 177.77 Z" fill="#e8703c" opacity="0.34"/>
+    <path id="Stray_grain_26" data-name="Stray grain 26" d="M326 180.507 C326 179.454 326.854 178.6 327.907 178.6 C328.96 178.6 329.814 179.454 329.814 180.507 C329.814 181.56 328.96 182.414 327.907 182.414 C326.854 182.414 326 181.56 326 180.507 Z" fill="#d8408a" opacity="0.55"/>
+    <path id="Seal_shadow" data-name="Seal shadow" d="M715 218 C715 200.327 729.327 186 747 186 C764.673 186 779 200.327 779 218 C779 235.673 764.673 250 747 250 C729.327 250 715 235.673 715 218 Z" fill="#1d1216" opacity="0.28"/>
+    <path id="Deva_seal" data-name="Deva seal" d="M717 181 L771 181 C773.761 181 776 183.239 776 186 L776 240 C776 242.761 773.761 245 771 245 L717 245 C714.239 245 712 242.761 712 240 L712 186 C712 183.239 714.239 181 717 181 Z" fill="url(#linear-gradient-9)" stroke="#4e100e" stroke-width="2.2" stroke-miterlimit="10"/>
+    <path id="Deva_seal_inner" data-name="Deva seal inner" d="M719 185.5 L769 185.5 C770.381 185.5 771.5 186.619 771.5 188 L771.5 238 C771.5 239.381 770.381 240.5 769 240.5 L719 240.5 C717.619 240.5 716.5 239.381 716.5 238 L716.5 188 C716.5 186.619 717.619 185.5 719 185.5 Z" fill="none" stroke="#f6d9a0" stroke-width="1.4" stroke-miterlimit="10" opacity="0.78"/>
+    <text transform="matrix(1 0 0 1 744 221.84)" x="0" y="0" xml:space="preserve" font-family="&apos;ITF Devanagari&apos;, sans-serif" font-size="26" fill="#fbe6b4" text-anchor="middle"><tspan x="0" y="0">होली</tspan></text>
+    <path id="Seal_stud_-1" data-name="Seal stud -1" d="M717.4 237 C717.4 236.116 718.116 235.4 719 235.4 C719.884 235.4 720.6 236.116 720.6 237 C720.6 237.884 719.884 238.6 719 238.6 C718.116 238.6 717.4 237.884 717.4 237 Z" fill="#f6d9a0" opacity="0.7"/>
+    <path id="Seal_stud_1" data-name="Seal stud 1" d="M767.4 237 C767.4 236.116 768.116 235.4 769 235.4 C769.884 235.4 770.6 236.116 770.6 237 C770.6 237.884 769.884 238.6 769 238.6 C768.116 238.6 767.4 237.884 767.4 237 Z" fill="#f6d9a0" opacity="0.7"/>
+    <text transform="matrix(1 0 0 1 500 934)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="52" fill="#fbe6d8" letter-spacing="6.76" text-anchor="middle"><tspan x="0" y="0">HOLI</tspan></text>
+    <text transform="matrix(1 0 0 1 500 970)" x="0" y="0" xml:space="preserve" font-family="&apos;ITF Devanagari&apos;, sans-serif" font-size="20" fill="#d8a0b8" letter-spacing="0.8" text-anchor="middle"><tspan x="0" y="0">होली · FESTIVAL OF COLOURS · PHALGUN PURNIMA</tspan></text>
+  </g>
+</svg>
