@@ -14,8 +14,13 @@ __pycache__/
 # but scratch natives in work/out/ stay ignored.
 *.vectorcraft
 *.designcraft
+*.figcraft
 !art/**/*.vectorcraft
 !test/**/*.vectorcraft
+# virelai/design sheets commit their native alongside the exports
+!virelai/**/*.vectorcraft
+!virelai/**/*.figcraft
+!virelai/**/*.designcraft
 pdf/
 # T3 agent scratch workspaces
 t3-*/
