@@ -76,6 +76,15 @@ def collect_versioned(base, png_root=None):
     return groups
 
 
+def site_rel(path, png_root=None):
+    """Path relative to repo root, whether the file lives in ROOT or
+    png_root (the media branch checkout)."""
+    try:
+        return path.relative_to(ROOT)
+    except ValueError:
+        return path.relative_to(png_root)
+
+
 def card(slug, revs, png_root=None):
     """One gallery card from the newest revision."""
     last = revs[-1]
@@ -83,15 +92,15 @@ def card(slug, revs, png_root=None):
     copy_media(img, png_root)
     copy_media(last["svg"], png_root)
     tag = f"V{last['v']}R{last['r']:02d}"
-    return {"name": humanize(slug), "img": site_path(img.relative_to(ROOT)),
-            "svg": site_path(last["svg"].relative_to(ROOT)),
+    return {"name": humanize(slug), "img": site_path(site_rel(img, png_root)),
+            "svg": site_path(site_rel(last["svg"], png_root)),
             "rev": tag, "n": len(revs)}
 
 
 def singleton(svg, png_root=None):
     copy_media(svg, png_root)
-    return {"name": humanize(svg.stem), "img": site_path(svg.relative_to(ROOT)),
-            "svg": site_path(svg.relative_to(ROOT)), "rev": "", "n": 1}
+    return {"name": humanize(svg.stem), "img": site_path(site_rel(svg, png_root)),
+            "svg": site_path(site_rel(svg, png_root)), "rev": "", "n": 1}
 
 
 def section(title, base, slugs=None, png_root=None):
