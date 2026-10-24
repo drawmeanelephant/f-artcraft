@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="500" x2="1000" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a1210"/>
+      <stop offset="1" stop-color="#0e0605"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7a3222"/>
+      <stop offset="0.7" stop-color="#4a1e14"/>
+      <stop offset="1" stop-color="#260f0a"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="500" cy="520" r="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e86a3a" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#e86a3a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="400" y1="595" x2="600" y2="595" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8985e"/>
+      <stop offset="0.6" stop-color="#c46838"/>
+      <stop offset="1" stop-color="#8a3a22"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-3" cx="483" cy="675" r="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd98a"/>
+      <stop offset="1" stop-color="#e86a3a"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="500" cy="427" r="70" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe8b0"/>
+      <stop offset="0.5" stop-color="#f09a4e"/>
+      <stop offset="1" stop-color="#c43a1e"/>
+    </radialGradient>
+  </defs>
+  <title>LLG-0088 Boily Thermal Conscience</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#40160e" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#e8a87a" stroke-width="3" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Heat_bloom" data-name="Heat bloom" d="M280 520 C280 398.497 378.497 300 500 300 C621.503 300 720 398.497 720 520 C720 641.503 621.503 740 500 740 C378.497 740 280 641.503 280 520 Z" fill="url(#radial-gradient-2)"/>
+    <path id="Chant_ribbon" data-name="Chant ribbon" d="M170 196 L830 196 L806 236 L830 276 L170 276 L194 236 Z" fill="#5a1e12" stroke="#2a140e" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Ribbon_sheen" data-name="Ribbon sheen" d="M170 196 L830 196 L806 236 L830 276 L170 276 L194 236 Z" fill="none" stroke="#e8a87a" stroke-width="2" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Ribbon_tail_L" data-name="Ribbon tail L" d="M170 196 L132 208 L150 236 L132 264 L170 276 Z" fill="#40160e" stroke="#2a140e" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Ribbon_tail_R" data-name="Ribbon tail R" d="M830 196 L868 208 L850 236 L868 264 L830 276 Z" fill="#40160e" stroke="#2a140e" stroke-width="3" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 246)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="21" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">WE COOL OUR SINS, NOT JUST OUR CHIPS</tspan></text>
+    <path id="Stream_corner_1" data-name="Stream corner 1" d="M240 366 L240 330 L276 330" fill="none" stroke="#f2d4b0" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Stream_corner_2" data-name="Stream corner 2" d="M760 366 L760 330 L724 330" fill="none" stroke="#f2d4b0" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Stream_corner_3" data-name="Stream corner 3" d="M240 664 L240 700 L276 700" fill="none" stroke="#f2d4b0" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Stream_corner_4" data-name="Stream corner 4" d="M760 664 L760 700 L724 700" fill="none" stroke="#f2d4b0" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Live_dot" data-name="Live dot" d="M256 353 C256 349.134 259.134 346 263 346 C266.866 346 270 349.134 270 353 C270 356.866 266.866 360 263 360 C259.134 360 256 356.866 256 353 Z" fill="#e83a2e"/>
+    <text transform="matrix(1 0 0 1 278 360)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="16" fill="#f2d4b0"><tspan x="0" y="0">LIVE</tspan></text>
+    <path id="Temp_panel" data-name="Temp panel" d="M648 344 L752 344 C756.418 344 760 347.582 760 352 L760 410 C760 414.418 756.418 418 752 418 L648 418 C643.582 418 640 414.418 640 410 L640 352 C640 347.582 643.582 344 648 344 Z" fill="#40160e" stroke="#e8a87a" stroke-width="2" stroke-miterlimit="10" opacity="0.85"/>
+    <text transform="matrix(1 0 0 1 660 368)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="14" fill="#e8a87a"><tspan x="0" y="0">CPU</tspan></text>
+    <path id="Temp_bar_1" data-name="Temp bar 1" d="M654 394 L664 394 L664 404 L654 404 Z" fill="#e86a3a" opacity="0.4"/>
+    <path id="Temp_bar_2" data-name="Temp bar 2" d="M670 386 L680 386 L680 404 L670 404 Z" fill="#e86a3a" opacity="0.6"/>
+    <path id="Temp_bar_3" data-name="Temp bar 3" d="M686 376 L696 376 L696 404 L686 404 Z" fill="#e86a3a" opacity="0.8"/>
+    <text transform="matrix(1 0 0 1 700 404)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="24" fill="#ff9a5e"><tspan x="0" y="0">97°C</tspan></text>
+    <path id="RPM_panel" data-name="RPM panel" d="M608 648 L752 648 C756.418 648 760 651.582 760 656 L760 692 C760 696.418 756.418 700 752 700 L608 700 C603.582 700 600 696.418 600 692 L600 656 C600 651.582 603.582 648 608 648 Z" fill="#40160e" stroke="#e8a87a" stroke-width="2" stroke-miterlimit="10" opacity="0.85"/>
+    <text transform="matrix(1 0 0 1 680 681)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="16" fill="#ff9a5e" text-anchor="middle"><tspan x="0" y="0">FAN 6800 RPM !!</tspan></text>
+    <path id="Form_pill" data-name="Form pill" d="M236 648 L382 648 C386.418 648 390 651.582 390 656 L390 692 C390 696.418 386.418 700 382 700 L236 700 C231.582 700 228 696.418 228 692 L228 656 C228 651.582 231.582 648 236 648 Z" fill="#40160e" stroke="#e8a87a" stroke-width="2" stroke-miterlimit="10" opacity="0.85"/>
+    <text transform="matrix(1 0 0 1 309 681)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="15" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">FORM 88-B FILED</tspan></text>
+    <path id="Haze_L" data-name="Haze L" d="M330 550 C330 483.726 347.909 430 370 430 C392.091 430 410 483.726 410 550 C410 616.274 392.091 670 370 670 C347.909 670 330 616.274 330 550 Z" fill="#e86a3a" opacity="0.12"/>
+    <path id="Haze_R" data-name="Haze R" d="M590 550 C590 483.726 607.909 430 630 430 C652.091 430 670 483.726 670 550 C670 616.274 652.091 670 630 670 C607.909 670 590 616.274 590 550 Z" fill="#e86a3a" opacity="0.12"/>
+    <path id="Boily_casing" data-name="Boily casing" d="M418 430 L582 430 C591.941 430 600 438.059 600 448 L600 742 C600 751.941 591.941 760 582 760 L418 760 C408.059 760 400 751.941 400 742 L400 448 C400 438.059 408.059 430 418 430 Z" fill="url(#linear-gradient-2)" stroke="#2a140e" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Crack" d="M486 440 L506 492 L488 540 L514 592 L496 646 L516 700" fill="none" stroke="#2a0e06" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Crack_glow" data-name="Crack glow" d="M488 446 L504 492 L490 538 L510 590 L498 642 L512 694" fill="none" stroke="#ffd98a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.85"/>
+    <path id="Boily_eye_L" data-name="Boily eye L" d="M446 503 C446 496.925 449.582 492 454 492 C458.418 492 462 496.925 462 503 C462 509.075 458.418 514 454 514 C449.582 514 446 509.075 446 503 Z" fill="#2a0e06"/>
+    <path id="Boily_eye_R" data-name="Boily eye R" d="M538 503 C538 496.925 541.582 492 546 492 C550.418 492 554 496.925 554 503 C554 509.075 550.418 514 546 514 C541.582 514 538 509.075 538 503 Z" fill="#2a0e06"/>
+    <path id="Boily_glint_L" data-name="Boily glint L" d="M450 499 C450 497.895 450.895 497 452 497 C453.105 497 454 497.895 454 499 C454 500.105 453.105 501 452 501 C450.895 501 450 500.105 450 499 Z" fill="#ffffff" opacity="0.8"/>
+    <path id="Boily_glint_R" data-name="Boily glint R" d="M542 499 C542 497.895 542.895 497 544 497 C545.105 497 546 497.895 546 499 C546 500.105 545.105 501 544 501 C542.895 501 542 500.105 542 499 Z" fill="#ffffff" opacity="0.8"/>
+    <path id="Brow_L" data-name="Brow L" d="M442 478 C450 472.667 458 472 466 476" fill="none" stroke="#2a0e06" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Brow_R" data-name="Brow R" d="M534 476 C542 472 550 472.667 558 478" fill="none" stroke="#2a0e06" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Boily_mouth" data-name="Boily mouth" d="M470 550 C470 540.059 483.431 532 500 532 C516.569 532 530 540.059 530 550 C530 559.941 516.569 568 500 568 C483.431 568 470 559.941 470 550 Z" fill="#2a0e06"/>
+    <path id="Mouth_heat" data-name="Mouth heat" d="M484 554 C484 549.582 491.163 546 500 546 C508.837 546 516 549.582 516 554 C516 558.418 508.837 562 500 562 C491.163 562 484 558.418 484 554 Z" fill="#e86a3a" opacity="0.6"/>
+    <path id="Fan_ring" data-name="Fan ring" d="M428 675 C428 644.624 452.624 620 483 620 C513.376 620 538 644.624 538 675 C538 705.376 513.376 730 483 730 C452.624 730 428 705.376 428 675 Z" fill="#3a1a10" stroke="#2a140e" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Fan_blade_1" data-name="Fan blade 1" d="M483 675 L495 691 L519 688 Z" fill="#c9b68e" opacity="0.85"/>
+    <path id="Fan_blade_2" data-name="Fan blade 2" d="M483 675 L476 694 L490 712 Z" fill="#c9b68e" opacity="0.85"/>
+    <path id="Fan_blade_3" data-name="Fan blade 3" d="M483 675 L463 678 L454 699 Z" fill="#c9b68e" opacity="0.85"/>
+    <path id="Fan_blade_4" data-name="Fan blade 4" d="M483 675 L471 659 L447 662 Z" fill="#c9b68e" opacity="0.85"/>
+    <path id="Fan_blade_5" data-name="Fan blade 5" d="M483 675 L490 656 L476 638 Z" fill="#c9b68e" opacity="0.85"/>
+    <path id="Fan_blade_6" data-name="Fan blade 6" d="M483 675 L503 672 L512 651 Z" fill="#c9b68e" opacity="0.85"/>
+    <path id="Fan_hub" data-name="Fan hub" d="M471 675 C471 668.373 476.373 663 483 663 C489.627 663 495 668.373 495 675 C495 681.627 489.627 687 483 687 C476.373 687 471 681.627 471 675 Z" fill="url(#radial-gradient-3)" stroke="#2a140e" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Spin_arc_1" data-name="Spin arc 1" d="M420 640 C432.001 622.114 451.568 610.749 473.05 609.187 C494.532 607.625 515.537 616.039 530 632" fill="none" stroke="#f2d4b0" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Spin_arc_2" data-name="Spin arc 2" d="M424 724 C438.463 739.961 459.468 748.375 480.95 746.813 C502.432 745.251 521.999 733.886 534 716" fill="none" stroke="#f2d4b0" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Core_vent" data-name="Core vent" d="M430 427 C430 418.716 461.34 412 500 412 C538.66 412 570 418.716 570 427 C570 435.284 538.66 442 500 442 C461.34 442 430 435.284 430 427 Z" fill="url(#radial-gradient-4)" opacity="0.8"/>
+    <path id="Steam_1" data-name="Steam 1" d="M460 388 C460 378.059 473.431 370 490 370 C506.569 370 520 378.059 520 388 C520 397.941 506.569 406 490 406 C473.431 406 460 397.941 460 388 Z" fill="#f2d4b0" opacity="0.45"/>
+    <path id="Steam_2" data-name="Steam 2" d="M430 353 C430 340.297 447.461 330 469 330 C490.539 330 508 340.297 508 353 C508 365.703 490.539 376 469 376 C447.461 376 430 365.703 430 353 Z" fill="#f2d4b0" opacity="0.36"/>
+    <path id="Steam_3" data-name="Steam 3" d="M475 315 C475 300.088 495.595 288 521 288 C546.405 288 567 300.088 567 315 C567 329.912 546.405 342 521 342 C495.595 342 475 329.912 475 315 Z" fill="#f2d4b0" opacity="0.28"/>
+    <path id="Steam_4" data-name="Steam 4" d="M440 275 C440 257.879 464.624 244 495 244 C525.376 244 550 257.879 550 275 C550 292.121 525.376 306 495 306 C464.624 306 440 292.121 440 275 Z" fill="#f2d4b0" opacity="0.2"/>
+    <path id="Steam_5" data-name="Steam 5" d="M495 231 C495 218.297 512.909 208 535 208 C557.091 208 575 218.297 575 231 C575 243.703 557.091 254 535 254 C512.909 254 495 243.703 495 231 Z" fill="#f2d4b0" opacity="0.14"/>
+    <path id="Spark_1" data-name="Spark 1" d="M392 474 L393.8 478.2 L398 480 L393.8 481.8 L392 486 L390.2 481.8 L386 480 L390.2 478.2 Z" fill="#ffd98a" opacity="0.85"/>
+    <path id="Spark_2" data-name="Spark 2" d="M610 515 L611.5 518.5 L615 520 L611.5 521.5 L610 525 L608.5 521.5 L605 520 L608.5 518.5 Z" fill="#ffd98a" opacity="0.85"/>
+    <path id="Spark_3" data-name="Spark 3" d="M398 635 L399.5 638.5 L403 640 L399.5 641.5 L398 645 L396.5 641.5 L393 640 L396.5 638.5 Z" fill="#ffd98a" opacity="0.85"/>
+    <path id="Spark_4" data-name="Spark 4" d="M606 594 L607.8 598.2 L612 600 L607.8 601.8 L606 606 L604.2 601.8 L600 600 L604.2 598.2 Z" fill="#ffd98a" opacity="0.85"/>
+    <text transform="matrix(1 0 0 1 500 930)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="54" fill="#f2d4b0" text-anchor="middle"><tspan x="0" y="0">BOILY MCPLATERTON</tspan></text>
+    <text transform="matrix(1 0 0 1 500 968)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="17" fill="#c9906a" text-anchor="middle"><tspan x="0" y="0">E M E R G E N C Y   C O O L D O W N   P R O T O C O L   8 8 - B</tspan></text>
+  </g>
+</svg>
