@@ -1,4 +1,4 @@
-# jardin-taburete-V1R00 — gaps read as sky unless shaded
+## jardin-taburete-V1R00 — gaps read as sky unless shaded
 
 - Kind: lesson
 - Source: issue #1111, driver `work/furniture/jardin-taburete-V1R00.py`,

@@ -1,4 +1,4 @@
-# bergere-armchair-V1R00 — far-side arm support is a silhouette problem
+## bergere-armchair-V1R00 — far-side arm support is a silhouette problem
 
 - Kind: lesson
 - Source: issue #1152, driver `work/furniture/draw_bergere_armchair.py`,

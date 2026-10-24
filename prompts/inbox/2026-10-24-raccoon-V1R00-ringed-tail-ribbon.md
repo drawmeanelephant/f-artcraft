@@ -1,4 +1,4 @@
-# Raccoon V1R00 — the ringed tail wants a sampled ribbon, not stroked arcs
+## Raccoon V1R00 — the ringed tail wants a sampled ribbon, not stroked arcs
 
 - Kind: lesson
 - Source: issue #1102; `work/animals/draw_raccoon.py`,

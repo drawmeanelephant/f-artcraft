@@ -1,4 +1,4 @@
-# leatherback-sea-turtle-V1R00 — attachments at a silhouette tip read as antennae
+## leatherback-sea-turtle-V1R00 — attachments at a silhouette tip read as antennae
 
 - Kind: lesson
 - Source: issue #1113, driver `work/animals/draw_leatherback_sea_turtle.py`,

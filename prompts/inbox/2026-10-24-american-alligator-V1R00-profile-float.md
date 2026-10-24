@@ -1,4 +1,4 @@
-# American alligator V1R00 — crocodylians are profile animals
+## American alligator V1R00 — crocodylians are profile animals
 
 - Kind: lesson
 - Source: issue #1074, `work/animals/draw_american_alligator.py`,

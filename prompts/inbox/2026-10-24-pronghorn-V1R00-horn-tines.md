@@ -1,4 +1,4 @@
-# Pronghorn V1R00 — a horn needs its tine drawn as geometry, not implied
+## Pronghorn V1R00 — a horn needs its tine drawn as geometry, not implied
 
 - Kind: lesson
 - Source: issue #1068, `work/animals/draw_pronghorn.py`,

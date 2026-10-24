@@ -1,4 +1,4 @@
-# American pika V1R00 — lit summit caps need a shaded face, and round ears need crown overlap
+## American pika V1R00 — lit summit caps need a shaded face, and round ears need crown overlap
 
 - Kind: lesson
 - Source: issue #1105; `work/animals/draw_american_pika.py`,
