@@ -120,7 +120,9 @@ house rule #1 — it is the idiom, not a violation of it). The grammar is
 fixed; the palette keys to the subject's world; consistency within the
 series is the benchmark. Lesson from the pilot so far, twice over: in flat
 style the silhouette code carries the species — decoration is cheap, the
-outline is the work. Pilot: fennec-fox V2R00–R03.
+outline is the work. Pilot: fennec-fox V2R00–R05 (V2R04–R05 broke the rat
+read: tapered muzzle with the nose at the tip, eyes set higher and wider;
+a profile pose is the next step if the face still drifts cute).
 
 ### Animals (`art/animals/`)
 
