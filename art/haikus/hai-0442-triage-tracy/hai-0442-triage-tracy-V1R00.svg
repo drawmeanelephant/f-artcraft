@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="500" x2="1000" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#111b18"/>
+      <stop offset="1" stop-color="#070c0a"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3e5e56"/>
+      <stop offset="0.7" stop-color="#243e38"/>
+      <stop offset="1" stop-color="#0f1c18"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="500" cy="520" r="210" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7eb4a4" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#7eb4a4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="683.503" y1="641.092" x2="732.948" y2="614.801" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6a8a80"/>
+      <stop offset="1" stop-color="#30463e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="671.206" y1="596.664" x2="702.992" y2="579.763" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6a8a80"/>
+      <stop offset="1" stop-color="#30463e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="707.041" y1="634.239" x2="737.061" y2="618.277" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8e2d0"/>
+      <stop offset="1" stop-color="#b8b09a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="342" y1="331" x2="622" y2="331" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8e2d0"/>
+      <stop offset="1" stop-color="#b8b09a"/>
+    </linearGradient>
+  </defs>
+  <title>HAI-0442 Triage Tracy — Haiku Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#4e7a6c" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#d0e4dc" stroke-width="3" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Clinical_pool" data-name="Clinical pool" d="M290 520 C290 415.066 384.02 330 500 330 C615.98 330 710 415.066 710 520 C710 624.934 615.98 710 500 710 C384.02 710 290 624.934 290 520 Z" fill="url(#radial-gradient-2)"/>
+    <path id="Grid_V_1" data-name="Grid V 1" d="M200 400 L200 680" fill="none" stroke="#5e7e74" stroke-width="1.5" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="Grid_V_2" data-name="Grid V 2" d="M300 400 L300 680" fill="none" stroke="#5e7e74" stroke-width="1.5" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="Grid_V_3" data-name="Grid V 3" d="M400 400 L400 680" fill="none" stroke="#5e7e74" stroke-width="1.5" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="Grid_V_4" data-name="Grid V 4" d="M500 400 L500 680" fill="none" stroke="#5e7e74" stroke-width="1.5" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="Grid_V_5" data-name="Grid V 5" d="M600 400 L600 680" fill="none" stroke="#5e7e74" stroke-width="1.5" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="Grid_V_6" data-name="Grid V 6" d="M700 400 L700 680" fill="none" stroke="#5e7e74" stroke-width="1.5" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="Grid_V_7" data-name="Grid V 7" d="M800 400 L800 680" fill="none" stroke="#5e7e74" stroke-width="1.5" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="Grid_H_1" data-name="Grid H 1" d="M200 420 L800 420" fill="none" stroke="#5e7e74" stroke-width="1.5" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="Grid_H_2" data-name="Grid H 2" d="M200 500 L800 500" fill="none" stroke="#5e7e74" stroke-width="1.5" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="Grid_H_3" data-name="Grid H 3" d="M200 580 L800 580" fill="none" stroke="#5e7e74" stroke-width="1.5" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="Grid_H_4" data-name="Grid H 4" d="M200 660 L800 660" fill="none" stroke="#5e7e74" stroke-width="1.5" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="Grid_H_5" data-name="Grid H 5" d="M200 740 L800 740" fill="none" stroke="#5e7e74" stroke-width="1.5" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="Trace_glow" data-name="Trace glow" d="M150 500 L250 500 L268 470 L286 530 L304 436 L322 560 L338 500 L420 500 L438 468 L456 532 L474 440 L492 556 L508 500 L560 500 C630 500 650 590 720 650 L800 716" fill="none" stroke="#e86a5a" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" opacity="0.15"/>
+    <path id="Trace_ECG" data-name="Trace ECG" d="M150 500 L250 500 L268 470 L286 530 L304 436 L322 560 L338 500 L420 500 L438 468 L456 532 L474 440 L492 556 L508 500 L560 500 C630 500 650 590 720 650 L800 716" fill="none" stroke="#e86a5a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Margin_bend" data-name="Margin bend" d="M560 500 C630 500 650 590 720 650 L800 716" fill="none" stroke="#8ac4b0" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <text transform="matrix(1 0 0 1 774 732)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="15" fill="#9fc0b4" text-anchor="middle"><tspan x="0" y="0">los</tspan></text>
+    <text transform="matrix(1 0 0 1 180 470)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="15" fill="#e8a89e" text-anchor="middle"><tspan x="0" y="0">bpm</tspan></text>
+    <path id="Bend_marker" data-name="Bend marker" d="M551 500 C551 495.029 555.029 491 560 491 C564.971 491 569 495.029 569 500 C569 504.971 564.971 509 560 509 C555.029 509 551 504.971 551 500 Z" fill="#0f1c18" stroke="#e8a89e" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Planner_body" data-name="Planner body" d="M683.503 641.092 C674.946 625 679.079 606.069 692.733 598.809 C706.387 591.549 724.391 598.709 732.948 614.801 C741.504 630.893 737.372 649.824 723.718 657.084 C710.064 664.344 692.059 657.184 683.503 641.092 Z" fill="url(#linear-gradient-2)" stroke="#1e2a22" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Planner_head" data-name="Planner head" d="M671.206 596.664 C666.539 587.887 669.871 576.988 678.649 572.321 C687.426 567.654 698.325 570.986 702.992 579.763 C707.659 588.541 704.327 599.44 695.55 604.107 C686.772 608.774 675.873 605.442 671.206 596.664 Z" fill="url(#linear-gradient-3)" stroke="#1e2a22" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Planner_board" data-name="Planner board" d="M704.056 622.235 L728.779 609.09 C730.241 608.312 732.058 608.868 732.836 610.331 L741.286 626.224 C742.064 627.687 741.509 629.503 740.046 630.281 L715.323 643.426 C713.86 644.204 712.044 643.649 711.266 642.186 L702.816 626.293 C702.038 624.83 702.593 623.013 704.056 622.235 Z" fill="url(#linear-gradient-4)" stroke="#1e2a22" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Slide_tick_1" data-name="Slide tick 1" d="M755 668 L771 678" fill="none" stroke="#8ac4b0" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Slide_tick_2" data-name="Slide tick 2" d="M775 684 L791 694" fill="none" stroke="#8ac4b0" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Slide_tick_3" data-name="Slide tick 3" d="M795 700 L811 710" fill="none" stroke="#8ac4b0" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Sheet_shadow" data-name="Sheet shadow" d="M356 196 L628 196 C630.209 196 632 197.791 632 200 L632 482 C632 484.209 630.209 486 628 486 L356 486 C353.791 486 352 484.209 352 482 L352 200 C352 197.791 353.791 196 356 196 Z" fill="#0c1410" opacity="0.3"/>
+    <path id="Criteria_sheet" data-name="Criteria sheet" d="M346 186 L618 186 C620.209 186 622 187.791 622 190 L622 472 C622 474.209 620.209 476 618 476 L346 476 C343.791 476 342 474.209 342 472 L342 190 C342 187.791 343.791 186 346 186 Z" fill="url(#linear-gradient-5)" stroke="#1e2a22" stroke-width="5" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 482 226)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="19" fill="#3a352a" text-anchor="middle"><tspan x="0" y="0">CRITERIA</tspan></text>
+    <path id="Header_rule" data-name="Header rule" d="M372 244 L592 244" fill="none" stroke="#8a8068" stroke-width="2" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Row_1_box" data-name="Row 1 box" d="M368 268 L384 268 L384 284 L368 284 Z" fill="none" stroke="#4a4438" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Row_1_check" data-name="Row 1 check" d="M371 276 L376 282 L383 271" fill="none" stroke="#4a4438" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 394 281)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="13" fill="#4a4438"><tspan x="0" y="0">los exceeded</tspan></text>
+    <path id="Row_2_box" data-name="Row 2 box" d="M368 306 L384 306 L384 322 L368 322 Z" fill="none" stroke="#4a4438" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Row_2_check" data-name="Row 2 check" d="M371 314 L376 320 L383 309" fill="none" stroke="#4a4438" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 394 319)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="13" fill="#4a4438"><tspan x="0" y="0">peer review clicked</tspan></text>
+    <path id="Row_3_box" data-name="Row 3 box" d="M368 344 L384 344 L384 360 L368 360 Z" fill="none" stroke="#4a4438" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Row_3_check" data-name="Row 3 check" d="M371 352 L376 358 L383 347" fill="none" stroke="#4a4438" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 394 357)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="13" fill="#4a4438"><tspan x="0" y="0">cost outlier</tspan></text>
+    <path id="Row_4_box" data-name="Row 4 box" d="M368 382 L384 382 L384 398 L368 398 Z" fill="none" stroke="#8a8068" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+    <path id="Row_4_ghost" data-name="Row 4 ghost" d="M394 392 L586 392" fill="none" stroke="#8a8068" stroke-width="2.5" stroke-miterlimit="10" stroke-dasharray="6 6" opacity="0.6"/>
+    <path id="Row_5_box" data-name="Row 5 box" d="M368 420 L384 420 L384 436 L368 436 Z" fill="none" stroke="#8a8068" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3 3"/>
+    <path id="Row_5_ghost" data-name="Row 5 ghost" d="M394 430 L586 430" fill="none" stroke="#8a8068" stroke-width="2.5" stroke-miterlimit="10" stroke-dasharray="6 6" opacity="0.6"/>
+    <path id="Denied_stamp_box" data-name="Denied stamp box" d="M402.92 391.48 L564.901 417.135 C568.174 417.654 570.407 420.727 569.889 424 L563.944 461.532 C563.426 464.805 560.352 467.038 557.08 466.52 L395.099 440.865 C391.826 440.346 389.593 437.273 390.111 434 L396.056 396.468 C396.574 393.195 399.648 390.962 402.92 391.48 Z" fill="none" stroke="#e86a5a" stroke-width="5" stroke-miterlimit="10"/>
+    <text transform="matrix(0.988 0.156 -0.156 0.988 478.436 438.877)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="27" fill="#e86a5a" text-anchor="middle"><tspan x="0" y="0">DENIED</tspan></text>
+    <path id="Scale_post" data-name="Scale post" d="M286 690 L286 772" fill="none" stroke="#1e2a22" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Scale_beam" data-name="Scale beam" d="M222 700 L350 712" fill="none" stroke="#1e2a22" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Pan_L" data-name="Pan L" d="M222 700 L222 724 M204 724 C216 740 228 740 240 724 Z" fill="none" stroke="#1e2a22" stroke-width="3" stroke-linejoin="round"/>
+    <path id="Pan_R" data-name="Pan R" d="M350 712 L350 752 M332 752 C344 768 356 768 368 752 Z" fill="none" stroke="#1e2a22" stroke-width="3" stroke-linejoin="round"/>
+    <path id="Coin" d="M340 747 C340 744.239 344.477 742 350 742 C355.523 742 360 744.239 360 747 C360 749.761 355.523 752 350 752 C344.477 752 340 749.761 340 747 Z" fill="#c8a850" stroke="#1e2a22" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Pan_heart" data-name="Pan heart" d="M214 712 C210 704 222 700 224 708 C226 700 238 704 234 712 L224 722 Z" fill="#e86a5a" stroke="#1e2a22" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Ground_rule" data-name="Ground rule" d="M330 790 L670 790" fill="none" stroke="#3e5e56" stroke-width="2" stroke-miterlimit="10" opacity="0.6"/>
+    <text transform="matrix(1 0 0 1 500 898)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="22" fill="#9fc0b4" letter-spacing="6.6" text-anchor="middle"><tspan x="0" y="0">BIOLOGY BENDS.</tspan></text>
+    <text transform="matrix(1 0 0 1 500 944)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="56" fill="#e6e2d2" text-anchor="middle"><tspan x="0" y="0">TRIAGE TRACY</tspan></text>
+  </g>
+</svg>
