@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="500" x2="1000" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0f0d22"/>
+      <stop offset="1" stop-color="#060510"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3e3c72"/>
+      <stop offset="0.7" stop-color="#242148"/>
+      <stop offset="1" stop-color="#110f2a"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="500" cy="530" r="210" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8e9bee" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#8e9bee" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="196.681" y1="660.258" x2="335.319" y2="679.742" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5a5870"/>
+      <stop offset="1" stop-color="#33324a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="430" y1="669" x2="570" y2="669" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b8bce4"/>
+      <stop offset="0.6" stop-color="#7078b4"/>
+      <stop offset="1" stop-color="#3e4270"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="444" y1="453.25" x2="556" y2="453.25" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b8bce4"/>
+      <stop offset="0.6" stop-color="#7078b4"/>
+      <stop offset="1" stop-color="#3e4270"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="450" y1="452" x2="550" y2="452" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d8f2ff"/>
+      <stop offset="1" stop-color="#6eb8e8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="468" y1="612" x2="532" y2="612" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f6dc96"/>
+      <stop offset="1" stop-color="#c09038"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-3" cx="642" cy="300" r="36" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f6dc96" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#f6dc96" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <title>LIM-SVGON-THE-LINE — Limerick Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#7873b8" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#dcd8f8" stroke-width="3" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Glow_pool" data-name="Glow pool" d="M330 530 C330 414.02 406.112 320 500 320 C593.888 320 670 414.02 670 530 C670 645.98 593.888 740 500 740 C406.112 740 330 645.98 330 530 Z" fill="url(#radial-gradient-2)"/>
+    <text transform="matrix(1 0 0 1 500 148)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="17" fill="#e4e4fa" letter-spacing="1.87" text-anchor="middle"><tspan x="0" y="0">I SCALE BEYOND ALL MEANING AND SIGHT</tspan></text>
+    <path id="Declaration_rule" data-name="Declaration rule" d="M330 168 L670 168" fill="none" stroke="#7873b8" stroke-width="2" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Zoom_frame_1" data-name="Zoom frame 1" d="M218 244 L782 244 C786.418 244 790 247.582 790 252 L790 688 C790 692.418 786.418 696 782 696 L218 696 C213.582 696 210 692.418 210 688 L210 252 C210 247.582 213.582 244 218 244 Z" fill="none" stroke="#9ea0e4" stroke-width="2" stroke-miterlimit="10" opacity="0.55"/>
+    <text transform="matrix(1 0 0 1 776 262)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11" fill="#8e8cc8" text-anchor="end"><tspan x="0" y="0">200%</tspan></text>
+    <path id="Zoom_frame_2" data-name="Zoom frame 2" d="M258 275 L742 275 C746.418 275 750 278.582 750 283 L750 657 C750 661.418 746.418 665 742 665 L258 665 C253.582 665 250 661.418 250 657 L250 283 C250 278.582 253.582 275 258 275 Z" fill="none" stroke="#9ea0e4" stroke-width="2" stroke-miterlimit="10" opacity="0.45"/>
+    <text transform="matrix(1 0 0 1 264 293)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11" fill="#8e8cc8"><tspan x="0" y="0">400%</tspan></text>
+    <path id="Zoom_frame_3" data-name="Zoom frame 3" d="M313 320 L687 320 C691.418 320 695 323.582 695 328 L695 612 C695 616.418 691.418 620 687 620 L313 620 C308.582 620 305 616.418 305 612 L305 328 C305 323.582 308.582 320 313 320 Z" fill="none" stroke="#9ea0e4" stroke-width="2" stroke-miterlimit="10" opacity="0.36"/>
+    <text transform="matrix(1 0 0 1 681 338)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11" fill="#8e8cc8" text-anchor="end"><tspan x="0" y="0">800%</tspan></text>
+    <path id="Zoom_frame_4" data-name="Zoom frame 4" d="M358 354 L642 354 C646.418 354 650 357.582 650 362 L650 578 C650 582.418 646.418 586 642 586 L358 586 C353.582 586 350 582.418 350 578 L350 362 C350 357.582 353.582 354 358 354 Z" fill="none" stroke="#9ea0e4" stroke-width="2" stroke-miterlimit="10" opacity="0.28"/>
+    <text transform="matrix(1 0 0 1 364 372)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11" fill="#8e8cc8"><tspan x="0" y="0">1600%</tspan></text>
+    <path id="Zoom_frame_5" data-name="Zoom frame 5" d="M392 380 L608 380 C612.418 380 616 383.582 616 388 L616 552 C616 556.418 612.418 560 608 560 L392 560 C387.582 560 384 556.418 384 552 L384 388 C384 383.582 387.582 380 392 380 Z" fill="none" stroke="#9ea0e4" stroke-width="2" stroke-miterlimit="10" opacity="0.22"/>
+    <text transform="matrix(1 0 0 1 602 398)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11" fill="#8e8cc8" text-anchor="end"><tspan x="0" y="0">3200%</tspan></text>
+    <path id="Zoom_frame_6" data-name="Zoom frame 6" d="M419 401 L581 401 C585.418 401 589 404.582 589 409 L589 531 C589 535.418 585.418 539 581 539 L419 539 C414.582 539 411 535.418 411 531 L411 409 C411 404.582 414.582 401 419 401 Z" fill="none" stroke="#9ea0e4" stroke-width="2" stroke-miterlimit="10" opacity="0.17"/>
+    <text transform="matrix(1 0 0 1 425 419)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11" fill="#8e8cc8"><tspan x="0" y="0">6400%</tspan></text>
+    <path id="Curve_glow" data-name="Curve glow" d="M228 690 C400 540 596 610 782 296" fill="none" stroke="#8e9bee" stroke-width="16" stroke-linecap="round" stroke-miterlimit="10" opacity="0.13"/>
+    <path id="Curve_halo" data-name="Curve halo" d="M228 690 C400 540 596 610 782 296" fill="none" stroke="#a8b4f2" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.32"/>
+    <path id="Curve_spine" data-name="Curve spine" d="M228 690 C400 540 596 610 782 296" fill="none" stroke="#edf0ff" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Anchor_1" data-name="Anchor 1" d="M223 685 L233 685 L233 695 L223 695 Z" fill="#e4e4fa" stroke="#14122a" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Anchor_2" data-name="Anchor 2" d="M777 291 L787 291 L787 301 L777 301 Z" fill="#e4e4fa" stroke="#14122a" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Raster_window" data-name="Raster window" d="M208.591 611.44 L337.326 629.533 C340.061 629.917 341.966 632.446 341.582 635.18 L329.056 724.304 C328.672 727.039 326.143 728.944 323.409 728.56 L194.674 710.467 C191.939 710.083 190.034 707.554 190.418 704.82 L202.944 615.696 C203.328 612.961 205.857 611.056 208.591 611.44 Z" fill="url(#linear-gradient-2)" stroke="#14122a" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Raster_chrome" data-name="Raster chrome" d="M208.591 611.44 L337.326 629.533 C340.061 629.917 341.966 632.446 341.582 635.18 L340.468 643.102 C340.084 645.837 337.556 647.742 334.821 647.358 L206.086 629.265 C203.352 628.881 201.446 626.353 201.831 623.618 L202.944 615.696 C203.328 612.961 205.857 611.056 208.591 611.44 Z" fill="#24223a" stroke="#14122a" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Pixel_0-0" data-name="Pixel 0-0" d="M209.646 639.864 L229.451 642.647 L226.668 662.453 L206.862 659.669 Z" fill="#7a78a0" opacity="0.55"/>
+    <path id="Pixel_0-2" data-name="Pixel 0-2" d="M249.256 645.431 L269.062 648.214 L266.278 668.019 L246.473 665.236 Z" fill="#7a78a0" opacity="0.55"/>
+    <path id="Pixel_1-1" data-name="Pixel 1-1" d="M226.668 662.453 L246.473 665.236 L243.69 685.041 L223.884 682.258 Z" fill="#7a78a0" opacity="0.55"/>
+    <path id="Pixel_1-3" data-name="Pixel 1-3" d="M266.278 668.019 L286.084 670.803 L283.3 690.608 L263.495 687.825 Z" fill="#7a78a0" opacity="0.55"/>
+    <path id="Pixel_2-0" data-name="Pixel 2-0" d="M204.079 679.474 L223.884 682.258 L221.101 702.063 L201.295 699.28 Z" fill="#7a78a0" opacity="0.55"/>
+    <path id="Pixel_2-2" data-name="Pixel 2-2" d="M243.69 685.041 L263.495 687.825 L260.711 707.63 L240.906 704.847 Z" fill="#7a78a0" opacity="0.55"/>
+    <path id="Crash_X" data-name="Crash X" d="M252.415 666.071 L279.65 702.213 M284.103 670.525 L247.961 697.76" fill="none" stroke="#e4e4fa" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <text transform="matrix(0.99 0.139 -0.139 0.99 270.871 635.341)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="10" fill="#a8a4d8" text-anchor="middle"><tspan x="0" y="0">raster.exe</tspan></text>
+    <path id="Svgon_shadow" data-name="Svgon shadow" d="M400 773 C400 765.82 444.772 760 500 760 C555.228 760 600 765.82 600 773 C600 780.18 555.228 786 500 786 C444.772 786 400 780.18 400 773 Z" fill="#060510" opacity="0.45"/>
+    <path id="Svgon_bust" data-name="Svgon bust" d="M430 782 C432 690 448 610 470 556 L530 556 C552 610 568 690 570 782 Z" fill="url(#linear-gradient-3)" stroke="#14122a" stroke-width="5" stroke-linejoin="round"/>
+    <path id="Coat_sheen" data-name="Coat sheen" d="M448 600 C452 660 456 720 458 768" fill="none" stroke="#edf0ff" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="Svgon_helm" data-name="Svgon helm" d="M444 450 C444 392 556 392 556 450 C556 482 536 500 500 500 C464 500 444 482 444 450 Z" fill="url(#linear-gradient-4)" stroke="#14122a" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Helm_ridge" data-name="Helm ridge" d="M500 396 C510 408 510 424 500 434" fill="none" stroke="#edf0ff" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Visor" d="M458 444 L542 444 C546.418 444 550 447.582 550 452 L550 452 C550 456.418 546.418 460 542 460 L458 460 C453.582 460 450 456.418 450 452 L450 452 C450 447.582 453.582 444 458 444 Z" fill="url(#linear-gradient-5)" stroke="#14122a" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Visor_gleam" data-name="Visor gleam" d="M456 452 L544 452" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Brow_high" data-name="Brow high" d="M460 424 C470.667 416 481.333 414.667 492 420" fill="none" stroke="#14122a" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Brow_flat" data-name="Brow flat" d="M508 428 L532 426" fill="none" stroke="#14122a" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Mouth" d="M486 478 L514 478" fill="none" stroke="#14122a" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Medallion" d="M468 612 C468 594.327 482.327 580 500 580 C517.673 580 532 594.327 532 612 C532 629.673 517.673 644 500 644 C482.327 644 468 629.673 468 612 Z" fill="url(#linear-gradient-6)" stroke="#14122a" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Medallion_check" data-name="Medallion check" d="M484 612 L497 625 L518 598" fill="none" stroke="#14122a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="Medallion_glint" data-name="Medallion glint" d="M478 594 C478 590.686 482.477 588 488 588 C493.523 588 498 590.686 498 594 C498 597.314 493.523 600 488 600 C482.477 600 478 597.314 478 594 Z" fill="#ffffff" opacity="0.5"/>
+    <path id="Arm_R" data-name="Arm R" d="M556 580 C596 584 620 600 630 632" fill="none" stroke="#3e4270" stroke-width="20" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Hand_R" data-name="Hand R" d="M618 637 C618 629.82 624.268 624 632 624 C639.732 624 646 629.82 646 637 C646 644.18 639.732 650 632 650 C624.268 650 618 644.18 618 637 Z" fill="#b8bce4" stroke="#14122a" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Staff_shaft" data-name="Staff shaft" d="M640 336 L640 792" fill="none" stroke="#d8ac54" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Staff_tip" data-name="Staff tip" d="M638 792 L642 792 L640 808 Z" fill="#d8ac54"/>
+    <path id="Golden_rect" data-name="Golden rect" d="M617 282 L667 282 C668.657 282 670 283.343 670 285 L670 315 C670 316.657 668.657 318 667 318 L617 318 C615.343 318 614 316.657 614 315 L614 285 C614 283.343 615.343 282 617 282 Z" fill="#1a1840" stroke="#f6dc96" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Phi_split" data-name="Phi split" d="M648 282 L648 318" fill="none" stroke="#f6dc96" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Phi_arc" data-name="Phi arc" d="M648 318 C648 306.402 638.598 297 627 297" fill="none" stroke="#f6dc96" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Phi_split_2" data-name="Phi split 2" d="M661 282 L661 318" fill="none" stroke="#f6dc96" stroke-width="1.5" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Staff_glow" data-name="Staff glow" d="M606 300 C606 285.641 622.118 274 642 274 C661.882 274 678 285.641 678 300 C678 314.359 661.882 326 642 326 C622.118 326 606 314.359 606 300 Z" fill="url(#radial-gradient-3)"/>
+    <text transform="matrix(1 0 0 1 500 930)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="58" fill="#e4e4fa" text-anchor="middle"><tspan x="0" y="0">SVGON THE LINE</tspan></text>
+    <text transform="matrix(1 0 0 1 500 968)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="23" fill="#a8a4d8" letter-spacing="4.37" text-anchor="middle"><tspan x="0" y="0">LIM-SVGON-THE-LINE</tspan></text>
+  </g>
+</svg>
