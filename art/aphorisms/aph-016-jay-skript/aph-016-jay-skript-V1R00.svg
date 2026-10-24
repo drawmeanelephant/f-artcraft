@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="500" x2="1000" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141e26"/>
+      <stop offset="1" stop-color="#070b0e"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2e4250"/>
+      <stop offset="0.7" stop-color="#182630"/>
+      <stop offset="1" stop-color="#0b1218"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="280" y1="440" x2="720" y2="440" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1e2c34"/>
+      <stop offset="1" stop-color="#0e161b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="282" y1="264" x2="718" y2="264" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a4e5c"/>
+      <stop offset="1" stop-color="#24333c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="454.1" y1="424" x2="555.9" y2="424" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8d8a8"/>
+      <stop offset="1" stop-color="#b09a62"/>
+    </linearGradient>
+  </defs>
+  <title>APH-016 Jay Skript — Aphorism Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#4e7a8c" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#9fc4d8" stroke-width="3" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Fleck_1" data-name="Fleck 1" d="M205 223.5 C205 221.567 206.567 220 208.5 220 C210.433 220 212 221.567 212 223.5 C212 225.433 210.433 227 208.5 227 C206.567 227 205 225.433 205 223.5 Z" fill="#4e7488" opacity="0.35"/>
+    <path id="Fleck_2" data-name="Fleck 2" d="M798 219 C798 216.791 799.791 215 802 215 C804.209 215 806 216.791 806 219 C806 221.209 804.209 223 802 223 C799.791 223 798 221.209 798 219 Z" fill="#4e7488" opacity="0.35"/>
+    <path id="Fleck_3" data-name="Fleck 3" d="M162 503 C162 501.343 163.343 500 165 500 C166.657 500 168 501.343 168 503 C168 504.657 166.657 506 165 506 C163.343 506 162 504.657 162 503 Z" fill="#4e7488" opacity="0.35"/>
+    <path id="Fleck_4" data-name="Fleck 4" d="M842 498.5 C842 496.567 843.567 495 845.5 495 C847.433 495 849 496.567 849 498.5 C849 500.433 847.433 502 845.5 502 C843.567 502 842 500.433 842 498.5 Z" fill="#4e7488" opacity="0.35"/>
+    <path id="Fleck_5" data-name="Fleck 5" d="M245 745 C245 743.343 246.343 742 248 742 C249.657 742 251 743.343 251 745 C251 746.657 249.657 748 248 748 C246.343 748 245 746.657 245 745 Z" fill="#4e7488" opacity="0.35"/>
+    <path id="Fleck_6" data-name="Fleck 6" d="M762 741.5 C762 739.567 763.567 738 765.5 738 C767.433 738 769 739.567 769 741.5 C769 743.433 767.433 745 765.5 745 C763.567 745 762 743.433 762 741.5 Z" fill="#4e7488" opacity="0.35"/>
+    <path id="Floor_shadow" data-name="Floor shadow" d="M280 665 C280 651.193 378.497 640 500 640 C621.503 640 720 651.193 720 665 C720 678.807 621.503 690 500 690 C378.497 690 280 678.807 280 665 Z" fill="#000000" opacity="0.3"/>
+    <path id="Terminal" d="M292 240 L708 240 C714.627 240 720 245.373 720 252 L720 628 C720 634.627 714.627 640 708 640 L292 640 C285.373 640 280 634.627 280 628 L280 252 C280 245.373 285.373 240 292 240 Z" fill="url(#linear-gradient-2)" stroke="#5e8296" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Local_tint" data-name="Local tint" d="M294 288 L490 288 C494.418 288 498 291.582 498 296 L498 626 C498 630.418 494.418 634 490 634 L294 634 C289.582 634 286 630.418 286 626 L286 296 C286 291.582 289.582 288 294 288 Z" fill="#4ec488" opacity="0.08"/>
+    <path id="Prod_tint" data-name="Prod tint" d="M510 288 L706 288 C710.418 288 714 291.582 714 296 L714 626 C714 630.418 710.418 634 706 634 L510 634 C505.582 634 502 630.418 502 626 L502 296 C502 291.582 505.582 288 510 288 Z" fill="#e05a4a" opacity="0.1"/>
+    <path id="Title_bar" data-name="Title bar" d="M292 242 L708 242 C713.523 242 718 246.477 718 252 L718 276 C718 281.523 713.523 286 708 286 L292 286 C286.477 286 282 281.523 282 276 L282 252 C282 246.477 286.477 242 292 242 Z" fill="url(#linear-gradient-3)" stroke="#5e8296" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Dot_local" data-name="Dot local" d="M298 264 C298 259.582 301.582 256 306 256 C310.418 256 314 259.582 314 264 C314 268.418 310.418 272 306 272 C301.582 272 298 268.418 298 264 Z" fill="#4ec488" stroke="#16202a" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Dot_prod" data-name="Dot prod" d="M322 264 C322 259.582 325.582 256 330 256 C334.418 256 338 259.582 338 264 C338 268.418 334.418 272 330 272 C325.582 272 322 268.418 322 264 Z" fill="#e05a4a" stroke="#16202a" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Dot_idle" data-name="Dot idle" d="M346 264 C346 259.582 349.582 256 354 256 C358.418 256 362 259.582 362 264 C362 268.418 358.418 272 354 272 C349.582 272 346 268.418 346 264 Z" fill="#c4a468" stroke="#16202a" stroke-width="2" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 372 272)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="13" fill="#4ec488"><tspan x="0" y="0">localhost:3000</tspan></text>
+    <text transform="matrix(1 0 0 1 646 272)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="13" fill="#e05a4a"><tspan x="0" y="0">prod</tspan></text>
+    <text transform="matrix(1 0 0 1 300 330)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="12" fill="#7a96a8"><tspan x="0" y="0">01</tspan></text>
+    <path id="L_check_01" data-name="L check 01" d="M330 330 L330 321 M330 325 L342 313" fill="none" stroke="#4ec488" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="L_bar_01" data-name="L bar 01" d="M358 315 L456 315 C459.314 315 462 317.686 462 321 L462 321 C462 324.314 459.314 327 456 327 L358 327 C354.686 327 352 324.314 352 321 L352 321 C352 317.686 354.686 315 358 315 Z" fill="#4ec488" opacity="0.45"/>
+    <path id="L_bar2_01" data-name="L bar2 01" d="M357 332 L417 332 C419.761 332 422 334.239 422 337 L422 337 C422 339.761 419.761 342 417 342 L357 342 C354.239 342 352 339.761 352 337 L352 337 C352 334.239 354.239 332 357 332 Z" fill="#4ec488" opacity="0.25"/>
+    <text transform="matrix(1 0 0 1 300 380)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="12" fill="#7a96a8"><tspan x="0" y="0">02</tspan></text>
+    <path id="L_check_02" data-name="L check 02" d="M330 380 L330 371 M330 375 L342 363" fill="none" stroke="#4ec488" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="L_bar_02" data-name="L bar 02" d="M358 365 L456 365 C459.314 365 462 367.686 462 371 L462 371 C462 374.314 459.314 377 456 377 L358 377 C354.686 377 352 374.314 352 371 L352 371 C352 367.686 354.686 365 358 365 Z" fill="#4ec488" opacity="0.45"/>
+    <path id="L_bar2_02" data-name="L bar2 02" d="M357 382 L417 382 C419.761 382 422 384.239 422 387 L422 387 C422 389.761 419.761 392 417 392 L357 392 C354.239 392 352 389.761 352 387 L352 387 C352 384.239 354.239 382 357 382 Z" fill="#4ec488" opacity="0.25"/>
+    <text transform="matrix(1 0 0 1 300 430)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="12" fill="#7a96a8"><tspan x="0" y="0">03</tspan></text>
+    <path id="L_check_03" data-name="L check 03" d="M330 430 L330 421 M330 425 L342 413" fill="none" stroke="#4ec488" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="L_bar_03" data-name="L bar 03" d="M358 415 L456 415 C459.314 415 462 417.686 462 421 L462 421 C462 424.314 459.314 427 456 427 L358 427 C354.686 427 352 424.314 352 421 L352 421 C352 417.686 354.686 415 358 415 Z" fill="#4ec488" opacity="0.45"/>
+    <path id="L_bar2_03" data-name="L bar2 03" d="M357 432 L417 432 C419.761 432 422 434.239 422 437 L422 437 C422 439.761 419.761 442 417 442 L357 442 C354.239 442 352 439.761 352 437 L352 437 C352 434.239 354.239 432 357 432 Z" fill="#4ec488" opacity="0.25"/>
+    <text transform="matrix(1 0 0 1 300 480)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="12" fill="#7a96a8"><tspan x="0" y="0">04</tspan></text>
+    <path id="L_check_04" data-name="L check 04" d="M330 480 L330 471 M330 475 L342 463" fill="none" stroke="#4ec488" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="L_bar_04" data-name="L bar 04" d="M358 465 L456 465 C459.314 465 462 467.686 462 471 L462 471 C462 474.314 459.314 477 456 477 L358 477 C354.686 477 352 474.314 352 471 L352 471 C352 467.686 354.686 465 358 465 Z" fill="#4ec488" opacity="0.45"/>
+    <path id="L_bar2_04" data-name="L bar2 04" d="M357 482 L417 482 C419.761 482 422 484.239 422 487 L422 487 C422 489.761 419.761 492 417 492 L357 492 C354.239 492 352 489.761 352 487 L352 487 C352 484.239 354.239 482 357 482 Z" fill="#4ec488" opacity="0.25"/>
+    <text transform="matrix(1 0 0 1 300 560)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="12" fill="#3a8a64"><tspan x="0" y="0">$ npm test — all green</tspan></text>
+    <text transform="matrix(1 0 0 1 300 588)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="12" fill="#7a96a8"><tspan x="0" y="0">$ deploy --prod --yolo</tspan></text>
+    <text transform="matrix(1 0 0 1 516 330)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="12" fill="#e05a4a"><tspan x="0" y="0">03</tspan></text>
+    <path id="R_cross_03" data-name="R cross 03" d="M546 315 L560 329 M546 329 L560 315" fill="none" stroke="#e05a4a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="R_bar_03" data-name="R bar 03" d="M578 315 L676 315 C679.314 315 682 317.686 682 321 L682 321 C682 324.314 679.314 327 676 327 L578 327 C574.686 327 572 324.314 572 321 L572 321 C572 317.686 574.686 315 578 315 Z" fill="#e05a4a" opacity="0.4"/>
+    <path id="R_bar2_03" data-name="R bar2 03" d="M577 332 L637 332 C639.761 332 642 334.239 642 337 L642 337 C642 339.761 639.761 342 637 342 L577 342 C574.239 342 572 339.761 572 337 L572 337 C572 334.239 574.239 332 577 332 Z" fill="#e05a4a" opacity="0.22"/>
+    <text transform="matrix(1 0 0 1 516 380)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="12" fill="#e05a4a"><tspan x="0" y="0">01</tspan></text>
+    <path id="R_cross_01" data-name="R cross 01" d="M546 365 L560 379 M546 379 L560 365" fill="none" stroke="#e05a4a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="R_bar_01" data-name="R bar 01" d="M578 365 L676 365 C679.314 365 682 367.686 682 371 L682 371 C682 374.314 679.314 377 676 377 L578 377 C574.686 377 572 374.314 572 371 L572 371 C572 367.686 574.686 365 578 365 Z" fill="#e05a4a" opacity="0.4"/>
+    <path id="R_bar2_01" data-name="R bar2 01" d="M577 382 L637 382 C639.761 382 642 384.239 642 387 L642 387 C642 389.761 639.761 392 637 392 L577 392 C574.239 392 572 389.761 572 387 L572 387 C572 384.239 574.239 382 577 382 Z" fill="#e05a4a" opacity="0.22"/>
+    <text transform="matrix(1 0 0 1 516 430)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="12" fill="#e05a4a"><tspan x="0" y="0">04</tspan></text>
+    <path id="R_cross_04" data-name="R cross 04" d="M546 415 L560 429 M546 429 L560 415" fill="none" stroke="#e05a4a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="R_bar_04" data-name="R bar 04" d="M578 415 L676 415 C679.314 415 682 417.686 682 421 L682 421 C682 424.314 679.314 427 676 427 L578 427 C574.686 427 572 424.314 572 421 L572 421 C572 417.686 574.686 415 578 415 Z" fill="#e05a4a" opacity="0.4"/>
+    <path id="R_bar2_04" data-name="R bar2 04" d="M577 432 L637 432 C639.761 432 642 434.239 642 437 L642 437 C642 439.761 639.761 442 637 442 L577 442 C574.239 442 572 439.761 572 437 L572 437 C572 434.239 574.239 432 577 432 Z" fill="#e05a4a" opacity="0.22"/>
+    <text transform="matrix(1 0 0 1 516 480)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="12" fill="#e05a4a"><tspan x="0" y="0">02</tspan></text>
+    <path id="R_cross_02" data-name="R cross 02" d="M546 465 L560 479 M546 479 L560 465" fill="none" stroke="#e05a4a" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="R_bar_02" data-name="R bar 02" d="M578 465 L676 465 C679.314 465 682 467.686 682 471 L682 471 C682 474.314 679.314 477 676 477 L578 477 C574.686 477 572 474.314 572 471 L572 471 C572 467.686 574.686 465 578 465 Z" fill="#e05a4a" opacity="0.4"/>
+    <path id="R_bar2_02" data-name="R bar2 02" d="M577 482 L637 482 C639.761 482 642 484.239 642 487 L642 487 C642 489.761 639.761 492 637 492 L577 492 C574.239 492 572 489.761 572 487 L572 487 C572 484.239 574.239 482 577 482 Z" fill="#e05a4a" opacity="0.22"/>
+    <path id="Glitch_bar" data-name="Glitch bar" d="M606 512 L694 512 C697.314 512 700 514.686 700 518 L700 518 C700 521.314 697.314 524 694 524 L606 524 C602.686 524 600 521.314 600 518 L600 518 C600 514.686 602.686 512 606 512 Z" fill="#e05a4a" opacity="0.55"/>
+    <path id="Glitch_bar_b" data-name="Glitch bar b" d="M565 528 L619 528 C621.761 528 624 530.239 624 533 L624 533 C624 535.761 621.761 538 619 538 L565 538 C562.239 538 560 535.761 560 533 L560 533 C560 530.239 562.239 528 565 528 Z" fill="#e05a4a" opacity="0.3"/>
+    <text transform="matrix(1 0 0 1 516 560)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="12" fill="#a04034"><tspan x="0" y="0">UnhandledPromiseRejection</tspan></text>
+    <text transform="matrix(1 0 0 1 516 588)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="12" fill="#7a96a8"><tspan x="0" y="0">(node:1) it worked locally</tspan></text>
+    <path id="The_crack" data-name="The crack" d="M500 286 L488 330 L512 368 L492 414 L514 458 L494 508 L510 556 L498 600 L506 634" fill="none" stroke="#0a0f13" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Crack_highlight" data-name="Crack highlight" d="M500 286 L488 330 L512 368 L492 414 L514 458 L494 508 L510 556 L498 600 L506 634" fill="none" stroke="#6e96a8" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Patch_bandage" data-name="Patch bandage" d="M464.6 393 L555.9 422.7 L545.4 455 L454.1 425.3 Z" fill="url(#linear-gradient-4)" stroke="#16202a" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Patch_pad" data-name="Patch pad" d="M491.9 409.2 L524.3 419.7 L518.1 438.8 L485.7 428.3 Z" fill="#c4ae76" stroke="#16202a" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Patch_peel" data-name="Patch peel" d="M540 404 L562 396 L548 418 Z" fill="#8a7440" stroke="#16202a" stroke-width="2" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 505 430)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="11" fill="#5e4e22" letter-spacing="0.33" text-anchor="middle"><tspan x="0" y="0">PATCH</tspan></text>
+    <path id="Toast_1" data-name="Toast 1" d="M750 300 L826 300 C830.418 300 834 303.582 834 308 L834 326 C834 330.418 830.418 334 826 334 L750 334 C745.582 334 742 330.418 742 326 L742 308 C742 303.582 745.582 300 750 300 Z" fill="#2a1410" stroke="#e05a4a" stroke-width="3" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 788 322)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="12" fill="#e05a4a" text-anchor="middle"><tspan x="0" y="0">ERR 500</tspan></text>
+    <path id="Toast_pop_1" data-name="Toast pop 1" d="M736 310 L724 304 M738 326 L726 330" fill="none" stroke="#d8e8e0" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Toast_2" data-name="Toast 2" d="M764 380 L840 380 C844.418 380 848 383.582 848 388 L848 406 C848 410.418 844.418 414 840 414 L764 414 C759.582 414 756 410.418 756 406 L756 388 C756 383.582 759.582 380 764 380 Z" fill="#2a1410" stroke="#e05a4a" stroke-width="3" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 802 402)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="12" fill="#e05a4a" text-anchor="middle"><tspan x="0" y="0">TypeError</tspan></text>
+    <path id="Toast_pop_2" data-name="Toast pop 2" d="M750 390 L738 384 M752 406 L740 410" fill="none" stroke="#d8e8e0" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Toast_3" data-name="Toast 3" d="M744 462 L820 462 C824.418 462 828 465.582 828 470 L828 488 C828 492.418 824.418 496 820 496 L744 496 C739.582 496 736 492.418 736 488 L736 470 C736 465.582 739.582 462 744 462 Z" fill="#2a1410" stroke="#e05a4a" stroke-width="3" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 782 484)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="12" fill="#e05a4a" text-anchor="middle"><tspan x="0" y="0">ERR ✕</tspan></text>
+    <path id="Toast_pop_3" data-name="Toast pop 3" d="M730 472 L718 466 M732 488 L720 492" fill="none" stroke="#d8e8e0" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <text transform="matrix(1 0 0 1 500 722)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="22" fill="#9fc4d8" letter-spacing="2.2" text-anchor="middle"><tspan x="0" y="0">DEPLOYS FIRST, INTERPRETS LATER:</tspan></text>
+    <text transform="matrix(1 0 0 1 500 756)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="22" fill="#9fc4d8" letter-spacing="2.2" text-anchor="middle"><tspan x="0" y="0">WORKS ON MY MACHINE.</tspan></text>
+    <text transform="matrix(1 0 0 1 500 905)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="56" fill="#d8e8e0" text-anchor="middle"><tspan x="0" y="0">JAY SKRIPT</tspan></text>
+    <text transform="matrix(1 0 0 1 500 950)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="18" fill="#7a96a8" letter-spacing="2.88" text-anchor="middle"><tspan x="0" y="0">CLIENT-SIDE CONFIDENCE BRIEFLY</tspan></text>
+  </g>
+</svg>
