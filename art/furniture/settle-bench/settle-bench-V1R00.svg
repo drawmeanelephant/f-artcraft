@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#160f08"/>
+      <stop offset="1" stop-color="#060403"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4a3620"/>
+      <stop offset="0.6" stop-color="#302112"/>
+      <stop offset="1" stop-color="#170e06"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="780" cy="640" r="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f09a48" stop-opacity="0.34"/>
+      <stop offset="0.5" stop-color="#b8581e" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#7a3010" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="360" cy="340" r="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8b878" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#e8b878" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="712" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#503c26" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#140c05" stop-opacity="0.74"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-4" cx="505" cy="786" r="295" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050301" stop-opacity="0.7"/>
+      <stop offset="0.6" stop-color="#050301" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#050301" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-3" x1="0" y1="180" x2="0" y2="780" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6e4820"/>
+      <stop offset="1" stop-color="#2a1606"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0" y1="180" x2="0" y2="780" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a9763e"/>
+      <stop offset="0.5" stop-color="#7a5024"/>
+      <stop offset="1" stop-color="#442608"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0" y1="170" x2="0" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b9854a"/>
+      <stop offset="1" stop-color="#5a3614"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0" y1="300" x2="0" y2="640" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a5c2c"/>
+      <stop offset="0.55" stop-color="#6a441e"/>
+      <stop offset="1" stop-color="#3c2008"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="0" y1="180" x2="0" y2="780" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5e3c1c"/>
+      <stop offset="1" stop-color="#241204"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="560" y1="260" x2="860" y2="640" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a5c2c"/>
+      <stop offset="0.55" stop-color="#6a441e"/>
+      <stop offset="1" stop-color="#381e08"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="800" y1="300" x2="1060" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c08c50"/>
+      <stop offset="1" stop-color="#6e441e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x1="0" y1="300" x2="0" y2="780" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9a6a34"/>
+      <stop offset="0.55" stop-color="#6e441e"/>
+      <stop offset="1" stop-color="#301806"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-11" x1="0" y1="560" x2="0" y2="660" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b98a52"/>
+      <stop offset="0.5" stop-color="#8a5c2c"/>
+      <stop offset="1" stop-color="#4e2e10"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-12" x1="0" y1="620" x2="0" y2="700" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a5c2c"/>
+      <stop offset="1" stop-color="#38200a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-13" x1="0" y1="720" x2="0" y2="790" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4e3016"/>
+      <stop offset="1" stop-color="#201004"/>
+    </linearGradient>
+  </defs>
+  <title>Settle Bench — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo" data-name="Plate halo" d="M62 460 C62 218.099 258.099 22 500 22 C741.901 22 938 218.099 938 460 C938 701.901 741.901 898 500 898 C258.099 898 62 701.901 62 460 Z" fill="#64482c" opacity="0.1"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#0d0703" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#e2b878" stroke-width="3" stroke-miterlimit="10" opacity="0.26"/>
+    <path id="Hearth_glow" data-name="Hearth glow" d="M520 640 C520 524.02 636.406 430 780 430 C923.594 430 1040 524.02 1040 640 C1040 755.98 923.594 850 780 850 C636.406 850 520 755.98 520 640 Z" fill="url(#radial-gradient-2)"/>
+    <path id="Lamp_fill" data-name="Lamp fill" d="M120 340 C120 212.975 227.452 110 360 110 C492.548 110 600 212.975 600 340 C600 467.025 492.548 570 360 570 C227.452 570 120 467.025 120 340 Z" fill="url(#radial-gradient-3)"/>
+    <path id="Floor" d="M164 712 L836 712 C756.681 817.758 632.198 880 500 880 C367.802 880 243.319 817.758 164 712 Z" fill="url(#linear-gradient-2)"/>
+    <path id="Floorboard_seam_1" data-name="Floorboard seam 1" d="M204.3 748 L795.7 748" fill="none" stroke="#221304" stroke-width="2" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Floorboard_seam_2" data-name="Floorboard seam 2" d="M252.8 792 L747.2 792" fill="none" stroke="#221304" stroke-width="2" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Floorboard_seam_3" data-name="Floorboard seam 3" d="M335.4 842 L664.6 842" fill="none" stroke="#221304" stroke-width="2" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Floor_edge_light" data-name="Floor edge light" d="M170 712 L830 712" fill="none" stroke="#e0be8a" stroke-width="2" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="Bench_shadow" data-name="Bench shadow" d="M210 786 C210 760.595 342.076 740 505 740 C667.924 740 800 760.595 800 786 C800 811.405 667.924 832 505 832 C342.076 832 210 811.405 210 786 Z" fill="url(#radial-gradient-4)"/>
+    <path id="Wing_far_inner" data-name="Wing far inner" d="M251.3 552 L324.9 512 L326.4 264.5 L252.8 340.6 Z" fill="url(#linear-gradient-3)" stroke="#221105" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Back_wall" data-name="Back wall" d="M313.3 512.4 L755.1 559.9 L763.6 218.4 L321.8 170.9 Z" fill="url(#linear-gradient-4)" stroke="#221105" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Back_top_rail" data-name="Back top rail" d="M314.9 221.5 L768 270.3 L771.8 210.5 L318.7 161.7 Z" fill="url(#linear-gradient-5)" stroke="#221105" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Top_rail_face" data-name="Top rail face" d="M318.7 161.7 L771.8 210.5 L777.3 212.3 L324.2 163.5 Z" fill="#e8bc78" stroke="#221105" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Panel_1" data-name="Panel 1" d="M338.5 460.8 L455.2 473.3 L460 278.2 L343.4 265.6 Z" fill="url(#linear-gradient-6)" stroke="#221105" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Panel_1_bevel_top" data-name="Panel 1 bevel top" d="M348.1 447.7 L444.4 458.1" fill="none" stroke="#e8bc78" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Panel_1_bevel_low" data-name="Panel 1 bevel low" d="M353 281.5 L449.2 291.9" fill="none" stroke="#1e0e04" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Panel_2" data-name="Panel 2" d="M455.2 473.3 L613.8 490.4 L618.6 295.3 L460 278.2 Z" fill="url(#linear-gradient-6)" stroke="#221105" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Panel_2_bevel_top" data-name="Panel 2 bevel top" d="M464.8 460.3 L603 475.2" fill="none" stroke="#e8bc78" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Panel_2_bevel_low" data-name="Panel 2 bevel low" d="M469.6 294.1 L607.8 308.9" fill="none" stroke="#1e0e04" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Panel_3" data-name="Panel 3" d="M613.8 490.4 L730.5 503 L735.3 307.8 L618.6 295.3 Z" fill="url(#linear-gradient-6)" stroke="#221105" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Panel_3_bevel_top" data-name="Panel 3 bevel top" d="M623.4 477.4 L719.7 487.8" fill="none" stroke="#e8bc78" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Panel_3_bevel_low" data-name="Panel 3 bevel low" d="M628.2 311.1 L724.5 321.5" fill="none" stroke="#1e0e04" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Stile_-8.5" data-name="Stile -8.5" d="M437.9 507.8 L444.6 238.2" fill="none" stroke="#2e1808" stroke-width="3" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Stile_8.5" data-name="Stile 8.5" d="M630.5 528.5 L637.2 259" fill="none" stroke="#2e1808" stroke-width="3" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Wall_rim_light" data-name="Wall rim light" d="M752.7 510.9 C753.1 494.7 754.3 445.9 755.1 413.4 C755.9 380.8 756.8 347.3 757.5 315.8 C758.3 284.3 759.4 239.6 759.8 224.3" fill="none" stroke="#f0a04e" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Wing_near_outer" data-name="Wing near outer" d="M685.8 787.9 L772.5 740.8 L773.5 286.6 L686.8 387.9 Z" fill="url(#linear-gradient-7)" stroke="#221105" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Wing_near_inner" data-name="Wing near inner" d="M669.4 615.1 L748.1 572.3 L750.1 296.9 L670.4 393.1 Z" fill="url(#linear-gradient-8)" stroke="#221105" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Wing_near_cap" data-name="Wing near cap" d="M773.5 286.6 L686.8 387.9 L670.4 393.1 L750.1 296.9 Z" fill="url(#linear-gradient-9)" stroke="#221105" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Wing_near_front" data-name="Wing near front" d="M685.8 787.9 L686.8 387.9 L670.4 393.1 L666.4 785.1 Z" fill="url(#linear-gradient-10)" stroke="#221105" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Wing_edge_light" data-name="Wing edge light" d="M684.7 748.9 C684.7 728.8 684.7 668.7 684.7 628.6 C684.7 588.5 684.7 546.3 684.7 508.2 C684.7 470.1 684.7 418 684.7 400" fill="none" stroke="#f0a04e" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Seat_top" data-name="Seat top" d="M247.1 525.2 L669.7 570.7 L748.3 527.9 L325.8 482.4 Z" fill="url(#linear-gradient-11)" stroke="#221105" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Seat_front" data-name="Seat front" d="M247.1 525.2 L669.7 570.7 L668.9 602.4 L246.4 556.9 Z" fill="url(#linear-gradient-12)" stroke="#221105" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Seat_edge_light" data-name="Seat edge light" d="M263.7 525.3 C282.6 527.3 339.3 533.4 377 537.5 C414.8 541.5 452.5 545.6 490.3 549.7 C528.1 553.7 574.9 558.8 603.6 561.9 C632.3 565 652.7 567.2 662.5 568.2" fill="none" stroke="#e8bc78" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Seat_seam_-6.0" data-name="Seat seam -6.0" d="M276.4 514.9 L684.2 558.9" fill="none" stroke="#3c220c" stroke-width="1.8" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Seat_seam_-1.5" data-name="Seat seam -1.5" d="M299.1 502.6 L706.9 546.5" fill="none" stroke="#3c220c" stroke-width="1.8" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Seat_seam_3.0" data-name="Seat seam 3.0" d="M321.8 490.3 L729.6 534.2" fill="none" stroke="#3c220c" stroke-width="1.8" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Base_front" data-name="Base front" d="M252 553 L675.7 598.7 L675.7 771.9 L252 726.3 Z" fill="url(#linear-gradient-4)" stroke="#221105" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Base_panel_1" data-name="Base panel 1" d="M274.8 693.3 L442.5 711.4 L442.5 607.9 L274.8 589.8 Z" fill="url(#linear-gradient-6)" stroke="#221105" stroke-width="2.8" stroke-miterlimit="10"/>
+    <path id="Base_panel_2" data-name="Base panel 2" d="M442.5 711.4 L644.1 733.1 L644.1 629.6 L442.5 607.9 Z" fill="url(#linear-gradient-6)" stroke="#221105" stroke-width="2.8" stroke-miterlimit="10"/>
+    <path id="Base_side" data-name="Base side" d="M675.7 598.7 L761.9 560.7 L761.9 733.9 L675.7 771.9 Z" fill="url(#linear-gradient-7)" stroke="#221105" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Plinth" d="M247 699.6 L677.5 746 L676 785.3 L245.5 738.9 Z" fill="url(#linear-gradient-13)" stroke="#221105" stroke-width="3" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 940)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="56" fill="#f2dcb4" letter-spacing="3.36" text-anchor="middle"><tspan x="0" y="0">SETTLE BENCH</tspan></text>
+    <text transform="matrix(1 0 0 1 500 972)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="22" fill="#c29a6c" letter-spacing="5.72" text-anchor="middle"><tspan x="0" y="0">OAK</tspan></text>
+  </g>
+</svg>
