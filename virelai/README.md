@@ -73,7 +73,8 @@ lives under `art/<series>/` so the site scanner picks it up, so there is no
   `add_text` takes no `opacity`/`style` kwargs; create the text object, then
   `object.setProps` / `text.setStyle` / `object.rotate`.
 - **Deliverables per revision** under `art/virelai/<slug>/`: `.vectorcraft` +
-  `.svg` + `@2x.png` committed; the `.pdf` proof stays local in `work/out/`.
+  `.svg` committed on main; the `@2x.png` preview ships on the **media**
+  branch to keep clones small. The `.pdf` proof stays local in `work/out/`.
   `virelai/design/` sheets ship the same set (natives are whitelisted in
   `.gitignore`).
 - **Every task lands one `prompts/inbox/` note** (see `prompts/README.md`) —

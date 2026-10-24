@@ -90,9 +90,11 @@ drawing helper.
 ## Deliverables
 
 Per `prompts/core/00-art-loop.md`: every revision ships `.vectorcraft` + `.svg` + `.pdf` +
-`@2x.png`. Committed to git: the `.vectorcraft` native (JSON — SVG is not
-an editable format), the `.svg`, the `@2x.png` and the driving script.
-PDF proofs and scratch renders in `work/out/` stay local.
+`@2x.png`. Committed to git on the **main** branch: the `.vectorcraft` native (JSON — SVG is not
+an editable format), the `.svg`, and the driving script. The `@2x.png` proof/preview is committed
+to the separate **media** branch (`git checkout media`) to keep main-branch clones small; the site
+deploy pulls PNGs from media during the build. PDF proofs and scratch renders in `work/out/` stay
+local.
 
 ## The site
 

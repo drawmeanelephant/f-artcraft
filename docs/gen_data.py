@@ -36,13 +36,17 @@ def site_path(rel):
     return "media/" + rel.as_posix()
 
 
-def copy_media(path):
-    dest = MEDIA / path.relative_to(ROOT)
+def copy_media(path, png_root=None):
+    if png_root is not None and not str(path).startswith(str(ROOT)):
+        rel = path.relative_to(png_root)
+    else:
+        rel = path.relative_to(ROOT)
+    dest = MEDIA / rel
     dest.parent.mkdir(parents=True, exist_ok=True)
     shutil.copy2(path, dest)
 
 
-def collect_versioned(base):
+def collect_versioned(base, png_root=None):
     """Group <slug>-V*R* exports under `base` per slug. `base` is either
     art/ itself (loose files) or art/<category>/ (one dir per slug)."""
     groups = {}
@@ -57,36 +61,43 @@ def collect_versioned(base):
             continue
         slug = m.group("slug")
         png = svg.with_name(svg.stem + "@2x.png")
+        if not png.exists() and png_root is not None:
+            rel = svg.relative_to(ROOT)
+            candidate = png_root / rel.with_name(rel.stem + "@2x.png")
+            if candidate.exists():
+                png = candidate
+        if not png.exists():
+            png = None
         groups.setdefault(slug, []).append(
             {"v": int(m.group("v")), "r": int(m.group("r")),
-             "svg": svg, "png": png if png.exists() else None})
+             "svg": svg, "png": png})
     for revs in groups.values():
         revs.sort(key=lambda x: (x["v"], x["r"]))
     return groups
 
 
-def card(slug, revs):
+def card(slug, revs, png_root=None):
     """One gallery card from the newest revision."""
     last = revs[-1]
     img = last["png"] or last["svg"]
-    copy_media(img)
-    copy_media(last["svg"])
+    copy_media(img, png_root)
+    copy_media(last["svg"], png_root)
     tag = f"V{last['v']}R{last['r']:02d}"
     return {"name": humanize(slug), "img": site_path(img.relative_to(ROOT)),
             "svg": site_path(last["svg"].relative_to(ROOT)),
             "rev": tag, "n": len(revs)}
 
 
-def singleton(svg):
-    copy_media(svg)
+def singleton(svg, png_root=None):
+    copy_media(svg, png_root)
     return {"name": humanize(svg.stem), "img": site_path(svg.relative_to(ROOT)),
             "svg": site_path(svg.relative_to(ROOT)), "rev": "", "n": 1}
 
 
-def section(title, base, slugs=None):
-    groups = collect_versioned(base)
+def section(title, base, slugs=None, png_root=None):
+    groups = collect_versioned(base, png_root)
     order = slugs if slugs is not None else sorted(groups)
-    return {"title": title, "pieces": [card(s, groups[s]) for s in order if s in groups]}
+    return {"title": title, "pieces": [card(s, groups[s], png_root) for s in order if s in groups]}
 
 
 # art/<category>/ dirs are discovered, not hardcoded — a new category can
@@ -99,12 +110,12 @@ MACHINE_CATS = {"vehicles", "furniture"}
 NON_CATALOG = {"pieces", "muse", "guest"}
 
 
-def category_sections(art):
+def category_sections(art, png_root=None):
     plates, machines = [], []
     for d in sorted(p for p in art.iterdir()
                     if p.is_dir() and p.name not in NON_CATALOG):
         title = d.name.replace("-", " ").title()
-        s = section(title, d)
+        s = section(title, d, png_root=png_root)
         if not s["pieces"]:
             continue
         (machines if d.name in MACHINE_CATS else plates).append(s)
@@ -114,30 +125,37 @@ def category_sections(art):
 
 
 def main():
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--png-root", type=Path, default=None,
+                        help="checkout of the media branch, for resolving @2x.png")
+    args = parser.parse_args()
+    png_root = args.png_root
+
     if MEDIA.exists():
         shutil.rmtree(MEDIA)
     MEDIA.mkdir(parents=True)
 
     art = ROOT / "art"
-    plates, machines = category_sections(art)
+    plates, machines = category_sections(art, png_root)
 
-    faf = collect_versioned(art / "pieces")
-    fk_cards = [card(s, faf[s]) for s in ("fart-knocker", "fart-knocker-crest") if s in faf]
+    faf = collect_versioned(art / "pieces", png_root)
+    fk_cards = [card(s, faf[s], png_root) for s in ("fart-knocker", "fart-knocker-crest") if s in faf]
     pieces = [
         {"title": "Fart Knocker — self-portrait & crest", "pieces": fk_cards},
         {"title": "The Filed & Forgotten set", "pieces":
-            [card(s, faf[s]) for s in ("bunny-avatar", "bunny-banner", "golly") if s in faf]},
+            [card(s, faf[s], png_root) for s in ("bunny-avatar", "bunny-banner", "golly") if s in faf]},
         {"title": "Ember dusk", "pieces":
-            [card(s, faf[s]) for s in sorted(faf) if s.startswith("ember-dusk")]},
+            [card(s, faf[s], png_root) for s in sorted(faf) if s.startswith("ember-dusk")]},
         {"title": "Empathegy brochure", "pieces":
-            [card(s, faf[s]) for s in sorted(faf) if s.startswith("empathegy")]},
+            [card(s, faf[s], png_root) for s in sorted(faf) if s.startswith("empathegy")]},
         {"title": "Muse — Jolly", "pieces":
-            [card(s, r) for s, r in sorted(collect_versioned(art / "muse").items())]},
+            [card(s, r, png_root) for s, r in sorted(collect_versioned(art / "muse", png_root).items())]},
     ]
 
     guest_secs = [{"title": "Freebuff — DeepSeek, six styles + dusk poster",
-                   "pieces": [card(s, r) for s, r in
-                              sorted(collect_versioned(art / "guest").items())]}]
+                   "pieces": [card(s, r, png_root) for s, r in
+                              sorted(collect_versioned(art / "guest", png_root).items())]}]
 
     total = sum(len(s["pieces"]) for s in plates + machines + pieces)
     counts = (" · ".join(f"{len(s['pieces'])} {s['title'].lower()}"
@@ -153,9 +171,9 @@ def main():
         ("Monarch — field plate", "monarch", art / "insects"),
         ("Steam locomotive", "steam-locomotive", art / "vehicles"),
     ):
-        groups = collect_versioned(base)
+        groups = collect_versioned(base, png_root)
         if slug in groups:
-            c = card(slug, groups[slug])
+            c = card(slug, groups[slug], png_root)
             c["name"] = label
             featured.append(c)
 

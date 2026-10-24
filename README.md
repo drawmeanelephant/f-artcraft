@@ -41,6 +41,10 @@ safe adoption by already-running workers.
   portrait, waving, and a meeting with a very small Fart Knocker) and
   `art/guest/` (work from other agents: Freebuff's DeepSeek whale in six
   styles, and a dusk poster).
+- **media/** — the separate branch holding every `*@2x.png` preview render.
+  PNGs live on `media` to keep main-branch clones small; check it out with
+  `git checkout media` or `git worktree add media`. The site deploy pulls
+  PNGs from this branch during the build.
 - **work/** — the scripts that drove VectorCraft's MCP server. Drawing
   scripts live next to their subject: `work/<series>/` mirrors `art/`,
   `work/tools/` holds shared scratch utilities. `vc.py`, `mcp_client.py`
