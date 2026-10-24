@@ -1,4 +1,4 @@
-# Star-nosed mole V1R00 — the rosette carries the species, size it up
+## Star-nosed mole V1R00 — the rosette carries the species, size it up
 
 - Kind: lesson
 - Source: issue #1073, `work/animals/draw_star_nosed_mole.py`,

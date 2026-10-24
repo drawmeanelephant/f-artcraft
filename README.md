@@ -30,6 +30,27 @@ through review, or stop and release it with preserved-work handoff notes.
 See [the claim workflow](.github/CLAIMS.md) for the helper commands and
 safe adoption by already-running workers.
 
+## Illustration styles
+
+The repo carries several drawing grammars. Each has its own canvas, paint
+rules, type, and reference pieces — see [STYLES.md](STYLES.md) for the full
+survey. In short:
+
+| Style | Where | Defining traits |
+|---|---|---|
+| **House field plate** | `art/animals/`, `art/insects/`, `art/furniture/`, `art/vehicles/` | 1000×1000, gradient disc (500,460 r420), gradients + translucent shading, never flat fills, warm dark ink, Virelai Sans |
+| **Spot-flat (GLM-Flash)** | `test/glm-flash/`, `art/animals/fennec-fox/V2R00` | Flat silhouettes, spot-circle hub, minimal face (paper ring + vermilion dot), no gradients/outlines/translucency (deliberate break of house rule #1) |
+| **Guest work** | `art/guest/` | Freebuff's DeepSeek whale in six styles (flat, sticker, neon, doodle, sunset, pixel) + dusk poster — appreciation, not critique |
+| **Orient series** | `art/zodiac/`, `art/holidays/`, `art/indian-symbols/` | Plate grammar + vermilion seal chop, element palettes, cultural guardrails (no flags/maps/political symbols) |
+| **Companion plates** | `art/mascots/`, `art/lorelog/`, `art/poetry/`, `art/site/` | Same disc/caption stack, second line is role/epithet not spec |
+| **Named pieces** | `art/pieces/` | One-offs — Fart Knocker portrait (style anchor), crest, bunny set, golly, ember-dusk, empathegy |
+| **VirelaiOS assets** | `art/virelai/`, `virelai/` | Chrome register (flat, 1px borders) vs asset register (cel shading, thick outlines); icons, cursors, mascots, wallpapers, spots, filetypes, brand |
+
+Cross-cutting house rules (apply unless a style opts out by design): gradients
+and translucent shading, never flat fills; check proof edges before done;
+lettering in Virelai Sans; ornaments from the Virelai Mascots glyphs; never
+overwrite a piece — revisions are `<slug>-V<V>R<RR>`.
+
 ## What's here
 
 - **art/** — the canonical home of every piece, versioned `<slug>-V<V>R<RR>`
@@ -41,6 +62,13 @@ safe adoption by already-running workers.
   portrait, waving, and a meeting with a very small Fart Knocker) and
   `art/guest/` (work from other agents: Freebuff's DeepSeek whale in six
   styles, and a dusk poster).
+- **test/** — throwaway experiments that don't touch the house grammar or
+  the gallery scan. `test/glm-flash/` is the spot-flat style exploration
+  (mid-century spot circle, flat silhouettes, no gradients).
+- **virelai/** — VirelaiOS interface art and design docs (icons, cursors,
+  mascot poses, wallpapers, spots, filetypes, brand), with its own
+  conventions in `virelai/README.md` and taste rules in
+  `virelai/notes/style-bible.md`.
 - **work/** — the scripts that drove VectorCraft's MCP server. Drawing
   scripts live next to their subject: `work/<series>/` mirrors `art/`,
   `work/tools/` holds shared scratch utilities. `vc.py`, `mcp_client.py`
