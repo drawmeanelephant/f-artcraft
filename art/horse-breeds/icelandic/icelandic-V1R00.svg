@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#131712"/>
+      <stop offset="1" stop-color="#070907"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9aa87e"/>
+      <stop offset="0.55" stop-color="#5e6c48"/>
+      <stop offset="1" stop-color="#2a301e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="730" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a352c"/>
+      <stop offset="0.55" stop-color="#262219"/>
+      <stop offset="1" stop-color="#121008"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="360" y1="400" x2="470" y2="560" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cfa96c"/>
+      <stop offset="1" stop-color="#7c5a33"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="330" y1="380" x2="720" y2="780" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6e452c"/>
+      <stop offset="1" stop-color="#2a1a10"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="330" y1="380" x2="720" y2="780" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a5643a"/>
+      <stop offset="0.5" stop-color="#71422a"/>
+      <stop offset="1" stop-color="#3c2415"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="332.343" cy="472.022" r="13.657" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4a2e18"/>
+      <stop offset="0.7" stop-color="#2a1a0c"/>
+      <stop offset="1" stop-color="#120a05"/>
+    </radialGradient>
+  </defs>
+  <title>Icelandic — Milestone Card</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#2c3220" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#d8e0bc" stroke-width="3" stroke-miterlimit="10" opacity="0.38"/>
+    <path id="Volcanic_ridge" data-name="Volcanic ridge" d="M160 310 L260 268 L320 290 L420 252 L540 286 L640 262 L740 296 L840 272" fill="none" stroke="#2e3524" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity="0.38"/>
+    <path id="Steam_wisp" data-name="Steam wisp" d="M668 262 C664 238 676 222 670 198 C666 182 672 168 668 152" fill="none" stroke="#d8e0c4" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.14"/>
+    <path id="Light_pool" data-name="Light pool" d="M240 250 C240 189.249 331.782 140 445 140 C558.218 140 650 189.249 650 250 C650 310.751 558.218 360 445 360 C331.782 360 240 310.751 240 250 Z" fill="#e6ecd2" opacity="0.13"/>
+    <path id="Haze_1" data-name="Haze 1" d="M290 370 C290 360.059 310.147 352 335 352 C359.853 352 380 360.059 380 370 C380 379.941 359.853 388 335 388 C310.147 388 290 379.941 290 370 Z" fill="#dce4c4" opacity="0.1"/>
+    <path id="Haze_2" data-name="Haze 2" d="M540 235 C540 227.268 555.67 221 575 221 C594.33 221 610 227.268 610 235 C610 242.732 594.33 249 575 249 C555.67 249 540 242.732 540 235 Z" fill="#dce4c4" opacity="0.1"/>
+    <path id="Haze_3" data-name="Haze 3" d="M685 400 C685 391.163 702.909 384 725 384 C747.091 384 765 391.163 765 400 C765 408.837 747.091 416 725 416 C702.909 416 685 408.837 685 400 Z" fill="#dce4c4" opacity="0.1"/>
+    <path id="Haze_4" data-name="Haze 4" d="M230 490 C230 483.373 243.431 478 260 478 C276.569 478 290 483.373 290 490 C290 496.627 276.569 502 260 502 C243.431 502 230 496.627 230 490 Z" fill="#dce4c4" opacity="0.1"/>
+    <path id="Haze_5" data-name="Haze 5" d="M432.5 195 C432.5 188.925 444.812 184 460 184 C475.188 184 487.5 188.925 487.5 195 C487.5 201.075 475.188 206 460 206 C444.812 206 432.5 201.075 432.5 195 Z" fill="#dce4c4" opacity="0.1"/>
+    <path id="Floor" d="M230.3 782 C300 772 400 792 500 786 C600 780 700 782 769.7 782 C613.657 912.712 386.343 912.712 230.3 782 Z" fill="url(#linear-gradient-2)"/>
+    <path id="Floor_crest" data-name="Floor crest" d="M238 782 C300 772 400 792 500 786 C600 780 700 782 762 782" fill="none" stroke="#8e9670" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.38"/>
+    <path id="Moss_1" data-name="Moss 1" d="M320 810 C320 805.14 328.954 801.2 340 801.2 C351.046 801.2 360 805.14 360 810 C360 814.86 351.046 818.8 340 818.8 C328.954 818.8 320 814.86 320 810 Z" fill="#5e7040" opacity="0.55"/>
+    <path id="Moss_2" data-name="Moss 2" d="M429 836 C429 829.682 440.641 824.56 455 824.56 C469.359 824.56 481 829.682 481 836 C481 842.318 469.359 847.44 455 847.44 C440.641 847.44 429 842.318 429 836 Z" fill="#5e7040" opacity="0.55"/>
+    <path id="Moss_3" data-name="Moss 3" d="M552 842 C552 836.411 562.297 831.88 575 831.88 C587.703 831.88 598 836.411 598 842 C598 847.589 587.703 852.12 575 852.12 C562.297 852.12 552 847.589 552 842 Z" fill="#5e7040" opacity="0.55"/>
+    <path id="Moss_4" data-name="Moss 4" d="M639 818 C639 812.897 648.402 808.76 660 808.76 C671.598 808.76 681 812.897 681 818 C681 823.103 671.598 827.24 660 827.24 C648.402 827.24 639 823.103 639 818 Z" fill="#5e7040" opacity="0.55"/>
+    <path id="Moss_5" data-name="Moss 5" d="M698 796 C698 791.869 705.611 788.52 715 788.52 C724.389 788.52 732 791.869 732 796 C732 800.131 724.389 803.48 715 803.48 C705.611 803.48 698 800.131 698 796 Z" fill="#5e7040" opacity="0.55"/>
+    <path id="Horse_shadow" data-name="Horse shadow" d="M320 774 C320 766.268 416.259 760 535 760 C653.741 760 750 766.268 750 774 C750 781.732 653.741 788 535 788 C416.259 788 320 781.732 320 774 Z" fill="#0b0a05" opacity="0.36"/>
+    <path id="Tail" d="M682 492 C689.3 494.7 702.7 513.3 710 528 C717.3 542.7 722.7 561.7 726 580 C729.3 598.3 731 620.3 730 638 C729 655.7 724 675.3 720 686 C716 696.7 710.3 700.7 706 702 C701.7 703.3 697 703 694 694 C691 685 690 664 688 648 C686 632 684.3 614.7 682 598 C679.7 581.3 676.7 562.3 674 548 C671.3 533.7 664.7 521.3 666 512 C667.3 502.7 674.7 489.3 682 492 Z" fill="url(#linear-gradient-3)" stroke="#201812" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Tail_wave_1" data-name="Tail wave 1" d="M696 540 C710 580 718 622 716 664" fill="none" stroke="#8e683c" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Tail_wave_2" data-name="Tail wave 2" d="M686 554 C698 592 704 632 702 670" fill="none" stroke="#8e683c" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Hind_leg_far" data-name="Hind leg far" d="M643.8 552.3 C639.3 559.3 634.7 635 629.8 647.7 C625 660.4 588.7 699.2 585.8 704.5 C582.8 709.8 589.3 715.6 594.2 711.5 C599.1 707.4 637.1 667.7 644.5 655.4 C652 643.1 684.3 572.3 684.2 563.7 C684.1 555.1 648.3 545.3 643.8 552.3 Z" fill="url(#linear-gradient-4)" stroke="#201812" stroke-width="4.5" stroke-miterlimit="10"/>
+    <path id="Foreleg_far" data-name="Foreleg far" d="M440 558.9 C437.4 567.3 444.3 645.3 444.5 661.6 C444.8 677.8 442.3 746.1 443 753.8 C443.7 761.5 451.6 761.8 453 754.2 C454.4 746.6 457.6 678.4 459.5 662.3 C461.4 646.2 477.6 569.7 476 561.1 C474.3 552.4 442.7 550.6 440 558.9 Z" fill="url(#linear-gradient-4)" stroke="#201812" stroke-width="4.5" stroke-miterlimit="10"/>
+    <path id="Horse" d="M300 520 C295.7 509.7 295 496.7 296 486 C297 475.3 301.7 464.7 306 456 C310.3 447.3 315.7 439.3 322 434 C328.3 428.7 334.7 426 344 424 C353.3 422 367 419 378 422 C389 425 399 434.7 410 442 C421 449.3 432.7 459 444 466 C455.3 473 459.3 480 478 484 C496.7 488 531 489.7 556 490 C581 490.3 609 489 628 486 C647 483 658.3 470.7 670 472 C681.7 473.3 691.7 482.7 698 494 C704.3 505.3 707.7 525.7 708 540 C708.3 554.3 705.3 568.7 700 580 C694.7 591.3 689.3 599.7 676 608 C662.7 616.3 646 625.7 620 630 C594 634.3 549 635 520 634 C491 633 463.3 633 446 624 C428.7 615 423.3 594 416 580 C408.7 566 409 548 402 540 C395 532 384 532.3 374 532 C364 531.7 350.7 535.3 342 538 C333.3 540.7 329 551 322 548 C315 545 304.3 530.3 300 520 Z" fill="url(#linear-gradient-5)" stroke="#201812" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Coat_tick_1" data-name="Coat tick 1" d="M455 628 L451 640" fill="none" stroke="#3c2415" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Coat_tick_2" data-name="Coat tick 2" d="M488 634 L490 646" fill="none" stroke="#3c2415" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Coat_tick_3" data-name="Coat tick 3" d="M522 636 L519 648" fill="none" stroke="#3c2415" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Coat_tick_4" data-name="Coat tick 4" d="M556 636 L559 648" fill="none" stroke="#3c2415" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Coat_tick_5" data-name="Coat tick 5" d="M590 632 L588 644" fill="none" stroke="#3c2415" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Coat_tick_6" data-name="Coat tick 6" d="M622 628 L624 640" fill="none" stroke="#3c2415" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Coat_tick_7" data-name="Coat tick 7" d="M420 600 L415 612" fill="none" stroke="#3c2415" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Coat_tick_8" data-name="Coat tick 8" d="M700 570 L703 582" fill="none" stroke="#3c2415" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Foreleg_near" data-name="Foreleg near" d="M431.5 536.5 C426.6 535.2 385.4 552 382.2 560.2 C379 568.4 390.9 629.1 392.6 635.1 C394.4 641.2 403.4 638.6 403.4 632.9 C403.3 627.1 388.7 571.1 391.8 566.3 C394.9 561.6 437.2 578 440.5 575.5 C443.8 573 436.4 537.8 431.5 536.5 Z" fill="url(#linear-gradient-5)" stroke="#201812" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Hind_leg_near" data-name="Hind leg near" d="M617.1 558.5 C615.5 567.8 641.8 648.6 643.1 665 C644.3 681.4 632 747.4 632.1 755.1 C632.1 762.8 641.5 764.4 643.9 756.9 C646.3 749.4 659.3 682.3 660.9 665.4 C662.5 648.4 666.5 562.4 662.9 553.5 C659.2 544.6 618.8 549.2 617.1 558.5 Z" fill="url(#linear-gradient-5)" stroke="#201812" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Hoof_1" data-name="Hoof 1" d="M386 630 C393 626 405 626 410 632 C408 642 389 643 386 637 Z" fill="#150e08" stroke="#201812" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Hoof_2" data-name="Hoof 2" d="M436 750 C443 746 455 746 460 752 C458 762 439 763 436 757 Z" fill="#150e08" stroke="#201812" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Hoof_3" data-name="Hoof 3" d="M626 752 C633 748 645 748 650 754 C648 764 629 765 626 759 Z" fill="#150e08" stroke="#201812" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Hoof_4" data-name="Hoof 4" d="M578 704 C585 700 597 700 602 706 C600 716 581 717 578 711 Z" fill="#150e08" stroke="#201812" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Topline_sheen" data-name="Topline sheen" d="M462 490 C540 498 614 496 664 482 C610 500 538 502 466 494 Z" fill="#e8c88e" opacity="0.34"/>
+    <path id="Barrel_shade" data-name="Barrel shade" d="M466 624 C536 634 606 630 652 618 C606 634 538 638 470 630 Z" fill="#241408" opacity="0.3"/>
+    <path id="Shoulder_shade" data-name="Shoulder shade" d="M422 560 C428.3 558.3 441 566 446 572 C451 578 453.3 588.7 452 596 C450.7 603.3 444 613.7 438 616 C432 618.3 421 615.7 416 610 C411 604.3 407 590.3 408 582 C409 573.7 415.7 561.7 422 560 Z" fill="#e8c88e" opacity="0.16"/>
+    <path id="Mane" d="M340 416 C347 411.3 366.3 411 378 414 C389.7 417 400.7 426 410 434 C419.3 442 429 454.3 434 462 C439 469.7 441.3 478.7 440 480 C438.7 481.3 429.3 468.3 426 470 C422.7 471.7 423.7 489.7 420 490 C416.3 490.3 408 471.3 404 472 C400 472.7 400 493.3 396 494 C392 494.7 384 476 380 476 C376 476 375.7 493.7 372 494 C368.3 494.3 361.7 478.7 358 478 C354.3 477.3 353 491.3 350 490 C347 488.7 342.3 478 340 470 C337.7 462 336 451 336 442 C336 433 333 420.7 340 416 Z" fill="url(#linear-gradient-3)" stroke="#201812" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Mane_wave_1" data-name="Mane wave 1" d="M354 426 C376 440 394 460 408 480" fill="none" stroke="#8e683c" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Mane_wave_2" data-name="Mane wave 2" d="M348 446 C366 462 380 478 390 492" fill="none" stroke="#8e683c" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Mane_wave_3" data-name="Mane wave 3" d="M366 420 C388 432 406 450 420 470" fill="none" stroke="#8e683c" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Mane_crest_light" data-name="Mane crest light" d="M344 418 C370 410 396 418 420 438" fill="none" stroke="#e8c88e" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Forelock" d="M338 424 C334.3 426 330 432.7 328 438 C326 443.3 325 451 326 456 C327 461 330.7 467.7 334 468 C337.3 468.3 343 462.3 346 458 C349 453.7 351.3 447.3 352 442 C352.7 436.7 352.3 429 350 426 C347.7 423 341.7 422 338 424 Z" fill="url(#linear-gradient-3)" opacity="0.92"/>
+    <path id="Ear_near" data-name="Ear near" d="M336 418 L330 384 L354 410 Z" fill="url(#linear-gradient-5)" stroke="#201812" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Ear_far" data-name="Ear far" d="M356 414 L354 386 L372 408 Z" fill="url(#linear-gradient-4)" stroke="#201812" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Ear_inner" data-name="Ear inner" d="M336 408 L332 392" fill="none" stroke="#0f0a08" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Eye" d="M320 472 C326 464 338 462 346 468 C344 478 332 482 322 478 C318 476 318 474 320 472 Z" fill="url(#radial-gradient-2)" stroke="#201812" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Pupil" d="M329 474 C329 471.239 331.015 469 333.5 469 C335.985 469 338 471.239 338 474 C338 476.761 335.985 479 333.5 479 C331.015 479 329 476.761 329 474 Z" fill="#0e0806"/>
+    <path id="Glint" d="M332 472.25 C332 471.007 333.007 470 334.25 470 C335.493 470 336.5 471.007 336.5 472.25 C336.5 473.493 335.493 474.5 334.25 474.5 C333.007 474.5 332 473.493 332 472.25 Z" fill="#f6eed6" opacity="0.9"/>
+    <path id="Brow" d="M318 464 C330 458 342 458 350 464" fill="none" stroke="#3a2414" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Muzzle_shade" data-name="Muzzle shade" d="M294 496 C291 501.3 292 513.3 294 520 C296 526.7 301 532.3 306 536 C311 539.7 318.3 542.3 324 542 C329.7 541.7 337.3 539 340 534 C342.7 529 341.7 518.7 340 512 C338.3 505.3 334.7 498 330 494 C325.3 490 318 487.7 312 488 C306 488.3 297 490.7 294 496 Z" fill="#5e3a22" opacity="0.45"/>
+    <path id="Nostril" d="M298 520 C298 526 303 531 309 530 C314 528 315 522 311 518 C307 514 300 515 298 520 Z" fill="#120a06" stroke="#201812" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Mouth" d="M306 536 C316 541 328 539 336 534" fill="none" stroke="#201812" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.75"/>
+    <path id="Cheek_line" data-name="Cheek line" d="M334 500 C346 506 358 504 366 496" fill="none" stroke="#3a2414" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Plate_rim" data-name="Plate rim" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="none" stroke="#262c1a" stroke-width="6" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 934)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="56" fill="#e4e8cc" text-anchor="middle"><tspan x="0" y="0">ICELANDIC</tspan></text>
+    <text transform="matrix(1 0 0 1 500 970)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="22" fill="#bfc8a6" letter-spacing="6.16" text-anchor="middle"><tspan x="0" y="0">GAITED · ICELAND</tspan></text>
+  </g>
+</svg>
