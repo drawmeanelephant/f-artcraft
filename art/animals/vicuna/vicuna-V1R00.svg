@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1626"/>
+      <stop offset="1" stop-color="#090613"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a89db9"/>
+      <stop offset="0.62" stop-color="#766a8c"/>
+      <stop offset="1" stop-color="#443b54"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="730" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#867590"/>
+      <stop offset="1" stop-color="#3e3246"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="430" y1="550" x2="430" y2="740" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6e4e2c"/>
+      <stop offset="1" stop-color="#453016"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="500" y1="300" x2="500" y2="575" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8e6238"/>
+      <stop offset="1" stop-color="#4c321a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="500" y1="300" x2="500" y2="575" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c08b52"/>
+      <stop offset="0.55" stop-color="#96683a"/>
+      <stop offset="1" stop-color="#654424"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="430" y1="550" x2="430" y2="740" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#966b3e"/>
+      <stop offset="1" stop-color="#6e4b28"/>
+    </linearGradient>
+  </defs>
+  <title>Vicuna — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#322a40" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#e2daee" stroke-width="3" stroke-miterlimit="10" opacity="0.26"/>
+    <path id="Plate_fleck_1" data-name="Plate fleck 1" d="M200 254.5 C200 252.015 202.015 250 204.5 250 C206.985 250 209 252.015 209 254.5 C209 256.985 206.985 259 204.5 259 C202.015 259 200 256.985 200 254.5 Z" fill="#4e4460" opacity="0.34"/>
+    <path id="Plate_fleck_2" data-name="Plate fleck 2" d="M770 233.5 C770 231.567 771.567 230 773.5 230 C775.433 230 777 231.567 777 233.5 C777 235.433 775.433 237 773.5 237 C771.567 237 770 235.433 770 233.5 Z" fill="#4e4460" opacity="0.32"/>
+    <path id="Plate_fleck_3" data-name="Plate fleck 3" d="M165 494 C165 491.791 166.791 490 169 490 C171.209 490 173 491.791 173 494 C173 496.209 171.209 498 169 498 C166.791 498 165 496.209 165 494 Z" fill="#4e4460" opacity="0.3"/>
+    <path id="Plate_fleck_4" data-name="Plate fleck 4" d="M825 604.5 C825 602.015 827.015 600 829.5 600 C831.985 600 834 602.015 834 604.5 C834 606.985 831.985 609 829.5 609 C827.015 609 825 606.985 825 604.5 Z" fill="#4e4460" opacity="0.34"/>
+    <path id="Plate_fleck_5" data-name="Plate fleck 5" d="M310 183.5 C310 181.567 311.567 180 313.5 180 C315.433 180 317 181.567 317 183.5 C317 185.433 315.433 187 313.5 187 C311.567 187 310 185.433 310 183.5 Z" fill="#4e4460" opacity="0.3"/>
+    <path id="Plate_fleck_6" data-name="Plate fleck 6" d="M640 159 C640 156.791 641.791 155 644 155 C646.209 155 648 156.791 648 159 C648 161.209 646.209 163 644 163 C641.791 163 640 161.209 640 159 Z" fill="#4e4460" opacity="0.32"/>
+    <path id="Plate_fleck_7" data-name="Plate fleck 7" d="M235 683.5 C235 681.567 236.567 680 238.5 680 C240.433 680 242 681.567 242 683.5 C242 685.433 240.433 687 238.5 687 C236.567 687 235 685.433 235 683.5 Z" fill="#4e4460" opacity="0.3"/>
+    <path id="Plate_fleck_8" data-name="Plate fleck 8" d="M770 714 C770 711.791 771.791 710 774 710 C776.209 710 778 711.791 778 714 C778 716.209 776.209 718 774 718 C771.791 718 770 716.209 770 714 Z" fill="#4e4460" opacity="0.28"/>
+    <path id="Plate_fleck_9" data-name="Plate fleck 9" d="M430 138 C430 136.343 431.343 135 433 135 C434.657 135 436 136.343 436 138 C436 139.657 434.657 141 433 141 C431.343 141 430 139.657 430 138 Z" fill="#4e4460" opacity="0.28"/>
+    <path id="Plate_fleck_10" data-name="Plate fleck 10" d="M150 613 C150 611.343 151.343 610 153 610 C154.657 610 156 611.343 156 613 C156 614.657 154.657 616 153 616 C151.343 616 150 614.657 150 613 Z" fill="#4e4460" opacity="0.28"/>
+    <path id="Plate_fleck_11" data-name="Plate fleck 11" d="M855 393.5 C855 391.567 856.567 390 858.5 390 C860.433 390 862 391.567 862 393.5 C862 395.433 860.433 397 858.5 397 C856.567 397 855 395.433 855 393.5 Z" fill="#4e4460" opacity="0.3"/>
+    <path id="Plate_fleck_12" data-name="Plate fleck 12" d="M560 808.5 C560 806.567 561.567 805 563.5 805 C565.433 805 567 806.567 567 808.5 C567 810.433 565.433 812 563.5 812 C561.567 812 560 810.433 560 808.5 Z" fill="#4e4460" opacity="0.28"/>
+    <path id="Mesa_ridge" data-name="Mesa ridge" d="M150 660 L300 648 L340 656 L520 644 L560 652 L700 646 L850 654 L850 700 L150 700 Z" fill="#4e4462" opacity="0.45"/>
+    <path id="Puna_ledge" data-name="Puna ledge" d="M187 740 C300 730 420 737 520 733 C620 729 715 735 813 740 C733.324 829.049 619.49 879.945 500 879.945 C380.51 879.945 266.676 829.049 187 740 Z" fill="url(#linear-gradient-2)"/>
+    <path id="Ichu_tuft_1" data-name="Ichu tuft 1" d="M235 737 C237 725.667 239.667 717.333 243 712 M242 737 C244.667 728.333 247.667 722 251 718" fill="none" stroke="#b8a888" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Ichu_tuft_2" data-name="Ichu tuft 2" d="M315 737 C313 725.667 310.333 717.333 307 712 M308 737 C305.333 728.333 302.333 722 299 718" fill="none" stroke="#b8a888" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Ichu_tuft_3" data-name="Ichu tuft 3" d="M545 737 C547 725.667 549.667 717.333 553 712 M552 737 C554.667 728.333 557.667 722 561 718" fill="none" stroke="#b8a888" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Ichu_tuft_4" data-name="Ichu tuft 4" d="M690 737 C688 725.667 685.333 717.333 682 712 M683 737 C680.333 728.333 677.333 722 674 718" fill="none" stroke="#b8a888" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Ichu_tuft_5" data-name="Ichu tuft 5" d="M775 737 C777 725.667 779.667 717.333 783 712 M782 737 C784.667 728.333 787.667 722 791 718" fill="none" stroke="#b8a888" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Vicuna_shadow" data-name="Vicuna shadow" d="M340 742 C340 736.477 416.112 732 510 732 C603.888 732 680 736.477 680 742 C680 747.523 603.888 752 510 752 C416.112 752 340 747.523 340 742 Z" fill="#241c2e" opacity="0.4"/>
+    <path id="Leg_far_front" data-name="Leg far front" d="M435 545.6 L438.8 582.9 C441.267 607.833 443.1 631.933 444.3 655.2 C445.433 678.533 446.333 696.2 447 708.2 L448 726.1 L458 725.9 L458 689.8 L457.5 619.7 L457 544.4 Z" fill="url(#linear-gradient-3)" stroke="#241828" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Leg_far_hind" data-name="Leg far hind" d="M600 544.4 L600 584.5 C600 611.233 599.667 635.767 599 658.1 C598.333 680.5 597.833 697.7 597.5 709.7 L597 727.7 L607 728.3 L610 692.3 L616 625.4 L624 545.6 Z" fill="url(#linear-gradient-3)" stroke="#241828" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Hoof_far_front" data-name="Hoof far front" d="M444 726 L462 726 L460 733 C456 735 450 735 446 733 Z" fill="#1e1216"/>
+    <path id="Hoof_far_hind" data-name="Hoof far hind" d="M593 728 L611 728 L609 735 C605 737 599 737 595 735 Z" fill="#1e1216"/>
+    <path id="Tail" d="M632 486 C650 492 658 506 656 522 C648 516 638 508 630 500 Z" fill="url(#linear-gradient-4)" stroke="#241828" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Body" d="M428 474 C480 462 552 462 602 470 C622 474 634 490 636 508 C638 524 632 538 620 546 C590 560 520 564 468 560 C444 558 426 552 416 540 C406 526 406 508 412 492 C416 482 421 477 428 474 Z" fill="url(#linear-gradient-5)" stroke="#241828" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Belly_pale" data-name="Belly pale" d="M430 548 C480 556 560 556 610 548 C590 562 540 568 492 566 C462 564 442 558 430 548 Z" fill="#ebdcc0" opacity="0.6"/>
+    <path id="Neck_and_head" data-name="Neck and head" d="M352 312 C378 350 406 414 428 480 C422 502 414 524 406 544 C399 540 393 528 389 512 C383 478 373 440 359 402 C351 380 341 366 331 356 C319 349 307 348 297 351 C289 352 285 355 285 358 C285 351 287 346 293 341 C301 332 313 321 327 315 C335 310 345 309 352 312 Z" fill="url(#linear-gradient-5)" stroke="#241828" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Chest_bib" data-name="Chest bib" d="M340 372 C352 398 364 430 376 468 C386 500 394 524 400 544 C392 554 380 556 372 548 C362 530 354 500 346 468 C338 436 334 404 334 382 Z" fill="#ebdcc0" opacity="0.7"/>
+    <path id="Bib_fringe_1" data-name="Bib fringe 1" d="M368 470 C366 478.667 364.667 487.333 364 496" fill="none" stroke="#ebdcc0" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Bib_fringe_2" data-name="Bib fringe 2" d="M378 505 C376 513 374.667 521 374 529" fill="none" stroke="#ebdcc0" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Bib_fringe_3" data-name="Bib fringe 3" d="M386 528 C384 534.667 382.667 541.333 382 548" fill="none" stroke="#ebdcc0" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Bib_fringe_4" data-name="Bib fringe 4" d="M356 428 C354 435.333 352.667 442.667 352 450" fill="none" stroke="#ebdcc0" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Bib_fringe_5" data-name="Bib fringe 5" d="M348 400 C346 406 344.667 412 344 418" fill="none" stroke="#ebdcc0" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.5"/>
+    <path id="Leg_near_front" data-name="Leg near front" d="M412 544.7 L412.8 584.7 C413.267 611.433 413.5 635.967 413.5 658.3 C413.5 680.633 413.5 697.8 413.5 709.8 L413.5 727.8 L424.5 728.2 L426.5 692.2 L430.5 625.2 L436 545.3 Z" fill="url(#linear-gradient-6)" stroke="#241828" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Leg_near_hind" data-name="Leg near hind" d="M575 544.4 L575.3 584.4 C575.433 611.133 575.167 635.7 574.5 658.1 C573.833 680.433 573.333 697.633 573 709.7 L572.5 727.7 L583.5 728.3 L586.5 692.4 L592.5 625.5 L601 545.6 Z" fill="url(#linear-gradient-6)" stroke="#241828" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Front_leg_pale" data-name="Front leg pale" d="M426 600 L422 700" fill="none" stroke="#ebdcc0" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Hind_leg_pale" data-name="Hind leg pale" d="M584 600 L580 700" fill="none" stroke="#ebdcc0" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Hoof_near_front" data-name="Hoof near front" d="M410 728 L428 728 L426 735 C422 737 416 737 412 735 Z" fill="#1e1216"/>
+    <path id="Hoof_near_hind" data-name="Hoof near hind" d="M569 728 L587 728 L585 735 C581 737 575 737 571 735 Z" fill="#1e1216"/>
+    <path id="Ear_far" data-name="Ear far" d="M366 318 C368 296 374 278 384 264 C388 282 386 300 378 318 Z" fill="url(#linear-gradient-4)" stroke="#241828" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Ear_near" data-name="Ear near" d="M344 312 C340 286 340 262 348 240 C358 258 362 282 358 310 Z" fill="url(#linear-gradient-5)" stroke="#241828" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Ear_near_inner" data-name="Ear near inner" d="M349 302 C347 284 348 268 352 256" fill="none" stroke="#4a3018" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Eye_near" data-name="Eye near" d="M322 337 C322 333.134 325.358 330 329.5 330 C333.642 330 337 333.134 337 337 C337 340.866 333.642 344 329.5 344 C325.358 344 322 340.866 322 337 Z" fill="#1e1208" stroke="#241828" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Eye_glint" data-name="Eye glint" d="M326 335 C326 333.895 326.895 333 328 333 C329.105 333 330 333.895 330 335 C330 336.105 329.105 337 328 337 C326.895 337 326 336.105 326 335 Z" fill="#f4e8d2" opacity="0.9"/>
+    <path id="Eye_far" data-name="Eye far" d="M352 332 C352 329.791 354.015 328 356.5 328 C358.985 328 361 329.791 361 332 C361 334.209 358.985 336 356.5 336 C354.015 336 352 334.209 352 332 Z" fill="#1e1208" opacity="0.7"/>
+    <path id="Nostril" d="M287 351.5 C287 350.119 288.567 349 290.5 349 C292.433 349 294 350.119 294 351.5 C294 352.881 292.433 354 290.5 354 C288.567 354 287 352.881 287 351.5 Z" fill="#160c06" opacity="0.8"/>
+    <path id="Mouth" d="M286 356 C294 358 302 358 310 356" fill="none" stroke="#241828" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Nape_light" data-name="Nape light" d="M356 318 C382 356 406 418 424 476" fill="none" stroke="#e4bc84" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Back_rim_light" data-name="Back rim light" d="M434 478 C486 468 552 468 600 476" fill="none" stroke="#e4bc84" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Face_light" data-name="Face light" d="M300 342 C310 332 322 322 334 316" fill="none" stroke="#e4bc84" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Plate_rim" data-name="Plate rim" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="none" stroke="#241c30" stroke-width="6" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 942)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="58" fill="#e4deee" text-anchor="middle"><tspan x="0" y="0">VICUÑA</tspan></text>
+    <text transform="matrix(1 0 0 1 500 968)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="22" fill="#a89cbc" letter-spacing="5.72" text-anchor="middle"><tspan x="0" y="0">VICUGNA VICUGNA</tspan></text>
+  </g>
+</svg>
