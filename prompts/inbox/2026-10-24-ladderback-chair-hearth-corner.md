@@ -1,4 +1,4 @@
-# ladderback-chair-V1R00 — scene props near the rim, turned members by profile
+## ladderback-chair-V1R00 — scene props near the rim, turned members by profile
 
 - Kind: lesson
 - Source: issue #1153, driver `work/furniture/draw_ladderback_chair.py`,

@@ -1,4 +1,4 @@
-# masaya-hammock-V1R00 — sagging curves and the hammock read
+## masaya-hammock-V1R00 — sagging curves and the hammock read
 
 - Kind: lesson
 - Source: issue #1110, driver `work/furniture/masaya-hammock-V1R00.py`,

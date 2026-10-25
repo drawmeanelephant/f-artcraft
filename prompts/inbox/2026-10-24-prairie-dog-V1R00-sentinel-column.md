@@ -1,4 +1,4 @@
-# Black-tailed prairie dog V1R00 — the upright column wants a lean and a lap
+## Black-tailed prairie dog V1R00 — the upright column wants a lean and a lap
 
 - Kind: lesson
 - Source: issue #1104; `work/animals/draw_black_tailed_prairie_dog.py`,

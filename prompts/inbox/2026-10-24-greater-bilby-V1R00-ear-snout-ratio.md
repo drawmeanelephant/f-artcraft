@@ -1,4 +1,4 @@
-# Greater bilby V1R00 — ears alone make a rabbit; the snout must counter it
+## Greater bilby V1R00 — ears alone make a rabbit; the snout must counter it
 
 - Kind: lesson
 - Source: issue #1071; `work/animals/draw_greater_bilby.py`,

@@ -1,4 +1,4 @@
-# European hedgehog V1R00 — quills are a coverage problem, not a texture accent
+## European hedgehog V1R00 — quills are a coverage problem, not a texture accent
 
 - Kind: lesson
 - Source: issue #1103; `work/animals/draw_european_hedgehog.py`,

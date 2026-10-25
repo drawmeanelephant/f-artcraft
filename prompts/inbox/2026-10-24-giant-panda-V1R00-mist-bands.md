@@ -1,4 +1,4 @@
-# Giant panda V1R00 — mist as wide soft strokes, canes end inside the rim
+## Giant panda V1R00 — mist as wide soft strokes, canes end inside the rim
 
 - Kind: lesson
 - Source: issue #1066, `work/animals/draw_giant_panda.py`,
