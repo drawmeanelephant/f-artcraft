@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#15150f"/>
+      <stop offset="1" stop-color="#070705"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8b9078"/>
+      <stop offset="0.5" stop-color="#505642"/>
+      <stop offset="1" stop-color="#23271d"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="300" y1="560" x2="700" y2="850" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#413a2e"/>
+      <stop offset="0.5" stop-color="#26201a"/>
+      <stop offset="1" stop-color="#100c08"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="430" y1="460" x2="520" y2="660" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eae6d8"/>
+      <stop offset="0.5" stop-color="#b6b09e"/>
+      <stop offset="1" stop-color="#76705f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="425" y1="340" x2="505" y2="540" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e0c0a0"/>
+      <stop offset="0.55" stop-color="#be9a7c"/>
+      <stop offset="1" stop-color="#8c6a50"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="390" y1="230" x2="550" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3e352a"/>
+      <stop offset="0.55" stop-color="#241d15"/>
+      <stop offset="1" stop-color="#110d09"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="348" y1="320" x2="592" y2="358" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a3127"/>
+      <stop offset="0.5" stop-color="#221b13"/>
+      <stop offset="1" stop-color="#120e0a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="560" y1="560" x2="630" y2="640" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c4a076"/>
+      <stop offset="0.55" stop-color="#8e6c46"/>
+      <stop offset="1" stop-color="#4c3824"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="548" y1="510" x2="582" y2="544" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d0aa7e"/>
+      <stop offset="1" stop-color="#7e5e3c"/>
+    </linearGradient>
+  </defs>
+  <title>Charles Darwin — Milestone Card</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#33382a" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#e2e4ce" stroke-width="3" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Light_pool" data-name="Light pool" d="M240 270 C240 209.249 325.066 160 430 160 C534.934 160 620 209.249 620 270 C620 330.751 534.934 380 430 380 C325.066 380 240 330.751 240 270 Z" fill="#ecefe0" opacity="0.11"/>
+    <path id="Mist_1" data-name="Mist 1" d="M640 300 C640 291.163 657.909 284 680 284 C702.091 284 720 291.163 720 300 C720 308.837 702.091 316 680 316 C657.909 316 640 308.837 640 300 Z" fill="#e0e4ce" opacity="0.1"/>
+    <path id="Mist_2" data-name="Mist 2" d="M238 560 C238 552.931 252.327 547.2 270 547.2 C287.673 547.2 302 552.931 302 560 C302 567.069 287.673 572.8 270 572.8 C252.327 572.8 238 567.069 238 560 Z" fill="#e0e4ce" opacity="0.1"/>
+    <path id="Mist_3" data-name="Mist 3" d="M710 520 C710 513.373 723.431 508 740 508 C756.569 508 770 513.373 770 520 C770 526.627 756.569 532 740 532 C723.431 532 710 526.627 710 520 Z" fill="#e0e4ce" opacity="0.1"/>
+    <path id="Coat" d="M256.2 802 C275 730 292 660 340 612 C380 578 418 566 444 560 L496 560 C542 568 588 582 624 616 C664 656 690 724 743.8 802 C597.905 906.005 402.095 906.005 256.2 802 Z" fill="url(#linear-gradient-2)" stroke="#1e150f" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Coat_collar_L" data-name="Coat collar L" d="M436 564 L414 596 L448 612 Z" fill="#2c251c" stroke="#1e150f" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Coat_collar_R" data-name="Coat collar R" d="M504 564 L528 596 L494 612 Z" fill="#2c251c" stroke="#1e150f" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Coat_fold_1" data-name="Coat fold 1" d="M368 634 C358 692 354 744 362 794" fill="none" stroke="#0e0a07" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Coat_fold_2" data-name="Coat fold 2" d="M566 632 C580 688 590 742 594 792" fill="none" stroke="#0e0a07" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Shoulder_sheen" data-name="Shoulder sheen" d="M316 664 C350 624 396 594 438 580" fill="none" stroke="#6e6250" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Beard" d="M406 418 C405.3 434.3 409.7 487.3 412 512 C414.3 536.7 417 549.7 420 566 C423 582.3 426.3 597.3 430 610 C433.7 622.7 437 634.3 442 642 C447 649.7 453.7 653.3 460 656 C466.3 658.7 473.7 660 480 658 C486.3 656 493 651.7 498 644 C503 636.3 506.7 626 510 612 C513.3 598 516.2 577 518 560 C519.8 543 519.7 533.7 521 510 C522.3 486.3 527.2 434 526 418 C524.8 402 520.7 415.3 514 414 C507.3 412.7 497.3 410.7 486 410 C474.7 409.3 457.7 409.3 446 410 C434.3 410.7 422.7 412.7 416 414 C409.3 415.3 406.7 401.7 406 418 Z" fill="url(#linear-gradient-3)" stroke="#1e150f" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Beard_strand_1" data-name="Beard strand 1" d="M430 478 C434 530 444 580 456 620" fill="none" stroke="#f4f0e2" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Beard_strand_2" data-name="Beard strand 2" d="M466 470 C466 524 468 580 470 622" fill="none" stroke="#f4f0e2" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Beard_strand_3" data-name="Beard strand 3" d="M502 478 C500 530 492 580 482 618" fill="none" stroke="#f4f0e2" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Beard_strand_4" data-name="Beard strand 4" d="M418 520 C424 560 434 592 446 612" fill="none" stroke="#f4f0e2" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Beard_strand_5" data-name="Beard strand 5" d="M514 520 C510 558 502 590 492 610" fill="none" stroke="#f4f0e2" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Mouth_shade" data-name="Mouth shade" d="M448 478 C458 484 478 484 488 478" fill="none" stroke="#6e6252" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Face" d="M468 352 C482.2 352 510.2 356.4 518 366 C525.8 375.6 523.9 406.4 523 420 C522.1 433.6 516.1 452.6 512 462 C507.9 471.4 500.2 481.2 494 486 C487.8 490.8 475.4 496 468 496 C460.6 496 448.2 490.8 442 486 C435.8 481.2 428.1 471.4 424 462 C419.9 452.6 413.9 433.6 413 420 C412.1 406.4 410.2 375.6 418 366 C425.8 356.4 453.8 352 468 352 Z" fill="url(#linear-gradient-4)" stroke="#1e150f" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Temple_lock_L" data-name="Temple lock L" d="M402 358 L418 362 L420 424 L410 436 L398 428 L396 392 Z" fill="#b6b09e"/>
+    <path id="Temple_lock_R" data-name="Temple lock R" d="M534 358 L518 362 L516 424 L526 436 L538 428 L540 392 Z" fill="#b6b09e"/>
+    <path id="Brow_ridge" data-name="Brow ridge" d="M424 404 C444 396 492 396 512 404 C494 412 442 412 424 404 Z" fill="#c4a284" opacity="0.55"/>
+    <path id="Brow_L" data-name="Brow L" d="M426 400 C438 394 452 394 460 399" fill="none" stroke="#8a8478" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.85"/>
+    <path id="Brow_R" data-name="Brow R" d="M478 399 C488 394 501 394 510 400" fill="none" stroke="#8a8478" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.85"/>
+    <path id="Eye_L" data-name="Eye L" d="M430 418 C436 412 450 412 457 418 C450 424 436 424 430 418 Z" fill="#ede2cc" stroke="#1e150f" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Eye_R" data-name="Eye R" d="M481 418 C488 412 502 412 509 418 C502 424 488 424 481 418 Z" fill="#ede2cc" stroke="#1e150f" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Iris_L" data-name="Iris L" d="M440 417.5 C440 414.462 442.239 412 445 412 C447.761 412 450 414.462 450 417.5 C450 420.538 447.761 423 445 423 C442.239 423 440 420.538 440 417.5 Z" fill="#33241a"/>
+    <path id="Iris_R" data-name="Iris R" d="M491 417.5 C491 414.462 493.239 412 496 412 C498.761 412 501 414.462 501 417.5 C501 420.538 498.761 423 496 423 C493.239 423 491 420.538 491 417.5 Z" fill="#33241a"/>
+    <path id="Glint_L" data-name="Glint L" d="M443 415.6 C443 414.716 443.716 414 444.6 414 C445.484 414 446.2 414.716 446.2 415.6 C446.2 416.484 445.484 417.2 444.6 417.2 C443.716 417.2 443 416.484 443 415.6 Z" fill="#fff4dc" opacity="0.9"/>
+    <path id="Glint_R" data-name="Glint R" d="M494 415.6 C494 414.716 494.716 414 495.6 414 C496.484 414 497.2 414.716 497.2 415.6 C497.2 416.484 496.484 417.2 495.6 417.2 C494.716 417.2 494 416.484 494 415.6 Z" fill="#fff4dc" opacity="0.9"/>
+    <path id="Socket_L" data-name="Socket L" d="M428 430 C438 435 452 435 460 431" fill="none" stroke="#9a7658" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Socket_R" data-name="Socket R" d="M480 431 C488 435 501 435 509 430" fill="none" stroke="#9a7658" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Nose_shade" data-name="Nose shade" d="M470 424 C475 440 475 456 468 468" fill="none" stroke="#9a7658" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Nose_base" data-name="Nose base" d="M459 470 C465 474 475 474 481 469" fill="none" stroke="#8a6248" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Cheek_warm_L" data-name="Cheek warm L" d="M424 443 C424 439.134 428.925 436 435 436 C441.075 436 446 439.134 446 443 C446 446.866 441.075 450 435 450 C428.925 450 424 446.866 424 443 Z" fill="#c08a6a" opacity="0.28"/>
+    <path id="Cheek_warm_R" data-name="Cheek warm R" d="M492 443 C492 439.134 496.925 436 503 436 C509.075 436 514 439.134 514 443 C514 446.866 509.075 450 503 450 C496.925 450 492 446.866 492 443 Z" fill="#c08a6a" opacity="0.28"/>
+    <path id="Hat_crown" data-name="Hat crown" d="M398 338 C400 278 428 246 468 244 C508 246 536 280 538 338 Z" fill="url(#linear-gradient-5)" stroke="#1e150f" stroke-width="4.5" stroke-miterlimit="10"/>
+    <path id="Hat_brim" data-name="Hat brim" d="M348 339 C348 328.507 402.621 320 470 320 C537.379 320 592 328.507 592 339 C592 349.493 537.379 358 470 358 C402.621 358 348 349.493 348 339 Z" fill="url(#linear-gradient-6)" stroke="#1e150f" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Brim_sheen" data-name="Brim sheen" d="M360 336 C420 330 520 330 578 336" fill="none" stroke="#6e6250" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Perch_shadow" data-name="Perch shadow" d="M560 612 C566 600 584 594 598 600" fill="none" stroke="#0e0a07" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Finch_body" data-name="Finch body" d="M586 584 C580.7 585 571.7 579.7 566 576 C560.3 572.3 555 567.3 552 562 C549 556.7 547.3 549.7 548 544 C548.7 538.3 552 532 556 528 C560 524 566.7 521 572 520 C577.3 519 583.3 519.7 588 522 C592.7 524.3 597.7 529 600 534 C602.3 539 602.3 546 602 552 C601.7 558 600.7 564.7 598 570 C595.3 575.3 591.3 583 586 584 Z" fill="url(#linear-gradient-7)" stroke="#1e150f" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Finch_wing" data-name="Finch wing" d="M574 540 C576 535.3 582.3 533.7 586 534 C589.7 534.3 594.3 538 596 542 C597.7 546 597.7 553.7 596 558 C594.3 562.3 589.7 567.3 586 568 C582.3 568.7 576 566.7 574 562 C572 557.3 572 544.7 574 540 Z" fill="#3e2e20" stroke="#1e150f" stroke-width="2.5" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Finch_tail" data-name="Finch tail" d="M598 552 L624 566 L618 574 L594 564 Z" fill="#4c3824" stroke="#1e150f" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Finch_head" data-name="Finch head" d="M548 522 C550 518.3 555.7 511.7 560 510 C564.3 508.3 570.3 510 574 512 C577.7 514 581 518 582 522 C583 526 582 532.3 580 536 C578 539.7 574 543.3 570 544 C566 544.7 559.7 542 556 540 C552.3 538 549.3 535 548 532 C546.7 529 546 525.7 548 522 Z" fill="url(#linear-gradient-8)" stroke="#1e150f" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Finch_beak" data-name="Finch beak" d="M548 526 L534 531 L548 536 Z" fill="#3a2c1c" stroke="#1e150f" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path id="Finch_eye" data-name="Finch eye" d="M562 525.5 C562 523.567 563.567 522 565.5 522 C567.433 522 569 523.567 569 525.5 C569 527.433 567.433 529 565.5 529 C563.567 529 562 527.433 562 525.5 Z" fill="#1e140e"/>
+    <path id="Finch_glint" data-name="Finch glint" d="M564 524.25 C564 523.56 564.56 523 565.25 523 C565.94 523 566.5 523.56 566.5 524.25 C566.5 524.94 565.94 525.5 565.25 525.5 C564.56 525.5 564 524.94 564 524.25 Z" fill="#fff4dc" opacity="0.9"/>
+    <path id="Finch_breast" data-name="Finch breast" d="M556 544 C557.3 540.7 561.3 539.7 564 540 C566.7 540.3 570.7 543 572 546 C573.3 549 573.3 554.7 572 558 C570.7 561.3 566.7 565.7 564 566 C561.3 566.3 557.3 563.7 556 560 C554.7 556.3 554.7 547.3 556 544 Z" fill="#d8b184" opacity="0.7"/>
+    <path id="Finch_legs" data-name="Finch legs" d="M568 584 L566 602 M580 586 L580 604" fill="none" stroke="#3a2c1c" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Plate_rim" data-name="Plate rim" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="none" stroke="#2c3224" stroke-width="6" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 934)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="56" fill="#eceadb" text-anchor="middle"><tspan x="0" y="0">CHARLES DARWIN</tspan></text>
+    <text transform="matrix(1 0 0 1 500 970)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;, sans-serif" font-size="22" fill="#c0c4ac" letter-spacing="10.56" text-anchor="middle"><tspan x="0" y="0">ORIGIN OF SPECIES · 1859</tspan></text>
+  </g>
+</svg>
