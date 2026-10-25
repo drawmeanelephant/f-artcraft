@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#121716"/>
+      <stop offset="1" stop-color="#060908"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6e7d70"/>
+      <stop offset="0.5" stop-color="#44524a"/>
+      <stop offset="1" stop-color="#1e2825"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="300" y1="560" x2="700" y2="840" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#574b3e"/>
+      <stop offset="0.5" stop-color="#2e251c"/>
+      <stop offset="1" stop-color="#130e09"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="446" y1="560" x2="470" y2="634" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c8bca2"/>
+      <stop offset="1" stop-color="#6e6250"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="430" y1="340" x2="510" y2="550" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#be9e80"/>
+      <stop offset="1" stop-color="#7c5c46"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="360" y1="220" x2="580" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2efe6"/>
+      <stop offset="0.5" stop-color="#c9c5b5"/>
+      <stop offset="1" stop-color="#8c8878"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="430" y1="340" x2="510" y2="550" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e0c2a0"/>
+      <stop offset="0.55" stop-color="#c09c7e"/>
+      <stop offset="1" stop-color="#8e6c52"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="440" y1="470" x2="505" y2="510" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ddd9c9"/>
+      <stop offset="1" stop-color="#9b9684"/>
+    </linearGradient>
+  </defs>
+  <title>Albert Einstein — Milestone Card</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)" stroke="#2c3630" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#d8e4da" stroke-width="3" stroke-miterlimit="10" opacity="0.34"/>
+    <path id="Light_pool" data-name="Light pool" d="M250 260 C250 199.249 335.066 150 440 150 C544.934 150 630 199.249 630 260 C630 320.751 544.934 370 440 370 C335.066 370 250 320.751 250 260 Z" fill="#e0eadd" opacity="0.11"/>
+    <text transform="matrix(1 0 0 1 295 240)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;, sans-serif" font-size="24" fill="#dce6dc" text-anchor="middle" opacity="0.15"><tspan x="0" y="0">E = mc²</tspan></text>
+    <path id="Chalk_underline" data-name="Chalk underline" d="M252 258 C280 264 320 264 348 258" fill="none" stroke="#dce6dc" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.14"/>
+    <path id="Chalk_dash_1" data-name="Chalk dash 1" d="M640 220 L700 218" fill="none" stroke="#dce6dc" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.12"/>
+    <path id="Chalk_dash_2" data-name="Chalk dash 2" d="M648 244 L686 240" fill="none" stroke="#dce6dc" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.12"/>
+    <path id="Chalk_dash_3" data-name="Chalk dash 3" d="M700 248 L728 244" fill="none" stroke="#dce6dc" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.12"/>
+    <path id="Chalk_dash_4" data-name="Chalk dash 4" d="M660 272 L712 268" fill="none" stroke="#dce6dc" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.12"/>
+    <path id="Chalk_cone" data-name="Chalk cone" d="M655 300 L735 360 M735 300 L655 360" fill="none" stroke="#dce6dc" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.1"/>
+    <path id="Jacket" d="M253.4 800 C285 730 300 662 350 612 C388 580 420 568 445 562 L495 562 C540 570 585 582 622 614 C664 652 690 720 746.6 800 C599.509 906.689 400.491 906.689 253.4 800 Z" fill="url(#linear-gradient-2)" stroke="#1e150f" stroke-width="5" stroke-miterlimit="10"/>
+    <path id="Shirt_V" data-name="Shirt V" d="M446 560 L494 560 L470 634 Z" fill="url(#linear-gradient-3)" stroke="#1e150f" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Collar_L" data-name="Collar L" d="M446 560 L420 584 L452 600 Z" fill="#3a3128" stroke="#1e150f" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Collar_R" data-name="Collar R" d="M494 560 L520 584 L488 600 Z" fill="#3a3128" stroke="#1e150f" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Tweed_fold_1" data-name="Tweed fold 1" d="M380 640 C370 690 368 740 376 790" fill="none" stroke="#141009" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Tweed_fold_2" data-name="Tweed fold 2" d="M560 640 C576 694 586 744 590 790" fill="none" stroke="#141009" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Tweed_fold_3" data-name="Tweed fold 3" d="M470 660 C470 710 470 750 470 790" fill="none" stroke="#141009" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Shoulder_sheen" data-name="Shoulder sheen" d="M316 660 C350 620 396 592 440 578" fill="none" stroke="#7a6a56" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Neck" d="M440 512 L440 560 C452 570 486 570 498 560 L498 512 Z" fill="url(#linear-gradient-4)" stroke="#1e150f" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Hair_halo" data-name="Hair halo" d="M349 435.8 C315.7 433.3 285.5 434.9 283.7 429.7 C281.9 424.4 334.7 400.4 333.5 390.4 C332.2 380.5 272.9 351.6 273.1 344.2 C273.4 336.7 330.9 335.6 335.5 326.8 C340.1 318 306.5 274.8 312.6 268.7 C318.7 262.5 376.9 280.4 388.1 274.1 C399.3 267.8 399.8 217.7 408.6 215 C417.4 212.3 451.1 250.2 463.7 251 C476.2 251.8 507.3 219.4 516.1 221.8 C525 224.2 529.9 266.1 539.9 271.4 C549.9 276.7 595.8 262.2 601.9 267.3 C608 272.4 587.6 307.4 592.3 315 C597 322.5 639.9 325.8 642.1 332.1 C644.2 338.4 611.1 360.1 610.3 369 C609.6 377.9 633.3 399.2 635.6 408.7 C637.8 418.1 637.5 445.3 629.7 450.2 C622 455.1 601.9 452.3 569.1 450.6 C536.4 449 382.3 438.2 349 435.8 Z" fill="url(#linear-gradient-5)" stroke="#1e150f" stroke-width="4.5" stroke-miterlimit="10"/>
+    <path id="Hair_strand_1" data-name="Hair strand 1" d="M356 416 C333.333 379.333 320 352 316 334" fill="none" stroke="#fbf8ec" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Hair_strand_2" data-name="Hair strand 2" d="M389 279 C398.333 247 417.333 224.667 446 212" fill="none" stroke="#fbf8ec" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Hair_strand_3" data-name="Hair strand 3" d="M425 253 C443.667 233 472 222 510 220" fill="none" stroke="#fbf8ec" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Hair_strand_4" data-name="Hair strand 4" d="M533 264 C548.333 270 573 285.667 607 311" fill="none" stroke="#fbf8ec" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Hair_strand_5" data-name="Hair strand 5" d="M577 312 C577 340.667 586.333 378.333 605 425" fill="none" stroke="#fbf8ec" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Face" d="M469 354 C484 354 513.6 356.1 522 366 C530.4 375.9 529.1 407.6 528 424 C526.9 440.4 518.8 468.1 514 482 C509.2 495.9 500.4 513.2 494 522 C487.6 530.8 476.1 544 469 544 C461.9 544 450.4 530.8 444 522 C437.6 513.2 428.8 495.9 424 482 C419.2 468.1 411.1 440.4 410 424 C408.9 407.6 407.6 375.9 416 366 C424.4 356.1 454 354 469 354 Z" fill="url(#linear-gradient-6)" stroke="#1e150f" stroke-width="4" stroke-miterlimit="10"/>
+    <path id="Hairline" d="M414 396 C424 362 448 348 469 346 C492 348 516 364 525 398 C512 370 490 358 469 356 C448 358 426 370 414 396 Z" fill="url(#linear-gradient-5)"/>
+    <path id="Sideburn_L" data-name="Sideburn L" d="M414 396 C410 414 410 432 414 448 L424 444 C420 428 420 412 422 398 Z" fill="url(#linear-gradient-5)"/>
+    <path id="Sideburn_R" data-name="Sideburn R" d="M525 398 C528 414 528 432 524 448 L515 444 C519 428 519 412 517 398 Z" fill="url(#linear-gradient-5)"/>
+    <path id="Wrinkle_1" data-name="Wrinkle 1" d="M432 392 C446 386 492 386 506 392" fill="none" stroke="#9a7658" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.3"/>
+    <path id="Wrinkle_2" data-name="Wrinkle 2" d="M438 404 C450 400 488 400 500 404" fill="none" stroke="#9a7658" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.25"/>
+    <path id="Brow_L" data-name="Brow L" d="M425 408 C436 400 452 400 461 406" fill="none" stroke="#8c8878" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.85"/>
+    <path id="Brow_R" data-name="Brow R" d="M479 408 C489 402 503 402 512 408" fill="none" stroke="#8c8878" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.85"/>
+    <path id="Lid_L" data-name="Lid L" d="M428 420 C436 413 452 413 460 420" fill="none" stroke="#7a5c44" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Lid_R" data-name="Lid R" d="M480 420 C488 413 503 413 511 420" fill="none" stroke="#7a5c44" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Eye_L" data-name="Eye L" d="M431 425 C437 418 452 418 459 425 C452 432 437 432 431 425 Z" fill="#ede2cc" stroke="#1e150f" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Eye_R" data-name="Eye R" d="M482 425 C489 418 504 418 511 425 C504 432 489 432 482 425 Z" fill="#ede2cc" stroke="#1e150f" stroke-width="3" stroke-miterlimit="10"/>
+    <path id="Iris_L" data-name="Iris L" d="M441 425 C441 421.686 443.462 419 446.5 419 C449.538 419 452 421.686 452 425 C452 428.314 449.538 431 446.5 431 C443.462 431 441 428.314 441 425 Z" fill="#33241a"/>
+    <path id="Iris_R" data-name="Iris R" d="M493 425 C493 421.686 495.462 419 498.5 419 C501.538 419 504 421.686 504 425 C504 428.314 501.538 431 498.5 431 C495.462 431 493 428.314 493 425 Z" fill="#33241a"/>
+    <path id="Glint_L" data-name="Glint L" d="M444 422.75 C444 421.784 444.784 421 445.75 421 C446.716 421 447.5 421.784 447.5 422.75 C447.5 423.716 446.716 424.5 445.75 424.5 C444.784 424.5 444 423.716 444 422.75 Z" fill="#fff4dc" opacity="0.9"/>
+    <path id="Glint_R" data-name="Glint R" d="M496 422.75 C496 421.784 496.784 421 497.75 421 C498.716 421 499.5 421.784 499.5 422.75 C499.5 423.716 498.716 424.5 497.75 424.5 C496.784 424.5 496 423.716 496 422.75 Z" fill="#fff4dc" opacity="0.9"/>
+    <path id="Bag_L" data-name="Bag L" d="M433 438 C441 443 453 443 459 439" fill="none" stroke="#9a7658" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Bag_R" data-name="Bag R" d="M484 439 C491 443 503 443 509 438" fill="none" stroke="#9a7658" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.35"/>
+    <path id="Nose_shade" data-name="Nose shade" d="M474 428 C479 444 479 460 472 472" fill="none" stroke="#9a7658" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Nose_base" data-name="Nose base" d="M462 474 C468 478 478 478 484 473" fill="none" stroke="#8a6248" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Mustache" d="M436 486 C438.1 482.9 444.1 477.2 448 475 C451.9 472.8 458.9 470.7 462 471 C465.1 471.3 466.9 477 469 477 C471.1 477 472.9 471.3 476 471 C479.1 470.7 485.9 472.8 490 475 C494.1 477.2 500.8 482.4 503 486 C505.2 489.6 506.2 495.7 505 499 C503.8 502.3 499.1 506.1 495 508 C490.9 509.9 483.2 511.4 478 512 C472.8 512.6 465.2 512.8 460 512 C454.8 511.2 446.9 509.4 443 507 C439.1 504.6 435.1 499.1 434 496 C432.9 492.9 433.9 489.1 436 486 Z" fill="url(#linear-gradient-7)" stroke="#1e150f" stroke-width="3.5" stroke-miterlimit="10"/>
+    <path id="Mouth" d="M456 518 C464 522 476 522 484 518" fill="none" stroke="#7a4a3a" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.7"/>
+    <path id="Cheek_shade" data-name="Cheek shade" d="M420 448 C423 468 431 484 443 494" fill="none" stroke="#9a7658" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Plate_rim" data-name="Plate rim" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="none" stroke="#28322c" stroke-width="6" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 934)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="56" fill="#e6ede2" text-anchor="middle"><tspan x="0" y="0">ALBERT EINSTEIN</tspan></text>
+    <text transform="matrix(1 0 0 1 500 970)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;, sans-serif" font-size="22" fill="#bccabb" letter-spacing="11.44" text-anchor="middle"><tspan x="0" y="0">MIRACLE YEAR · 1905</tspan></text>
+  </g>
+</svg>
