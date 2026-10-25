@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="0" y1="0" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0a0d14"/>
+      <stop offset="1" stop-color="#04060a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="40" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1e2532"/>
+      <stop offset="0.55" stop-color="#2c3244"/>
+      <stop offset="0.8" stop-color="#3a322c"/>
+      <stop offset="1" stop-color="#14100c"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-1" cx="500" cy="460" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="0.74" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#04060c" stop-opacity="0.55"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="350" cy="520" r="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b4763c" stop-opacity="0.22"/>
+      <stop offset="0.6" stop-color="#8a5428" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#8a5428" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-3" x1="0" y1="640" x2="0" y2="880" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1a2232"/>
+      <stop offset="0.5" stop-color="#101625"/>
+      <stop offset="1" stop-color="#070b14"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0" y1="556" x2="0" y2="580" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#232a36"/>
+      <stop offset="1" stop-color="#12151c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="236" y1="0" x2="306" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#323c4c"/>
+      <stop offset="0.5" stop-color="#1c222e"/>
+      <stop offset="1" stop-color="#12151c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="267" y1="170" x2="267" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#241a18"/>
+      <stop offset="1" stop-color="#120c0a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="0" y1="300" x2="0" y2="455" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2c201c"/>
+      <stop offset="0.5" stop-color="#1e1614"/>
+      <stop offset="1" stop-color="#0e0a08"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-3" cx="267" cy="300" r="45" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d83030" stop-opacity="0.34"/>
+      <stop offset="0.55" stop-color="#a81e1e" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#a81e1e" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="252" cy="298" r="10" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f04838"/>
+      <stop offset="1" stop-color="#b01818"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="282" cy="298" r="10" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f04838"/>
+      <stop offset="1" stop-color="#b01818"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-6" cx="267" cy="323" r="23" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c82828" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#c82828" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <title>Mothman — Field Plate</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Backdrop" d="M0 0 L1000 0 L1000 1000 L0 1000 Z" fill="url(#linear-gradient-1)"/>
+    <path id="Plate_halo" data-name="Plate halo" d="M78 460 C78 226.936 266.936 38 500 38 C733.064 38 922 226.936 922 460 C922 693.064 733.064 882 500 882 C266.936 882 78 693.064 78 460 Z" fill="#5a6a80" opacity="0.09"/>
+    <path id="Plate" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#linear-gradient-2)" stroke="#0a0c12" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Plate_vignette" data-name="Plate vignette" d="M80 460 C80 228.04 268.04 40 500 40 C731.96 40 920 228.04 920 460 C920 691.96 731.96 880 500 880 C268.04 880 80 691.96 80 460 Z" fill="url(#radial-gradient-1)"/>
+    <path id="Plate_inner_ring" data-name="Plate inner ring" d="M104 460 C104 241.295 281.295 64 500 64 C718.705 64 896 241.295 896 460 C896 678.705 718.705 856 500 856 C281.295 856 104 678.705 104 460 Z" fill="none" stroke="#c6d0dc" stroke-width="3" stroke-miterlimit="10" opacity="0.26"/>
+    <path id="Town_glow" data-name="Town glow" d="M160 520 C160 470.294 245.066 430 350 430 C454.934 430 540 470.294 540 520 C540 569.706 454.934 610 350 610 C245.066 610 160 569.706 160 520 Z" fill="url(#radial-gradient-2)"/>
+    <path id="Star_1" data-name="Star 1" d="M296 200 C296 197.791 297.791 196 300 196 C302.209 196 304 197.791 304 200 C304 202.209 302.209 204 300 204 C297.791 204 296 202.209 296 200 Z" fill="#d8e0ea" opacity="0.3"/>
+    <path id="Star_2" data-name="Star 2" d="M637 170 C637 168.343 638.343 167 640 167 C641.657 167 643 168.343 643 170 C643 171.657 641.657 173 640 173 C638.343 173 637 171.657 637 170 Z" fill="#d8e0ea" opacity="0.3"/>
+    <path id="Star_3" data-name="Star 3" d="M716.5 260 C716.5 258.067 718.067 256.5 720 256.5 C721.933 256.5 723.5 258.067 723.5 260 C723.5 261.933 721.933 263.5 720 263.5 C718.067 263.5 716.5 261.933 716.5 260 Z" fill="#d8e0ea" opacity="0.3"/>
+    <path id="Star_4" data-name="Star 4" d="M247 300 C247 298.343 248.343 297 250 297 C251.657 297 253 298.343 253 300 C253 301.657 251.657 303 250 303 C248.343 303 247 301.657 247 300 Z" fill="#d8e0ea" opacity="0.3"/>
+    <path id="Star_5" data-name="Star 5" d="M557 140 C557 138.343 558.343 137 560 137 C561.657 137 563 138.343 563 140 C563 141.657 561.657 143 560 143 C558.343 143 557 141.657 557 140 Z" fill="#d8e0ea" opacity="0.3"/>
+    <path id="River" d="M120.5 640 L879.5 640 C809.987 786.603 662.249 880.056 500 880.056 C337.751 880.056 190.013 786.603 120.5 640 Z" fill="url(#linear-gradient-3)"/>
+    <path id="River_shimmer_1" data-name="River shimmer 1" d="M200 668 L270 668" fill="none" stroke="#5a6e8c" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.26"/>
+    <path id="River_shimmer_2" data-name="River shimmer 2" d="M390 684 L480 684" fill="none" stroke="#5a6e8c" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="River_shimmer_3" data-name="River shimmer 3" d="M600 676 L680 676" fill="none" stroke="#5a6e8c" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.24"/>
+    <path id="River_shimmer_4" data-name="River shimmer 4" d="M740 700 L800 700" fill="none" stroke="#5a6e8c" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.2"/>
+    <path id="River_shimmer_5" data-name="River shimmer 5" d="M300 730 L400 730" fill="none" stroke="#5a6e8c" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.16"/>
+    <path id="River_shimmer_6" data-name="River shimmer 6" d="M520 742 L630 742" fill="none" stroke="#5a6e8c" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.15"/>
+    <path id="River_shimmer_7" data-name="River shimmer 7" d="M660 770 L750 770" fill="none" stroke="#5a6e8c" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.13"/>
+    <path id="River_shimmer_8" data-name="River shimmer 8" d="M410 800 L530 800" fill="none" stroke="#5a6e8c" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.11"/>
+    <path id="Eye_glint_on_water" data-name="Eye glint on water" d="M298 668 L298 712" fill="none" stroke="#b02424" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.32"/>
+    <path id="Eye_glint_far" data-name="Eye glint far" d="M262 676 L262 700" fill="none" stroke="#b02424" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.22"/>
+    <path id="Bridge_deck" data-name="Bridge deck" d="M138 566 L872 560 L872 572 L138 578 Z" fill="url(#linear-gradient-4)"/>
+    <path id="Deck_edge_light" data-name="Deck edge light" d="M140 566 L870 560" fill="none" stroke="#4a5668" stroke-width="2.2" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Bridge_tower" data-name="Bridge tower" d="M236 452 C237.3 428.7 229.7 432 240 428 C250.3 424 287.7 424 298 428 C308.3 432 300.7 429 302 452 C303.3 475 317.7 546.7 306 566 C294.3 585.3 243.7 587 232 568 C220.3 549 234.7 475.3 236 452 Z" fill="url(#linear-gradient-5)"/>
+    <path id="Tower_portal" data-name="Tower portal" d="M252 458 L286 458 L288 566 L250 566 Z" fill="#0c1018" opacity="0.85"/>
+    <path id="Portal_crossbar" data-name="Portal crossbar" d="M250 512 L288 512" fill="none" stroke="#1e242e" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" opacity="0.9"/>
+    <path id="Tower_cap_light" data-name="Tower cap light" d="M238 430 L300 430" fill="none" stroke="#566274" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Main_cable" data-name="Main cable" d="M140 470 C186.667 458 226 446.667 258 436 C352.667 465.333 453.333 499.333 560 538 C666.667 563.333 770.667 571.333 872 562" fill="none" stroke="#1e242e" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Anchor_cable" data-name="Anchor cable" d="M140 470 C186.667 458 226 446.667 258 436" fill="none" stroke="#1e242e" stroke-width="4.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Suspender_1" data-name="Suspender 1" d="M340 468.4 L340 565.2" fill="none" stroke="#1a2028" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Suspender_2" data-name="Suspender 2" d="M410 496.9 L410 564.5" fill="none" stroke="#1a2028" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Suspender_3" data-name="Suspender 3" d="M480 521.1 L480 563.8" fill="none" stroke="#1a2028" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Suspender_4" data-name="Suspender 4" d="M550 539.8 L550 563.1" fill="none" stroke="#1a2028" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Suspender_5" data-name="Suspender 5" d="M620 552.4 L620 562.5" fill="none" stroke="#1a2028" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Suspender_6" data-name="Suspender 6" d="M690 559.2 L690 561.8" fill="none" stroke="#1a2028" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Suspender_7" data-name="Suspender 7" d="M760 561 L760 561.1" fill="none" stroke="#1a2028" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Suspender_8" data-name="Suspender 8" d="M830 559.6 L830 560.4" fill="none" stroke="#1a2028" stroke-width="2.6" stroke-linecap="round" stroke-miterlimit="10" opacity="0.8"/>
+    <path id="Far_tower" data-name="Far tower" d="M816 480 C817.3 463.7 818.7 466.7 822 464 C825.3 461.3 832.7 461.3 836 464 C839.3 466.7 840.7 464 842 480 C843.3 496 848.7 546.3 844 560 C839.3 573.7 818.7 575.3 814 562 C809.3 548.7 814.7 496.3 816 480 Z" fill="#161c26" opacity="0.6"/>
+    <path id="Far_cable" data-name="Far cable" d="M258 436 C446 461.333 635.333 471.333 826 466" fill="none" stroke="#161c26" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Wing_L" data-name="Wing L" d="M258 304 C254 289 232.3 285 222 278 C211.7 271 202.3 263 196 262 C189.7 261 185.7 265.7 184 272 C182.3 278.3 184.3 290 186 300 C187.7 310 190 322 194 332 C198 342 204 352 210 360 C216 368 224 378.7 230 380 C236 381.3 241.3 380.7 246 368 C250.7 355.3 262 319 258 304 Z" fill="url(#linear-gradient-6)" stroke="#140d0a" stroke-width="3" stroke-linejoin="round"/>
+    <path id="Wing_L_fold_1" data-name="Wing L fold 1" d="M254 310 C235.333 295.333 216.667 284.667 198 278" fill="none" stroke="#0e0806" stroke-width="3.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Wing_L_fold_2" data-name="Wing L fold 2" d="M254 310 C233.333 306 212.667 306 192 310" fill="none" stroke="#0e0806" stroke-width="3.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Wing_L_fold_3" data-name="Wing L fold 3" d="M254 310 C236 317.333 218 328.667 200 344" fill="none" stroke="#0e0806" stroke-width="3.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Wing_R" data-name="Wing R" d="M276 304 C280 289 301.7 285 312 278 C322.3 271 331.7 263 338 262 C344.3 261 348.3 265.7 350 272 C351.7 278.3 349.7 290 348 300 C346.3 310 344 322 340 332 C336 342 330 352 324 360 C318 368 310 378.7 304 380 C298 381.3 292.7 380.7 288 368 C283.3 355.3 272 319 276 304 Z" fill="url(#linear-gradient-6)" stroke="#140d0a" stroke-width="3" stroke-linejoin="round"/>
+    <path id="Wing_R_fold_1" data-name="Wing R fold 1" d="M280 310 C298.667 295.333 317.333 284.667 336 278" fill="none" stroke="#0e0806" stroke-width="3.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Wing_R_fold_2" data-name="Wing R fold 2" d="M280 310 C300.667 306 321.333 306 342 310" fill="none" stroke="#0e0806" stroke-width="3.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Wing_R_fold_3" data-name="Wing R fold 3" d="M280 310 C298 317.333 316 328.667 334 344" fill="none" stroke="#0e0806" stroke-width="3.4" stroke-linecap="round" stroke-miterlimit="10" opacity="0.55"/>
+    <path id="Mothman_body" data-name="Mothman body" d="M267 452 C260 452 251.8 452 246 448 C240.2 444 235.3 436.3 232 428 C228.7 419.7 227 410 226 398 C225 386 224.7 367.3 226 356 C227.3 344.7 230 336.7 234 330 C238 323.3 244.5 319.3 250 316 C255.5 312.7 261.3 310 267 310 C272.7 310 278.5 312.7 284 316 C289.5 319.3 296 323.3 300 330 C304 336.7 306.7 344.7 308 356 C309.3 367.3 309 386 308 398 C307 410 305.3 419.7 302 428 C298.7 436.3 293.8 444 288 448 C282.2 452 274 452 267 452 Z" fill="url(#linear-gradient-7)" stroke="#140d0a" stroke-width="3" stroke-linejoin="round"/>
+    <path id="Left_rim_light" data-name="Left rim light" d="M232 428 C228 398 230 360 240 336" fill="none" stroke="#7a5a3c" stroke-width="3.5" stroke-linecap="round" stroke-miterlimit="10" opacity="0.4"/>
+    <path id="Chest_fuzz_1" data-name="Chest fuzz 1" d="M248 352 L288 356" fill="none" stroke="#0c0806" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Chest_fuzz_2" data-name="Chest fuzz 2" d="M244 380 L290 384" fill="none" stroke="#0c0806" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Chest_fuzz_3" data-name="Chest fuzz 3" d="M246 408 L286 410" fill="none" stroke="#0c0806" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" opacity="0.45"/>
+    <path id="Eye_bloom" data-name="Eye bloom" d="M222 300 C222 287.85 242.147 278 267 278 C291.853 278 312 287.85 312 300 C312 312.15 291.853 322 267 322 C242.147 322 222 312.15 222 300 Z" fill="url(#radial-gradient-3)"/>
+    <path id="Eye_L" data-name="Eye L" d="M242 298 C242 294.41 246.477 291.5 252 291.5 C257.523 291.5 262 294.41 262 298 C262 301.59 257.523 304.5 252 304.5 C246.477 304.5 242 301.59 242 298 Z" fill="url(#radial-gradient-4)" stroke="#5a0e0c" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Eye_R" data-name="Eye R" d="M272 298 C272 294.41 276.477 291.5 282 291.5 C287.523 291.5 292 294.41 292 298 C292 301.59 287.523 304.5 282 304.5 C276.477 304.5 272 301.59 272 298 Z" fill="url(#radial-gradient-5)" stroke="#5a0e0c" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Eye_glint_L" data-name="Eye glint L" d="M247.6 296 C247.6 294.895 248.675 294 250 294 C251.325 294 252.4 294.895 252.4 296 C252.4 297.105 251.325 298 250 298 C248.675 298 247.6 297.105 247.6 296 Z" fill="#ffd8c8" opacity="0.8"/>
+    <path id="Eye_glint_R" data-name="Eye glint R" d="M277.6 296 C277.6 294.895 278.675 294 280 294 C281.325 294 282.4 294.895 282.4 296 C282.4 297.105 281.325 298 280 298 C278.675 298 277.6 297.105 277.6 296 Z" fill="#ffd8c8" opacity="0.8"/>
+    <path id="Eye_cast" data-name="Eye cast" d="M244 323 C244 315.82 254.297 310 267 310 C279.703 310 290 315.82 290 323 C290 330.18 279.703 336 267 336 C254.297 336 244 330.18 244 323 Z" fill="url(#radial-gradient-6)"/>
+    <path id="Foot_1" data-name="Foot 1" d="M246 448 C240.667 454.667 239.333 460.667 242 466 C245.333 470 249.333 471 254 469" fill="none" stroke="#140d0a" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Foot_2" data-name="Foot 2" d="M288 448 C282.667 454.667 281.333 460.667 284 466 C287.333 470 291.333 471 296 469" fill="none" stroke="#140d0a" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 500 932)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="58" fill="#e8e4da" letter-spacing="4.64" text-anchor="middle"><tspan x="0" y="0">MOTHMAN</tspan></text>
+    <text transform="matrix(1 0 0 1 500 970)" x="0" y="0" xml:space="preserve" font-family="&apos;Virelai Sans&apos;, sans-serif" font-size="22" fill="#98a2b2" letter-spacing="5.28" text-anchor="middle"><tspan x="0" y="0">POINT PLEASANT · SILVER BRIDGE</tspan></text>
+  </g>
+</svg>
