@@ -56,11 +56,13 @@ class PromptBuilderTests(unittest.TestCase):
             build(self.root)
 
     def test_empty_or_top_level_fragments_are_errors(self):
-        for body in ("", "# Wrong heading\n"):
-            with self.subTest(body=body):
-                self.write("themes/bad.md", body)
-                with self.assertRaisesRegex(ValueError, "must start with a ## heading"):
-                    build(self.root)
+        self.write("themes/bad.md", "")
+        with self.assertRaisesRegex(ValueError, "must start with a ## heading"):
+            build(self.root)
+
+    def test_lone_top_level_heading_is_promoted(self):
+        self.write("themes/promoted.md", "# Wrong heading\n")
+        self.assertIn("## Wrong heading", build(self.root))
 
     def test_local_links_are_rebased(self):
         body = "[Rules](../../AGENTS.md#revision) ![Proof](../../art/proof.png)"
