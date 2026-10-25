@@ -1,4 +1,4 @@
-# Galápagos tortoise V1R00 — translucent ellipses leak too
+## Galápagos tortoise V1R00 — translucent ellipses leak too
 
 - Kind: lesson
 - Source: issue #1075, `work/animals/draw_galapagos_tortoise.py`,

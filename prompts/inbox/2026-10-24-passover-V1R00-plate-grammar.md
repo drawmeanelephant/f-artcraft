@@ -1,4 +1,4 @@
-# Passover/V1R00 — a disc-in-a-disc needs its own grammar
+## Passover/V1R00 — a disc-in-a-disc needs its own grammar
 
 - Kind: lesson
 - Source: issue #981, `work/holidays/draw_passover.py`,

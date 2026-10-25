@@ -1,4 +1,4 @@
-# ottoman-V1R00 — low subjects need design height, not just zoom
+## ottoman-V1R00 — low subjects need design height, not just zoom
 
 - Kind: lesson
 - Source: issue #1155, driver `work/furniture/draw_ottoman.py`,

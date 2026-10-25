@@ -1,4 +1,4 @@
-# deck-chair-V1R00 — outline paths must loop, stripes follow the drape
+## deck-chair-V1R00 — outline paths must loop, stripes follow the drape
 
 - Kind: lesson
 - Source: issue #1154, driver `work/furniture/draw_deck_chair.py`,

@@ -1,4 +1,4 @@
-# North american beaver V1R00 — the paddle tail needs the crosshatch to read
+## North american beaver V1R00 — the paddle tail needs the crosshatch to read
 
 - Kind: lesson
 - Source: issue #1072; `work/animals/draw_north_american_beaver.py`,

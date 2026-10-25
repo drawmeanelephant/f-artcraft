@@ -1,4 +1,4 @@
-# Virginia opossum V1R00 — the faint sells on paws-in-the-air, not belly shape
+## Virginia opossum V1R00 — the faint sells on paws-in-the-air, not belly shape
 
 - Kind: lesson
 - Source: issue #1070; `work/animals/draw_virginia_opossum.py`,

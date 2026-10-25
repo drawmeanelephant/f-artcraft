@@ -1,4 +1,4 @@
-# Orangutan V1R00 — decor under the subject is dead geometry; vines start on the disc
+## Orangutan V1R00 — decor under the subject is dead geometry; vines start on the disc
 
 - Kind: lesson
 - Source: issue #1067, `work/animals/draw_orangutan.py`,

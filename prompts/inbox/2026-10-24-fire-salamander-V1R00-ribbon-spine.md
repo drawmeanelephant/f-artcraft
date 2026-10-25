@@ -1,4 +1,4 @@
-# Fire salamander V1R00 — tapered ribbons need a head cap and a real curve
+## Fire salamander V1R00 — tapered ribbons need a head cap and a real curve
 
 - Kind: lesson
 - Source: issue #1076, `work/animals/draw_fire_salamander.py`,

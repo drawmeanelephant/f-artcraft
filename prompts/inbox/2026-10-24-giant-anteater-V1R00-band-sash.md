@@ -1,4 +1,4 @@
-# Giant anteater V1R00 — the shoulder band is a sash, not a stripe
+## Giant anteater V1R00 — the shoulder band is a sash, not a stripe
 
 - Kind: lesson
 - Source: issue #1129; `work/animals/draw_giant_anteater.py`,

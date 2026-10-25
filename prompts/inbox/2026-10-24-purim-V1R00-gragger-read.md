@@ -1,4 +1,4 @@
-# Purim/V1R00 — the slapper blade is what makes a gragger read
+## Purim/V1R00 — the slapper blade is what makes a gragger read
 
 - Kind: lesson
 - Source: issue #980, `work/holidays/draw_purim.py`,

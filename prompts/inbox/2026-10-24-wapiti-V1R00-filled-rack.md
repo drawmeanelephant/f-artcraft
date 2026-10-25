@@ -1,4 +1,4 @@
-# Wapiti V1R00 — a rack is a filled silhouette, not stroked strokes
+## Wapiti V1R00 — a rack is a filled silhouette, not stroked strokes
 
 - Kind: lesson
 - Source: issue #1069; `work/animals/draw_wapiti.py`,

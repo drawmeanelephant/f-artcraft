@@ -1,4 +1,4 @@
-# African wild dog V1R00 — portrait busts close on the arc too
+## African wild dog V1R00 — portrait busts close on the arc too
 
 - Kind: lesson
 - Source: issue #1065, `work/animals/draw_african_wild_dog.py`,

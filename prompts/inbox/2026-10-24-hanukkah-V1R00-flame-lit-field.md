@@ -1,4 +1,4 @@
-# Hanukkah/V1R00 — let the flames be the only light source
+## Hanukkah/V1R00 — let the flames be the only light source
 
 - Kind: lesson
 - Source: issue #979, `work/holidays/draw_hanukkah.py`,

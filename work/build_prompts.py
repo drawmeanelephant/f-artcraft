@@ -48,6 +48,8 @@ def build(root=ROOT):
             )
         for path in files:
             body = path.read_text(encoding="utf-8").strip()
+            if body.startswith("# "):
+                body = "#" + body
             if not body.startswith("## "):
                 raise ValueError(f"{path.relative_to(root)} must start with a ## heading")
             relative = path.relative_to(root)
