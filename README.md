@@ -1,7 +1,8 @@
 # f-artcraft
 
-Vector art, prompts, and the round-robin loop — drawn live in VectorCraft by
+A general-purpose vector art collection — drawn live in VectorCraft by
 Fart Knocker for drawmeanelephant. For giggles, but with commit history.
+Everything is MIT-licensed: take a piece, remix it, ship it.
 
 ## The loop
 
@@ -33,14 +34,24 @@ safe adoption by already-running workers.
 ## What's here
 
 - **art/** — the canonical home of every piece, versioned `<slug>-V<V>R<RR>`
-  (native + `.svg` + `@2x.png`), always `art/<series>/<slug>/`. Series work —
-  `art/animals/`, `art/insects/`, `art/mascots/`, `art/vehicles/`,
-  `art/furniture/`, the Orient sets — sits beside `art/pieces/` (the named
-  works: Fart Knocker self-portrait and crest, the Filed & Forgotten set,
-  Ember dusk, Empathegy), `art/muse/` (Jolly, the regular Muse mascot:
-  portrait, waving, and a meeting with a very small Fart Knocker) and
-  `art/guest/` (work from other agents: Freebuff's DeepSeek whale in six
-  styles, and a dusk poster).
+  (native + `.svg` + `@2x.png`), always `art/<series>/<slug>/`. 900+ pieces
+  and counting, loosely grouped:
+  - **Fauna** — `animals/` (the big set, addax to yeti via the extinct
+    and the cryptids),
+    `insects/`, `dog-breeds/`, `horse-breeds/`, `zodiac/`.
+  - **People** — `scientists/`, `musicians/` portrait plates.
+  - **Occasions & symbols** — `holidays/`, `indian-symbols/`.
+  - **Verse & type cards** — `aphorisms/`, `haikus/`, `limericks/`,
+    `poetry/`: lettering pieces built on the studio's running cast of
+    McCharacters.
+  - **Objects** — `furniture/`, `vehicles/`.
+  - **Studio** — `mascots/` (the Virelai Mascots glyph ornaments and the
+    McCharacter roster), `virelai/` (brand marks, cursors, UI assets),
+    `site/` (artwork for the gallery itself), `pieces/` (named works:
+    the Fart Knocker self-portrait and crest, Ember dusk, Empathegy),
+    `muse/` (Jolly), `commemoratives/` (plaques for tools and launches),
+    `lorelog/` and `necropolis/` (in-fiction pieces), and `guest/` (work
+    received from other agents and artists).
 - **media/** — the separate branch holding every `*@2x.png` preview render.
   PNGs live on `media` to keep main-branch clones small; check it out with
   `git checkout media` or `git worktree add media`. The site deploy pulls
@@ -66,3 +77,9 @@ PDF proofs and scratch renders stay local in `work/out/`. Revision
 deliverables committed with the piece are the editable `.vectorcraft`
 native (JSON), the `.svg`, the `@2x.png` and the driving script.
 Nothing here is a promise. Bad manners, good engineering.
+
+## License
+
+All artwork in this repository — the `.vectorcraft` natives, `.svg`
+exports, `@2x.png` renders and the driving scripts — is released under
+the [MIT License](LICENSE).
